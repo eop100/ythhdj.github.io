@@ -2745,6 +2745,340 @@ http://59.32.97.6:9901/tsfile/live/1039_1.m3u8
 http://59.32.97.44:9901/tsfile/live/23046_1.m3u8
 #EXTINF:-1 tvg-name="中国天气" tvg-logo="https://live.fanmingming.com/tv/中国天气.png" group-title="🛰️电视直播",中国天气
 http://59.32.97.6:9901/tsfile/live/1088_1.m3u8
+#EXTINF:-1 tvg-name="CCTV1-综合" tvg-logo="https://live.fanmingming.com/tv/CCTV1-综合.png" group-title="湖南-电信",CCTV1-综合
+http://118.248.168.52:8088/tsfile/live/0001_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="CCTV2-财经" tvg-logo="https://live.fanmingming.com/tv/CCTV2-财经.png" group-title="湖南-电信",CCTV2-财经
+http://118.248.168.52:8088/tsfile/live/0002_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="CCTV3-综艺" tvg-logo="https://live.fanmingming.com/tv/CCTV3-综艺.png" group-title="湖南-电信",CCTV3-综艺
+http://118.248.168.52:8088/tsfile/live/0003_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="CCTV4-国际" tvg-logo="https://live.fanmingming.com/tv/CCTV4-国际.png" group-title="湖南-电信",CCTV4-国际
+http://118.248.168.52:8088/tsfile/live/0004_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="CCTV5-体育" tvg-logo="https://live.fanmingming.com/tv/CCTV5-体育.png" group-title="湖南-电信",CCTV5-体育
+http://118.248.168.52:8088/tsfile/live/0005_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="CCTV6-电影" tvg-logo="https://live.fanmingming.com/tv/CCTV6-电影.png" group-title="湖南-电信",CCTV6-电影
+http://118.248.168.52:8088/tsfile/live/0006_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="CCTV7-军农" tvg-logo="https://live.fanmingming.com/tv/CCTV7-军农.png" group-title="湖南-电信",CCTV7-军农
+http://118.248.168.52:8088/tsfile/live/0007_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="CCTV8-电视剧" tvg-logo="https://live.fanmingming.com/tv/CCTV8-电视剧.png" group-title="湖南-电信",CCTV8-电视剧
+http://118.248.168.52:8088/tsfile/live/0008_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="CCTV9-纪录" tvg-logo="https://live.fanmingming.com/tv/CCTV9-纪录.png" group-title="湖南-电信",CCTV9-纪录
+http://118.248.168.52:8088/tsfile/live/0009_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="CCTV10-科教" tvg-logo="https://live.fanmingming.com/tv/CCTV10-科教.png" group-title="湖南-电信",CCTV10-科教
+http://118.248.168.52:8088/tsfile/live/0010_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="CCTV11-戏曲" tvg-logo="https://live.fanmingming.com/tv/CCTV11-戏曲.png" group-title="湖南-电信",CCTV11-戏曲
+http://118.248.168.52:8088/tsfile/live/0011_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="CCTV12-社会与法" tvg-logo="https://live.fanmingming.com/tv/CCTV12-社会与法.png" group-title="湖南-电信",CCTV12-社会与法
+http://118.248.168.52:8088/tsfile/live/0012_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="CCTV13-新闻" tvg-logo="https://live.fanmingming.com/tv/CCTV13-新闻.png" group-title="湖南-电信",CCTV13-新闻
+http://118.248.168.52:8088/tsfile/live/0013_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="CCTV14-少儿" tvg-logo="https://live.fanmingming.com/tv/CCTV14-少儿.png" group-title="湖南-电信",CCTV14-少儿
+http://118.248.168.52:8088/tsfile/live/0014_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="CCTV15-音乐" tvg-logo="https://live.fanmingming.com/tv/CCTV15-音乐.png" group-title="湖南-电信",CCTV15-音乐
+http://118.248.168.52:8088/tsfile/live/0015_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="湖南卫视高清" tvg-logo="https://live.fanmingming.com/tv/湖南卫视高清.png" group-title="湖南-电信",湖南卫视高清
+http://118.248.168.52:8088/tsfile/live/0002_2.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="湖南都市高清" tvg-logo="https://live.fanmingming.com/tv/湖南都市高清.png" group-title="湖南-电信",湖南都市高清
+http://118.248.168.52:8088/tsfile/live/1002_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="湖南娱乐高清" tvg-logo="https://live.fanmingming.com/tv/湖南娱乐高清.png" group-title="湖南-电信",湖南娱乐高清
+http://118.248.168.52:8088/tsfile/live/1005_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="湖南金鹰卡通高清" tvg-logo="https://live.fanmingming.com/tv/湖南金鹰卡通高清.png" group-title="湖南-电信",湖南金鹰卡通高清
+http://118.248.168.52:8088/tsfile/live/1007_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="江苏卫视高清" tvg-logo="https://live.fanmingming.com/tv/江苏卫视高清.png" group-title="湖南-电信",江苏卫视高清
+http://118.248.168.52:8088/tsfile/live/0107_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="湖南-电信",浙江卫视
+http://118.248.168.52:8088/tsfile/live/0130_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="安徽卫视高清" tvg-logo="https://live.fanmingming.com/tv/安徽卫视高清.png" group-title="湖南-电信",安徽卫视高清
+http://118.248.168.52:8088/tsfile/live/0126_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="北京卫视高清" tvg-logo="https://live.fanmingming.com/tv/北京卫视高清.png" group-title="湖南-电信",北京卫视高清
+http://118.248.168.52:8088/tsfile/live/0135_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="东方卫视高清" tvg-logo="https://live.fanmingming.com/tv/东方卫视高清.png" group-title="湖南-电信",东方卫视高清
+http://118.248.168.52:8088/tsfile/live/0121_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="江西卫视高清" tvg-logo="https://live.fanmingming.com/tv/江西卫视高清.png" group-title="湖南-电信",江西卫视高清
+http://118.248.168.52:8088/tsfile/live/0131_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="深圳卫视高清" tvg-logo="https://live.fanmingming.com/tv/深圳卫视高清.png" group-title="湖南-电信",深圳卫视高清
+http://118.248.168.52:8088/tsfile/live/0143_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="辽宁卫视高清" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视高清.png" group-title="湖南-电信",辽宁卫视高清
+http://118.248.168.52:8088/tsfile/live/0142_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="东南卫视高清" tvg-logo="https://live.fanmingming.com/tv/东南卫视高清.png" group-title="湖南-电信",东南卫视高清
+http://118.248.168.52:8088/tsfile/live/0113_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="广东卫视高清" tvg-logo="https://live.fanmingming.com/tv/广东卫视高清.png" group-title="湖南-电信",广东卫视高清
+http://118.248.168.52:8088/tsfile/live/0137_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="山东卫视高清" tvg-logo="https://live.fanmingming.com/tv/山东卫视高清.png" group-title="湖南-电信",山东卫视高清
+http://118.248.168.52:8088/tsfile/live/0139_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="贵州卫视高清" tvg-logo="https://live.fanmingming.com/tv/贵州卫视高清.png" group-title="湖南-电信",贵州卫视高清
+http://118.248.168.52:8088/tsfile/live/0122_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="IPTV体育高清" tvg-logo="https://live.fanmingming.com/tv/IPTV体育高清.png" group-title="湖南-电信",IPTV体育高清
+http://118.248.168.52:8088/tsfile/live/0131_2.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="珠江台 高清" tvg-logo="https://live.fanmingming.com/tv/珠江台 高清.png" group-title="广西-北海",珠江台 高清
+http://219.159.194.254:8181/tsfile/live/1000_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="广东体育 高清" tvg-logo="https://live.fanmingming.com/tv/广东体育 高清.png" group-title="广西-北海",广东体育 高清
+http://219.159.194.254:8181/tsfile/live/1001_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="广东公共 高清" tvg-logo="https://live.fanmingming.com/tv/广东公共 高清.png" group-title="广西-北海",广东公共 高清
+http://219.159.194.254:8181/tsfile/live/1002_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="广东科教 高清" tvg-logo="https://live.fanmingming.com/tv/广东科教 高清.png" group-title="广西-北海",广东科教 高清
+http://219.159.194.254:8181/tsfile/live/1003_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="广东影视 高清" tvg-logo="https://live.fanmingming.com/tv/广东影视 高清.png" group-title="广西-北海",广东影视 高清
+http://219.159.194.254:8181/tsfile/live/1004_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="广东少儿 高清" tvg-logo="https://live.fanmingming.com/tv/广东少儿 高清.png" group-title="广西-北海",广东少儿 高清
+http://219.159.194.254:8181/tsfile/live/1005_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="岭南戏剧 高清" tvg-logo="https://live.fanmingming.com/tv/岭南戏剧 高清.png" group-title="广西-北海",岭南戏剧 高清
+http://219.159.194.254:8181/tsfile/live/1006_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="广东新闻 高清" tvg-logo="https://live.fanmingming.com/tv/广东新闻 高清.png" group-title="广西-北海",广东新闻 高清
+http://219.159.194.254:8181/tsfile/live/1007_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="广西影视 高清" tvg-logo="https://live.fanmingming.com/tv/广西影视 高清.png" group-title="广西-北海",广西影视 高清
+http://219.159.194.254:8181/tsfile/live/1009_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="广西综艺 高清" tvg-logo="https://live.fanmingming.com/tv/广西综艺 高清.png" group-title="广西-北海",广西综艺 高清
+http://219.159.194.254:8181/tsfile/live/1010_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="广西都市 高清" tvg-logo="https://live.fanmingming.com/tv/广西都市 高清.png" group-title="广西-北海",广西都市 高清
+http://219.159.194.254:8181/tsfile/live/1011_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="广西新闻 高清" tvg-logo="https://live.fanmingming.com/tv/广西新闻 高清.png" group-title="广西-北海",广西新闻 高清
+http://219.159.194.254:8181/tsfile/live/1012_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="南宁影视 高清" tvg-logo="https://live.fanmingming.com/tv/南宁影视 高清.png" group-title="广西-北海",南宁影视 高清
+http://219.159.194.254:8181/tsfile/live/1013_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="南宁公共 高清" tvg-logo="https://live.fanmingming.com/tv/南宁公共 高清.png" group-title="广西-北海",南宁公共 高清
+http://219.159.194.254:8181/tsfile/live/1014_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="CCTV1-综合 高清" tvg-logo="https://live.fanmingming.com/tv/CCTV1-综合 高清.png" group-title="广西-北海",CCTV1-综合 高清
+http://219.159.194.254:8181/tsfile/live/0001_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="CCTV5+体育赛事" tvg-logo="https://live.fanmingming.com/tv/CCTV5+体育赛事.png" group-title="广西-北海",CCTV5+体育赛事
+http://219.159.194.254:8181/tsfile/live/0016_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="CCTV2-财经 高清" tvg-logo="https://live.fanmingming.com/tv/CCTV2-财经 高清.png" group-title="广西-北海",CCTV2-财经 高清
+http://219.159.194.254:8181/tsfile/live/0002_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="CCTV7-军农 高清" tvg-logo="https://live.fanmingming.com/tv/CCTV7-军农 高清.png" group-title="广西-北海",CCTV7-军农 高清
+http://219.159.194.254:8181/tsfile/live/0007_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="CCTV10-科教 高清" tvg-logo="https://live.fanmingming.com/tv/CCTV10-科教 高清.png" group-title="广西-北海",CCTV10-科教 高清
+http://219.159.194.254:8181/tsfile/live/0010_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="CCTV12-社会与法 高清" tvg-logo="https://live.fanmingming.com/tv/CCTV12-社会与法 高清.png" group-title="广西-北海",CCTV12-社会与法 高清
+http://219.159.194.254:8181/tsfile/live/0012_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="北京卫视 高清" tvg-logo="https://live.fanmingming.com/tv/北京卫视 高清.png" group-title="广西-北海",北京卫视 高清
+http://219.159.194.254:8181/tsfile/live/0122_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="东南卫视 高清" tvg-logo="https://live.fanmingming.com/tv/东南卫视 高清.png" group-title="广西-北海",东南卫视 高清
+http://219.159.194.254:8181/tsfile/live/0137_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="山东卫视 高清" tvg-logo="https://live.fanmingming.com/tv/山东卫视 高清.png" group-title="广西-北海",山东卫视 高清
+http://219.159.194.254:8181/tsfile/live/0131_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="江西卫视 高清" tvg-logo="https://live.fanmingming.com/tv/江西卫视 高清.png" group-title="广西-北海",江西卫视 高清
+http://219.159.194.254:8181/tsfile/live/0138_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="贵州卫视 高清" tvg-logo="https://live.fanmingming.com/tv/贵州卫视 高清.png" group-title="广西-北海",贵州卫视 高清
+http://219.159.194.254:8181/tsfile/live/0120_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="四川卫视 高清" tvg-logo="https://live.fanmingming.com/tv/四川卫视 高清.png" group-title="广西-北海",四川卫视 高清
+http://219.159.194.254:8181/tsfile/live/0123_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="CCTV14-少儿 高清" tvg-logo="https://live.fanmingming.com/tv/CCTV14-少儿 高清.png" group-title="广西-北海",CCTV14-少儿 高清
+http://219.159.194.254:8181/tsfile/live/0014_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="CCTV4-国际 高清" tvg-logo="https://live.fanmingming.com/tv/CCTV4-国际 高清.png" group-title="广西-北海",CCTV4-国际 高清
+http://219.159.194.254:8181/tsfile/live/0004_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="湖南卫视 高清" tvg-logo="https://live.fanmingming.com/tv/湖南卫视 高清.png" group-title="广西-北海",湖南卫视 高清
+http://219.159.194.254:8181/tsfile/live/0128_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="金鹰纪实 高清" tvg-logo="https://live.fanmingming.com/tv/金鹰纪实 高清.png" group-title="广西-北海",金鹰纪实 高清
+http://219.159.194.254:8181/tsfile/live/1016_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="教育一套高清" tvg-logo="https://live.fanmingming.com/tv/教育一套高清.png" group-title="广西-北海",教育一套高清
+http://219.159.194.254:8181/tsfile/live/1017_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="CCTV5-体育" tvg-logo="https://live.fanmingming.com/tv/CCTV5-体育.png" group-title="广西-北海",CCTV5-体育
+http://219.159.194.254:8181/tsfile/live/0005_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="广西卫视 高清" tvg-logo="https://live.fanmingming.com/tv/广西卫视 高清.png" group-title="广西-北海",广西卫视 高清
+http://219.159.194.254:8181/tsfile/live/0113_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="CCTV8-电视剧" tvg-logo="https://live.fanmingming.com/tv/CCTV8-电视剧.png" group-title="广西-北海",CCTV8-电视剧
+http://219.159.194.254:8181/tsfile/live/0008_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="家庭影院" tvg-logo="https://live.fanmingming.com/tv/家庭影院.png" group-title="广西-北海",家庭影院
+http://219.159.194.254:8181/tsfile/live/1018_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="动作电影 高清" tvg-logo="https://live.fanmingming.com/tv/动作电影 高清.png" group-title="广西-北海",动作电影 高清
+http://219.159.194.254:8181/tsfile/live/1019_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="高清电影" tvg-logo="https://live.fanmingming.com/tv/高清电影.png" group-title="广西-北海",高清电影
+http://219.159.194.254:8181/tsfile/live/1020_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="南宁综合 高清" tvg-logo="https://live.fanmingming.com/tv/南宁综合 高清.png" group-title="广西-北海",南宁综合 高清
+http://219.159.194.254:8181/tsfile/live/0143_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="CCTV16 高清" tvg-logo="https://live.fanmingming.com/tv/CCTV16 高清.png" group-title="广西-北海",CCTV16 高清
+http://219.159.194.254:8181/tsfile/live/1021_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="安徽卫视 高清" tvg-logo="https://live.fanmingming.com/tv/安徽卫视 高清.png" group-title="广西-北海",安徽卫视 高清
+http://219.159.194.254:8181/tsfile/live/0130_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="辽宁卫视 高清" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视 高清.png" group-title="广西-北海",辽宁卫视 高清
+http://219.159.194.254:8181/tsfile/live/0121_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="CCTV3-综艺" tvg-logo="https://live.fanmingming.com/tv/CCTV3-综艺.png" group-title="广西-北海",CCTV3-综艺
+http://219.159.194.254:8181/tsfile/live/0003_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="CCTV6-电影" tvg-logo="https://live.fanmingming.com/tv/CCTV6-电影.png" group-title="广西-北海",CCTV6-电影
+http://219.159.194.254:8181/tsfile/live/0006_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="CCTV9-纪录" tvg-logo="https://live.fanmingming.com/tv/CCTV9-纪录.png" group-title="广西-北海",CCTV9-纪录
+http://219.159.194.254:8181/tsfile/live/0009_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="CCTV11-戏曲" tvg-logo="https://live.fanmingming.com/tv/CCTV11-戏曲.png" group-title="广西-北海",CCTV11-戏曲
+http://219.159.194.254:8181/tsfile/live/0011_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="CCTV13-新闻" tvg-logo="https://live.fanmingming.com/tv/CCTV13-新闻.png" group-title="广西-北海",CCTV13-新闻
+http://219.159.194.254:8181/tsfile/live/0013_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="CCTV15-音乐" tvg-logo="https://live.fanmingming.com/tv/CCTV15-音乐.png" group-title="广西-北海",CCTV15-音乐
+http://219.159.194.254:8181/tsfile/live/0015_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="广西-北海",CCTV17
+http://219.159.194.254:8181/tsfile/live/0019_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="上海卫视" tvg-logo="https://live.fanmingming.com/tv/上海卫视.png" group-title="广西-北海",上海卫视
+http://219.159.194.254:8181/tsfile/live/0107_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="广西-北海",浙江卫视
+http://219.159.194.254:8181/tsfile/live/0124_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="广西-北海",深圳卫视
+http://219.159.194.254:8181/tsfile/live/0126_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="广西-北海",天津卫视
+http://219.159.194.254:8181/tsfile/live/0135_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png" group-title="广西-北海",湖北卫视
+http://219.159.194.254:8181/tsfile/live/0132_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="黑龙江卫视+" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视+.png" group-title="广西-北海",黑龙江卫视+
+http://219.159.194.254:8181/tsfile/live/0143_2.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="广西-北海",广东卫视
+http://219.159.194.254:8181/tsfile/live/0125_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="广西-北海",江苏卫视
+http://219.159.194.254:8181/tsfile/live/0127_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://live.fanmingming.com/tv/吉林卫视.png" group-title="广西-北海",吉林卫视
+http://219.159.194.254:8181/tsfile/live/0116_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://live.fanmingming.com/tv/河北卫视.png" group-title="广西-北海",河北卫视
+http://219.159.194.254:8181/tsfile/live/0117_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="经典电影" tvg-logo="https://live.fanmingming.com/tv/经典电影.png" group-title="广西-北海",经典电影
+http://219.159.194.254:8181/tsfile/live/1008_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://live.fanmingming.com/tv/甘肃卫视.png" group-title="广西-北海",甘肃卫视
+http://219.159.194.254:8181/tsfile/live/0141_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="中国气象" tvg-logo="https://live.fanmingming.com/tv/中国气象.png" group-title="广西-北海",中国气象
+http://219.159.194.254:8181/tsfile/live/1015_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://live.fanmingming.com/tv/陕西卫视.png" group-title="广西-北海",陕西卫视
+http://219.159.194.254:8181/tsfile/live/0136_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://live.fanmingming.com/tv/云南卫视.png" group-title="广西-北海",云南卫视
+http://219.159.194.254:8181/tsfile/live/0119_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="康巴卫视" tvg-logo="https://live.fanmingming.com/tv/康巴卫视.png" group-title="广西-北海",康巴卫视
+http://219.159.194.254:8181/tsfile/live/0134_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" group-title="广西-北海",重庆卫视
+http://219.159.194.254:8181/tsfile/live/0142_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="旅游卫视" tvg-logo="https://live.fanmingming.com/tv/旅游卫视.png" group-title="广西-北海",旅游卫视
+http://219.159.194.254:8181/tsfile/live/0114_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://live.fanmingming.com/tv/西藏卫视.png" group-title="广西-北海",西藏卫视
+http://219.159.194.254:8181/tsfile/live/0111_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png" group-title="广西-北海",内蒙古卫视
+http://219.159.194.254:8181/tsfile/live/0109_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://live.fanmingming.com/tv/兵团卫视.png" group-title="广西-北海",兵团卫视
+http://219.159.194.254:8181/tsfile/live/0115_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://live.fanmingming.com/tv/青海卫视.png" group-title="广西-北海",青海卫视
+http://219.159.194.254:8181/tsfile/live/0140_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="CCTV1综合高清" tvg-logo="https://live.fanmingming.com/tv/CCTV1综合高清.png" group-title="河北-保定",CCTV1综合高清
+http://121.19.134.74:808/tsfile/live/0001_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="CCTV2财经高清" tvg-logo="https://live.fanmingming.com/tv/CCTV2财经高清.png" group-title="河北-保定",CCTV2财经高清
+http://121.19.134.74:808/tsfile/live/0002_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="CCTV3综艺高清" tvg-logo="https://live.fanmingming.com/tv/CCTV3综艺高清.png" group-title="河北-保定",CCTV3综艺高清
+http://121.19.134.74:808/tsfile/live/0003_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="CCTV4国际高清" tvg-logo="https://live.fanmingming.com/tv/CCTV4国际高清.png" group-title="河北-保定",CCTV4国际高清
+http://121.19.134.74:808/tsfile/live/0004_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="CCTV5体育高清" tvg-logo="https://live.fanmingming.com/tv/CCTV5体育高清.png" group-title="河北-保定",CCTV5体育高清
+http://121.19.134.74:808/tsfile/live/0005_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="CCTV6电影高清" tvg-logo="https://live.fanmingming.com/tv/CCTV6电影高清.png" group-title="河北-保定",CCTV6电影高清
+http://121.19.134.74:808/tsfile/live/0006_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="CCTV7军事高清" tvg-logo="https://live.fanmingming.com/tv/CCTV7军事高清.png" group-title="河北-保定",CCTV7军事高清
+http://121.19.134.74:808/tsfile/live/0007_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="CCTV8电视剧高清" tvg-logo="https://live.fanmingming.com/tv/CCTV8电视剧高清.png" group-title="河北-保定",CCTV8电视剧高清
+http://121.19.134.74:808/tsfile/live/0008_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="CCTV9记录高清" tvg-logo="https://live.fanmingming.com/tv/CCTV9记录高清.png" group-title="河北-保定",CCTV9记录高清
+http://121.19.134.74:808/tsfile/live/0009_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="CCTV10科教高清" tvg-logo="https://live.fanmingming.com/tv/CCTV10科教高清.png" group-title="河北-保定",CCTV10科教高清
+http://121.19.134.74:808/tsfile/live/0010_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="CCTV11戏曲高清" tvg-logo="https://live.fanmingming.com/tv/CCTV11戏曲高清.png" group-title="河北-保定",CCTV11戏曲高清
+http://121.19.134.74:808/tsfile/live/0011_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="CCTV12社会与法高清" tvg-logo="https://live.fanmingming.com/tv/CCTV12社会与法高清.png" group-title="河北-保定",CCTV12社会与法高清
+http://121.19.134.74:808/tsfile/live/0012_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="CCTV13新闻高清" tvg-logo="https://live.fanmingming.com/tv/CCTV13新闻高清.png" group-title="河北-保定",CCTV13新闻高清
+http://121.19.134.74:808/tsfile/live/0013_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="CCTV14少儿高清" tvg-logo="https://live.fanmingming.com/tv/CCTV14少儿高清.png" group-title="河北-保定",CCTV14少儿高清
+http://121.19.134.74:808/tsfile/live/0014_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="CCTV15音乐高清" tvg-logo="https://live.fanmingming.com/tv/CCTV15音乐高清.png" group-title="河北-保定",CCTV15音乐高清
+http://121.19.134.74:808/tsfile/live/0015_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="CCTV16奥林匹克高清" tvg-logo="https://live.fanmingming.com/tv/CCTV16奥林匹克高清.png" group-title="河北-保定",CCTV16奥林匹克高清
+http://121.19.134.74:808/tsfile/live/0016_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="CCTV17农业农村高清" tvg-logo="https://live.fanmingming.com/tv/CCTV17农业农村高清.png" group-title="河北-保定",CCTV17农业农村高清
+http://121.19.134.74:808/tsfile/live/0017_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="CCTV5+体育赛视高清" tvg-logo="https://live.fanmingming.com/tv/CCTV5+体育赛视高清.png" group-title="河北-保定",CCTV5+体育赛视高清
+http://121.19.134.74:808/tsfile/live/0018_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="河北卫视高清" tvg-logo="https://live.fanmingming.com/tv/河北卫视高清.png" group-title="河北-保定",河北卫视高清
+http://121.19.134.74:808/tsfile/live/0019_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="河北经济生活高清" tvg-logo="https://live.fanmingming.com/tv/河北经济生活高清.png" group-title="河北-保定",河北经济生活高清
+http://121.19.134.74:808/tsfile/live/1000_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="河北都市高清" tvg-logo="https://live.fanmingming.com/tv/河北都市高清.png" group-title="河北-保定",河北都市高清
+http://121.19.134.74:808/tsfile/live/1001_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="河北影视剧高清" tvg-logo="https://live.fanmingming.com/tv/河北影视剧高清.png" group-title="河北-保定",河北影视剧高清
+http://121.19.134.74:808/tsfile/live/1002_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="河北少儿科教高清" tvg-logo="https://live.fanmingming.com/tv/河北少儿科教高清.png" group-title="河北-保定",河北少儿科教高清
+http://121.19.134.74:808/tsfile/live/1003_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="河北公共高清" tvg-logo="https://live.fanmingming.com/tv/河北公共高清.png" group-title="河北-保定",河北公共高清
+http://121.19.134.74:808/tsfile/live/1004_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="河北农民高清" tvg-logo="https://live.fanmingming.com/tv/河北农民高清.png" group-title="河北-保定",河北农民高清
+http://121.19.134.74:808/tsfile/live/1005_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="河北杂技" tvg-logo="https://live.fanmingming.com/tv/河北杂技.png" group-title="河北-保定",河北杂技
+http://121.19.134.74:808/tsfile/live/1006_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="保定新闻综合" tvg-logo="https://live.fanmingming.com/tv/保定新闻综合.png" group-title="河北-保定",保定新闻综合
+http://121.19.134.74:808/tsfile/live/1007_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="保定公共频道" tvg-logo="https://live.fanmingming.com/tv/保定公共频道.png" group-title="河北-保定",保定公共频道
+http://121.19.134.74:808/tsfile/live/1008_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="保定生活健康" tvg-logo="https://live.fanmingming.com/tv/保定生活健康.png" group-title="河北-保定",保定生活健康
+http://121.19.134.74:808/tsfile/live/1009_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="湖南卫视高清" tvg-logo="https://live.fanmingming.com/tv/湖南卫视高清.png" group-title="河北-保定",湖南卫视高清
+http://121.19.134.74:808/tsfile/live/1010_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="浙江卫视高清" tvg-logo="https://live.fanmingming.com/tv/浙江卫视高清.png" group-title="河北-保定",浙江卫视高清
+http://121.19.134.74:808/tsfile/live/1011_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="江苏卫视高清" tvg-logo="https://live.fanmingming.com/tv/江苏卫视高清.png" group-title="河北-保定",江苏卫视高清
+http://121.19.134.74:808/tsfile/live/1012_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="安徽卫视高清" tvg-logo="https://live.fanmingming.com/tv/安徽卫视高清.png" group-title="河北-保定",安徽卫视高清
+http://121.19.134.74:808/tsfile/live/1013_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="东南卫视高清" tvg-logo="https://live.fanmingming.com/tv/东南卫视高清.png" group-title="河北-保定",东南卫视高清
+http://121.19.134.74:808/tsfile/live/1014_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="北京卫视高清" tvg-logo="https://live.fanmingming.com/tv/北京卫视高清.png" group-title="河北-保定",北京卫视高清
+http://121.19.134.74:808/tsfile/live/1015_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="天津卫视高清" tvg-logo="https://live.fanmingming.com/tv/天津卫视高清.png" group-title="河北-保定",天津卫视高清
+http://121.19.134.74:808/tsfile/live/1016_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="辽宁卫视高清" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视高清.png" group-title="河北-保定",辽宁卫视高清
+http://121.19.134.74:808/tsfile/live/1017_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="山东卫视高清" tvg-logo="https://live.fanmingming.com/tv/山东卫视高清.png" group-title="河北-保定",山东卫视高清
+http://121.19.134.74:808/tsfile/live/1018_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://live.fanmingming.com/tv/云南卫视.png" group-title="河北-保定",云南卫视
+http://121.19.134.74:808/tsfile/live/0119_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="河南卫视高清" tvg-logo="https://live.fanmingming.com/tv/河南卫视高清.png" group-title="河北-保定",河南卫视高清
+http://121.19.134.74:808/tsfile/live/1019_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="黑龙江卫视高清" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视高清.png" group-title="河北-保定",黑龙江卫视高清
+http://121.19.134.74:808/tsfile/live/1020_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="四川卫视高清" tvg-logo="https://live.fanmingming.com/tv/四川卫视高清.png" group-title="河北-保定",四川卫视高清
+http://121.19.134.74:808/tsfile/live/1021_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="江西卫视高清" tvg-logo="https://live.fanmingming.com/tv/江西卫视高清.png" group-title="河北-保定",江西卫视高清
+http://121.19.134.74:808/tsfile/live/1022_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="贵州卫视高清" tvg-logo="https://live.fanmingming.com/tv/贵州卫视高清.png" group-title="河北-保定",贵州卫视高清
+http://121.19.134.74:808/tsfile/live/1023_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="深圳卫视高清" tvg-logo="https://live.fanmingming.com/tv/深圳卫视高清.png" group-title="河北-保定",深圳卫视高清
+http://121.19.134.74:808/tsfile/live/1024_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="湖北卫视高清" tvg-logo="https://live.fanmingming.com/tv/湖北卫视高清.png" group-title="河北-保定",湖北卫视高清
+http://121.19.134.74:808/tsfile/live/1025_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="东方卫视高清" tvg-logo="https://live.fanmingming.com/tv/东方卫视高清.png" group-title="河北-保定",东方卫视高清
+http://121.19.134.74:808/tsfile/live/1026_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="重庆卫视高清" tvg-logo="https://live.fanmingming.com/tv/重庆卫视高清.png" group-title="河北-保定",重庆卫视高清
+http://121.19.134.74:808/tsfile/live/1027_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="广东卫视高清" tvg-logo="https://live.fanmingming.com/tv/广东卫视高清.png" group-title="河北-保定",广东卫视高清
+http://121.19.134.74:808/tsfile/live/1028_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://live.fanmingming.com/tv/广西卫视.png" group-title="河北-保定",广西卫视
+http://121.19.134.74:808/tsfile/live/0113_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="吉林卫视高清" tvg-logo="https://live.fanmingming.com/tv/吉林卫视高清.png" group-title="河北-保定",吉林卫视高清
+http://121.19.134.74:808/tsfile/live/1029_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://live.fanmingming.com/tv/陕西卫视.png" group-title="河北-保定",陕西卫视
+http://121.19.134.74:808/tsfile/live/0136_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png" group-title="河北-保定",内蒙古卫视
+http://121.19.134.74:808/tsfile/live/0109_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://live.fanmingming.com/tv/青海卫视.png" group-title="河北-保定",青海卫视
+http://121.19.134.74:808/tsfile/live/0140_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png" group-title="河北-保定",海南卫视
+http://121.19.134.74:808/tsfile/live/1030_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://live.fanmingming.com/tv/宁夏卫视.png" group-title="河北-保定",宁夏卫视
+http://121.19.134.74:808/tsfile/live/0112_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://live.fanmingming.com/tv/西藏卫视.png" group-title="河北-保定",西藏卫视
+http://121.19.134.74:808/tsfile/live/0111_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://live.fanmingming.com/tv/新疆卫视.png" group-title="河北-保定",新疆卫视
+http://121.19.134.74:808/tsfile/live/0110_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/金鹰卡通.png" group-title="河北-保定",金鹰卡通
+http://121.19.134.74:808/tsfile/live/1032_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="山东教育" tvg-logo="https://live.fanmingming.com/tv/山东教育.png" group-title="河北-保定",山东教育
+http://121.19.134.74:808/tsfile/live/1033_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="纪实人文高清" tvg-logo="https://live.fanmingming.com/tv/纪实人文高清.png" group-title="河北-保定",纪实人文高清
+http://121.19.134.74:808/tsfile/live/1034_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="CETV1" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="河北-保定",CETV1
+http://121.19.134.74:808/tsfile/live/1035_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="BTV冬奥纪实高清" tvg-logo="https://live.fanmingming.com/tv/BTV冬奥纪实高清.png" group-title="河北-保定",BTV冬奥纪实高清
+http://121.19.134.74:808/tsfile/live/1036_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="金鹰纪实高清" tvg-logo="https://live.fanmingming.com/tv/金鹰纪实高清.png" group-title="河北-保定",金鹰纪实高清
+http://121.19.134.74:808/tsfile/live/1037_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="CETV2" tvg-logo="https://live.fanmingming.com/tv/CETV2.png" group-title="河北-保定",CETV2
+http://121.19.134.74:808/tsfile/live/1038_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="山西-酒店",CCTV1
 http://113.25.252.226:9901/tsfile/live/0001_1.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="山西-酒店",CCTV2
@@ -4841,468 +5175,6 @@ https://play.subokk.com/play/1aM8w55e/index.m3u8
 https://vip.ffzy-play6.com/20221022/1009_0cab4a4e/2000k/hls/mixed.m3u8
 #EXTINF:-1 tvg-name="《后天》（2004）" tvg-logo="https://live.fanmingming.com/tv/《后天》（2004）.png" group-title="🎬灾难片电影",《后天》（2004）
 https://vip.ffzy-play7.com/20230213/14532_9579e3bd/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="Angela小兔-剧情-Angela小兔990" tvg-logo="https://live.fanmingming.com/tv/Angela小兔-剧情-Angela小兔990.png" group-title="[🐠-一起看]",Angela小兔-剧情-Angela小兔990
-http://ruk1ng.serv00.net:19527/douyu/098edaefdc1b7e1b8f09a9e4cfd59fc7
-#EXTINF:-1 tvg-name="不打电竞的渣渣辉-剧情-【严守一】太传统不好，太饭桶更不好" tvg-logo="https://live.fanmingming.com/tv/不打电竞的渣渣辉-剧情-【严守一】太传统不好，太饭桶更不好.png" group-title="[🐠-一起看]",不打电竞的渣渣辉-剧情-【严守一】太传统不好，太饭桶更不好
-http://ruk1ng.serv00.net:19527/douyu/8456b5dabf4f01dd3124609f345444f7
-#EXTINF:-1 tvg-name="都是奔奔的错丶-剧情-【六小龄童】你挑着担，我牵着马" tvg-logo="https://live.fanmingming.com/tv/都是奔奔的错丶-剧情-【六小龄童】你挑着担，我牵着马.png" group-title="[🐠-一起看]",都是奔奔的错丶-剧情-【六小龄童】你挑着担，我牵着马
-http://ruk1ng.serv00.net:19527/douyu/d6ffd3cd87bf47c7123da880e58ebf93
-#EXTINF:-1 tvg-name="不愿透露姓氏的林百万-剧情-【刘华强】你这呱保熟吗" tvg-logo="https://live.fanmingming.com/tv/不愿透露姓氏的林百万-剧情-【刘华强】你这呱保熟吗.png" group-title="[🐠-一起看]",不愿透露姓氏的林百万-剧情-【刘华强】你这呱保熟吗
-http://ruk1ng.serv00.net:19527/douyu/2b4f1e60d587b62929c934ae06c01b73
-#EXTINF:-1 tvg-name="是晓葑呀-剧情-【古董】我们鉴的不是器物，而是人心" tvg-logo="https://live.fanmingming.com/tv/是晓葑呀-剧情-【古董】我们鉴的不是器物，而是人心.png" group-title="[🐠-一起看]",是晓葑呀-剧情-【古董】我们鉴的不是器物，而是人心
-http://ruk1ng.serv00.net:19527/douyu/25f8137d3d64781641c2f557079d201c
-#EXTINF:-1 tvg-name="张二千11-剧情-【屠龙】凛冬将至，夜王之争" tvg-logo="https://live.fanmingming.com/tv/张二千11-剧情-【屠龙】凛冬将至，夜王之争.png" group-title="[🐠-一起看]",张二千11-剧情-【屠龙】凛冬将至，夜王之争
-http://ruk1ng.serv00.net:19527/douyu/0f7e29afdff503851ecbd12527e38736
-#EXTINF:-1 tvg-name="用户0036218064-剧情-【德善】所谓胡同就是，用时间来造就朋友" tvg-logo="https://live.fanmingming.com/tv/用户0036218064-剧情-【德善】所谓胡同就是，用时间来造就朋友.png" group-title="[🐠-一起看]",用户0036218064-剧情-【德善】所谓胡同就是，用时间来造就朋友
-http://ruk1ng.serv00.net:19527/douyu/9f5bdb1450a652672d5e9b18e32f1eba
-#EXTINF:-1 tvg-name="孤独的牧羊仁-剧情-【怀旧】姜子牙，孙悟空打妖怪的故事" tvg-logo="https://live.fanmingming.com/tv/孤独的牧羊仁-剧情-【怀旧】姜子牙，孙悟空打妖怪的故事.png" group-title="[🐠-一起看]",孤独的牧羊仁-剧情-【怀旧】姜子牙，孙悟空打妖怪的故事
-http://ruk1ng.serv00.net:19527/douyu/be9383633bcf0ad8159b20939a55f1fd
-#EXTINF:-1 tvg-name="ryandradian-剧情-【樊胜美】天下无不散宴席除了你自己" tvg-logo="https://live.fanmingming.com/tv/ryandradian-剧情-【樊胜美】天下无不散宴席除了你自己.png" group-title="[🐠-一起看]",ryandradian-剧情-【樊胜美】天下无不散宴席除了你自己
-http://ruk1ng.serv00.net:19527/douyu/393fdc119381fd87abd4bdf804c84dee
-#EXTINF:-1 tvg-name="爱喝养乐多的派大星-剧情-【火线】电视剧版厨戏痞，正在放映" tvg-logo="https://live.fanmingming.com/tv/爱喝养乐多的派大星-剧情-【火线】电视剧版厨戏痞，正在放映.png" group-title="[🐠-一起看]",爱喝养乐多的派大星-剧情-【火线】电视剧版厨戏痞，正在放映
-http://ruk1ng.serv00.net:19527/douyu/6b2a32969857453cac7cf47d72542e08
-#EXTINF:-1 tvg-name="鯋鱼辰辰-剧情-【电视剧】本直播间由天使点播提供技术支持" tvg-logo="https://live.fanmingming.com/tv/鯋鱼辰辰-剧情-【电视剧】本直播间由天使点播提供技术支持.png" group-title="[🐠-一起看]",鯋鱼辰辰-剧情-【电视剧】本直播间由天使点播提供技术支持
-http://ruk1ng.serv00.net:19527/douyu/9ab57dce4f11f028f3f1d2596707edc8
-#EXTINF:-1 tvg-name="胶星影画-剧情-【纯经典】经典是什么" tvg-logo="https://live.fanmingming.com/tv/胶星影画-剧情-【纯经典】经典是什么.png" group-title="[🐠-一起看]",胶星影画-剧情-【纯经典】经典是什么
-http://ruk1ng.serv00.net:19527/douyu/0598337adbf7db6333935844af726495
-#EXTINF:-1 tvg-name="蓝翔老三国-剧情-【蓝翔】经典电视剧" tvg-logo="https://live.fanmingming.com/tv/蓝翔老三国-剧情-【蓝翔】经典电视剧.png" group-title="[🐠-一起看]",蓝翔老三国-剧情-【蓝翔】经典电视剧
-http://ruk1ng.serv00.net:19527/douyu/1945d50d4a5ba86770eb2381ac28669d
-#EXTINF:-1 tvg-name="疯狂尛瀦瀦-剧情-【超清1】经典港剧天地" tvg-logo="https://live.fanmingming.com/tv/疯狂尛瀦瀦-剧情-【超清1】经典港剧天地.png" group-title="[🐠-一起看]",疯狂尛瀦瀦-剧情-【超清1】经典港剧天地
-http://ruk1ng.serv00.net:19527/douyu/14896eb3d4ec4c2938e4add9d37a339a
-#EXTINF:-1 tvg-name="疯狂小潴潴-剧情-【超清2】热门港剧天地" tvg-logo="https://live.fanmingming.com/tv/疯狂小潴潴-剧情-【超清2】热门港剧天地.png" group-title="[🐠-一起看]",疯狂小潴潴-剧情-【超清2】热门港剧天地
-http://ruk1ng.serv00.net:19527/douyu/213287fb599ce61edf6c989f019028a0
-#EXTINF:-1 tvg-name="东大林俊杰-剧情-【闯关D】今日鲜儿要上山，敬请神灵多包涵" tvg-logo="https://live.fanmingming.com/tv/东大林俊杰-剧情-【闯关D】今日鲜儿要上山，敬请神灵多包涵.png" group-title="[🐠-一起看]",东大林俊杰-剧情-【闯关D】今日鲜儿要上山，敬请神灵多包涵
-http://ruk1ng.serv00.net:19527/douyu/b77d2e924789ce7b67ebfb06d5f0d358
-#EXTINF:-1 tvg-name="sweet夏有甜-剧情-【雍正康熙】帝王故事连连看" tvg-logo="https://live.fanmingming.com/tv/sweet夏有甜-剧情-【雍正康熙】帝王故事连连看.png" group-title="[🐠-一起看]",sweet夏有甜-剧情-【雍正康熙】帝王故事连连看
-http://ruk1ng.serv00.net:19527/douyu/2d1932972337d0a46292cabe7cae6565
-#EXTINF:-1 tvg-name="是个小可爱iiii-剧情-【饭店】我们把装蒜当美学来修炼的" tvg-logo="https://live.fanmingming.com/tv/是个小可爱iiii-剧情-【饭店】我们把装蒜当美学来修炼的.png" group-title="[🐠-一起看]",是个小可爱iiii-剧情-【饭店】我们把装蒜当美学来修炼的
-http://ruk1ng.serv00.net:19527/douyu/0e6ab7a193dbbb0adb3b6842fd2ab66b
-#EXTINF:-1 tvg-name="702放映厅-剧情-原版配乐⭐许三多 迷茫必看⭐" tvg-logo="https://live.fanmingming.com/tv/702放映厅-剧情-原版配乐⭐许三多 迷茫必看⭐.png" group-title="[🐠-一起看]",702放映厅-剧情-原版配乐⭐许三多 迷茫必看⭐
-http://ruk1ng.serv00.net:19527/douyu/5c913d1ccd399cdfe4d2deccf7c6c879
-#EXTINF:-1 tvg-name="精彩短剧看不停-剧情-哥几个又来看美女了啊" tvg-logo="https://live.fanmingming.com/tv/精彩短剧看不停-剧情-哥几个又来看美女了啊.png" group-title="[🐠-一起看]",精彩短剧看不停-剧情-哥几个又来看美女了啊
-http://ruk1ng.serv00.net:19527/douyu/9059de12f8ddb04422052ea3aef33836
-#EXTINF:-1 tvg-name="零式的天空a-剧情-快来看小悔！" tvg-logo="https://live.fanmingming.com/tv/零式的天空a-剧情-快来看小悔！.png" group-title="[🐠-一起看]",零式的天空a-剧情-快来看小悔！
-http://ruk1ng.serv00.net:19527/douyu/f8233126270af16a1c66d6b734e79889
-#EXTINF:-1 tvg-name="奇兮兮悄陌-剧情-新治愈篇美食家 点餐美食" tvg-logo="https://live.fanmingming.com/tv/奇兮兮悄陌-剧情-新治愈篇美食家 点餐美食.png" group-title="[🐠-一起看]",奇兮兮悄陌-剧情-新治愈篇美食家 点餐美食
-http://ruk1ng.serv00.net:19527/douyu/be9859a0312e6f2308132cdc92dd91b6
-#EXTINF:-1 tvg-name="上衣兜兜大-剧情-经典电视剧 12169420" tvg-logo="https://live.fanmingming.com/tv/上衣兜兜大-剧情-经典电视剧 12169420.png" group-title="[🐠-一起看]",上衣兜兜大-剧情-经典电视剧 12169420
-http://ruk1ng.serv00.net:19527/douyu/99d8a77918e40706c463cb74467a12b0
-#EXTINF:-1 tvg-name="Sy一渣男李元芳-剧情-范闲：第二部什么时候出？" tvg-logo="https://live.fanmingming.com/tv/Sy一渣男李元芳-剧情-范闲：第二部什么时候出？.png" group-title="[🐠-一起看]",Sy一渣男李元芳-剧情-范闲：第二部什么时候出？
-http://ruk1ng.serv00.net:19527/douyu/d4ed1893ef68e8e671297f584329b511
-#EXTINF:-1 tvg-name="洋先生FT-剧情-钱债易还情债难偿!" tvg-logo="https://live.fanmingming.com/tv/洋先生FT-剧情-钱债易还情债难偿!.png" group-title="[🐠-一起看]",洋先生FT-剧情-钱债易还情债难偿!
-http://ruk1ng.serv00.net:19527/douyu/d78be4f64063f588d24865943ad79aad
-#EXTINF:-1 tvg-name="当燕双鹰遇见李元芳-动作-3439096的直播间" tvg-logo="https://live.fanmingming.com/tv/当燕双鹰遇见李元芳-动作-3439096的直播间.png" group-title="[🐠-一起看]",当燕双鹰遇见李元芳-动作-3439096的直播间
-http://ruk1ng.serv00.net:19527/douyu/415d4581961f1bb2f322b853e191d092
-#EXTINF:-1 tvg-name="Miss北月-动作-【嘎子】我不偷狗了！" tvg-logo="https://live.fanmingming.com/tv/Miss北月-动作-【嘎子】我不偷狗了！.png" group-title="[🐠-一起看]",Miss北月-动作-【嘎子】我不偷狗了！
-http://ruk1ng.serv00.net:19527/douyu/666e59ad7af464011cfbc09abb5f5d66
-#EXTINF:-1 tvg-name="南波儿的柠檬-动作-【成龙】给我一把板凳，我可以打10个！" tvg-logo="https://live.fanmingming.com/tv/南波儿的柠檬-动作-【成龙】给我一把板凳，我可以打10个！.png" group-title="[🐠-一起看]",南波儿的柠檬-动作-【成龙】给我一把板凳，我可以打10个！
-http://ruk1ng.serv00.net:19527/douyu/9c7b3c5517b9346da8bd4bda98ba3a03
-#EXTINF:-1 tvg-name="这夜空中最亮的星-动作-【步惊云】金鳞岂是池中物，一遇风云便化龙" tvg-logo="https://live.fanmingming.com/tv/这夜空中最亮的星-动作-【步惊云】金鳞岂是池中物，一遇风云便化龙.png" group-title="[🐠-一起看]",这夜空中最亮的星-动作-【步惊云】金鳞岂是池中物，一遇风云便化龙
-http://ruk1ng.serv00.net:19527/douyu/00502d9c8cc3339284ac8333e1e4f67a
-#EXTINF:-1 tvg-name="当铁手团遇到光复社-动作-【神 剧】" tvg-logo="https://live.fanmingming.com/tv/当铁手团遇到光复社-动作-【神 剧】.png" group-title="[🐠-一起看]",当铁手团遇到光复社-动作-【神 剧】
-http://ruk1ng.serv00.net:19527/douyu/3246213e846463e8c7beb8f51cb93ba5
-#EXTINF:-1 tvg-name="佳佳的全世界-动作-【逃出监狱】兄弟情，是真的" tvg-logo="https://live.fanmingming.com/tv/佳佳的全世界-动作-【逃出监狱】兄弟情，是真的.png" group-title="[🐠-一起看]",佳佳的全世界-动作-【逃出监狱】兄弟情，是真的
-http://ruk1ng.serv00.net:19527/douyu/870b75a1703341e6e97f701d96b295bc
-#EXTINF:-1 tvg-name="冯人苑-动作-【邦德】再帮我一个忙，让我消失" tvg-logo="https://live.fanmingming.com/tv/冯人苑-动作-【邦德】再帮我一个忙，让我消失.png" group-title="[🐠-一起看]",冯人苑-动作-【邦德】再帮我一个忙，让我消失
-http://ruk1ng.serv00.net:19527/douyu/716543b7d0f3d1c20235d804567a2ded
-#EXTINF:-1 tvg-name="胸弟团丶嫣嫣-动作-做兄弟在心中" tvg-logo="https://live.fanmingming.com/tv/胸弟团丶嫣嫣-动作-做兄弟在心中.png" group-title="[🐠-一起看]",胸弟团丶嫣嫣-动作-做兄弟在心中
-http://ruk1ng.serv00.net:19527/douyu/e901d7b26988b0f3bd059efcbedbd3da
-#EXTINF:-1 tvg-name="当幽兰剑遇上链子刀-动作-元芳到底看不看" tvg-logo="https://live.fanmingming.com/tv/当幽兰剑遇上链子刀-动作-元芳到底看不看.png" group-title="[🐠-一起看]",当幽兰剑遇上链子刀-动作-元芳到底看不看
-http://ruk1ng.serv00.net:19527/douyu/9a6f5368c59ad7c89da4b5070d285b9b
-#EXTINF:-1 tvg-name="甘凌宝宝-动作-入万军丛中，取上将头颅" tvg-logo="https://live.fanmingming.com/tv/甘凌宝宝-动作-入万军丛中，取上将头颅.png" group-title="[🐠-一起看]",甘凌宝宝-动作-入万军丛中，取上将头颅
-http://ruk1ng.serv00.net:19527/douyu/dacf4bfee9ffa999db4197bf76192b6b
-#EXTINF:-1 tvg-name="御宅隐啊-动作-天撅星送江" tvg-logo="https://live.fanmingming.com/tv/御宅隐啊-动作-天撅星送江.png" group-title="[🐠-一起看]",御宅隐啊-动作-天撅星送江
-http://ruk1ng.serv00.net:19527/douyu/009da3a2a3b8655e3fc0e2bdcb4bc341
-#EXTINF:-1 tvg-name="渴望的小眼神儿-动作-经典老电影，回味从前" tvg-logo="https://live.fanmingming.com/tv/渴望的小眼神儿-动作-经典老电影，回味从前.png" group-title="[🐠-一起看]",渴望的小眼神儿-动作-经典老电影，回味从前
-http://ruk1ng.serv00.net:19527/douyu/1bcde1b32d51b34937588ee37db8367d
-#EXTINF:-1 tvg-name="傲娇的虾虾-动作-金庸武侠、古装神剧" tvg-logo="https://live.fanmingming.com/tv/傲娇的虾虾-动作-金庸武侠、古装神剧.png" group-title="[🐠-一起看]",傲娇的虾虾-动作-金庸武侠、古装神剧
-http://ruk1ng.serv00.net:19527/douyu/e8d0c25d69250883507fbe14244a6389
-#EXTINF:-1 tvg-name="壹丨哥-动画-[ 天天娱乐 ]" tvg-logo="https://live.fanmingming.com/tv/壹丨哥-动画-[ 天天娱乐 ].png" group-title="[🐠-一起看]",壹丨哥-动画-[ 天天娱乐 ]
-http://ruk1ng.serv00.net:19527/douyu/e09d96cf00fe5cb81ab0c5381f016001
-#EXTINF:-1 tvg-name="很优美-动画-✨爱你孤身走暗巷！爱你不跪的模样✨" tvg-logo="https://live.fanmingming.com/tv/很优美-动画-✨爱你孤身走暗巷！爱你不跪的模样✨.png" group-title="[🐠-一起看]",很优美-动画-✨爱你孤身走暗巷！爱你不跪的模样✨
-http://ruk1ng.serv00.net:19527/douyu/217bd806cf0c154a809a8041224323a8
-#EXTINF:-1 tvg-name="苹果Zei甜-动画-【动漫】超燃 怀旧 经典" tvg-logo="https://live.fanmingming.com/tv/苹果Zei甜-动画-【动漫】超燃 怀旧 经典.png" group-title="[🐠-一起看]",苹果Zei甜-动画-【动漫】超燃 怀旧 经典
-http://ruk1ng.serv00.net:19527/douyu/994583ff246078570336837e6a89b285
-#EXTINF:-1 tvg-name="我不懂dota2-动画-【动漫合集】皮克斯、Conan看不停" tvg-logo="https://live.fanmingming.com/tv/我不懂dota2-动画-【动漫合集】皮克斯、Conan看不停.png" group-title="[🐠-一起看]",我不懂dota2-动画-【动漫合集】皮克斯、Conan看不停
-http://ruk1ng.serv00.net:19527/douyu/bcedbd2b7e9c8dcd470a99c82c3d735c
-#EXTINF:-1 tvg-name="甜漫妮666-动画-【回首往事】仨房间画面同步显示" tvg-logo="https://live.fanmingming.com/tv/甜漫妮666-动画-【回首往事】仨房间画面同步显示.png" group-title="[🐠-一起看]",甜漫妮666-动画-【回首往事】仨房间画面同步显示
-http://ruk1ng.serv00.net:19527/douyu/facf4768934acdb244424ddaeb7c1bf1
-#EXTINF:-1 tvg-name="多发几个思雨-动画-【童年往事】仨房间画面同步显示点播" tvg-logo="https://live.fanmingming.com/tv/多发几个思雨-动画-【童年往事】仨房间画面同步显示点播.png" group-title="[🐠-一起看]",多发几个思雨-动画-【童年往事】仨房间画面同步显示点播
-http://ruk1ng.serv00.net:19527/douyu/d76d214ff8dacb7d592533d2bdd8f64b
-#EXTINF:-1 tvg-name="柱子Yang-动画-万年如一柯播南，各位给点电费吧" tvg-logo="https://live.fanmingming.com/tv/柱子Yang-动画-万年如一柯播南，各位给点电费吧.png" group-title="[🐠-一起看]",柱子Yang-动画-万年如一柯播南，各位给点电费吧
-http://ruk1ng.serv00.net:19527/douyu/20766c198816e1a6e3e6b4ce0d7913b5
-#EXTINF:-1 tvg-name="名侦探柯南之银色子弹-动画-外表看似小孩，智慧却过于常人" tvg-logo="https://live.fanmingming.com/tv/名侦探柯南之银色子弹-动画-外表看似小孩，智慧却过于常人.png" group-title="[🐠-一起看]",名侦探柯南之银色子弹-动画-外表看似小孩，智慧却过于常人
-http://ruk1ng.serv00.net:19527/douyu/8181792c16fd70ba3df913c1b7666230
-#EXTINF:-1 tvg-name="菠萝屋的海绵宝宝-动画-大星与海绵方块" tvg-logo="https://live.fanmingming.com/tv/菠萝屋的海绵宝宝-动画-大星与海绵方块.png" group-title="[🐠-一起看]",菠萝屋的海绵宝宝-动画-大星与海绵方块
-http://ruk1ng.serv00.net:19527/douyu/1fa3ac2ddd92df95b6cde41d3db797cd
-#EXTINF:-1 tvg-name="爱搞事的皮皮龙-动画-小杰  奇犽 历险记" tvg-logo="https://live.fanmingming.com/tv/爱搞事的皮皮龙-动画-小杰  奇犽 历险记.png" group-title="[🐠-一起看]",爱搞事的皮皮龙-动画-小杰  奇犽 历险记
-http://ruk1ng.serv00.net:19527/douyu/eb59e941c968cc5885970b7089d69a6c
-#EXTINF:-1 tvg-name="1564986146-动画-我在斗鱼看漫画" tvg-logo="https://live.fanmingming.com/tv/1564986146-动画-我在斗鱼看漫画.png" group-title="[🐠-一起看]",1564986146-动画-我在斗鱼看漫画
-http://ruk1ng.serv00.net:19527/douyu/13b838e3477af2f9601cfb219da3a6df
-#EXTINF:-1 tvg-name="龍組队长天昊-动画-新一小兰小哀鱼吧社区及频道创始人" tvg-logo="https://live.fanmingming.com/tv/龍組队长天昊-动画-新一小兰小哀鱼吧社区及频道创始人.png" group-title="[🐠-一起看]",龍組队长天昊-动画-新一小兰小哀鱼吧社区及频道创始人
-http://ruk1ng.serv00.net:19527/douyu/0c1f11043b1bfc18bbc0d0011877b47b
-#EXTINF:-1 tvg-name="晓晓666666-动画-晓妞动漫花园o(∩_∩)o" tvg-logo="https://live.fanmingming.com/tv/晓晓666666-动画-晓妞动漫花园o(∩_∩)o.png" group-title="[🐠-一起看]",晓晓666666-动画-晓妞动漫花园o(∩_∩)o
-http://ruk1ng.serv00.net:19527/douyu/fd4b2fba3427594594f193699fdd238b
-#EXTINF:-1 tvg-name="小庄观影笔记-动画-樱木花道的篮球解说" tvg-logo="https://live.fanmingming.com/tv/小庄观影笔记-动画-樱木花道的篮球解说.png" group-title="[🐠-一起看]",小庄观影笔记-动画-樱木花道的篮球解说
-http://ruk1ng.serv00.net:19527/douyu/ad2373fd26b35daa5f899ad8acf2d091
-#EXTINF:-1 tvg-name="gu6465-动画-犬妖，半妖一起收集四魂之玉碎片的过程。" tvg-logo="https://live.fanmingming.com/tv/gu6465-动画-犬妖，半妖一起收集四魂之玉碎片的过程。.png" group-title="[🐠-一起看]",gu6465-动画-犬妖，半妖一起收集四魂之玉碎片的过程。
-http://ruk1ng.serv00.net:19527/douyu/8bc4db32f7ea25123d42acbc3d06ab97
-#EXTINF:-1 tvg-name="草帽丶海贼团-动画-草帽丶海贼团的直播间" tvg-logo="https://live.fanmingming.com/tv/草帽丶海贼团-动画-草帽丶海贼团的直播间.png" group-title="[🐠-一起看]",草帽丶海贼团-动画-草帽丶海贼团的直播间
-http://ruk1ng.serv00.net:19527/douyu/0907a70b6f79d92e933110181622f3e3
-#EXTINF:-1 tvg-name="再不减肥就胖成球了-动画-菠萝屋回来了" tvg-logo="https://live.fanmingming.com/tv/再不减肥就胖成球了-动画-菠萝屋回来了.png" group-title="[🐠-一起看]",再不减肥就胖成球了-动画-菠萝屋回来了
-http://ruk1ng.serv00.net:19527/douyu/95edf16c07bdd9f8c7ac6155875a1b73
-#EXTINF:-1 tvg-name="成龙历险纪-动画-还有一件事" tvg-logo="https://live.fanmingming.com/tv/成龙历险纪-动画-还有一件事.png" group-title="[🐠-一起看]",成龙历险纪-动画-还有一件事
-http://ruk1ng.serv00.net:19527/douyu/d8f89ec1b0300df14e0b2a8988375d6c
-#EXTINF:-1 tvg-name="我砸晕了牛顿奥-动画-骑士不让播了，先随便播下吧" tvg-logo="https://live.fanmingming.com/tv/我砸晕了牛顿奥-动画-骑士不让播了，先随便播下吧.png" group-title="[🐠-一起看]",我砸晕了牛顿奥-动画-骑士不让播了，先随便播下吧
-http://ruk1ng.serv00.net:19527/douyu/a3b79d7d357c28c6c89e8fc2088f4273
-#EXTINF:-1 tvg-name="球球来了呦-古装-(球球）画质修复桃源结义" tvg-logo="https://live.fanmingming.com/tv/球球来了呦-古装-(球球）画质修复桃源结义.png" group-title="[🐠-一起看]",球球来了呦-古装-(球球）画质修复桃源结义
-http://ruk1ng.serv00.net:19527/douyu/032c0602e12161b894e00e33b3b6649b
-#EXTINF:-1 tvg-name="i前尘忆梦-古装-7473576的直播间" tvg-logo="https://live.fanmingming.com/tv/i前尘忆梦-古装-7473576的直播间.png" group-title="[🐠-一起看]",i前尘忆梦-古装-7473576的直播间
-http://ruk1ng.serv00.net:19527/douyu/146dd5746dfb1081f1b78751a94e25e9
-#EXTINF:-1 tvg-name="晴is-古装-♥ 港剧 动漫 美剧❤️" tvg-logo="https://live.fanmingming.com/tv/晴is-古装-♥ 港剧 动漫 美剧❤️.png" group-title="[🐠-一起看]",晴is-古装-♥ 港剧 动漫 美剧❤️
-http://ruk1ng.serv00.net:19527/douyu/a89be872eea29e6b4ccd5ed6ba8dd12e
-#EXTINF:-1 tvg-name="三国颜老师-古装-❤️三国❤️鼎之轻重，何以问呼？" tvg-logo="https://live.fanmingming.com/tv/三国颜老师-古装-❤️三国❤️鼎之轻重，何以问呼？.png" group-title="[🐠-一起看]",三国颜老师-古装-❤️三国❤️鼎之轻重，何以问呼？
-http://ruk1ng.serv00.net:19527/douyu/09cc3e770f4f71eb62a3c61142f93bf9
-#EXTINF:-1 tvg-name="脑袋大1937-古装-《武侠剧》" tvg-logo="https://live.fanmingming.com/tv/脑袋大1937-古装-《武侠剧》.png" group-title="[🐠-一起看]",脑袋大1937-古装-《武侠剧》
-http://ruk1ng.serv00.net:19527/douyu/cdc57350e322f79997ec3d7957bd4193
-#EXTINF:-1 tvg-name="橙沫小幺妹-古装-【大秦】秦人不暇自哀，而后人哀之" tvg-logo="https://live.fanmingming.com/tv/橙沫小幺妹-古装-【大秦】秦人不暇自哀，而后人哀之.png" group-title="[🐠-一起看]",橙沫小幺妹-古装-【大秦】秦人不暇自哀，而后人哀之
-http://ruk1ng.serv00.net:19527/douyu/616def748ff63edd7dc9c6fd853cfa0d
-#EXTINF:-1 tvg-name="诃德先生-古装-【宋江】梁园虽好不是久恋之家" tvg-logo="https://live.fanmingming.com/tv/诃德先生-古装-【宋江】梁园虽好不是久恋之家.png" group-title="[🐠-一起看]",诃德先生-古装-【宋江】梁园虽好不是久恋之家
-http://ruk1ng.serv00.net:19527/douyu/c9f69557cb75b2506c501816e812868a
-#EXTINF:-1 tvg-name="大片片说小片-古装-【庆帝】云淡风轻正闲处，鲜衣怒马少年时" tvg-logo="https://live.fanmingming.com/tv/大片片说小片-古装-【庆帝】云淡风轻正闲处，鲜衣怒马少年时.png" group-title="[🐠-一起看]",大片片说小片-古装-【庆帝】云淡风轻正闲处，鲜衣怒马少年时
-http://ruk1ng.serv00.net:19527/douyu/53a3208f832c2f5a9154ea593958ccfd
-#EXTINF:-1 tvg-name="酒酒酒酒酒染-古装-【康熙】张国立在线扫H除恶" tvg-logo="https://live.fanmingming.com/tv/酒酒酒酒酒染-古装-【康熙】张国立在线扫H除恶.png" group-title="[🐠-一起看]",酒酒酒酒酒染-古装-【康熙】张国立在线扫H除恶
-http://ruk1ng.serv00.net:19527/douyu/a57ede92357690f87c4bf66eb13dd35a
-#EXTINF:-1 tvg-name="微醺小白-古装-【朱棣】笑天下可笑之人" tvg-logo="https://live.fanmingming.com/tv/微醺小白-古装-【朱棣】笑天下可笑之人.png" group-title="[🐠-一起看]",微醺小白-古装-【朱棣】笑天下可笑之人
-http://ruk1ng.serv00.net:19527/douyu/e50b1734b721a584cc4e02830d691b60
-#EXTINF:-1 tvg-name="百晓生说剧-古装-【百晓生】经典武侠解说" tvg-logo="https://live.fanmingming.com/tv/百晓生说剧-古装-【百晓生】经典武侠解说.png" group-title="[🐠-一起看]",百晓生说剧-古装-【百晓生】经典武侠解说
-http://ruk1ng.serv00.net:19527/douyu/60a3fa3acbf941ec99695447e6542da1
-#EXTINF:-1 tvg-name="胡椒粉的胡歌-古装-【胡椒粉的胡歌】 你清高，你了不起！" tvg-logo="https://live.fanmingming.com/tv/胡椒粉的胡歌-古装-【胡椒粉的胡歌】 你清高，你了不起！.png" group-title="[🐠-一起看]",胡椒粉的胡歌-古装-【胡椒粉的胡歌】 你清高，你了不起！
-http://ruk1ng.serv00.net:19527/douyu/add5f6eef613003d6b6837fee8263402
-#EXTINF:-1 tvg-name="牛奶味的梦猪猪-古装-【超清3】人气港剧天地" tvg-logo="https://live.fanmingming.com/tv/牛奶味的梦猪猪-古装-【超清3】人气港剧天地.png" group-title="[🐠-一起看]",牛奶味的梦猪猪-古装-【超清3】人气港剧天地
-http://ruk1ng.serv00.net:19527/douyu/3a25e391d0f171c74fa171b3222a4b11
-#EXTINF:-1 tvg-name="a萌小翘臀-古装-【隋唐】与君共饮盏中酒，几人哀伤几人愁" tvg-logo="https://live.fanmingming.com/tv/a萌小翘臀-古装-【隋唐】与君共饮盏中酒，几人哀伤几人愁.png" group-title="[🐠-一起看]",a萌小翘臀-古装-【隋唐】与君共饮盏中酒，几人哀伤几人愁
-http://ruk1ng.serv00.net:19527/douyu/a1003bd1728cc27033a83c34723c4d8f
-#EXTINF:-1 tvg-name="可达鸭联络员学某-古装-【雍正】人无伤虎意虎有吃人心" tvg-logo="https://live.fanmingming.com/tv/可达鸭联络员学某-古装-【雍正】人无伤虎意虎有吃人心.png" group-title="[🐠-一起看]",可达鸭联络员学某-古装-【雍正】人无伤虎意虎有吃人心
-http://ruk1ng.serv00.net:19527/douyu/5be26b1a7697058a708ec382d46c26fe
-#EXTINF:-1 tvg-name="moyu3390-古装-【默鱼】一起追经典大片" tvg-logo="https://live.fanmingming.com/tv/moyu3390-古装-【默鱼】一起追经典大片.png" group-title="[🐠-一起看]",moyu3390-古装-【默鱼】一起追经典大片
-http://ruk1ng.serv00.net:19527/douyu/ff5512c9e022f37f320794fe8755ec62
-#EXTINF:-1 tvg-name="JhZj丶天明-古装-一起陪伴我们成长的神剧" tvg-logo="https://live.fanmingming.com/tv/JhZj丶天明-古装-一起陪伴我们成长的神剧.png" group-title="[🐠-一起看]",JhZj丶天明-古装-一起陪伴我们成长的神剧
-http://ruk1ng.serv00.net:19527/douyu/92aeefd3482725e09cb95c97ffa468f1
-#EXTINF:-1 tvg-name="koanluowei-古装-不可能！我二弟天下无敌！" tvg-logo="https://live.fanmingming.com/tv/koanluowei-古装-不可能！我二弟天下无敌！.png" group-title="[🐠-一起看]",koanluowei-古装-不可能！我二弟天下无敌！
-http://ruk1ng.serv00.net:19527/douyu/ac1eae44cc6d19aa298e2aac7b5d1742
-#EXTINF:-1 tvg-name="小迪迪丶希希-古装-传位于李德全" tvg-logo="https://live.fanmingming.com/tv/小迪迪丶希希-古装-传位于李德全.png" group-title="[🐠-一起看]",小迪迪丶希希-古装-传位于李德全
-http://ruk1ng.serv00.net:19527/douyu/92f3c29a9c9dbb4704f43c1aad9839d6
-#EXTINF:-1 tvg-name="a田田u-古装-修复版历史剧" tvg-logo="https://live.fanmingming.com/tv/a田田u-古装-修复版历史剧.png" group-title="[🐠-一起看]",a田田u-古装-修复版历史剧
-http://ruk1ng.serv00.net:19527/douyu/1402a7cd956f52cd26957ae996e66bfb
-#EXTINF:-1 tvg-name="师落-古装-家有诤子  不败其家" tvg-logo="https://live.fanmingming.com/tv/师落-古装-家有诤子  不败其家.png" group-title="[🐠-一起看]",师落-古装-家有诤子  不败其家
-http://ruk1ng.serv00.net:19527/douyu/88969b505c948bd46471de510f4fd6c3
-#EXTINF:-1 tvg-name="电力局刘处长-古装-桃花影落飞神剑，碧海潮生按玉箫。" tvg-logo="https://live.fanmingming.com/tv/电力局刘处长-古装-桃花影落飞神剑，碧海潮生按玉箫。.png" group-title="[🐠-一起看]",电力局刘处长-古装-桃花影落飞神剑，碧海潮生按玉箫。
-http://ruk1ng.serv00.net:19527/douyu/718feb17f95f297c1e0c03a16fddba76
-#EXTINF:-1 tvg-name="往事vs随风1-古装-美丽的孔雀公主" tvg-logo="https://live.fanmingming.com/tv/往事vs随风1-古装-美丽的孔雀公主.png" group-title="[🐠-一起看]",往事vs随风1-古装-美丽的孔雀公主
-http://ruk1ng.serv00.net:19527/douyu/ea2531c35e0773b7483d59103b6b94fd
-#EXTINF:-1 tvg-name="小毅主播q-喜剧-(小毅）林正英，鬼片，喜剧，经典" tvg-logo="https://live.fanmingming.com/tv/小毅主播q-喜剧-(小毅）林正英，鬼片，喜剧，经典.png" group-title="[🐠-一起看]",小毅主播q-喜剧-(小毅）林正英，鬼片，喜剧，经典
-http://ruk1ng.serv00.net:19527/douyu/055aca626acc052526909e8a450d40e2
-#EXTINF:-1 tvg-name="小崔崔你别浪啊-喜剧-[经典]张窟窿在三国武力值如何？" tvg-logo="https://live.fanmingming.com/tv/小崔崔你别浪啊-喜剧-[经典]张窟窿在三国武力值如何？.png" group-title="[🐠-一起看]",小崔崔你别浪啊-喜剧-[经典]张窟窿在三国武力值如何？
-http://ruk1ng.serv00.net:19527/douyu/d1f6a061dc73e4c848c6b2a4e1e64fd0
-#EXTINF:-1 tvg-name="美兮超可爱的-喜剧-✨神乐✨欧美 电影 科幻 动作 经典喜剧" tvg-logo="https://live.fanmingming.com/tv/美兮超可爱的-喜剧-✨神乐✨欧美 电影 科幻 动作 经典喜剧.png" group-title="[🐠-一起看]",美兮超可爱的-喜剧-✨神乐✨欧美 电影 科幻 动作 经典喜剧
-http://ruk1ng.serv00.net:19527/douyu/d0d9f826cea2138d52b9cfdaf6d1d411
-#EXTINF:-1 tvg-name="爱情公寓vip-喜剧-❄️❤️胡一菲❤❄️问就是停电了" tvg-logo="https://live.fanmingming.com/tv/爱情公寓vip-喜剧-❄️❤️胡一菲❤❄️问就是停电了.png" group-title="[🐠-一起看]",爱情公寓vip-喜剧-❄️❤️胡一菲❤❄️问就是停电了
-http://ruk1ng.serv00.net:19527/douyu/d55810b23705b2acb60226316a62f8a8
-#EXTINF:-1 tvg-name="Cloud猪-喜剧-【1.5】陆三金，完整版，未删减，补拍" tvg-logo="https://live.fanmingming.com/tv/Cloud猪-喜剧-【1.5】陆三金，完整版，未删减，补拍.png" group-title="[🐠-一起看]",Cloud猪-喜剧-【1.5】陆三金，完整版，未删减，补拍
-http://ruk1ng.serv00.net:19527/douyu/6549c114814890345e817820a193765a
-#EXTINF:-1 tvg-name="PDD影院阿-喜剧-【PDD影院】一起see那些年的经典" tvg-logo="https://live.fanmingming.com/tv/PDD影院阿-喜剧-【PDD影院】一起see那些年的经典.png" group-title="[🐠-一起看]",PDD影院阿-喜剧-【PDD影院】一起see那些年的经典
-http://ruk1ng.serv00.net:19527/douyu/22f10762be5a94babbc866994cbc0e51
-#EXTINF:-1 tvg-name="刀刀de食堂-喜剧-【刀刀de食堂】美食家 电子榨菜 点播" tvg-logo="https://live.fanmingming.com/tv/刀刀de食堂-喜剧-【刀刀de食堂】美食家 电子榨菜 点播.png" group-title="[🐠-一起看]",刀刀de食堂-喜剧-【刀刀de食堂】美食家 电子榨菜 点播
-http://ruk1ng.serv00.net:19527/douyu/99be33b21ecf803e10cd42fd3e84540f
-#EXTINF:-1 tvg-name="网友小青-喜剧-【刘德华】庆祝华仔出道40周年" tvg-logo="https://live.fanmingming.com/tv/网友小青-喜剧-【刘德华】庆祝华仔出道40周年.png" group-title="[🐠-一起看]",网友小青-喜剧-【刘德华】庆祝华仔出道40周年
-http://ruk1ng.serv00.net:19527/douyu/5bda3b296ecb62769e88a09116e329d6
-#EXTINF:-1 tvg-name="小小甜的骑士-喜剧-【吐槽】吐槽一下，快乐一天" tvg-logo="https://live.fanmingming.com/tv/小小甜的骑士-喜剧-【吐槽】吐槽一下，快乐一天.png" group-title="[🐠-一起看]",小小甜的骑士-喜剧-【吐槽】吐槽一下，快乐一天
-http://ruk1ng.serv00.net:19527/douyu/b3f352a12be8aa4c5c6cf8d279e39bbf
-#EXTINF:-1 tvg-name="bbox达人-喜剧-【庆帝】云淡风轻正闲处~~~~~~~~" tvg-logo="https://live.fanmingming.com/tv/bbox达人-喜剧-【庆帝】云淡风轻正闲处~~~~~~~~.png" group-title="[🐠-一起看]",bbox达人-喜剧-【庆帝】云淡风轻正闲处~~~~~~~~
-http://ruk1ng.serv00.net:19527/douyu/5f25b0a1d57c0e2c61cfc85f88ee7f25
-#EXTINF:-1 tvg-name="UnaDirezione-喜剧-【林正英】僵尸 女鬼 弹幕 护体" tvg-logo="https://live.fanmingming.com/tv/UnaDirezione-喜剧-【林正英】僵尸 女鬼 弹幕 护体.png" group-title="[🐠-一起看]",UnaDirezione-喜剧-【林正英】僵尸 女鬼 弹幕 护体
-http://ruk1ng.serv00.net:19527/douyu/329f759ceea3f4c80b159852e4bbd27f
-#EXTINF:-1 tvg-name="祁乐丶-喜剧-【爆笑】从无到有，一路开心" tvg-logo="https://live.fanmingming.com/tv/祁乐丶-喜剧-【爆笑】从无到有，一路开心.png" group-title="[🐠-一起看]",祁乐丶-喜剧-【爆笑】从无到有，一路开心
-http://ruk1ng.serv00.net:19527/douyu/7ac893f50956d93db9cece7cd299f926
-#EXTINF:-1 tvg-name="进击的神乐-喜剧-【神乐】华语 经典 电影 沈腾 周杰伦" tvg-logo="https://live.fanmingming.com/tv/进击的神乐-喜剧-【神乐】华语 经典 电影 沈腾 周杰伦.png" group-title="[🐠-一起看]",进击的神乐-喜剧-【神乐】华语 经典 电影 沈腾 周杰伦
-http://ruk1ng.serv00.net:19527/douyu/9478032f15bc8469b677b761ac1f2aef
-#EXTINF:-1 tvg-name="非一般的视觉体验-喜剧-【笑场】喜剧电影专场" tvg-logo="https://live.fanmingming.com/tv/非一般的视觉体验-喜剧-【笑场】喜剧电影专场.png" group-title="[🐠-一起看]",非一般的视觉体验-喜剧-【笑场】喜剧电影专场
-http://ruk1ng.serv00.net:19527/douyu/17fc88d639f26337fc57e42083d9ad78
-#EXTINF:-1 tvg-name="米尼影院-喜剧-【米尼影院】经典电视剧" tvg-logo="https://live.fanmingming.com/tv/米尼影院-喜剧-【米尼影院】经典电视剧.png" group-title="[🐠-一起看]",米尼影院-喜剧-【米尼影院】经典电视剧
-http://ruk1ng.serv00.net:19527/douyu/d677dac94f0b0bf81b34aba73a8c5c1b
-#EXTINF:-1 tvg-name="黄粱一梦l蓦然回首-喜剧-【美食】舌尖上的火锅，美食不可辜负" tvg-logo="https://live.fanmingming.com/tv/黄粱一梦l蓦然回首-喜剧-【美食】舌尖上的火锅，美食不可辜负.png" group-title="[🐠-一起看]",黄粱一梦l蓦然回首-喜剧-【美食】舌尖上的火锅，美食不可辜负
-http://ruk1ng.serv00.net:19527/douyu/8f87e771c8487c021ce35085366002e3
-#EXTINF:-1 tvg-name="是一坨蓝翔啊-喜剧-【蓝翔】60帧原画电影 华语喜剧" tvg-logo="https://live.fanmingming.com/tv/是一坨蓝翔啊-喜剧-【蓝翔】60帧原画电影 华语喜剧.png" group-title="[🐠-一起看]",是一坨蓝翔啊-喜剧-【蓝翔】60帧原画电影 华语喜剧
-http://ruk1ng.serv00.net:19527/douyu/f9397f90067fb70e05271e63f40f066f
-#EXTINF:-1 tvg-name="蓝翔新三国-喜剧-【蓝翔】弹幕天团、下饭神剧[请勿刷屏]" tvg-logo="https://live.fanmingming.com/tv/蓝翔新三国-喜剧-【蓝翔】弹幕天团、下饭神剧[请勿刷屏].png" group-title="[🐠-一起看]",蓝翔新三国-喜剧-【蓝翔】弹幕天团、下饭神剧[请勿刷屏]
-http://ruk1ng.serv00.net:19527/douyu/02ea8910c68cbaaca9188e1d8cee8e7f
-#EXTINF:-1 tvg-name="嗯哼傻憨憨-喜剧-【谢耳朵】科学天才们的搞笑日常" tvg-logo="https://live.fanmingming.com/tv/嗯哼傻憨憨-喜剧-【谢耳朵】科学天才们的搞笑日常.png" group-title="[🐠-一起看]",嗯哼傻憨憨-喜剧-【谢耳朵】科学天才们的搞笑日常
-http://ruk1ng.serv00.net:19527/douyu/67b6e128ef245498a394882437db8b38
-#EXTINF:-1 tvg-name="狂仔酷炫-喜剧-【贝爷影厅】欧美 科幻 动作 经典 电影" tvg-logo="https://live.fanmingming.com/tv/狂仔酷炫-喜剧-【贝爷影厅】欧美 科幻 动作 经典 电影.png" group-title="[🐠-一起看]",狂仔酷炫-喜剧-【贝爷影厅】欧美 科幻 动作 经典 电影
-http://ruk1ng.serv00.net:19527/douyu/442a32392c65e74de379f009e526506f
-#EXTINF:-1 tvg-name="单纯的顺才少爷-喜剧-【顺才少爷】国语经典" tvg-logo="https://live.fanmingming.com/tv/单纯的顺才少爷-喜剧-【顺才少爷】国语经典.png" group-title="[🐠-一起看]",单纯的顺才少爷-喜剧-【顺才少爷】国语经典
-http://ruk1ng.serv00.net:19527/douyu/1c158a09e278079cad6494c4db86d3e5
-#EXTINF:-1 tvg-name="吃米滴虫-喜剧-【香港赌片】喜剧、黑帮、动作、武侠、经典" tvg-logo="https://live.fanmingming.com/tv/吃米滴虫-喜剧-【香港赌片】喜剧、黑帮、动作、武侠、经典.png" group-title="[🐠-一起看]",吃米滴虫-喜剧-【香港赌片】喜剧、黑帮、动作、武侠、经典
-http://ruk1ng.serv00.net:19527/douyu/00468de099ae925548d0f79b79d8f8ce
-#EXTINF:-1 tvg-name="龙飞凤舞宝藏号-喜剧-【龙门】天山勾地火，宝塔镇蛇妖" tvg-logo="https://live.fanmingming.com/tv/龙飞凤舞宝藏号-喜剧-【龙门】天山勾地火，宝塔镇蛇妖.png" group-title="[🐠-一起看]",龙飞凤舞宝藏号-喜剧-【龙门】天山勾地火，宝塔镇蛇妖
-http://ruk1ng.serv00.net:19527/douyu/461d457824203bac76bebe6722db36dd
-#EXTINF:-1 tvg-name="一样二职-喜剧-刘星：像超人一样自由自在天空自由飞翔" tvg-logo="https://live.fanmingming.com/tv/一样二职-喜剧-刘星：像超人一样自由自在天空自由飞翔.png" group-title="[🐠-一起看]",一样二职-喜剧-刘星：像超人一样自由自在天空自由飞翔
-http://ruk1ng.serv00.net:19527/douyu/855f60b2256f2981b60afe727b47870c
-#EXTINF:-1 tvg-name="嘘过过瘾-喜剧-张伟！张益达！张大炮" tvg-logo="https://live.fanmingming.com/tv/嘘过过瘾-喜剧-张伟！张益达！张大炮.png" group-title="[🐠-一起看]",嘘过过瘾-喜剧-张伟！张益达！张大炮
-http://ruk1ng.serv00.net:19527/douyu/66523bcdd5e819a5cf81a212946c155b
-#EXTINF:-1 tvg-name="箩卜君-喜剧-感谢大家的支持 7495810" tvg-logo="https://live.fanmingming.com/tv/箩卜君-喜剧-感谢大家的支持 7495810.png" group-title="[🐠-一起看]",箩卜君-喜剧-感谢大家的支持 7495810
-http://ruk1ng.serv00.net:19527/douyu/c79a314e101587d6cb5d15b98bbe44d9
-#EXTINF:-1 tvg-name="懒猫是只喵-喜剧-懒猫 美食家 点播" tvg-logo="https://live.fanmingming.com/tv/懒猫是只喵-喜剧-懒猫 美食家 点播.png" group-title="[🐠-一起看]",懒猫是只喵-喜剧-懒猫 美食家 点播
-http://ruk1ng.serv00.net:19527/douyu/ebc05f520d513eb4ca810e8b7587055e
-#EXTINF:-1 tvg-name="飒爽的妈妈-喜剧-我是公司的副总！！！" tvg-logo="https://live.fanmingming.com/tv/飒爽的妈妈-喜剧-我是公司的副总！！！.png" group-title="[🐠-一起看]",飒爽的妈妈-喜剧-我是公司的副总！！！
-http://ruk1ng.serv00.net:19527/douyu/6740a87173a9733bd5d27d328d3b2014
-#EXTINF:-1 tvg-name="喷子OAO-喜剧-最爱贾萌萌" tvg-logo="https://live.fanmingming.com/tv/喷子OAO-喜剧-最爱贾萌萌.png" group-title="[🐠-一起看]",喷子OAO-喜剧-最爱贾萌萌
-http://ruk1ng.serv00.net:19527/douyu/84684391b1e8d3f6668fccb64868d1cb
-#EXTINF:-1 tvg-name="白了个痴-喜剧-正常开播，欢迎欢迎" tvg-logo="https://live.fanmingming.com/tv/白了个痴-喜剧-正常开播，欢迎欢迎.png" group-title="[🐠-一起看]",白了个痴-喜剧-正常开播，欢迎欢迎
-http://ruk1ng.serv00.net:19527/douyu/07c9cd808c5ceb14db0dea9fab7374c4
-#EXTINF:-1 tvg-name="老王陪你看电视-喜剧-片源多多，欢迎点播 7476264" tvg-logo="https://live.fanmingming.com/tv/老王陪你看电视-喜剧-片源多多，欢迎点播 7476264.png" group-title="[🐠-一起看]",老王陪你看电视-喜剧-片源多多，欢迎点播 7476264
-http://ruk1ng.serv00.net:19527/douyu/04df62dc0b6d9d82fcd95952cfbb4659
-#EXTINF:-1 tvg-name="飘洋过海来-喜剧-经典港剧情景剧" tvg-logo="https://live.fanmingming.com/tv/飘洋过海来-喜剧-经典港剧情景剧.png" group-title="[🐠-一起看]",飘洋过海来-喜剧-经典港剧情景剧
-http://ruk1ng.serv00.net:19527/douyu/49414509dfb418e5aa4353b2d411fcde
-#EXTINF:-1 tvg-name="e尒袏-喜剧-经典老剧轮播" tvg-logo="https://live.fanmingming.com/tv/e尒袏-喜剧-经典老剧轮播.png" group-title="[🐠-一起看]",e尒袏-喜剧-经典老剧轮播
-http://ruk1ng.serv00.net:19527/douyu/404c342929fafdc460806da5e4d45719
-#EXTINF:-1 tvg-name="白马飞飞520-喜剧-致敬岁月经典 分享欢乐感动" tvg-logo="https://live.fanmingming.com/tv/白马飞飞520-喜剧-致敬岁月经典 分享欢乐感动.png" group-title="[🐠-一起看]",白马飞飞520-喜剧-致敬岁月经典 分享欢乐感动
-http://ruk1ng.serv00.net:19527/douyu/b978597da3471e00f0afe69b620b0cb1
-#EXTINF:-1 tvg-name="gslaini-喜剧-贾队长搞笑抗战情景剧" tvg-logo="https://live.fanmingming.com/tv/gslaini-喜剧-贾队长搞笑抗战情景剧.png" group-title="[🐠-一起看]",gslaini-喜剧-贾队长搞笑抗战情景剧
-http://ruk1ng.serv00.net:19527/douyu/0831668a7c8dace33b4091f4ecbf743f
-#EXTINF:-1 tvg-name="刘松毅-喜剧-金庸经典播放，点关注不迷路" tvg-logo="https://live.fanmingming.com/tv/刘松毅-喜剧-金庸经典播放，点关注不迷路.png" group-title="[🐠-一起看]",刘松毅-喜剧-金庸经典播放，点关注不迷路
-http://ruk1ng.serv00.net:19527/douyu/aaab23f26680f338cb989a1fcd6002f9
-#EXTINF:-1 tvg-name="傲娇一喵喵-喜剧-韩式搞怪（路人成为C位中心）" tvg-logo="https://live.fanmingming.com/tv/傲娇一喵喵-喜剧-韩式搞怪（路人成为C位中心）.png" group-title="[🐠-一起看]",傲娇一喵喵-喜剧-韩式搞怪（路人成为C位中心）
-http://ruk1ng.serv00.net:19527/douyu/0f319cf759b1d9efd3c9610ab59d1700
-#EXTINF:-1 tvg-name="恨鐵-喜剧-顺风为主 其他情喜影剧集锦为辅 随机连播" tvg-logo="https://live.fanmingming.com/tv/恨鐵-喜剧-顺风为主 其他情喜影剧集锦为辅 随机连播.png" group-title="[🐠-一起看]",恨鐵-喜剧-顺风为主 其他情喜影剧集锦为辅 随机连播
-http://ruk1ng.serv00.net:19527/douyu/608d3e78dfd3f0367e65e3d300fccc05
-#EXTINF:-1 tvg-name="贾贵队长真男神-喜剧-鼎香楼的故事" tvg-logo="https://live.fanmingming.com/tv/贾贵队长真男神-喜剧-鼎香楼的故事.png" group-title="[🐠-一起看]",贾贵队长真男神-喜剧-鼎香楼的故事
-http://ruk1ng.serv00.net:19527/douyu/4a4bdd3e9bdcf71eb2a2058f690cefdb
-#EXTINF:-1 tvg-name="永远快乐的小美女-悬疑-❤️【经典】影视 ❤️" tvg-logo="https://live.fanmingming.com/tv/永远快乐的小美女-悬疑-❤️【经典】影视 ❤️.png" group-title="[🐠-一起看]",永远快乐的小美女-悬疑-❤️【经典】影视 ❤️
-http://ruk1ng.serv00.net:19527/douyu/60c701893a2a0efe6b89e7097696dd64
-#EXTINF:-1 tvg-name="吃奶滴虫-悬疑-❤️奶虫❤️恐怖 丧尸 鬼片 灾难科幻" tvg-logo="https://live.fanmingming.com/tv/吃奶滴虫-悬疑-❤️奶虫❤️恐怖 丧尸 鬼片 灾难科幻.png" group-title="[🐠-一起看]",吃奶滴虫-悬疑-❤️奶虫❤️恐怖 丧尸 鬼片 灾难科幻
-http://ruk1ng.serv00.net:19527/douyu/185bfe4b5063ddfeba65dc4baf1718cd
-#EXTINF:-1 tvg-name="芒果酱Mangoo-悬疑-【刑侦】饿不饿，要不要下一碗面吃呀" tvg-logo="https://live.fanmingming.com/tv/芒果酱Mangoo-悬疑-【刑侦】饿不饿，要不要下一碗面吃呀.png" group-title="[🐠-一起看]",芒果酱Mangoo-悬疑-【刑侦】饿不饿，要不要下一碗面吃呀
-http://ruk1ng.serv00.net:19527/douyu/fdbc12c25e306a9aeb8482a59e20e376
-#EXTINF:-1 tvg-name="美娘家的猪猪-悬疑-【卓sir】我想当卧底！当座馆！" tvg-logo="https://live.fanmingming.com/tv/美娘家的猪猪-悬疑-【卓sir】我想当卧底！当座馆！.png" group-title="[🐠-一起看]",美娘家的猪猪-悬疑-【卓sir】我想当卧底！当座馆！
-http://ruk1ng.serv00.net:19527/douyu/e555995f3db44f0b0294e331f09ade6f
-#EXTINF:-1 tvg-name="奇光主播-悬疑-【奇光】林正英 僵尸 女鬼 弹幕 24H" tvg-logo="https://live.fanmingming.com/tv/奇光主播-悬疑-【奇光】林正英 僵尸 女鬼 弹幕 24H.png" group-title="[🐠-一起看]",奇光主播-悬疑-【奇光】林正英 僵尸 女鬼 弹幕 24H
-http://ruk1ng.serv00.net:19527/douyu/8fb507386ae4c230dd055348c9b69348
-#EXTINF:-1 tvg-name="鱼宝好困-悬疑-【恐怖】经典 恐怖 鬼怪 剧场" tvg-logo="https://live.fanmingming.com/tv/鱼宝好困-悬疑-【恐怖】经典 恐怖 鬼怪 剧场.png" group-title="[🐠-一起看]",鱼宝好困-悬疑-【恐怖】经典 恐怖 鬼怪 剧场
-http://ruk1ng.serv00.net:19527/douyu/71a9261eb17ce7fadd3391331d58c41e
-#EXTINF:-1 tvg-name="久了旧知-悬疑-【恐怖电影】 僵尸 丧尸 灾难片" tvg-logo="https://live.fanmingming.com/tv/久了旧知-悬疑-【恐怖电影】 僵尸 丧尸 灾难片.png" group-title="[🐠-一起看]",久了旧知-悬疑-【恐怖电影】 僵尸 丧尸 灾难片
-http://ruk1ng.serv00.net:19527/douyu/3b7a00e47b88dc0181e3168b2a7c2a06
-#EXTINF:-1 tvg-name="卖女孩滴小姑凉-悬疑-【悍匪】技术学院" tvg-logo="https://live.fanmingming.com/tv/卖女孩滴小姑凉-悬疑-【悍匪】技术学院.png" group-title="[🐠-一起看]",卖女孩滴小姑凉-悬疑-【悍匪】技术学院
-http://ruk1ng.serv00.net:19527/douyu/b713190a06194bee805bab9dd0bc0951
-#EXTINF:-1 tvg-name="猫记丶-悬疑-【猫猫】ッ超清、超经典" tvg-logo="https://live.fanmingming.com/tv/猫记丶-悬疑-【猫猫】ッ超清、超经典.png" group-title="[🐠-一起看]",猫记丶-悬疑-【猫猫】ッ超清、超经典
-http://ruk1ng.serv00.net:19527/douyu/0985aa77358f4c68a3e66e41fbe16014
-#EXTINF:-1 tvg-name="我也想要一个千反田-悬疑-【美食纪录片】一起了解中华美食的奥秘！" tvg-logo="https://live.fanmingming.com/tv/我也想要一个千反田-悬疑-【美食纪录片】一起了解中华美食的奥秘！.png" group-title="[🐠-一起看]",我也想要一个千反田-悬疑-【美食纪录片】一起了解中华美食的奥秘！
-http://ruk1ng.serv00.net:19527/douyu/f5f04af93b780da5a6ae2ca09e888e2d
-#EXTINF:-1 tvg-name="菜b惊怂院-悬疑-【麓山迷踪】邪 虐 异 染 绝" tvg-logo="https://live.fanmingming.com/tv/菜b惊怂院-悬疑-【麓山迷踪】邪 虐 异 染 绝.png" group-title="[🐠-一起看]",菜b惊怂院-悬疑-【麓山迷踪】邪 虐 异 染 绝
-http://ruk1ng.serv00.net:19527/douyu/a70a01fb0377d5184d6f0be9baf4f39a
-#EXTINF:-1 tvg-name="叶wl子-悬疑-元芳，搬板凳来，给主播点点关注" tvg-logo="https://live.fanmingming.com/tv/叶wl子-悬疑-元芳，搬板凳来，给主播点点关注.png" group-title="[🐠-一起看]",叶wl子-悬疑-元芳，搬板凳来，给主播点点关注
-http://ruk1ng.serv00.net:19527/douyu/79d0e7a817559b7d4d804f35d2e1378f
-#EXTINF:-1 tvg-name="咸鱼翻身是另一面咸鱼-悬疑-放空了一起待会吧" tvg-logo="https://live.fanmingming.com/tv/咸鱼翻身是另一面咸鱼-悬疑-放空了一起待会吧.png" group-title="[🐠-一起看]",咸鱼翻身是另一面咸鱼-悬疑-放空了一起待会吧
-http://ruk1ng.serv00.net:19527/douyu/aa79883d5f22dfaee716a664769abce2
-#EXTINF:-1 tvg-name="浅溪竹影-悬疑-每个细节都可能是线索" tvg-logo="https://live.fanmingming.com/tv/浅溪竹影-悬疑-每个细节都可能是线索.png" group-title="[🐠-一起看]",浅溪竹影-悬疑-每个细节都可能是线索
-http://ruk1ng.serv00.net:19527/douyu/77cc8b4e814075ed5f5c0d4a5297faca
-#EXTINF:-1 tvg-name="智仗心-悬疑-胡八一 ：胖子促发剧情" tvg-logo="https://live.fanmingming.com/tv/智仗心-悬疑-胡八一 ：胖子促发剧情.png" group-title="[🐠-一起看]",智仗心-悬疑-胡八一 ：胖子促发剧情
-http://ruk1ng.serv00.net:19527/douyu/ebfbd64964d2e97bc9648367e2b676d3
-#EXTINF:-1 tvg-name="CmoStar-悬疑-脑洞短剧 玩的就是梗" tvg-logo="https://live.fanmingming.com/tv/CmoStar-悬疑-脑洞短剧 玩的就是梗.png" group-title="[🐠-一起看]",CmoStar-悬疑-脑洞短剧 玩的就是梗
-http://ruk1ng.serv00.net:19527/douyu/4363406be5bc0d1d24ec8a00578bf4c3
-#EXTINF:-1 tvg-name="和平方法-爱情-9650792的直播间" tvg-logo="https://live.fanmingming.com/tv/和平方法-爱情-9650792的直播间.png" group-title="[🐠-一起看]",和平方法-爱情-9650792的直播间
-http://ruk1ng.serv00.net:19527/douyu/2f2be522f9edfa7bb50c01674d8ba868
-#EXTINF:-1 tvg-name="聚聚聚一个月-爱情-【倍速播放】快乐会加倍！" tvg-logo="https://live.fanmingming.com/tv/聚聚聚一个月-爱情-【倍速播放】快乐会加倍！.png" group-title="[🐠-一起看]",聚聚聚一个月-爱情-【倍速播放】快乐会加倍！
-http://ruk1ng.serv00.net:19527/douyu/b2d0965fa64209b011b25754b1edd7f4
-#EXTINF:-1 tvg-name="南南AKRAPOVIC-科幻-【僵尸】化为自己的力量然后就无坚不摧" tvg-logo="https://live.fanmingming.com/tv/南南AKRAPOVIC-科幻-【僵尸】化为自己的力量然后就无坚不摧.png" group-title="[🐠-一起看]",南南AKRAPOVIC-科幻-【僵尸】化为自己的力量然后就无坚不摧
-http://ruk1ng.serv00.net:19527/douyu/b419facb1536809de8bc15328ba9a28c
-#EXTINF:-1 tvg-name="pipi丫-科幻-【变种人】除掉任何阻碍我们的人" tvg-logo="https://live.fanmingming.com/tv/pipi丫-科幻-【变种人】除掉任何阻碍我们的人.png" group-title="[🐠-一起看]",pipi丫-科幻-【变种人】除掉任何阻碍我们的人
-http://ruk1ng.serv00.net:19527/douyu/5576bcff34acd1ded856afe4773e5fee
-#EXTINF:-1 tvg-name="透明的糖罐子-科幻-【小白影院】60帧 蓝光影院" tvg-logo="https://live.fanmingming.com/tv/透明的糖罐子-科幻-【小白影院】60帧 蓝光影院.png" group-title="[🐠-一起看]",透明的糖罐子-科幻-【小白影院】60帧 蓝光影院
-http://ruk1ng.serv00.net:19527/douyu/23c576a897cd8855ad6d2bf18068eee2
-#EXTINF:-1 tvg-name="鱼小丸梓-科幻-【漫威】漫威主线剧情 最佳观影顺序" tvg-logo="https://live.fanmingming.com/tv/鱼小丸梓-科幻-【漫威】漫威主线剧情 最佳观影顺序.png" group-title="[🐠-一起看]",鱼小丸梓-科幻-【漫威】漫威主线剧情 最佳观影顺序
-http://ruk1ng.serv00.net:19527/douyu/c48e7a7fe392229f16a333fc3dd9c97f
-#EXTINF:-1 tvg-name="昆特牌之大哥食正野-科幻-【粤语】看的不是电影【是回忆】求关注" tvg-logo="https://live.fanmingming.com/tv/昆特牌之大哥食正野-科幻-【粤语】看的不是电影【是回忆】求关注.png" group-title="[🐠-一起看]",昆特牌之大哥食正野-科幻-【粤语】看的不是电影【是回忆】求关注
-http://ruk1ng.serv00.net:19527/douyu/78e939cc1334895e3658e576cbfc79a5
-#EXTINF:-1 tvg-name="苹果Zei妖-科幻-【经典巨制】欧美大片" tvg-logo="https://live.fanmingming.com/tv/苹果Zei妖-科幻-【经典巨制】欧美大片.png" group-title="[🐠-一起看]",苹果Zei妖-科幻-【经典巨制】欧美大片
-http://ruk1ng.serv00.net:19527/douyu/67a001f73f5b0c1d3f7f0f66ac7e9f5d
-#EXTINF:-1 tvg-name="一只究极蓝霸虎-科幻-【豆瓣高分】史上最佳影片大放送" tvg-logo="https://live.fanmingming.com/tv/一只究极蓝霸虎-科幻-【豆瓣高分】史上最佳影片大放送.png" group-title="[🐠-一起看]",一只究极蓝霸虎-科幻-【豆瓣高分】史上最佳影片大放送
-http://ruk1ng.serv00.net:19527/douyu/35b7a07d51f9ba33e0fdee65f9421ffc
-#EXTINF:-1 tvg-name="芊珏ovo-科幻-【霍格沃茨】伟大引起嫉妒，嫉妒导致怨毒" tvg-logo="https://live.fanmingming.com/tv/芊珏ovo-科幻-【霍格沃茨】伟大引起嫉妒，嫉妒导致怨毒.png" group-title="[🐠-一起看]",芊珏ovo-科幻-【霍格沃茨】伟大引起嫉妒，嫉妒导致怨毒
-http://ruk1ng.serv00.net:19527/douyu/7362043fdb32d9f12d773de2d181472a
-#EXTINF:-1 tvg-name="猫咪电影-科幻-漫威宇宙主线剧情最佳观影顺序" tvg-logo="https://live.fanmingming.com/tv/猫咪电影-科幻-漫威宇宙主线剧情最佳观影顺序.png" group-title="[🐠-一起看]",猫咪电影-科幻-漫威宇宙主线剧情最佳观影顺序
-http://ruk1ng.serv00.net:19527/douyu/b367715bf2792422a2980bf57bbea81c
-#EXTINF:-1 tvg-name="下饭电影007-科幻-科幻大放映" tvg-logo="https://live.fanmingming.com/tv/下饭电影007-科幻-科幻大放映.png" group-title="[🐠-一起看]",下饭电影007-科幻-科幻大放映
-http://ruk1ng.serv00.net:19527/douyu/9f42845f6688fe500db2df45bd5e1a41
-#EXTINF:-1 tvg-name="大東一家-科幻-老了菜了啊" tvg-logo="https://live.fanmingming.com/tv/大東一家-科幻-老了菜了啊.png" group-title="[🐠-一起看]",大東一家-科幻-老了菜了啊
-http://ruk1ng.serv00.net:19527/douyu/ef0dfe142b9d08c8fe8e1f007bea4a31
-#EXTINF:-1 tvg-name="Aan2619742-综合-Aan2619742的直播间" tvg-logo="https://live.fanmingming.com/tv/Aan2619742-综合-Aan2619742的直播间.png" group-title="[🐠-一起看]",Aan2619742-综合-Aan2619742的直播间
-http://ruk1ng.serv00.net:19527/douyu/b041dc2067481c36996953a2310799f6
-#EXTINF:-1 tvg-name="boushit-综合-boushit的直播间" tvg-logo="https://live.fanmingming.com/tv/boushit-综合-boushit的直播间.png" group-title="[🐠-一起看]",boushit-综合-boushit的直播间
-http://ruk1ng.serv00.net:19527/douyu/0c9b7e89c662e413401c33bbc93ca8ac
-#EXTINF:-1 tvg-name="腊月小九-综合-Mrs腊月小九" tvg-logo="https://live.fanmingming.com/tv/腊月小九-综合-Mrs腊月小九.png" group-title="[🐠-一起看]",腊月小九-综合-Mrs腊月小九
-http://ruk1ng.serv00.net:19527/douyu/64234bd06f3fe996d19a2eb421abe65f
-#EXTINF:-1 tvg-name="刘少丶7012-综合-【RM-点播】点播！模式-24H欢乐不断" tvg-logo="https://live.fanmingming.com/tv/刘少丶7012-综合-【RM-点播】点播！模式-24H欢乐不断.png" group-title="[🐠-一起看]",刘少丶7012-综合-【RM-点播】点播！模式-24H欢乐不断
-http://ruk1ng.serv00.net:19527/douyu/d81feba132f97f8ae11dd9ee0f7ed383
-#EXTINF:-1 tvg-name="叶尘说电影-综合-【叶尘】N分钟带你看完大片" tvg-logo="https://live.fanmingming.com/tv/叶尘说电影-综合-【叶尘】N分钟带你看完大片.png" group-title="[🐠-一起看]",叶尘说电影-综合-【叶尘】N分钟带你看完大片
-http://ruk1ng.serv00.net:19527/douyu/2c9562266ffddf6ef6792d15780a8f3a
-#EXTINF:-1 tvg-name="超喜欢你的小宇-综合-【小宇】经典永不过时~~~" tvg-logo="https://live.fanmingming.com/tv/超喜欢你的小宇-综合-【小宇】经典永不过时~~~.png" group-title="[🐠-一起看]",超喜欢你的小宇-综合-【小宇】经典永不过时~~~
-http://ruk1ng.serv00.net:19527/douyu/0d09abd0b930b32bcb3060f069443274
-#EXTINF:-1 tvg-name="粤语电影丶-综合-【粤语电影】吴孟达 达叔 周星驰 经典" tvg-logo="https://live.fanmingming.com/tv/粤语电影丶-综合-【粤语电影】吴孟达 达叔 周星驰 经典.png" group-title="[🐠-一起看]",粤语电影丶-综合-【粤语电影】吴孟达 达叔 周星驰 经典
-http://ruk1ng.serv00.net:19527/douyu/32b0593eb4a2b092b5fd9a255428e10e
-#EXTINF:-1 tvg-name="蕃薯粥粥煮好了-综合-【西关大院】粤语学习" tvg-logo="https://live.fanmingming.com/tv/蕃薯粥粥煮好了-综合-【西关大院】粤语学习.png" group-title="[🐠-一起看]",蕃薯粥粥煮好了-综合-【西关大院】粤语学习
-http://ruk1ng.serv00.net:19527/douyu/b906bf09e7af3d7c982504f12f1dae70
-#EXTINF:-1 tvg-name="牛肉饭OvO-综合-今晚吃鸡啊" tvg-logo="https://live.fanmingming.com/tv/牛肉饭OvO-综合-今晚吃鸡啊.png" group-title="[🐠-一起看]",牛肉饭OvO-综合-今晚吃鸡啊
-http://ruk1ng.serv00.net:19527/douyu/b69b35a4e2c4d242793e9e727ba4e3e5
-#EXTINF:-1 tvg-name="二蛋的传说a-综合-做道“酸菜黑鱼”，鲜嫩味美" tvg-logo="https://live.fanmingming.com/tv/二蛋的传说a-综合-做道“酸菜黑鱼”，鲜嫩味美.png" group-title="[🐠-一起看]",二蛋的传说a-综合-做道“酸菜黑鱼”，鲜嫩味美
-http://ruk1ng.serv00.net:19527/douyu/2fabb2b7ec66d6279bd8d186c1596569
-#EXTINF:-1 tvg-name="胖龙的小生活-综合-全网最嚣张吃法 隔着屏幕流口水" tvg-logo="https://live.fanmingming.com/tv/胖龙的小生活-综合-全网最嚣张吃法 隔着屏幕流口水.png" group-title="[🐠-一起看]",胖龙的小生活-综合-全网最嚣张吃法 隔着屏幕流口水
-http://ruk1ng.serv00.net:19527/douyu/8884a71be3f3ce7c7934e78c28afac05
-#EXTINF:-1 tvg-name="傲天皇妃sama-综合-养老院☞总会有你可能喜欢的节目吧" tvg-logo="https://live.fanmingming.com/tv/傲天皇妃sama-综合-养老院☞总会有你可能喜欢的节目吧.png" group-title="[🐠-一起看]",傲天皇妃sama-综合-养老院☞总会有你可能喜欢的节目吧
-http://ruk1ng.serv00.net:19527/douyu/ccf60782411f20036f66d9736b0c1625
-#EXTINF:-1 tvg-name="怀旧经典影视汇-综合-原画【周星驰】李连杰 林正英 成龙 丹哥" tvg-logo="https://live.fanmingming.com/tv/怀旧经典影视汇-综合-原画【周星驰】李连杰 林正英 成龙 丹哥.png" group-title="[🐠-一起看]",怀旧经典影视汇-综合-原画【周星驰】李连杰 林正英 成龙 丹哥
-http://ruk1ng.serv00.net:19527/douyu/9e6a77774410713693df9fe49a1d3daa
-#EXTINF:-1 tvg-name="安安601801-综合-吃饭点到了" tvg-logo="https://live.fanmingming.com/tv/安安601801-综合-吃饭点到了.png" group-title="[🐠-一起看]",安安601801-综合-吃饭点到了
-http://ruk1ng.serv00.net:19527/douyu/a3fd41ef63fb24d7ea1dd2d3e596e7f3
-#EXTINF:-1 tvg-name="喵喵喵的猫酱酱-综合-喵喵喵的猫酱酱的直播间" tvg-logo="https://live.fanmingming.com/tv/喵喵喵的猫酱酱-综合-喵喵喵的猫酱酱的直播间.png" group-title="[🐠-一起看]",喵喵喵的猫酱酱-综合-喵喵喵的猫酱酱的直播间
-http://ruk1ng.serv00.net:19527/douyu/d6e9bd24978c72dd919ac849a7f6e34f
-#EXTINF:-1 tvg-name="大庆在农村-综合-大庆在农村的直播间" tvg-logo="https://live.fanmingming.com/tv/大庆在农村-综合-大庆在农村的直播间.png" group-title="[🐠-一起看]",大庆在农村-综合-大庆在农村的直播间
-http://ruk1ng.serv00.net:19527/douyu/e015bb589a89148fc3c2ffd1b593399b
-#EXTINF:-1 tvg-name="丶丶丶九月丶丶丶-综合-妈妈都喜欢看的粤语剧" tvg-logo="https://live.fanmingming.com/tv/丶丶丶九月丶丶丶-综合-妈妈都喜欢看的粤语剧.png" group-title="[🐠-一起看]",丶丶丶九月丶丶丶-综合-妈妈都喜欢看的粤语剧
-http://ruk1ng.serv00.net:19527/douyu/1120e6433731083d0ccc10b90fd9902a
-#EXTINF:-1 tvg-name="微梦屋-综合-帕鲁的世界" tvg-logo="https://live.fanmingming.com/tv/微梦屋-综合-帕鲁的世界.png" group-title="[🐠-一起看]",微梦屋-综合-帕鲁的世界
-http://ruk1ng.serv00.net:19527/douyu/b551a02dc9007c6eab4e96aa47db018d
-#EXTINF:-1 tvg-name="米白的乌柿-综合-恐怖电影&nbsp;惊悚&nbsp;灾难" tvg-logo="https://live.fanmingming.com/tv/米白的乌柿-综合-恐怖电影&nbsp;惊悚&nbsp;灾难.png" group-title="[🐠-一起看]",米白的乌柿-综合-恐怖电影&nbsp;惊悚&nbsp;灾难
-http://ruk1ng.serv00.net:19527/douyu/ffd526f4e8390bffdbcf72cc7423a50b
-#EXTINF:-1 tvg-name="林大仙DX-综合-林大仙开箱试吃" tvg-logo="https://live.fanmingming.com/tv/林大仙DX-综合-林大仙开箱试吃.png" group-title="[🐠-一起看]",林大仙DX-综合-林大仙开箱试吃
-http://ruk1ng.serv00.net:19527/douyu/781238f94948e76cfc34d5fd5a784fcc
-#EXTINF:-1 tvg-name="小美电影经典港片-综合-林正英僵尸片小姐姐陪看" tvg-logo="https://live.fanmingming.com/tv/小美电影经典港片-综合-林正英僵尸片小姐姐陪看.png" group-title="[🐠-一起看]",小美电影经典港片-综合-林正英僵尸片小姐姐陪看
-http://ruk1ng.serv00.net:19527/douyu/5ad58550e589fd282c46de2027f10cd9
-#EXTINF:-1 tvg-name="大蒙乡味-综合-没有不敢吃的，一个吃货的表白" tvg-logo="https://live.fanmingming.com/tv/大蒙乡味-综合-没有不敢吃的，一个吃货的表白.png" group-title="[🐠-一起看]",大蒙乡味-综合-没有不敢吃的，一个吃货的表白
-http://ruk1ng.serv00.net:19527/douyu/9f31762f2b368c49cd76662932f6f412
-#EXTINF:-1 tvg-name="添喜lucklily-综合-浙江遂昌美食——炒黄未馃" tvg-logo="https://live.fanmingming.com/tv/添喜lucklily-综合-浙江遂昌美食——炒黄未馃.png" group-title="[🐠-一起看]",添喜lucklily-综合-浙江遂昌美食——炒黄未馃
-http://ruk1ng.serv00.net:19527/douyu/312280eae7317ef9c12ba1b0abc5b086
-#EXTINF:-1 tvg-name="一起看港剧-综合-港剧:最最最经典怀旧的电视剧" tvg-logo="https://live.fanmingming.com/tv/一起看港剧-综合-港剧:最最最经典怀旧的电视剧.png" group-title="[🐠-一起看]",一起看港剧-综合-港剧:最最最经典怀旧的电视剧
-http://ruk1ng.serv00.net:19527/douyu/7e51a87ac7c146586344cd4a7299da71
-#EXTINF:-1 tvg-name="潘姥姥美食-综合-潘姥姥美食的直播间" tvg-logo="https://live.fanmingming.com/tv/潘姥姥美食-综合-潘姥姥美食的直播间.png" group-title="[🐠-一起看]",潘姥姥美食-综合-潘姥姥美食的直播间
-http://ruk1ng.serv00.net:19527/douyu/904ef418ea79f284a19cc5a60eac862f
-#EXTINF:-1 tvg-name="用户4158070243-综合-用户4158070243的直播间" tvg-logo="https://live.fanmingming.com/tv/用户4158070243-综合-用户4158070243的直播间.png" group-title="[🐠-一起看]",用户4158070243-综合-用户4158070243的直播间
-http://ruk1ng.serv00.net:19527/douyu/40757dccc87789df0e8e203474ebf678
-#EXTINF:-1 tvg-name="阿跃美食分享-综合-用户698850303的直播间" tvg-logo="https://live.fanmingming.com/tv/阿跃美食分享-综合-用户698850303的直播间.png" group-title="[🐠-一起看]",阿跃美食分享-综合-用户698850303的直播间
-http://ruk1ng.serv00.net:19527/douyu/e28c4dab2cb81977af538095d6916c43
-#EXTINF:-1 tvg-name="用户8440489197-综合-用户8440489197的直播间" tvg-logo="https://live.fanmingming.com/tv/用户8440489197-综合-用户8440489197的直播间.png" group-title="[🐠-一起看]",用户8440489197-综合-用户8440489197的直播间
-http://ruk1ng.serv00.net:19527/douyu/88ad757306f7d848135e8e9ff6448bad
-#EXTINF:-1 tvg-name="檬檬姐377-综合-电视剧 电影" tvg-logo="https://live.fanmingming.com/tv/檬檬姐377-综合-电视剧 电影.png" group-title="[🐠-一起看]",檬檬姐377-综合-电视剧 电影
-http://ruk1ng.serv00.net:19527/douyu/08ec381da57d71b68fe750ea21e5b2f5
-#EXTINF:-1 tvg-name="lemonB-综合-看奈总索尔杯英姿" tvg-logo="https://live.fanmingming.com/tv/lemonB-综合-看奈总索尔杯英姿.png" group-title="[🐠-一起看]",lemonB-综合-看奈总索尔杯英姿
-http://ruk1ng.serv00.net:19527/douyu/fe7cfdce6b0a7a668fe6e28c35540c01
-#EXTINF:-1 tvg-name="米奇行McGo-综合-米奇de日常" tvg-logo="https://live.fanmingming.com/tv/米奇行McGo-综合-米奇de日常.png" group-title="[🐠-一起看]",米奇行McGo-综合-米奇de日常
-http://ruk1ng.serv00.net:19527/douyu/697ec23609f1264ff3a008e1cb647085
-#EXTINF:-1 tvg-name="cc雲淡風轻-综合-老高与小茉今天填坑了吗~" tvg-logo="https://live.fanmingming.com/tv/cc雲淡風轻-综合-老高与小茉今天填坑了吗~.png" group-title="[🐠-一起看]",cc雲淡風轻-综合-老高与小茉今天填坑了吗~
-http://ruk1ng.serv00.net:19527/douyu/38db1228c01cb1c137a3896f734879e9
-#EXTINF:-1 tvg-name="爱唱跳Rap的胖虎-综合-舌尖上的印度丨印度五兄弟-乡村美食" tvg-logo="https://live.fanmingming.com/tv/爱唱跳Rap的胖虎-综合-舌尖上的印度丨印度五兄弟-乡村美食.png" group-title="[🐠-一起看]",爱唱跳Rap的胖虎-综合-舌尖上的印度丨印度五兄弟-乡村美食
-http://ruk1ng.serv00.net:19527/douyu/f12e5606a35dd870058f18f1b1295dfa
-#EXTINF:-1 tvg-name="v刺猬猪v-综合-译制国语影片荟萃" tvg-logo="https://live.fanmingming.com/tv/v刺猬猪v-综合-译制国语影片荟萃.png" group-title="[🐠-一起看]",v刺猬猪v-综合-译制国语影片荟萃
-http://ruk1ng.serv00.net:19527/douyu/7c5fca40559c9b54d851e348fb987c53
-#EXTINF:-1 tvg-name="沈嘉楠i-综合-调整状态 勿忘" tvg-logo="https://live.fanmingming.com/tv/沈嘉楠i-综合-调整状态 勿忘.png" group-title="[🐠-一起看]",沈嘉楠i-综合-调整状态 勿忘
-http://ruk1ng.serv00.net:19527/douyu/bbf32e0d14a8b781aad4545bb2a47350
-#EXTINF:-1 tvg-name="荒野视界-综合-越南小哥的丛林生活" tvg-logo="https://live.fanmingming.com/tv/荒野视界-综合-越南小哥的丛林生活.png" group-title="[🐠-一起看]",荒野视界-综合-越南小哥的丛林生活
-http://ruk1ng.serv00.net:19527/douyu/7ca22e2779a6013fdcc1c9f0dea14232
-#EXTINF:-1 tvg-name="阿亮很神奇-综合-阿亮很神奇的直播间" tvg-logo="https://live.fanmingming.com/tv/阿亮很神奇-综合-阿亮很神奇的直播间.png" group-title="[🐠-一起看]",阿亮很神奇-综合-阿亮很神奇的直播间
-http://ruk1ng.serv00.net:19527/douyu/ab63d747a6ea5b7084b1a024196a81b7
-#EXTINF:-1 tvg-name="影视剧颜老师-陪看-4K❤影视剧❤武侠探案悬疑谍战动漫古装" tvg-logo="https://live.fanmingming.com/tv/影视剧颜老师-陪看-4K❤影视剧❤武侠探案悬疑谍战动漫古装.png" group-title="[🐠-一起看]",影视剧颜老师-陪看-4K❤影视剧❤武侠探案悬疑谍战动漫古装
-http://ruk1ng.serv00.net:19527/douyu/de460883eb25dc914f7fa80e33b3eac9
-#EXTINF:-1 tvg-name="电影院颜老师-陪看-4K❤电影院❤ 喜剧悬疑文艺科幻灾难动作" tvg-logo="https://live.fanmingming.com/tv/电影院颜老师-陪看-4K❤电影院❤ 喜剧悬疑文艺科幻灾难动作.png" group-title="[🐠-一起看]",电影院颜老师-陪看-4K❤电影院❤ 喜剧悬疑文艺科幻灾难动作
-http://ruk1ng.serv00.net:19527/douyu/780c2b028741861cd66a4572fffc6f1f
-#EXTINF:-1 tvg-name="追剧凌宝-陪看-[怀旧剧场]&nbsp;剧经典" tvg-logo="https://live.fanmingming.com/tv/追剧凌宝-陪看-[怀旧剧场]&nbsp;剧经典.png" group-title="[🐠-一起看]",追剧凌宝-陪看-[怀旧剧场]&nbsp;剧经典
-http://ruk1ng.serv00.net:19527/douyu/020024719ee43c022263dcb0de23a3af
-#EXTINF:-1 tvg-name="橙記Orange丶-陪看-░░「橙記最人气港剧间」░░" tvg-logo="https://live.fanmingming.com/tv/橙記Orange丶-陪看-░░「橙記最人气港剧间」░░.png" group-title="[🐠-一起看]",橙記Orange丶-陪看-░░「橙記最人气港剧间」░░
-http://ruk1ng.serv00.net:19527/douyu/a3b8e261ead426b12db837622f37a677
-#EXTINF:-1 tvg-name="安慕兮超好喝-陪看-✨庆帝✨云淡风轻正闲处，鲜衣怒马少年时" tvg-logo="https://live.fanmingming.com/tv/安慕兮超好喝-陪看-✨庆帝✨云淡风轻正闲处，鲜衣怒马少年时.png" group-title="[🐠-一起看]",安慕兮超好喝-陪看-✨庆帝✨云淡风轻正闲处，鲜衣怒马少年时
-http://ruk1ng.serv00.net:19527/douyu/67b7401d31f3fce3aad8105e1847522e
-#EXTINF:-1 tvg-name="韓美兮-陪看-✨美兮✨不可能 我二弟天下无敌✨" tvg-logo="https://live.fanmingming.com/tv/韓美兮-陪看-✨美兮✨不可能 我二弟天下无敌✨.png" group-title="[🐠-一起看]",韓美兮-陪看-✨美兮✨不可能 我二弟天下无敌✨
-http://ruk1ng.serv00.net:19527/douyu/89993a1b5a3cf092811db528366ec320
-#EXTINF:-1 tvg-name="冬熊零食铺-陪看-❀冬熊云放映❀" tvg-logo="https://live.fanmingming.com/tv/冬熊零食铺-陪看-❀冬熊云放映❀.png" group-title="[🐠-一起看]",冬熊零食铺-陪看-❀冬熊云放映❀
-http://ruk1ng.serv00.net:19527/douyu/a33f4b1dce5d7b15623280402549d491
-#EXTINF:-1 tvg-name="小姐姐不记得-陪看-❤️下饭神剧❤️" tvg-logo="https://live.fanmingming.com/tv/小姐姐不记得-陪看-❤️下饭神剧❤️.png" group-title="[🐠-一起看]",小姐姐不记得-陪看-❤️下饭神剧❤️
-http://ruk1ng.serv00.net:19527/douyu/2dffb0a45bf7aab7183ab4f1171d3738
-#EXTINF:-1 tvg-name="追梦凌宝-陪看-❤️凌儿❤️下饭电影　高分港剧" tvg-logo="https://live.fanmingming.com/tv/追梦凌宝-陪看-❤️凌儿❤️下饭电影　高分港剧.png" group-title="[🐠-一起看]",追梦凌宝-陪看-❤️凌儿❤️下饭电影　高分港剧
-http://ruk1ng.serv00.net:19527/douyu/e6e596b7d2036ed5267e873a9cccbe2f
-#EXTINF:-1 tvg-name="女团社颜老师-陪看-❤️女团社❤️最新舞蹈MV音乐演唱会舞台" tvg-logo="https://live.fanmingming.com/tv/女团社颜老师-陪看-❤️女团社❤️最新舞蹈MV音乐演唱会舞台.png" group-title="[🐠-一起看]",女团社颜老师-陪看-❤️女团社❤️最新舞蹈MV音乐演唱会舞台
-http://ruk1ng.serv00.net:19527/douyu/f110a8dc551e2d645162f89147ff825e
-#EXTINF:-1 tvg-name="UU娇哒哒呀-陪看-❤️小U❤️丧尸 鬼片 恐怖 惊悚 电影" tvg-logo="https://live.fanmingming.com/tv/UU娇哒哒呀-陪看-❤️小U❤️丧尸 鬼片 恐怖 惊悚 电影.png" group-title="[🐠-一起看]",UU娇哒哒呀-陪看-❤️小U❤️丧尸 鬼片 恐怖 惊悚 电影
-http://ruk1ng.serv00.net:19527/douyu/4b8f2f77ee264dceb492e6d789313f6d
-#EXTINF:-1 tvg-name="怡宝妹妹丶-陪看-❤️怡寶❤️今天3倍亲密度哟" tvg-logo="https://live.fanmingming.com/tv/怡宝妹妹丶-陪看-❤️怡寶❤️今天3倍亲密度哟.png" group-title="[🐠-一起看]",怡宝妹妹丶-陪看-❤️怡寶❤️今天3倍亲密度哟
-http://ruk1ng.serv00.net:19527/douyu/41bb63246dbf272af67c54a941f3b271
-#EXTINF:-1 tvg-name="演唱会颜老师-陪看-❤️演唱会❤️最强专场流行音乐经典华语" tvg-logo="https://live.fanmingming.com/tv/演唱会颜老师-陪看-❤️演唱会❤️最强专场流行音乐经典华语.png" group-title="[🐠-一起看]",演唱会颜老师-陪看-❤️演唱会❤️最强专场流行音乐经典华语
-http://ruk1ng.serv00.net:19527/douyu/6eeee677e7f7cc1fa566d152b4342afa
-#EXTINF:-1 tvg-name="爱情公寓丶神乐-陪看-⭐曾小贤⭐胡一菲⭐第三季⭐" tvg-logo="https://live.fanmingming.com/tv/爱情公寓丶神乐-陪看-⭐曾小贤⭐胡一菲⭐第三季⭐.png" group-title="[🐠-一起看]",爱情公寓丶神乐-陪看-⭐曾小贤⭐胡一菲⭐第三季⭐
-http://ruk1ng.serv00.net:19527/douyu/f1115562c822ba5065c0b1b24af4e8e0
-#EXTINF:-1 tvg-name="何度哇-陪看-【4K珍藏】少女时代高画MV合集" tvg-logo="https://live.fanmingming.com/tv/何度哇-陪看-【4K珍藏】少女时代高画MV合集.png" group-title="[🐠-一起看]",何度哇-陪看-【4K珍藏】少女时代高画MV合集
-http://ruk1ng.serv00.net:19527/douyu/07e3cab51076959c7fb68125bf0aac2a
-#EXTINF:-1 tvg-name="电视剧僵尸约会-陪看-【久久】林正英 僵尸 女鬼 弹幕 护体" tvg-logo="https://live.fanmingming.com/tv/电视剧僵尸约会-陪看-【久久】林正英 僵尸 女鬼 弹幕 护体.png" group-title="[🐠-一起看]",电视剧僵尸约会-陪看-【久久】林正英 僵尸 女鬼 弹幕 护体
-http://ruk1ng.serv00.net:19527/douyu/15a588d804ab4e287e79ce7299bbed6a
-#EXTINF:-1 tvg-name="Poison丶冰冰-陪看-【冰冰冰冰】恐怖 经典 喜剧 和你一起" tvg-logo="https://live.fanmingming.com/tv/Poison丶冰冰-陪看-【冰冰冰冰】恐怖 经典 喜剧 和你一起.png" group-title="[🐠-一起看]",Poison丶冰冰-陪看-【冰冰冰冰】恐怖 经典 喜剧 和你一起
-http://ruk1ng.serv00.net:19527/douyu/ae5f58e76d0c73abcdb037c629b0103b
-#EXTINF:-1 tvg-name="进击D神乐-陪看-【周星驰】星爷 电影 喜剧 经典 神乐" tvg-logo="https://live.fanmingming.com/tv/进击D神乐-陪看-【周星驰】星爷 电影 喜剧 经典 神乐.png" group-title="[🐠-一起看]",进击D神乐-陪看-【周星驰】星爷 电影 喜剧 经典 神乐
-http://ruk1ng.serv00.net:19527/douyu/f88f5bdac4b220117f6578eb7416968b
-#EXTINF:-1 tvg-name="伊太刀刀-陪看-【女神金】60帧 蓝光原画 刀刀陪看" tvg-logo="https://live.fanmingming.com/tv/伊太刀刀-陪看-【女神金】60帧 蓝光原画 刀刀陪看.png" group-title="[🐠-一起看]",伊太刀刀-陪看-【女神金】60帧 蓝光原画 刀刀陪看
-http://ruk1ng.serv00.net:19527/douyu/de39e833777b21d562a450f86e5d4aaa
-#EXTINF:-1 tvg-name="Rainsun宇-陪看-【小宇60帧】科幻灾难电影 陪看主播" tvg-logo="https://live.fanmingming.com/tv/Rainsun宇-陪看-【小宇60帧】科幻灾难电影 陪看主播.png" group-title="[🐠-一起看]",Rainsun宇-陪看-【小宇60帧】科幻灾难电影 陪看主播
-http://ruk1ng.serv00.net:19527/douyu/d84013f6dec5b86dd069380581220064
-#EXTINF:-1 tvg-name="萌小鬼-陪看-【小鬼点播】动作 喜剧 经典 华语" tvg-logo="https://live.fanmingming.com/tv/萌小鬼-陪看-【小鬼点播】动作 喜剧 经典 华语.png" group-title="[🐠-一起看]",萌小鬼-陪看-【小鬼点播】动作 喜剧 经典 华语
-http://ruk1ng.serv00.net:19527/douyu/acf187675a616e59dd804f59e5f4ff81
-#EXTINF:-1 tvg-name="坐空城等一人-陪看-【影视剧】总有一部你喜欢的经典影视" tvg-logo="https://live.fanmingming.com/tv/坐空城等一人-陪看-【影视剧】总有一部你喜欢的经典影视.png" group-title="[🐠-一起看]",坐空城等一人-陪看-【影视剧】总有一部你喜欢的经典影视
-http://ruk1ng.serv00.net:19527/douyu/120b0badcad07f8244172a3a080b3865
-#EXTINF:-1 tvg-name="丶小跟班丿瑶瑶-陪看-【瑶瑶】童年阴影 鬼片 恐怖 惊悚" tvg-logo="https://live.fanmingming.com/tv/丶小跟班丿瑶瑶-陪看-【瑶瑶】童年阴影 鬼片 恐怖 惊悚.png" group-title="[🐠-一起看]",丶小跟班丿瑶瑶-陪看-【瑶瑶】童年阴影 鬼片 恐怖 惊悚
-http://ruk1ng.serv00.net:19527/douyu/73dbb2c28386be1568cdbbd4ac895f3e
-#EXTINF:-1 tvg-name="苟或不是狗货-陪看-【电影天堂】优秀电影展播" tvg-logo="https://live.fanmingming.com/tv/苟或不是狗货-陪看-【电影天堂】优秀电影展播.png" group-title="[🐠-一起看]",苟或不是狗货-陪看-【电影天堂】优秀电影展播
-http://ruk1ng.serv00.net:19527/douyu/335c802e9ddcf5a27ab231a0c6d94851
-#EXTINF:-1 tvg-name="春卷大师-陪看-【花卷陪看】豆瓣高评分电影" tvg-logo="https://live.fanmingming.com/tv/春卷大师-陪看-【花卷陪看】豆瓣高评分电影.png" group-title="[🐠-一起看]",春卷大师-陪看-【花卷陪看】豆瓣高评分电影
-http://ruk1ng.serv00.net:19527/douyu/154755907c9caf0daa36d543495d9e6d
-#EXTINF:-1 tvg-name="安全套不套-陪看-【表妹】国产青春 动作 喜剧轮播" tvg-logo="https://live.fanmingming.com/tv/安全套不套-陪看-【表妹】国产青春 动作 喜剧轮播.png" group-title="[🐠-一起看]",安全套不套-陪看-【表妹】国产青春 动作 喜剧轮播
-http://ruk1ng.serv00.net:19527/douyu/715de42125c425c89402514ce47a99d5
-#EXTINF:-1 tvg-name="小粤兒-陪看-【话事人】粤语【周星驰】【林正英】" tvg-logo="https://live.fanmingming.com/tv/小粤兒-陪看-【话事人】粤语【周星驰】【林正英】.png" group-title="[🐠-一起看]",小粤兒-陪看-【话事人】粤语【周星驰】【林正英】
-http://ruk1ng.serv00.net:19527/douyu/bf96b6ee0ff3be5bf7c609b6d7184aa1
-#EXTINF:-1 tvg-name="狂拽酷炫-陪看-【贝爷MAX厅】60帧电影 科幻 动作" tvg-logo="https://live.fanmingming.com/tv/狂拽酷炫-陪看-【贝爷MAX厅】60帧电影 科幻 动作.png" group-title="[🐠-一起看]",狂拽酷炫-陪看-【贝爷MAX厅】60帧电影 科幻 动作
-http://ruk1ng.serv00.net:19527/douyu/deb5762480335c1784d4cdbc88d1d2ab
-#EXTINF:-1 tvg-name="酷炫小剧场-陪看-【贝爷影厅】小众电影 欧美 日韩 二号厅" tvg-logo="https://live.fanmingming.com/tv/酷炫小剧场-陪看-【贝爷影厅】小众电影 欧美 日韩 二号厅.png" group-title="[🐠-一起看]",酷炫小剧场-陪看-【贝爷影厅】小众电影 欧美 日韩 二号厅
-http://ruk1ng.serv00.net:19527/douyu/c87eb1611f2ab8e9738c56ae182f8950
-#EXTINF:-1 tvg-name="baby丶贝贝-陪看-【贝贝】今日3倍亲密度~武汉妹子陪看！" tvg-logo="https://live.fanmingming.com/tv/baby丶贝贝-陪看-【贝贝】今日3倍亲密度~武汉妹子陪看！.png" group-title="[🐠-一起看]",baby丶贝贝-陪看-【贝贝】今日3倍亲密度~武汉妹子陪看！
-http://ruk1ng.serv00.net:19527/douyu/00facc6d486cc2a1abb42fed31efadd1
-#EXTINF:-1 tvg-name="Only丶邵氏-陪看-【邵氏影院】经典武侠 动作 老电影你懂的" tvg-logo="https://live.fanmingming.com/tv/Only丶邵氏-陪看-【邵氏影院】经典武侠 动作 老电影你懂的.png" group-title="[🐠-一起看]",Only丶邵氏-陪看-【邵氏影院】经典武侠 动作 老电影你懂的
-http://ruk1ng.serv00.net:19527/douyu/6ca61fe35d7286503411f9c7a4ca24a9
-#EXTINF:-1 tvg-name="十七岁的道姑-陪看-【阿七点歌台】MV  热歌 经典 流行" tvg-logo="https://live.fanmingming.com/tv/十七岁的道姑-陪看-【阿七点歌台】MV  热歌 经典 流行.png" group-title="[🐠-一起看]",十七岁的道姑-陪看-【阿七点歌台】MV  热歌 经典 流行
-http://ruk1ng.serv00.net:19527/douyu/f72ab0abe83c04b015a2649e2c223f4e
-#EXTINF:-1 tvg-name="mn静静nm-陪看-【静静】经典电影 MV 周星驰 林正英" tvg-logo="https://live.fanmingming.com/tv/mn静静nm-陪看-【静静】经典电影 MV 周星驰 林正英.png" group-title="[🐠-一起看]",mn静静nm-陪看-【静静】经典电影 MV 周星驰 林正英
-http://ruk1ng.serv00.net:19527/douyu/41c84c76e8a46f50b1ea7540e75aedf4
-#EXTINF:-1 tvg-name="若轻云之蔽月兮-陪看-不羡鸳鸯不羡仙啊" tvg-logo="https://live.fanmingming.com/tv/若轻云之蔽月兮-陪看-不羡鸳鸯不羡仙啊.png" group-title="[🐠-一起看]",若轻云之蔽月兮-陪看-不羡鸳鸯不羡仙啊
-http://ruk1ng.serv00.net:19527/douyu/69b7fa5a731bd50e95bb88be78980ae3
-#EXTINF:-1 tvg-name="徐大sao-陪看-今天咱们吃一顿好的，持续更新.." tvg-logo="https://live.fanmingming.com/tv/徐大sao-陪看-今天咱们吃一顿好的，持续更新...png" group-title="[🐠-一起看]",徐大sao-陪看-今天咱们吃一顿好的，持续更新..
-http://ruk1ng.serv00.net:19527/douyu/5fa569e67f72e986fd87fa5c1a15121a
-#EXTINF:-1 tvg-name="小栗子呀Liz-陪看-今晚不见不散！" tvg-logo="https://live.fanmingming.com/tv/小栗子呀Liz-陪看-今晚不见不散！.png" group-title="[🐠-一起看]",小栗子呀Liz-陪看-今晚不见不散！
-http://ruk1ng.serv00.net:19527/douyu/7656268c2179a8ceec3a31b55697a863
-#EXTINF:-1 tvg-name="傲娇的超级赛亚人-陪看-傲娇的超级赛亚人的直播间" tvg-logo="https://live.fanmingming.com/tv/傲娇的超级赛亚人-陪看-傲娇的超级赛亚人的直播间.png" group-title="[🐠-一起看]",傲娇的超级赛亚人-陪看-傲娇的超级赛亚人的直播间
-http://ruk1ng.serv00.net:19527/douyu/4dc46bfb52bb5681660a531708a135dd
-#EXTINF:-1 tvg-name="一把钢刀镇斗虞-陪看-全网最清晰林正英僵尸道长" tvg-logo="https://live.fanmingming.com/tv/一把钢刀镇斗虞-陪看-全网最清晰林正英僵尸道长.png" group-title="[🐠-一起看]",一把钢刀镇斗虞-陪看-全网最清晰林正英僵尸道长
-http://ruk1ng.serv00.net:19527/douyu/0097d7c658aef95afd70baccb14a765f
-#EXTINF:-1 tvg-name="网神影厅-陪看-星爷 经典 喜剧 科幻 动作" tvg-logo="https://live.fanmingming.com/tv/网神影厅-陪看-星爷 经典 喜剧 科幻 动作.png" group-title="[🐠-一起看]",网神影厅-陪看-星爷 经典 喜剧 科幻 动作
-http://ruk1ng.serv00.net:19527/douyu/9fd162accc375c3b95ef9e38fb60ec94
-#EXTINF:-1 tvg-name="暗宋丘播-陪看-暗宋丘播的直播间" tvg-logo="https://live.fanmingming.com/tv/暗宋丘播-陪看-暗宋丘播的直播间.png" group-title="[🐠-一起看]",暗宋丘播-陪看-暗宋丘播的直播间
-http://ruk1ng.serv00.net:19527/douyu/042201f0a1c76464ab315779dfad5ea4
-#EXTINF:-1 tvg-name="浩贤说电影-陪看-浩贤说电影的直播间" tvg-logo="https://live.fanmingming.com/tv/浩贤说电影-陪看-浩贤说电影的直播间.png" group-title="[🐠-一起看]",浩贤说电影-陪看-浩贤说电影的直播间
-http://ruk1ng.serv00.net:19527/douyu/f1685fe55ab8104ce0ea069c1699d27a
-#EXTINF:-1 tvg-name="cym009-陪看-熟悉的她来了" tvg-logo="https://live.fanmingming.com/tv/cym009-陪看-熟悉的她来了.png" group-title="[🐠-一起看]",cym009-陪看-熟悉的她来了
-http://ruk1ng.serv00.net:19527/douyu/d77b25df15ee64c9c01bd4cebaf32c60
-#EXTINF:-1 tvg-name="珍珠奶茶嗯哼哎哟-陪看-粤语电影⭐周星驰 林正英 经典喜剧 白话" tvg-logo="https://live.fanmingming.com/tv/珍珠奶茶嗯哼哎哟-陪看-粤语电影⭐周星驰 林正英 经典喜剧 白话.png" group-title="[🐠-一起看]",珍珠奶茶嗯哼哎哟-陪看-粤语电影⭐周星驰 林正英 经典喜剧 白话
-http://ruk1ng.serv00.net:19527/douyu/310ad173f448b0054ff3fc508d64b5a3
-#EXTINF:-1 tvg-name="分享备用-陪看-西安直播轮播陪看" tvg-logo="https://live.fanmingming.com/tv/分享备用-陪看-西安直播轮播陪看.png" group-title="[🐠-一起看]",分享备用-陪看-西安直播轮播陪看
-http://ruk1ng.serv00.net:19527/douyu/684e709d3e43bb28e6b2e911ee7cc2cb
-#EXTINF:-1 tvg-name="竹叶的熊猫-陪看-音乐MV自助点播～" tvg-logo="https://live.fanmingming.com/tv/竹叶的熊猫-陪看-音乐MV自助点播～.png" group-title="[🐠-一起看]",竹叶的熊猫-陪看-音乐MV自助点播～
-http://ruk1ng.serv00.net:19527/douyu/7cab343fda182c5bb0db4a7ccc4305e7
-#EXTINF:-1 tvg-name="豆腐芭比-陪看-［豆腐集团］粤语港剧" tvg-logo="https://live.fanmingming.com/tv/豆腐芭比-陪看-［豆腐集团］粤语港剧.png" group-title="[🐠-一起看]",豆腐芭比-陪看-［豆腐集团］粤语港剧
-http://ruk1ng.serv00.net:19527/douyu/379642d67340711855de0fdf49570361
 #EXTINF:-1 tvg-name="重温经典" tvg-logo="https://live.fanmingming.com/tv/重温经典.png" group-title="📹斗鱼电影",重温经典
 http://cg12.hunancatv.cn:9090/live/CWJD.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=1503359536318867014&srchost=172.16.22.158:8060&gid=OHehEP1KV9FqguWiPXrX6Q%3D%3D
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="📹斗鱼电影",CHC动作电影
@@ -5339,8 +5211,6 @@ http://39.134.134.87/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226974/1.m3u
 http://39.134.135.81/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EXOsrWMA-UCdUl1hQSR9EKw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 tvg-name="北京IPTV淘电影" tvg-logo="https://live.fanmingming.com/tv/北京IPTV淘电影.png" group-title="📹斗鱼电影",北京IPTV淘电影
 http://pve.grayidea.com:4022//rtp/239.3.1.250:8001
-#EXTINF:-1 tvg-name="北京超清4K" tvg-logo="https://live.fanmingming.com/tv/北京超清4K.png" group-title="📹斗鱼电影",北京超清4K
-http://bjuni.iptv.im2k.com:5018/rtp/239.3.1.249:8001
 #EXTINF:-1 tvg-name="小宇60帧✔原" tvg-logo="https://live.fanmingming.com/tv/小宇60帧✔原.png" group-title="📹斗鱼电影",小宇60帧✔原
 http://maomao.kandiantv.cn/douyu1.php?id=323876
 #EXTINF:-1 tvg-name="恐怖惊悚✔原" tvg-logo="https://live.fanmingming.com/tv/恐怖惊悚✔原.png" group-title="📹斗鱼电影",恐怖惊悚✔原
