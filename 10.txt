@@ -482,7 +482,7 @@ tvbs新闻,http://61.221.215.25:8800/hls/9/index.m3u8
 八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
 DaAi 1,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 DaAi 2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-
+ANTV越南,http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
 
 
 
