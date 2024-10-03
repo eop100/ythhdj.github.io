@@ -1024,6 +1024,43 @@ CCTV兵器,http://59.32.97.44:9901/tsfile/live/23035_1.m3u8
 
 
 
+湖南-电信,#genre#
+CCTV1-综合,http://118.248.168.52:8088/tsfile/live/0001_1.m3u8?key=txiptv
+CCTV2-财经,http://118.248.168.52:8088/tsfile/live/0002_1.m3u8?key=txiptv
+CCTV3-综艺,http://118.248.168.52:8088/tsfile/live/0003_1.m3u8?key=txiptv
+CCTV4-国际,http://118.248.168.52:8088/tsfile/live/0004_1.m3u8?key=txiptv
+CCTV5-体育,http://118.248.168.52:8088/tsfile/live/0005_1.m3u8?key=txiptv
+CCTV6-电影,http://118.248.168.52:8088/tsfile/live/0006_1.m3u8?key=txiptv
+CCTV7-军农,http://118.248.168.52:8088/tsfile/live/0007_1.m3u8?key=txiptv
+CCTV8-电视剧,http://118.248.168.52:8088/tsfile/live/0008_1.m3u8?key=txiptv
+CCTV9-纪录,http://118.248.168.52:8088/tsfile/live/0009_1.m3u8?key=txiptv
+CCTV10-科教,http://118.248.168.52:8088/tsfile/live/0010_1.m3u8?key=txiptv
+CCTV11-戏曲,http://118.248.168.52:8088/tsfile/live/0011_1.m3u8?key=txiptv
+CCTV12-社会与法,http://118.248.168.52:8088/tsfile/live/0012_1.m3u8?key=txiptv
+CCTV13-新闻,http://118.248.168.52:8088/tsfile/live/0013_1.m3u8?key=txiptv
+CCTV14-少儿,http://118.248.168.52:8088/tsfile/live/0014_1.m3u8?key=txiptv
+CCTV15-音乐,http://118.248.168.52:8088/tsfile/live/0015_1.m3u8?key=txiptv
+湖南卫视高清,http://118.248.168.52:8088/tsfile/live/0002_2.m3u8?key=txiptv
+湖南都市高清,http://118.248.168.52:8088/tsfile/live/1002_1.m3u8?key=txiptv
+湖南娱乐高清,http://118.248.168.52:8088/tsfile/live/1005_1.m3u8?key=txiptv
+湖南金鹰卡通高清,http://118.248.168.52:8088/tsfile/live/1007_1.m3u8?key=txiptv
+江苏卫视高清,http://118.248.168.52:8088/tsfile/live/0107_1.m3u8?key=txiptv
+浙江卫视,http://118.248.168.52:8088/tsfile/live/0130_1.m3u8?key=txiptv
+安徽卫视高清,http://118.248.168.52:8088/tsfile/live/0126_1.m3u8?key=txiptv
+北京卫视高清,http://118.248.168.52:8088/tsfile/live/0135_1.m3u8?key=txiptv
+东方卫视高清,http://118.248.168.52:8088/tsfile/live/0121_1.m3u8?key=txiptv
+江西卫视高清,http://118.248.168.52:8088/tsfile/live/0131_1.m3u8?key=txiptv
+深圳卫视高清,http://118.248.168.52:8088/tsfile/live/0143_1.m3u8?key=txiptv
+辽宁卫视高清,http://118.248.168.52:8088/tsfile/live/0142_1.m3u8?key=txiptv
+东南卫视高清,http://118.248.168.52:8088/tsfile/live/0113_1.m3u8?key=txiptv
+广东卫视高清,http://118.248.168.52:8088/tsfile/live/0137_1.m3u8?key=txiptv
+山东卫视高清,http://118.248.168.52:8088/tsfile/live/0139_1.m3u8?key=txiptv
+贵州卫视高清,http://118.248.168.52:8088/tsfile/live/0122_1.m3u8?key=txiptv
+IPTV体育高清,http://118.248.168.52:8088/tsfile/live/0131_2.m3u8?key=txiptv
+
+
+
+
 
 
 
