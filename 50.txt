@@ -127,7 +127,7 @@ ANTV越南,http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
 
 
 
-🛰️电视直播,#genre#
+
 🛰️电视直播,#genre#
 CCTV1,http://222.84.192.163:8181/tsfile/live/0001_1.m3u8
 CCTV1,http://59.173.183.242:9901/tsfile/live/0001_1.m3u8
