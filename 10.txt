@@ -1679,6 +1679,16 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 
 
 
+贵州频道,#genre#
+贵州卫视,http://58.144.154.93/9bwaz8y2.gzstv.com/live/CH01_lo.m3u8
+贵州移动电视,http://58.144.154.93/9bwaz8y2.gzstv.com/live/CH13_lo.m3u8
+贵州公共,http://58.144.154.93/9bwaz8y2.gzstv.com/live/CH02_lo.m3u8
+贵州影视,http://58.144.154.93/9bwaz8y2.gzstv.com/live/CH03_lo.m3u8
+贵州生活,http://58.144.154.93/9bwaz8y2.gzstv.com/live/CH04_lo.m3u8
+贵州法制,http://58.144.154.93/9bwaz8y2.gzstv.com/live/CH05_lo.m3u8
+贵州科教,http://58.144.154.93/9bwaz8y2.gzstv.com/live/CH06_lo.m3u8
+贵州经济,http://58.144.154.93/9bwaz8y2.gzstv.com/live/CH09_lo.m3u8
+
 
 
 
