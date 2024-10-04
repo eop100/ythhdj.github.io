@@ -588,7 +588,7 @@ ANTV越南,http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
 
 
 
-🛰️电视直播,#genre#
+电视直播,#genre#
 CCTV1,http://119.125.104.246:9901/tsfile/live/1015_1.m3u8
 CCTV1,http://119.125.134.215:9902/tsfile/live/0001_1.m3u8
 CCTV1,http://124.228.160.2:9901/tsfile/live/0017_1.m3u8?key=txiptv
@@ -2394,7 +2394,7 @@ CCTV5+,http://222.241.154.37:9901/tsfile/live/23018_1.m3u8?key=txiptv
 
 
 
-🌍新国信,#genre#
+新国信,#genre#
 CCTV1高清,http://116.128.242.83:9901/tsfile/live/0001_1.m3u8?key=txiptv
 CCTV2高清,http://116.128.242.83:9901/tsfile/live/0002_1.m3u8?key=txiptv
 CCTV4高清,http://116.128.242.83:9901/tsfile/live/0004_1.m3u8?key=txiptv
@@ -2446,7 +2446,7 @@ CCTV15高清,http://116.128.242.83:9901/tsfile/live/0016_1.m3u8?key=txiptv
 
 
 
-🌍代理0819,#genre#
+代理0819,#genre#
 亚洲影院,http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=5841816227539527643
 澳门莲花,http://php.jdshipin.com:8880/amlh.php
 TVB星河台,http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe
@@ -2478,7 +2478,7 @@ TVB星河台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
 
 
 
-🌍广西贺州,#genre#
+广西贺州,#genre#
 CCTV1-综合,http://116.9.204.242:9901/tsfile/live/0001_1.m3u8?key=txiptv
 CCTV2-财经,http://116.9.204.242:9901/tsfile/live/0002_1.m3u8?key=txiptv
 CCTV3-综艺,http://116.9.204.242:9901/tsfile/live/0003_1.m3u8?key=txiptv
@@ -2637,7 +2637,7 @@ CCTVNEWS,http://61.175.237.198:1111/tsfile/live/0016_1.m3u8?key=txiptv
 
 
 
-🌍广东地区,#genre#
+广东地区,#genre#
 番禺电视台,http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
 广东珠江,http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=1000000004000011655
 
@@ -2675,20 +2675,6 @@ CCTVNEWS,http://61.175.237.198:1111/tsfile/live/0016_1.m3u8?key=txiptv
 河南梨园频道,http://125.47.75.154:8888/rtp/225.1.4.99:1128
 河南武术世界,http://125.47.75.154:8888/rtp/225.1.4.101:1130
 
-
-
-
-重庆-组播,#genre#
-重庆卫视,http://125.80.202.131:5555/rtp/235.254.196.249:1268
-CQTV影视,http://125.80.202.131:5555/rtp/235.254.198.180:7980
-CQTV都市,http://125.80.202.131:5555/rtp/235.254.198.181:7980
-CQTV时尚,http://125.80.202.131:5555/rtp/235.254.198.182:7980
-CQTV娱乐,http://125.80.202.131:5555/rtp/235.254.198.187:7980
-CQTV公共农村,http://125.80.202.131:5555/rtp/235.254.198.186:7980
-CQTV少儿,http://125.80.202.131:5555/rtp/235.254.196.214:1128
-CQTV科教,http://125.80.202.131:5555/rtp/235.254.196.215:1132
-CQTV汽摩,http://125.80.202.131:5555/rtp/235.254.196.221:1156
-睛彩重庆,http://125.80.202.131:5555/rtp/235.254.196.218:1146
 
 
 
