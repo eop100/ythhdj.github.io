@@ -29,7 +29,6 @@ CCTV4,http://110.189.102.15:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&a
 CCTV4,http://60.4.9.40:9901/tsfile/live/0004_1.m3u8
 CCTV4,http://123.53.220.144:9901/tsfile/live/0004_1.m3u8?key=txiptv
 CCTV4,http://60.4.9.230:9901/tsfile/live/0004_1.m3u8
-CCTV5,http://119.125.104.89:9901/tsfile/live/1019_1.m3u8
 CCTV5,http://119.125.134.137:9902/tsfile/live/0005_1.m3u8
 CCTV5,http://119.164.81.193:9901/tsfile/live/0005_1.m3u8
 CCTV5,http://115.48.22.43:9901/tsfile/live/1004_1.m3u8
@@ -38,7 +37,6 @@ CCTV5,http://110.189.102.15:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&a
 CCTV5,http://111.8.242.151:9902/tsfile/live/0005_1.m3u8
 CCTV5,http://60.4.9.40:9901/tsfile/live/0005_1.m3u8
 CCTV5,http://60.4.9.230:9901/tsfile/live/0005_1.m3u8
-CCTV5+,http://119.125.104.89:9901/tsfile/live/1020_1.m3u8
 CCTV5+,http://119.125.134.137:9902/tsfile/live/0016_1.m3u8
 CCTV5+,http://60.4.9.40:9901/tsfile/live/0016_1.m3u8
 CCTV5+,http://111.8.242.151:9902/tsfile/live/0017_1.m3u8
