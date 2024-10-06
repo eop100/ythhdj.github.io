@@ -1091,6 +1091,422 @@ http://123.53.220.144:9901/tsfile/live/1009_1.m3u8?key=txiptv
 http://123.53.220.144:9901/tsfile/live/1010_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-name="河南梨园频道" tvg-logo="https://live.fanmingming.com/tv/河南梨园频道.png" group-title="央卫",河南梨园频道
 http://123.53.220.144:9901/tsfile/live/1014_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视高清",CCTV1
+http://59.51.113.114:18888/udp/239.76.245.51:1234
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视高清",CCTV1
+http://59.51.113.114:18888/udp/239.76.246.151:1234
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视高清",CCTV1
+http://59.51.113.114:18888/udp/239.76.253.151:9000
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视高清",CCTV2
+http://59.51.113.114:18888/udp/239.76.253.152:9000
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视高清",CCTV2
+http://59.51.113.114:18888/udp/239.76.246.152:1234
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="央视高清",CCTV3
+http://59.51.113.114:18888/udp/239.76.246.153:1234
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="央视高清",CCTV3
+http://59.51.113.114:18888/udp/239.76.253.153:9000
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视高清",CCTV4
+http://59.51.113.114:18888/udp/239.76.246.154:1234
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视高清",CCTV4
+http://59.51.113.114:18888/udp/239.76.245.195:1234
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视高清",CCTV4
+http://59.51.113.114:18888/udp/239.76.253.154:9000
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视高清",CCTV5+
+http://59.51.113.114:18888/udp/239.76.253.168:9000
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视高清",CCTV5+
+http://59.51.113.114:18888/udp/239.76.246.168:1234
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视高清",CCTV5
+http://59.51.113.114:18888/udp/239.76.246.155:1234
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视高清",CCTV5
+http://59.51.113.114:18888/udp/239.76.253.155:9000
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="央视高清",CCTV6
+http://59.51.113.114:18888/udp/239.76.253.156:9000
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="央视高清",CCTV6
+http://59.51.113.114:18888/udp/239.76.246.156:1234
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="央视高清",CCTV7
+http://59.51.113.114:18888/udp/239.76.253.157:9000
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="央视高清",CCTV7
+http://59.51.113.114:18888/udp/239.76.246.157:1234
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="央视高清",CCTV8
+http://59.51.113.114:18888/udp/239.76.246.158:1234
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="央视高清",CCTV8
+http://59.51.113.114:18888/udp/239.76.253.158:9000
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="央视高清",CCTV9
+http://59.51.113.114:18888/udp/239.76.246.159:1234
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="央视高清",CCTV9
+http://59.51.113.114:18888/udp/239.76.253.159:9000
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="央视高清",CCTV10
+http://59.51.113.114:18888/udp/239.76.253.160:9000
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="央视高清",CCTV10
+http://59.51.113.114:18888/udp/239.76.246.160:1234
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="央视高清",CCTV11
+http://59.51.113.114:18888/udp/239.76.245.251:1234
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="央视高清",CCTV12
+http://59.51.113.114:18888/udp/239.76.253.162:9000
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="央视高清",CCTV12
+http://59.51.113.114:18888/udp/239.76.246.162:1234
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央视高清",CCTV13
+http://59.51.113.114:18888/udp/239.76.253.93:9000
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央视高清",CCTV13
+http://59.51.113.114:18888/udp/239.76.246.93:1234
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="央视高清",CCTV14
+http://59.51.113.114:18888/udp/239.76.253.164:9000
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="央视高清",CCTV14
+http://59.51.113.114:18888/udp/239.76.246.164:1234
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="央视高清",CCTV15
+http://59.51.113.114:18888/udp/239.76.245.252:1234
+#EXTINF:-1 tvg-name="CCTV16 4k" tvg-logo="https://live.fanmingming.com/tv/CCTV16 4k.png" group-title="央视高清",CCTV16 4k
+http://59.51.113.114:18888/udp/239.76.246.224:1234
+#EXTINF:-1 tvg-name="CCTV16 4K" tvg-logo="https://live.fanmingming.com/tv/CCTV16 4K.png" group-title="央视高清",CCTV16 4K
+http://59.51.113.114:18888/udp/239.76.253.230:9000
+#EXTINF:-1 tvg-name="CCTV16 4k" tvg-logo="https://live.fanmingming.com/tv/CCTV16 4k.png" group-title="央视高清",CCTV16 4k
+http://59.51.113.114:18888/udp/239.76.246.230:1234
+#EXTINF:-1 tvg-name="CCTV16 4K" tvg-logo="https://live.fanmingming.com/tv/CCTV16 4K.png" group-title="央视高清",CCTV16 4K
+http://59.51.113.114:18888/udp/239.76.253.224:9000
+#EXTINF:-1 tvg-name="CCTV16 4K" tvg-logo="https://live.fanmingming.com/tv/CCTV16 4K.png" group-title="央视高清",CCTV16 4K
+http://59.51.113.114:18888/udp/239.76.246.214:1234
+#EXTINF:-1 tvg-name="CCTV16 4K" tvg-logo="https://live.fanmingming.com/tv/CCTV16 4K.png" group-title="央视高清",CCTV16 4K
+http://59.51.113.114:18888/udp/239.76.254.200:9000
+#EXTINF:-1 tvg-name="CCTV16 4K" tvg-logo="https://live.fanmingming.com/tv/CCTV16 4K.png" group-title="央视高清",CCTV16 4K
+http://59.51.113.114:18888/udp/239.76.253.214:9000
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视高清",CCTV16
+http://59.51.113.114:18888/udp/239.76.246.98:1234
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视高清",CCTV16
+http://59.51.113.114:18888/udp/239.76.253.98:9000
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视高清",CCTV17
+http://59.51.113.114:18888/udp/239.76.245.238:1234
+#EXTINF:-1 tvg-name="CCTV央视文化精品" tvg-logo="https://live.fanmingming.com/tv/CCTV央视文化精品.png" group-title="央视高清",CCTV央视文化精品
+http://59.51.113.114:18888/udp/239.76.254.56:9000
+#EXTINF:-1 tvg-name="CCTV世界地理" tvg-logo="https://live.fanmingming.com/tv/CCTV世界地理.png" group-title="央视高清",CCTV世界地理
+http://59.51.113.114:18888/udp/239.76.254.57:9000
+#EXTINF:-1 tvg-name="CCTV兵器科技" tvg-logo="https://live.fanmingming.com/tv/CCTV兵器科技.png" group-title="央视高清",CCTV兵器科技
+http://59.51.113.114:18888/udp/239.76.254.59:9000
+#EXTINF:-1 tvg-name="CCTV怀旧剧场" tvg-logo="https://live.fanmingming.com/tv/CCTV怀旧剧场.png" group-title="央视高清",CCTV怀旧剧场
+http://59.51.113.114:18888/udp/239.76.254.53:9000
+#EXTINF:-1 tvg-name="CCTV女姓时尚" tvg-logo="https://live.fanmingming.com/tv/CCTV女姓时尚.png" group-title="央视高清",CCTV女姓时尚
+http://59.51.113.114:18888/udp/239.76.254.55:9000
+#EXTINF:-1 tvg-name="CCTV央视台球" tvg-logo="https://live.fanmingming.com/tv/CCTV央视台球.png" group-title="央视高清",CCTV央视台球
+http://59.51.113.114:18888/udp/239.76.254.58:9000
+#EXTINF:-1 tvg-name="CCTV电视指南" tvg-logo="https://live.fanmingming.com/tv/CCTV电视指南.png" group-title="央视高清",CCTV电视指南
+http://59.51.113.114:18888/udp/239.76.254.61:9000
+#EXTINF:-1 tvg-name="CCTV风云足球" tvg-logo="https://live.fanmingming.com/tv/CCTV风云足球.png" group-title="央视高清",CCTV风云足球
+http://59.51.113.114:18888/udp/239.76.254.52:9000
+#EXTINF:-1 tvg-name="CCTV央视高尔夫" tvg-logo="https://live.fanmingming.com/tv/CCTV央视高尔夫.png" group-title="央视高清",CCTV央视高尔夫
+http://59.51.113.114:18888/udp/239.76.254.62:9000
+#EXTINF:-1 tvg-name="CCTV第一剧场" tvg-logo="https://live.fanmingming.com/tv/CCTV第一剧场.png" group-title="央视高清",CCTV第一剧场
+http://59.51.113.114:18888/udp/239.76.254.49:9000
+#EXTINF:-1 tvg-name="CCTV风云剧场" tvg-logo="https://live.fanmingming.com/tv/CCTV风云剧场.png" group-title="央视高清",CCTV风云剧场
+http://59.51.113.114:18888/udp/239.76.254.50:9000
+#EXTINF:-1 tvg-name="CCTV风云音乐" tvg-logo="https://live.fanmingming.com/tv/CCTV风云音乐.png" group-title="央视高清",CCTV风云音乐
+http://59.51.113.114:18888/udp/239.76.254.51:9000
+#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="卫视高清",CHC动作电影
+http://59.51.113.114:18888/udp/239.76.245.243:1234
+#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="卫视高清",CHC家庭影院
+http://59.51.113.114:18888/udp/239.76.245.241:1234
+#EXTINF:-1 tvg-name="CHC高清电影" tvg-logo="https://live.fanmingming.com/tv/CHC高清电影.png" group-title="卫视高清",CHC高清电影
+http://59.51.113.114:18888/udp/239.76.245.242:1234
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png" group-title="卫视高清",东南卫视
+http://59.51.113.114:18888/udp/239.76.252.190:9000
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png" group-title="卫视高清",东南卫视
+http://59.51.113.114:18888/udp/239.76.245.190:1234
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="卫视高清",东方卫视
+http://59.51.113.114:18888/udp/239.76.246.186:1234
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="卫视高清",东方卫视
+http://59.51.113.114:18888/udp/239.76.253.186:9000
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png" group-title="卫视高清",凤凰中文
+http://59.51.113.114:18888/udp/239.76.246.7:1234
+#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://live.fanmingming.com/tv/云南卫视.png" group-title="卫视高清",云南卫视
+http://59.51.113.114:18888/udp/239.76.254.60:9000
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png" group-title="卫视高清",凤凰中文
+http://59.51.113.114:18888/udp/239.76.246.134:1234
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png" group-title="卫视高清",凤凰资讯
+http://59.51.113.114:18888/udp/239.76.246.8:1234
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png" group-title="卫视高清",凤凰资讯
+http://59.51.113.114:18888/udp/239.76.246.135:1234
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png" group-title="卫视高清",凤凰中文
+http://59.51.113.114:18888/udp/239.76.253.135:9000
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png" group-title="卫视高清",凤凰中文
+http://59.51.113.114:18888/udp/239.76.253.135:9000
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png" group-title="卫视高清",凤凰资讯
+http://59.51.113.114:18888/udp/239.76.253.134:9000
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png" group-title="卫视高清",凤凰资讯
+http://59.51.113.114:18888/udp/239.76.253.134:9000
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视高清",北京卫视
+http://59.51.113.114:18888/udp/239.76.246.184:1234
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视高清",北京卫视
+http://59.51.113.114:18888/udp/239.76.253.184:9000
+#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://live.fanmingming.com/tv/吉林卫视.png" group-title="卫视高清",吉林卫视
+http://59.51.113.114:18888/udp/239.76.246.201:1234
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="卫视高清",天津卫视
+http://59.51.113.114:18888/udp/239.76.246.185:1234
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" group-title="卫视高清",四川卫视
+http://59.51.113.114:18888/udp/239.76.246.91:1234
+#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://live.fanmingming.com/tv/吉林卫视.png" group-title="卫视高清",吉林卫视
+http://59.51.113.114:18888/udp/239.76.253.201:9000
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" group-title="卫视高清",四川卫视
+http://59.51.113.114:18888/udp/239.76.253.91:9000
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="卫视高清",天津卫视
+http://59.51.113.114:18888/udp/239.76.253.185:9000
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png" group-title="卫视高清",安徽卫视
+http://59.51.113.114:18888/udp/239.76.245.196:1234
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png" group-title="卫视高清",安徽卫视
+http://59.51.113.114:18888/udp/239.76.252.196:9000
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png" group-title="卫视高清",山东卫视
+http://59.51.113.114:18888/udp/239.76.253.195:9000
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png" group-title="卫视高清",山东卫视
+http://59.51.113.114:18888/udp/239.76.246.195:1234
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="卫视高清",广东卫视
+http://59.51.113.114:18888/udp/239.76.245.189:1234
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="卫视高清",广东卫视
+http://59.51.113.114:18888/udp/239.76.252.189:9000
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://live.fanmingming.com/tv/广西卫视.png" group-title="卫视高清",广西卫视
+http://59.51.113.114:18888/udp/239.76.254.54:9000
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视高清",江苏卫视
+http://59.51.113.114:18888/udp/239.76.246.181:1234
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视高清",江苏卫视
+http://59.51.113.114:18888/udp/239.76.253.181:9000
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://live.fanmingming.com/tv/江西卫视.png" group-title="卫视高清",江西卫视
+http://59.51.113.114:18888/udp/239.76.245.225:1234
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://live.fanmingming.com/tv/河北卫视.png" group-title="卫视高清",河北卫视
+http://59.51.113.114:18888/udp/239.76.245.199:1234
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://live.fanmingming.com/tv/河北卫视.png" group-title="卫视高清",河北卫视
+http://59.51.113.114:18888/udp/239.76.252.199:9000
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://live.fanmingming.com/tv/河南卫视.png" group-title="卫视高清",河南卫视
+http://59.51.113.114:18888/udp/239.76.246.202:1234
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://live.fanmingming.com/tv/河南卫视.png" group-title="卫视高清",河南卫视
+http://59.51.113.114:18888/udp/239.76.253.202:9000
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="卫视高清",浙江卫视
+http://59.51.113.114:18888/udp/239.76.246.182:1234
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="卫视高清",浙江卫视
+http://59.51.113.114:18888/udp/239.76.253.182:9000
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png" group-title="卫视高清",海南卫视
+http://59.51.113.114:18888/udp/239.76.253.203:9000
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png" group-title="卫视高清",海南卫视
+http://59.51.113.114:18888/udp/239.76.246.203:1234
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="卫视高清",深圳卫视
+http://59.51.113.114:18888/udp/239.76.246.188:1234
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="卫视高清",深圳卫视
+http://59.51.113.114:18888/udp/239.76.253.188:9000
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png" group-title="卫视高清",湖北卫视
+http://59.51.113.114:18888/udp/239.76.246.193:1234
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png" group-title="卫视高清",湖北卫视
+http://59.51.113.114:18888/udp/239.76.253.193:9000
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="卫视高清",湖南卫视
+http://59.51.113.114:18888/udp/239.76.246.100:1234
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="卫视高清",湖南卫视
+http://59.51.113.114:18888/udp/239.76.245.115:1234
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="卫视高清",湖南卫视
+http://59.51.113.114:18888/udp/239.76.246.101:1234
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="卫视高清",湖南卫视
+http://59.51.113.114:18888/udp/239.76.253.100:9000
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="卫视高清",湖南卫视
+http://59.51.113.114:18888/udp/239.76.252.115:9000
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="卫视高清",湖南卫视
+http://59.51.113.114:18888/udp/239.76.253.101:9000
+#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://live.fanmingming.com/tv/甘肃卫视.png" group-title="卫视高清",甘肃卫视
+http://59.51.113.114:18888/udp/239.76.246.94:1234
+#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://live.fanmingming.com/tv/甘肃卫视.png" group-title="卫视高清",甘肃卫视
+http://59.51.113.114:18888/udp/239.76.253.94:9000
+#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.com/tv/贵州卫视.png" group-title="卫视高清",贵州卫视
+http://59.51.113.114:18888/udp/239.76.245.198:1234
+#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.com/tv/贵州卫视.png" group-title="卫视高清",贵州卫视
+http://59.51.113.114:18888/udp/239.76.252.198:9000
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png" group-title="卫视高清",辽宁卫视
+http://59.51.113.114:18888/udp/239.76.245.197:1234
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png" group-title="卫视高清",辽宁卫视
+http://59.51.113.114:18888/udp/239.76.252.197:9000
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" group-title="卫视高清",重庆卫视
+http://59.51.113.114:18888/udp/239.76.253.92:9000
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" group-title="卫视高清",重庆卫视
+http://59.51.113.114:18888/udp/239.76.246.92:1234
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png" group-title="卫视高清",黑龙江卫视
+http://59.51.113.114:18888/udp/239.76.253.200:9000
+#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://live.fanmingming.com/tv/青海卫视.png" group-title="卫视高清",青海卫视
+http://59.51.113.114:18888/udp/239.76.254.132:9000
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png" group-title="卫视高清",黑龙江卫视
+http://59.51.113.114:18888/udp/239.76.246.200:1234
+#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://live.fanmingming.com/tv/陕西卫视.png" group-title="卫视高清",陕西卫视
+http://59.51.113.114:18888/udp/239.76.254.76:9000
+#EXTINF:-1 tvg-name="全纪实" tvg-logo="https://live.fanmingming.com/tv/全纪实.png" group-title="卫视高清",全纪实
+http://59.51.113.114:18888/udp/239.76.253.137:9000
+#EXTINF:-1 tvg-name="全纪实" tvg-logo="https://live.fanmingming.com/tv/全纪实.png" group-title="卫视高清",全纪实
+http://59.51.113.114:18888/udp/239.76.246.137:1234
+#EXTINF:-1 tvg-name="娄底公共" tvg-logo="https://live.fanmingming.com/tv/娄底公共.png" group-title="卫视高清",娄底公共
+http://59.51.113.114:18888/udp/239.76.255.19:9000
+#EXTINF:-1 tvg-name="娄底教育" tvg-logo="https://live.fanmingming.com/tv/娄底教育.png" group-title="卫视高清",娄底教育
+http://59.51.113.114:18888/udp/239.76.255.20:9000
+#EXTINF:-1 tvg-name="娄底公共" tvg-logo="https://live.fanmingming.com/tv/娄底公共.png" group-title="卫视高清",娄底公共
+http://59.51.113.114:18888/udp/239.76.248.19:1234
+#EXTINF:-1 tvg-name="娄底综合" tvg-logo="https://live.fanmingming.com/tv/娄底综合.png" group-title="卫视高清",娄底综合
+http://59.51.113.114:18888/udp/239.76.255.18:9000
+#EXTINF:-1 tvg-name="娄底综合" tvg-logo="https://live.fanmingming.com/tv/娄底综合.png" group-title="卫视高清",娄底综合
+http://59.51.113.114:18888/udp/239.76.248.18:1234
+#EXTINF:-1 tvg-name="常德公共" tvg-logo="https://live.fanmingming.com/tv/常德公共.png" group-title="卫视高清",常德公共
+http://59.51.113.114:18888/udp/239.76.248.11:1234
+#EXTINF:-1 tvg-name="常德公共" tvg-logo="https://live.fanmingming.com/tv/常德公共.png" group-title="卫视高清",常德公共
+http://59.51.113.114:18888/udp/239.76.255.11:9000
+#EXTINF:-1 tvg-name="张家界" tvg-logo="https://live.fanmingming.com/tv/张家界.png" group-title="卫视高清",张家界
+http://59.51.113.114:18888/udp/239.76.252.235:9000
+#EXTINF:-1 tvg-name="张家界" tvg-logo="https://live.fanmingming.com/tv/张家界.png" group-title="卫视高清",张家界
+http://59.51.113.114:18888/udp/239.76.245.235:1234
+#EXTINF:-1 tvg-name="常德综合" tvg-logo="https://live.fanmingming.com/tv/常德综合.png" group-title="卫视高清",常德综合
+http://59.51.113.114:18888/udp/239.76.255.10:9000
+#EXTINF:-1 tvg-name="常德综合" tvg-logo="https://live.fanmingming.com/tv/常德综合.png" group-title="卫视高清",常德综合
+http://59.51.113.114:18888/udp/239.76.248.10:1234
+#EXTINF:-1 tvg-name="张家界公共" tvg-logo="https://live.fanmingming.com/tv/张家界公共.png" group-title="卫视高清",张家界公共
+http://59.51.113.114:18888/udp/239.76.252.235:9000
+#EXTINF:-1 tvg-name="张家界综合" tvg-logo="https://live.fanmingming.com/tv/张家界综合.png" group-title="卫视高清",张家界综合
+http://59.51.113.114:18888/udp/239.76.245.234:1234
+#EXTINF:-1 tvg-name="张家界综合" tvg-logo="https://live.fanmingming.com/tv/张家界综合.png" group-title="卫视高清",张家界综合
+http://59.51.113.114:18888/udp/239.76.252.234:9000
+#EXTINF:-1 tvg-name="张家界综合" tvg-logo="https://live.fanmingming.com/tv/张家界综合.png" group-title="卫视高清",张家界综合
+http://59.51.113.114:18888/udp/239.76.252.234:9000
+#EXTINF:-1 tvg-name="怀化综合" tvg-logo="https://live.fanmingming.com/tv/怀化综合.png" group-title="卫视高清",怀化综合
+http://59.51.113.114:18888/udp/239.76.255.12:9000
+#EXTINF:-1 tvg-name="怀化综合" tvg-logo="https://live.fanmingming.com/tv/怀化综合.png" group-title="卫视高清",怀化综合
+http://59.51.113.114:18888/udp/239.76.255.12:9000
+#EXTINF:-1 tvg-name="浏阳新闻" tvg-logo="https://live.fanmingming.com/tv/浏阳新闻.png" group-title="卫视高清",浏阳新闻
+http://59.51.113.114:18888/udp/239.76.255.6:9000
+#EXTINF:-1 tvg-name="浏阳" tvg-logo="https://live.fanmingming.com/tv/浏阳.png" group-title="卫视高清",浏阳
+http://59.51.113.114:18888/udp/239.76.248.6:1234
+#EXTINF:-1 tvg-name="湖南公共" tvg-logo="https://live.fanmingming.com/tv/湖南公共.png" group-title="卫视高清",湖南公共
+http://59.51.113.114:18888/udp/239.76.245.123:1234
+#EXTINF:-1 tvg-name="湖南公共" tvg-logo="https://live.fanmingming.com/tv/湖南公共.png" group-title="卫视高清",湖南公共
+http://59.51.113.114:18888/udp/239.76.246.109:1234
+#EXTINF:-1 tvg-name="湖南公共" tvg-logo="https://live.fanmingming.com/tv/湖南公共.png" group-title="卫视高清",湖南公共
+http://59.51.113.114:18888/udp/239.76.252.123:9000
+#EXTINF:-1 tvg-name="湖南公共" tvg-logo="https://live.fanmingming.com/tv/湖南公共.png" group-title="卫视高清",湖南公共
+http://59.51.113.114:18888/udp/239.76.253.109:9000
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="卫视高清",湖南卫视
+http://59.51.113.114:18888/udp/239.76.246.100:1234
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="卫视高清",湖南卫视
+http://59.51.113.114:18888/udp/239.76.245.115:1234
+#EXTINF:-1 tvg-name="湖南国际" tvg-logo="https://live.fanmingming.com/tv/湖南国际.png" group-title="卫视高清",湖南国际
+http://59.51.113.114:18888/udp/239.76.245.124:1234
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="卫视高清",湖南卫视
+http://59.51.113.114:18888/udp/239.76.246.101:1234
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="卫视高清",湖南卫视
+http://59.51.113.114:18888/udp/239.76.253.100:9000
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="卫视高清",湖南卫视
+http://59.51.113.114:18888/udp/239.76.252.115:9000
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="卫视高清",湖南卫视
+http://59.51.113.114:18888/udp/239.76.253.101:9000
+#EXTINF:-1 tvg-name="湖南国际" tvg-logo="https://live.fanmingming.com/tv/湖南国际.png" group-title="卫视高清",湖南国际
+http://59.51.113.114:18888/udp/239.76.253.102:9000
+#EXTINF:-1 tvg-name="湖南国际" tvg-logo="https://live.fanmingming.com/tv/湖南国际.png" group-title="卫视高清",湖南国际
+http://59.51.113.114:18888/udp/239.76.252.124:9000
+#EXTINF:-1 tvg-name="湖南娱乐" tvg-logo="https://live.fanmingming.com/tv/湖南娱乐.png" group-title="卫视高清",湖南娱乐
+http://59.51.113.114:18888/udp/239.76.246.105:1234
+#EXTINF:-1 tvg-name="湖南娱乐" tvg-logo="https://live.fanmingming.com/tv/湖南娱乐.png" group-title="卫视高清",湖南娱乐
+http://59.51.113.114:18888/udp/239.76.245.121:1234
+#EXTINF:-1 tvg-name="湖南国际" tvg-logo="https://live.fanmingming.com/tv/湖南国际.png" group-title="卫视高清",湖南国际
+http://59.51.113.114:18888/udp/239.76.246.102:1234
+#EXTINF:-1 tvg-name="湖南娱乐" tvg-logo="https://live.fanmingming.com/tv/湖南娱乐.png" group-title="卫视高清",湖南娱乐
+http://59.51.113.114:18888/udp/239.76.252.121:9000
+#EXTINF:-1 tvg-name="湖南娱乐" tvg-logo="https://live.fanmingming.com/tv/湖南娱乐.png" group-title="卫视高清",湖南娱乐
+http://59.51.113.114:18888/udp/239.76.253.105:9000
+#EXTINF:-1 tvg-name="湖南教育" tvg-logo="https://live.fanmingming.com/tv/湖南教育.png" group-title="卫视高清",湖南教育
+http://59.51.113.114:18888/udp/239.76.252.233:9000
+#EXTINF:-1 tvg-name="湖南教育" tvg-logo="https://live.fanmingming.com/tv/湖南教育.png" group-title="卫视高清",湖南教育
+http://59.51.113.114:18888/udp/239.76.245.233:1234
+#EXTINF:-1 tvg-name="湖南电影" tvg-logo="https://live.fanmingming.com/tv/湖南电影.png" group-title="卫视高清",湖南电影
+http://59.51.113.114:18888/udp/239.76.246.106:1234
+#EXTINF:-1 tvg-name="湖南电影" tvg-logo="https://live.fanmingming.com/tv/湖南电影.png" group-title="卫视高清",湖南电影
+http://59.51.113.114:18888/udp/239.76.245.119:1234
+#EXTINF:-1 tvg-name="湖南电影" tvg-logo="https://live.fanmingming.com/tv/湖南电影.png" group-title="卫视高清",湖南电影
+http://59.51.113.114:18888/udp/239.76.252.119:9000
+#EXTINF:-1 tvg-name="湖南电影" tvg-logo="https://live.fanmingming.com/tv/湖南电影.png" group-title="卫视高清",湖南电影
+http://59.51.113.114:18888/udp/239.76.253.106:9000
+#EXTINF:-1 tvg-name="湖南电视剧" tvg-logo="https://live.fanmingming.com/tv/湖南电视剧.png" group-title="卫视高清",湖南电视剧
+http://59.51.113.114:18888/udp/239.76.246.108:1234
+#EXTINF:-1 tvg-name="湖南电视剧" tvg-logo="https://live.fanmingming.com/tv/湖南电视剧.png" group-title="卫视高清",湖南电视剧
+http://59.51.113.114:18888/udp/239.76.252.118:9000
+#EXTINF:-1 tvg-name="湖南电视剧" tvg-logo="https://live.fanmingming.com/tv/湖南电视剧.png" group-title="卫视高清",湖南电视剧
+http://59.51.113.114:18888/udp/239.76.245.118:1234
+#EXTINF:-1 tvg-name="湖南经视" tvg-logo="https://live.fanmingming.com/tv/湖南经视.png" group-title="卫视高清",湖南经视
+http://59.51.113.114:18888/udp/239.76.252.116:9000
+#EXTINF:-1 tvg-name="湖南经视" tvg-logo="https://live.fanmingming.com/tv/湖南经视.png" group-title="卫视高清",湖南经视
+http://59.51.113.114:18888/udp/239.76.253.103:9000
+#EXTINF:-1 tvg-name="湖南经视" tvg-logo="https://live.fanmingming.com/tv/湖南经视.png" group-title="卫视高清",湖南经视
+http://59.51.113.114:18888/udp/239.76.245.116:1234
+#EXTINF:-1 tvg-name="湖南电视剧" tvg-logo="https://live.fanmingming.com/tv/湖南电视剧.png" group-title="卫视高清",湖南电视剧
+http://59.51.113.114:18888/udp/239.76.253.108:9000
+#EXTINF:-1 tvg-name="湖南都市" tvg-logo="https://live.fanmingming.com/tv/湖南都市.png" group-title="卫视高清",湖南都市
+http://59.51.113.114:18888/udp/239.76.246.104:1234
+#EXTINF:-1 tvg-name="湖南经视" tvg-logo="https://live.fanmingming.com/tv/湖南经视.png" group-title="卫视高清",湖南经视
+http://59.51.113.114:18888/udp/239.76.246.103:1234
+#EXTINF:-1 tvg-name="湖南都市" tvg-logo="https://live.fanmingming.com/tv/湖南都市.png" group-title="卫视高清",湖南都市
+http://59.51.113.114:18888/udp/239.76.245.117:1234
+#EXTINF:-1 tvg-name="湖南都市" tvg-logo="https://live.fanmingming.com/tv/湖南都市.png" group-title="卫视高清",湖南都市
+http://59.51.113.114:18888/udp/239.76.253.104:9000
+#EXTINF:-1 tvg-name="湖南都市" tvg-logo="https://live.fanmingming.com/tv/湖南都市.png" group-title="卫视高清",湖南都市
+http://59.51.113.114:18888/udp/239.76.252.117:9000
+#EXTINF:-1 tvg-name="湘西公共" tvg-logo="https://live.fanmingming.com/tv/湘西公共.png" group-title="卫视高清",湘西公共
+http://59.51.113.114:18888/udp/239.76.252.209:9000
+#EXTINF:-1 tvg-name="湘西公共" tvg-logo="https://live.fanmingming.com/tv/湘西公共.png" group-title="卫视高清",湘西公共
+http://59.51.113.114:18888/udp/239.76.252.209:9000
+#EXTINF:-1 tvg-name="湘西公共" tvg-logo="https://live.fanmingming.com/tv/湘西公共.png" group-title="卫视高清",湘西公共
+http://59.51.113.114:18888/udp/239.76.252.210:9000
+#EXTINF:-1 tvg-name="湘西公共" tvg-logo="https://live.fanmingming.com/tv/湘西公共.png" group-title="卫视高清",湘西公共
+http://59.51.113.114:18888/udp/239.76.252.210:9000
+#EXTINF:-1 tvg-name="湘西综合" tvg-logo="https://live.fanmingming.com/tv/湘西综合.png" group-title="卫视高清",湘西综合
+http://59.51.113.114:18888/udp/239.76.245.208:1234
+#EXTINF:-1 tvg-name="湘西综合" tvg-logo="https://live.fanmingming.com/tv/湘西综合.png" group-title="卫视高清",湘西综合
+http://59.51.113.114:18888/udp/239.76.245.208:1234
+#EXTINF:-1 tvg-name="湘西综合" tvg-logo="https://live.fanmingming.com/tv/湘西综合.png" group-title="卫视高清",湘西综合
+http://59.51.113.114:18888/udp/239.76.245.209:1234
+#EXTINF:-1 tvg-name="湘西综合" tvg-logo="https://live.fanmingming.com/tv/湘西综合.png" group-title="卫视高清",湘西综合
+http://59.51.113.114:18888/udp/239.76.252.208:9000
+#EXTINF:-1 tvg-name="湘西综合" tvg-logo="https://live.fanmingming.com/tv/湘西综合.png" group-title="卫视高清",湘西综合
+http://59.51.113.114:18888/udp/239.76.252.208:9000
+#EXTINF:-1 tvg-name="衡阳县电视台" tvg-logo="https://live.fanmingming.com/tv/衡阳县电视台.png" group-title="卫视高清",衡阳县电视台
+http://59.51.113.114:18888/udp/239.76.255.26:9000
+#EXTINF:-1 tvg-name="衡阳公共" tvg-logo="https://live.fanmingming.com/tv/衡阳公共.png" group-title="卫视高清",衡阳公共
+http://59.51.113.114:18888/udp/239.76.255.14:9000
+#EXTINF:-1 tvg-name="衡阳综合" tvg-logo="https://live.fanmingming.com/tv/衡阳综合.png" group-title="卫视高清",衡阳综合
+http://59.51.113.114:18888/udp/239.76.255.13:9000
+#EXTINF:-1 tvg-name="衡阳公共" tvg-logo="https://live.fanmingming.com/tv/衡阳公共.png" group-title="卫视高清",衡阳公共
+http://59.51.113.114:18888/udp/239.76.248.14:1234
+#EXTINF:-1 tvg-name="衡阳综合" tvg-logo="https://live.fanmingming.com/tv/衡阳综合.png" group-title="卫视高清",衡阳综合
+http://59.51.113.114:18888/udp/239.76.248.13:1234
+#EXTINF:-1 tvg-name="邵阳公共" tvg-logo="https://live.fanmingming.com/tv/邵阳公共.png" group-title="卫视高清",邵阳公共
+http://59.51.113.114:18888/udp/239.76.255.22:9000
+#EXTINF:-1 tvg-name="邵阳新闻" tvg-logo="https://live.fanmingming.com/tv/邵阳新闻.png" group-title="卫视高清",邵阳新闻
+http://59.51.113.114:18888/udp/239.76.248.23:1234
+#EXTINF:-1 tvg-name="邵阳综合" tvg-logo="https://live.fanmingming.com/tv/邵阳综合.png" group-title="卫视高清",邵阳综合
+http://59.51.113.114:18888/udp/239.76.255.21:9000
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/金鹰卡通.png" group-title="卫视高清",金鹰卡通
+http://59.51.113.114:18888/udp/239.76.245.120:1234
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/金鹰卡通.png" group-title="卫视高清",金鹰卡通
+http://59.51.113.114:18888/udp/239.76.246.107:1234
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/金鹰卡通.png" group-title="卫视高清",金鹰卡通
+http://59.51.113.114:18888/udp/239.76.253.107:9000
+#EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://live.fanmingming.com/tv/金鹰纪实.png" group-title="卫视高清",金鹰纪实
+http://59.51.113.114:18888/udp/239.76.245.122:1234
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/金鹰卡通.png" group-title="卫视高清",金鹰卡通
+http://59.51.113.114:18888/udp/239.76.252.120:9000
+#EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://live.fanmingming.com/tv/金鹰纪实.png" group-title="卫视高清",金鹰纪实
+http://59.51.113.114:18888/udp/239.76.246.110:1234
+#EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://live.fanmingming.com/tv/金鹰纪实.png" group-title="卫视高清",金鹰纪实
+http://59.51.113.114:18888/udp/239.76.252.122:9000
+#EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://live.fanmingming.com/tv/金鹰纪实.png" group-title="卫视高清",金鹰纪实
+http://59.51.113.114:18888/udp/239.76.253.110:9000
+#EXTINF:-1 tvg-name="长沙女姓" tvg-logo="https://live.fanmingming.com/tv/长沙女姓.png" group-title="卫视高清",长沙女姓
+http://59.51.113.114:18888/udp/239.76.245.23:1234
+#EXTINF:-1 tvg-name="长沙女姓" tvg-logo="https://live.fanmingming.com/tv/长沙女姓.png" group-title="卫视高清",长沙女姓
+http://59.51.113.114:18888/udp/239.76.252.23:9000
+#EXTINF:-1 tvg-name="长沙影视" tvg-logo="https://live.fanmingming.com/tv/长沙影视.png" group-title="卫视高清",长沙影视
+http://59.51.113.114:18888/udp/239.76.245.204:1234
+#EXTINF:-1 tvg-name="长沙政法" tvg-logo="https://live.fanmingming.com/tv/长沙政法.png" group-title="卫视高清",长沙政法
+http://59.51.113.114:18888/udp/239.76.253.122:9000
+#EXTINF:-1 tvg-name="长沙影视" tvg-logo="https://live.fanmingming.com/tv/长沙影视.png" group-title="卫视高清",长沙影视
+http://59.51.113.114:18888/udp/239.76.252.204:9000
+#EXTINF:-1 tvg-name="长沙新闻" tvg-logo="https://live.fanmingming.com/tv/长沙新闻.png" group-title="卫视高清",长沙新闻
+http://59.51.113.114:18888/udp/239.76.253.121:9000
+#EXTINF:-1 tvg-name="长沙新闻" tvg-logo="https://live.fanmingming.com/tv/长沙新闻.png" group-title="卫视高清",长沙新闻
+http://59.51.113.114:18888/udp/239.76.246.121:1234
+#EXTINF:-1 tvg-name="长沙政法" tvg-logo="https://live.fanmingming.com/tv/长沙政法.png" group-title="卫视高清",长沙政法
+http://59.51.113.114:18888/udp/239.76.246.122:1234
 #EXTINF:-1 tvg-name="香港 卫视" tvg-logo="https://live.fanmingming.com/tv/香港 卫视.png" group-title="测试频道",香港 卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="测试频道",翡翠台
@@ -5695,249 +6111,231 @@ https://vd2.bdstatic.com/mda-kkdf3jba9fsp4hr2/v1-cae/sc/mda-kkdf3jba9fsp4hr2.mp4
 https://vd4.bdstatic.com/mda-ncn8353qdj4250ga/sc/cae_h264_delogo/1648019138180108259/mda-ncn8353qdj4250ga.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1660565393-0-0-3aba7cd19b150ed7cf2598254312daf0&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2392920723&vid=12398024234293028218&abtest=103742_2-103890_2-103579_2&klogid=2392920723
 #EXTINF:-1 tvg-name="DJ打碟Oz Green" tvg-logo="https://live.fanmingming.com/tv/DJ打碟Oz Green.png" group-title="🎤音乐·DJ",DJ打碟Oz Green
 https://vd4.bdstatic.com/mda-nbc8e7p8yim7q4kw/sc/cae_h264_delogo/1644734834302724788/mda-nbc8e7p8yim7q4kw.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1660565409-0-0-934b58e48f6e9b4cdf45b5c8c1f01ad3&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2409235034&vid=16458997361411576188&abtest=103742_2-103890_2-103579_2&klogid=2409235034
-#EXTINF:-1 tvg-name="歌团★021" tvg-logo="https://live.fanmingming.com/tv/歌团★021.png" group-title="歌舞欣赏",歌团★021
+#EXTINF:-1 tvg-name="歌团★021" tvg-logo="https://live.fanmingming.com/tv/歌团★021.png" group-title="韩国女团",歌团★021
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239808028600.mp4
-#EXTINF:-1 tvg-name="歌团★022" tvg-logo="https://live.fanmingming.com/tv/歌团★022.png" group-title="歌舞欣赏",歌团★022
+#EXTINF:-1 tvg-name="歌团★022" tvg-logo="https://live.fanmingming.com/tv/歌团★022.png" group-title="韩国女团",歌团★022
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240031614983.mp4
-#EXTINF:-1 tvg-name="歌团★023" tvg-logo="https://live.fanmingming.com/tv/歌团★023.png" group-title="歌舞欣赏",歌团★023
+#EXTINF:-1 tvg-name="歌团★023" tvg-logo="https://live.fanmingming.com/tv/歌团★023.png" group-title="韩国女团",歌团★023
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240150331617.mp4
-#EXTINF:-1 tvg-name="歌团★024" tvg-logo="https://live.fanmingming.com/tv/歌团★024.png" group-title="歌舞欣赏",歌团★024
+#EXTINF:-1 tvg-name="歌团★024" tvg-logo="https://live.fanmingming.com/tv/歌团★024.png" group-title="韩国女团",歌团★024
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239809100782.mp4
-#EXTINF:-1 tvg-name="歌团★026" tvg-logo="https://live.fanmingming.com/tv/歌团★026.png" group-title="歌舞欣赏",歌团★026
+#EXTINF:-1 tvg-name="歌团★026" tvg-logo="https://live.fanmingming.com/tv/歌团★026.png" group-title="韩国女团",歌团★026
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240033362815.mp4
-#EXTINF:-1 tvg-name="歌团★027" tvg-logo="https://live.fanmingming.com/tv/歌团★027.png" group-title="歌舞欣赏",歌团★027
+#EXTINF:-1 tvg-name="歌团★027" tvg-logo="https://live.fanmingming.com/tv/歌团★027.png" group-title="韩国女团",歌团★027
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240151167938.mp4
-#EXTINF:-1 tvg-name="歌团★029" tvg-logo="https://live.fanmingming.com/tv/歌团★029.png" group-title="歌舞欣赏",歌团★029
+#EXTINF:-1 tvg-name="歌团★029" tvg-logo="https://live.fanmingming.com/tv/歌团★029.png" group-title="韩国女团",歌团★029
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239811800375.mp4
-#EXTINF:-1 tvg-name="歌团★030" tvg-logo="https://live.fanmingming.com/tv/歌团★030.png" group-title="歌舞欣赏",歌团★030
+#EXTINF:-1 tvg-name="歌团★030" tvg-logo="https://live.fanmingming.com/tv/歌团★030.png" group-title="韩国女团",歌团★030
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239916285148.mp4
-#EXTINF:-1 tvg-name="歌团★031" tvg-logo="https://live.fanmingming.com/tv/歌团★031.png" group-title="歌舞欣赏",歌团★031
+#EXTINF:-1 tvg-name="歌团★031" tvg-logo="https://live.fanmingming.com/tv/歌团★031.png" group-title="韩国女团",歌团★031
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239927589941.mp4
-#EXTINF:-1 tvg-name="歌团★032" tvg-logo="https://live.fanmingming.com/tv/歌团★032.png" group-title="歌舞欣赏",歌团★032
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239931661209.mp4
-#EXTINF:-1 tvg-name="歌团★033" tvg-logo="https://live.fanmingming.com/tv/歌团★033.png" group-title="歌舞欣赏",歌团★033
+#EXTINF:-1 tvg-name="歌团★033" tvg-logo="https://live.fanmingming.com/tv/歌团★033.png" group-title="韩国女团",歌团★033
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240171579858.mp4
-#EXTINF:-1 tvg-name="歌团★034" tvg-logo="https://live.fanmingming.com/tv/歌团★034.png" group-title="歌舞欣赏",歌团★034
+#EXTINF:-1 tvg-name="歌团★034" tvg-logo="https://live.fanmingming.com/tv/歌团★034.png" group-title="韩国女团",歌团★034
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239831144046.mp4
-#EXTINF:-1 tvg-name="歌团★035" tvg-logo="https://live.fanmingming.com/tv/歌团★035.png" group-title="歌舞欣赏",歌团★035
+#EXTINF:-1 tvg-name="歌团★035" tvg-logo="https://live.fanmingming.com/tv/歌团★035.png" group-title="韩国女团",歌团★035
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240056530470.mp4
-#EXTINF:-1 tvg-name="歌团★036" tvg-logo="https://live.fanmingming.com/tv/歌团★036.png" group-title="歌舞欣赏",歌团★036
+#EXTINF:-1 tvg-name="歌团★036" tvg-logo="https://live.fanmingming.com/tv/歌团★036.png" group-title="韩国女团",歌团★036
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239832040344.mp4
-#EXTINF:-1 tvg-name="歌团★037" tvg-logo="https://live.fanmingming.com/tv/歌团★037.png" group-title="歌舞欣赏",歌团★037
+#EXTINF:-1 tvg-name="歌团★037" tvg-logo="https://live.fanmingming.com/tv/歌团★037.png" group-title="韩国女团",歌团★037
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240173879894.mp4
-#EXTINF:-1 tvg-name="歌团★038" tvg-logo="https://live.fanmingming.com/tv/歌团★038.png" group-title="歌舞欣赏",歌团★038
+#EXTINF:-1 tvg-name="歌团★038" tvg-logo="https://live.fanmingming.com/tv/歌团★038.png" group-title="韩国女团",歌团★038
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240057078179.mp4
-#EXTINF:-1 tvg-name="歌团★040" tvg-logo="https://live.fanmingming.com/tv/歌团★040.png" group-title="歌舞欣赏",歌团★040
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240059018784.mp4
-#EXTINF:-1 tvg-name="歌团★042" tvg-logo="https://live.fanmingming.com/tv/歌团★042.png" group-title="歌舞欣赏",歌团★042
+#EXTINF:-1 tvg-name="歌团★042" tvg-logo="https://live.fanmingming.com/tv/歌团★042.png" group-title="韩国女团",歌团★042
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239834716201.mp4
-#EXTINF:-1 tvg-name="歌团★043" tvg-logo="https://live.fanmingming.com/tv/歌团★043.png" group-title="歌舞欣赏",歌团★043
+#EXTINF:-1 tvg-name="歌团★043" tvg-logo="https://live.fanmingming.com/tv/歌团★043.png" group-title="韩国女团",歌团★043
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239837532125.mp4
-#EXTINF:-1 tvg-name="歌团★045" tvg-logo="https://live.fanmingming.com/tv/歌团★045.png" group-title="歌舞欣赏",歌团★045
+#EXTINF:-1 tvg-name="歌团★045" tvg-logo="https://live.fanmingming.com/tv/歌团★045.png" group-title="韩国女团",歌团★045
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240063650207.mp4
-#EXTINF:-1 tvg-name="歌团★046" tvg-logo="https://live.fanmingming.com/tv/歌团★046.png" group-title="歌舞欣赏",歌团★046
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240181243061.mp4
-#EXTINF:-1 tvg-name="歌团★048" tvg-logo="https://live.fanmingming.com/tv/歌团★048.png" group-title="歌舞欣赏",歌团★048
+#EXTINF:-1 tvg-name="歌团★048" tvg-logo="https://live.fanmingming.com/tv/歌团★048.png" group-title="韩国女团",歌团★048
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239944465251.mp4
-#EXTINF:-1 tvg-name="歌团★049" tvg-logo="https://live.fanmingming.com/tv/歌团★049.png" group-title="歌舞欣赏",歌团★049
+#EXTINF:-1 tvg-name="歌团★049" tvg-logo="https://live.fanmingming.com/tv/歌团★049.png" group-title="韩国女团",歌团★049
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240065122134.mp4
-#EXTINF:-1 tvg-name="歌团★050" tvg-logo="https://live.fanmingming.com/tv/歌团★050.png" group-title="歌舞欣赏",歌团★050
+#EXTINF:-1 tvg-name="歌团★050" tvg-logo="https://live.fanmingming.com/tv/歌团★050.png" group-title="韩国女团",歌团★050
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239840536452.mp4
-#EXTINF:-1 tvg-name="歌团★051" tvg-logo="https://live.fanmingming.com/tv/歌团★051.png" group-title="歌舞欣赏",歌团★051
+#EXTINF:-1 tvg-name="歌团★051" tvg-logo="https://live.fanmingming.com/tv/歌团★051.png" group-title="韩国女团",歌团★051
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240065838644.mp4
-#EXTINF:-1 tvg-name="歌团★052" tvg-logo="https://live.fanmingming.com/tv/歌团★052.png" group-title="歌舞欣赏",歌团★052
+#EXTINF:-1 tvg-name="歌团★052" tvg-logo="https://live.fanmingming.com/tv/歌团★052.png" group-title="韩国女团",歌团★052
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239945877111.mp4
-#EXTINF:-1 tvg-name="歌团★053" tvg-logo="https://live.fanmingming.com/tv/歌团★053.png" group-title="歌舞欣赏",歌团★053
+#EXTINF:-1 tvg-name="歌团★053" tvg-logo="https://live.fanmingming.com/tv/歌团★053.png" group-title="韩国女团",歌团★053
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240184339138.mp4
-#EXTINF:-1 tvg-name="歌团★054" tvg-logo="https://live.fanmingming.com/tv/歌团★054.png" group-title="歌舞欣赏",歌团★054
+#EXTINF:-1 tvg-name="歌团★054" tvg-logo="https://live.fanmingming.com/tv/歌团★054.png" group-title="韩国女团",歌团★054
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239842640589.mp4
-#EXTINF:-1 tvg-name="歌团★055" tvg-logo="https://live.fanmingming.com/tv/歌团★055.png" group-title="歌舞欣赏",歌团★055
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240186067562.mp4
-#EXTINF:-1 tvg-name="歌团★056" tvg-logo="https://live.fanmingming.com/tv/歌团★056.png" group-title="歌舞欣赏",歌团★056
+#EXTINF:-1 tvg-name="歌团★056" tvg-logo="https://live.fanmingming.com/tv/歌团★056.png" group-title="韩国女团",歌团★056
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240187071401.mp4
-#EXTINF:-1 tvg-name="歌团★057" tvg-logo="https://live.fanmingming.com/tv/歌团★057.png" group-title="歌舞欣赏",歌团★057
+#EXTINF:-1 tvg-name="歌团★057" tvg-logo="https://live.fanmingming.com/tv/歌团★057.png" group-title="韩国女团",歌团★057
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240069974546.mp4
-#EXTINF:-1 tvg-name="歌团★058" tvg-logo="https://live.fanmingming.com/tv/歌团★058.png" group-title="歌舞欣赏",歌团★058
+#EXTINF:-1 tvg-name="歌团★058" tvg-logo="https://live.fanmingming.com/tv/歌团★058.png" group-title="韩国女团",歌团★058
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240070346911.mp4
-#EXTINF:-1 tvg-name="歌团★059" tvg-logo="https://live.fanmingming.com/tv/歌团★059.png" group-title="歌舞欣赏",歌团★059
+#EXTINF:-1 tvg-name="歌团★059" tvg-logo="https://live.fanmingming.com/tv/歌团★059.png" group-title="韩国女团",歌团★059
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240070818783.mp4
-#EXTINF:-1 tvg-name="歌团★060" tvg-logo="https://live.fanmingming.com/tv/歌团★060.png" group-title="歌舞欣赏",歌团★060
+#EXTINF:-1 tvg-name="歌团★060" tvg-logo="https://live.fanmingming.com/tv/歌团★060.png" group-title="韩国女团",歌团★060
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239846692034.mp4
-#EXTINF:-1 tvg-name="歌团★061" tvg-logo="https://live.fanmingming.com/tv/歌团★061.png" group-title="歌舞欣赏",歌团★061
+#EXTINF:-1 tvg-name="歌团★061" tvg-logo="https://live.fanmingming.com/tv/歌团★061.png" group-title="韩国女团",歌团★061
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239951329234.mp4
-#EXTINF:-1 tvg-name="歌团★062" tvg-logo="https://live.fanmingming.com/tv/歌团★062.png" group-title="歌舞欣赏",歌团★062
+#EXTINF:-1 tvg-name="歌团★062" tvg-logo="https://live.fanmingming.com/tv/歌团★062.png" group-title="韩国女团",歌团★062
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240191295627.mp4
-#EXTINF:-1 tvg-name="歌团★064" tvg-logo="https://live.fanmingming.com/tv/歌团★064.png" group-title="歌舞欣赏",歌团★064
+#EXTINF:-1 tvg-name="歌团★064" tvg-logo="https://live.fanmingming.com/tv/歌团★064.png" group-title="韩国女团",歌团★064
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240192067467.mp4
-#EXTINF:-1 tvg-name="歌团★065" tvg-logo="https://live.fanmingming.com/tv/歌团★065.png" group-title="歌舞欣赏",歌团★065
+#EXTINF:-1 tvg-name="歌团★065" tvg-logo="https://live.fanmingming.com/tv/歌团★065.png" group-title="韩国女团",歌团★065
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239911732892.mp4
-#EXTINF:-1 tvg-name="歌团★066" tvg-logo="https://live.fanmingming.com/tv/歌团★066.png" group-title="歌舞欣赏",歌团★066
+#EXTINF:-1 tvg-name="歌团★066" tvg-logo="https://live.fanmingming.com/tv/歌团★066.png" group-title="韩国女团",歌团★066
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240196491782.mp4
-#EXTINF:-1 tvg-name="歌团★067" tvg-logo="https://live.fanmingming.com/tv/歌团★067.png" group-title="歌舞欣赏",歌团★067
+#EXTINF:-1 tvg-name="歌团★067" tvg-logo="https://live.fanmingming.com/tv/歌团★067.png" group-title="韩国女团",歌团★067
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239960909980.mp4
-#EXTINF:-1 tvg-name="歌团★068" tvg-logo="https://live.fanmingming.com/tv/歌团★068.png" group-title="歌舞欣赏",歌团★068
+#EXTINF:-1 tvg-name="歌团★068" tvg-logo="https://live.fanmingming.com/tv/歌团★068.png" group-title="韩国女团",歌团★068
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240017737344.mp4
-#EXTINF:-1 tvg-name="歌团★069" tvg-logo="https://live.fanmingming.com/tv/歌团★069.png" group-title="歌舞欣赏",歌团★069
+#EXTINF:-1 tvg-name="歌团★069" tvg-logo="https://live.fanmingming.com/tv/歌团★069.png" group-title="韩国女团",歌团★069
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240202339353.mp4
-#EXTINF:-1 tvg-name="歌团★070" tvg-logo="https://live.fanmingming.com/tv/歌团★070.png" group-title="歌舞欣赏",歌团★070
+#EXTINF:-1 tvg-name="歌团★070" tvg-logo="https://live.fanmingming.com/tv/歌团★070.png" group-title="韩国女团",歌团★070
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240203243765.mp4
-#EXTINF:-1 tvg-name="歌团★071" tvg-logo="https://live.fanmingming.com/tv/歌团★071.png" group-title="歌舞欣赏",歌团★071
+#EXTINF:-1 tvg-name="歌团★071" tvg-logo="https://live.fanmingming.com/tv/歌团★071.png" group-title="韩国女团",歌团★071
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240205555546.mp4
-#EXTINF:-1 tvg-name="歌团★072" tvg-logo="https://live.fanmingming.com/tv/歌团★072.png" group-title="歌舞欣赏",歌团★072
+#EXTINF:-1 tvg-name="歌团★072" tvg-logo="https://live.fanmingming.com/tv/歌团★072.png" group-title="韩国女团",歌团★072
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239983417489.mp4
-#EXTINF:-1 tvg-name="歌团★074" tvg-logo="https://live.fanmingming.com/tv/歌团★074.png" group-title="歌舞欣赏",歌团★074
+#EXTINF:-1 tvg-name="歌团★074" tvg-logo="https://live.fanmingming.com/tv/歌团★074.png" group-title="韩国女团",歌团★074
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240221687198.mp4
-#EXTINF:-1 tvg-name="歌团★075" tvg-logo="https://live.fanmingming.com/tv/歌团★075.png" group-title="歌舞欣赏",歌团★075
+#EXTINF:-1 tvg-name="歌团★075" tvg-logo="https://live.fanmingming.com/tv/歌团★075.png" group-title="韩国女团",歌团★075
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240222023079.mp4
-#EXTINF:-1 tvg-name="歌团★076" tvg-logo="https://live.fanmingming.com/tv/歌团★076.png" group-title="歌舞欣赏",歌团★076
+#EXTINF:-1 tvg-name="歌团★076" tvg-logo="https://live.fanmingming.com/tv/歌团★076.png" group-title="韩国女团",歌团★076
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240107150280.mp4
-#EXTINF:-1 tvg-name="歌团★077" tvg-logo="https://live.fanmingming.com/tv/歌团★077.png" group-title="歌舞欣赏",歌团★077
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240224523227.mp4
-#EXTINF:-1 tvg-name="歌团★078" tvg-logo="https://live.fanmingming.com/tv/歌团★078.png" group-title="歌舞欣赏",歌团★078
+#EXTINF:-1 tvg-name="歌团★078" tvg-logo="https://live.fanmingming.com/tv/歌团★078.png" group-title="韩国女团",歌团★078
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239987569147.mp4
-#EXTINF:-1 tvg-name="歌团★079" tvg-logo="https://live.fanmingming.com/tv/歌团★079.png" group-title="歌舞欣赏",歌团★079
+#EXTINF:-1 tvg-name="歌团★079" tvg-logo="https://live.fanmingming.com/tv/歌团★079.png" group-title="韩国女团",歌团★079
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240225803033.mp4
-#EXTINF:-1 tvg-name="歌团★080" tvg-logo="https://live.fanmingming.com/tv/歌团★080.png" group-title="歌舞欣赏",歌团★080
+#EXTINF:-1 tvg-name="歌团★080" tvg-logo="https://live.fanmingming.com/tv/歌团★080.png" group-title="韩国女团",歌团★080
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239989445779.mp4
-#EXTINF:-1 tvg-name="歌团★081" tvg-logo="https://live.fanmingming.com/tv/歌团★081.png" group-title="歌舞欣赏",歌团★081
+#EXTINF:-1 tvg-name="歌团★081" tvg-logo="https://live.fanmingming.com/tv/歌团★081.png" group-title="韩国女团",歌团★081
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240229579224.mp4
-#EXTINF:-1 tvg-name="歌团★082" tvg-logo="https://live.fanmingming.com/tv/歌团★082.png" group-title="歌舞欣赏",歌团★082
+#EXTINF:-1 tvg-name="歌团★082" tvg-logo="https://live.fanmingming.com/tv/歌团★082.png" group-title="韩国女团",歌团★082
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239993533054.mp4
-#EXTINF:-1 tvg-name="歌团★083" tvg-logo="https://live.fanmingming.com/tv/歌团★083.png" group-title="歌舞欣赏",歌团★083
+#EXTINF:-1 tvg-name="歌团★083" tvg-logo="https://live.fanmingming.com/tv/歌团★083.png" group-title="韩国女团",歌团★083
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239994225085.mp4
-#EXTINF:-1 tvg-name="歌团★084" tvg-logo="https://live.fanmingming.com/tv/歌团★084.png" group-title="歌舞欣赏",歌团★084
+#EXTINF:-1 tvg-name="歌团★084" tvg-logo="https://live.fanmingming.com/tv/歌团★084.png" group-title="韩国女团",歌团★084
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239994741288.mp4
-#EXTINF:-1 tvg-name="歌团★085" tvg-logo="https://live.fanmingming.com/tv/歌团★085.png" group-title="歌舞欣赏",歌团★085
+#EXTINF:-1 tvg-name="歌团★085" tvg-logo="https://live.fanmingming.com/tv/歌团★085.png" group-title="韩国女团",歌团★085
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239995197198.mp4
-#EXTINF:-1 tvg-name="歌团★086" tvg-logo="https://live.fanmingming.com/tv/歌团★086.png" group-title="歌舞欣赏",歌团★086
+#EXTINF:-1 tvg-name="歌团★086" tvg-logo="https://live.fanmingming.com/tv/歌团★086.png" group-title="韩国女团",歌团★086
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240232939168.mp4
-#EXTINF:-1 tvg-name="歌团★087" tvg-logo="https://live.fanmingming.com/tv/歌团★087.png" group-title="歌舞欣赏",歌团★087
+#EXTINF:-1 tvg-name="歌团★087" tvg-logo="https://live.fanmingming.com/tv/歌团★087.png" group-title="韩国女团",歌团★087
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239890536417.mp4
-#EXTINF:-1 tvg-name="歌团★088" tvg-logo="https://live.fanmingming.com/tv/歌团★088.png" group-title="歌舞欣赏",歌团★088
+#EXTINF:-1 tvg-name="歌团★088" tvg-logo="https://live.fanmingming.com/tv/歌团★088.png" group-title="韩国女团",歌团★088
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239890568711.mp4
-#EXTINF:-1 tvg-name="歌团★089" tvg-logo="https://live.fanmingming.com/tv/歌团★089.png" group-title="歌舞欣赏",歌团★089
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240233783820.mp4
-#EXTINF:-1 tvg-name="歌团★090" tvg-logo="https://live.fanmingming.com/tv/歌团★090.png" group-title="歌舞欣赏",歌团★090
+#EXTINF:-1 tvg-name="歌团★090" tvg-logo="https://live.fanmingming.com/tv/歌团★090.png" group-title="韩国女团",歌团★090
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239894180409.mp4
-#EXTINF:-1 tvg-name="歌团★092" tvg-logo="https://live.fanmingming.com/tv/歌团★092.png" group-title="歌舞欣赏",歌团★092
+#EXTINF:-1 tvg-name="歌团★092" tvg-logo="https://live.fanmingming.com/tv/歌团★092.png" group-title="韩国女团",歌团★092
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239895496483.mp4
-#EXTINF:-1 tvg-name="歌团★093" tvg-logo="https://live.fanmingming.com/tv/歌团★093.png" group-title="歌舞欣赏",歌团★093
+#EXTINF:-1 tvg-name="歌团★093" tvg-logo="https://live.fanmingming.com/tv/歌团★093.png" group-title="韩国女团",歌团★093
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240119938989.mp4
-#EXTINF:-1 tvg-name="歌团★094" tvg-logo="https://live.fanmingming.com/tv/歌团★094.png" group-title="歌舞欣赏",歌团★094
+#EXTINF:-1 tvg-name="歌团★094" tvg-logo="https://live.fanmingming.com/tv/歌团★094.png" group-title="韩国女团",歌团★094
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240002397273.mp4
-#EXTINF:-1 tvg-name="歌团★095" tvg-logo="https://live.fanmingming.com/tv/歌团★095.png" group-title="歌舞欣赏",歌团★095
+#EXTINF:-1 tvg-name="歌团★095" tvg-logo="https://live.fanmingming.com/tv/歌团★095.png" group-title="韩国女团",歌团★095
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240241527208.mp4
-#EXTINF:-1 tvg-name="歌团★096" tvg-logo="https://live.fanmingming.com/tv/歌团★096.png" group-title="歌舞欣赏",歌团★096
+#EXTINF:-1 tvg-name="歌团★096" tvg-logo="https://live.fanmingming.com/tv/歌团★096.png" group-title="韩国女团",歌团★096
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239899840062.mp4
-#EXTINF:-1 tvg-name="歌团★097" tvg-logo="https://live.fanmingming.com/tv/歌团★097.png" group-title="歌舞欣赏",歌团★097
+#EXTINF:-1 tvg-name="歌团★097" tvg-logo="https://live.fanmingming.com/tv/歌团★097.png" group-title="韩国女团",歌团★097
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240243499351.mp4
-#EXTINF:-1 tvg-name="歌团★098" tvg-logo="https://live.fanmingming.com/tv/歌团★098.png" group-title="歌舞欣赏",歌团★098
+#EXTINF:-1 tvg-name="歌团★098" tvg-logo="https://live.fanmingming.com/tv/歌团★098.png" group-title="韩国女团",歌团★098
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240127638122.mp4
-#EXTINF:-1 tvg-name="歌团★099" tvg-logo="https://live.fanmingming.com/tv/歌团★099.png" group-title="歌舞欣赏",歌团★099
+#EXTINF:-1 tvg-name="歌团★099" tvg-logo="https://live.fanmingming.com/tv/歌团★099.png" group-title="韩国女团",歌团★099
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240030505796.mp4
-#EXTINF:-1 tvg-name="歌团★100" tvg-logo="https://live.fanmingming.com/tv/歌团★100.png" group-title="歌舞欣赏",歌团★100
+#EXTINF:-1 tvg-name="歌团★100" tvg-logo="https://live.fanmingming.com/tv/歌团★100.png" group-title="韩国女团",歌团★100
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240245283772.mp4
-#EXTINF:-1 tvg-name="歌团★101" tvg-logo="https://live.fanmingming.com/tv/歌团★101.png" group-title="歌舞欣赏",歌团★101
+#EXTINF:-1 tvg-name="歌团★101" tvg-logo="https://live.fanmingming.com/tv/歌团★101.png" group-title="韩国女团",歌团★101
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240247623420.mp4
-#EXTINF:-1 tvg-name="歌团★102" tvg-logo="https://live.fanmingming.com/tv/歌团★102.png" group-title="歌舞欣赏",歌团★102
+#EXTINF:-1 tvg-name="歌团★102" tvg-logo="https://live.fanmingming.com/tv/歌团★102.png" group-title="韩国女团",歌团★102
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240043672242.mp4
-#EXTINF:-1 tvg-name="歌团★103" tvg-logo="https://live.fanmingming.com/tv/歌团★103.png" group-title="歌舞欣赏",歌团★103
+#EXTINF:-1 tvg-name="歌团★103" tvg-logo="https://live.fanmingming.com/tv/歌团★103.png" group-title="韩国女团",歌团★103
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240339124000.mp4
-#EXTINF:-1 tvg-name="歌团★104" tvg-logo="https://live.fanmingming.com/tv/歌团★104.png" group-title="歌舞欣赏",歌团★104
+#EXTINF:-1 tvg-name="歌团★104" tvg-logo="https://live.fanmingming.com/tv/歌团★104.png" group-title="韩国女团",歌团★104
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240221702622.mp4
-#EXTINF:-1 tvg-name="歌团★105" tvg-logo="https://live.fanmingming.com/tv/歌团★105.png" group-title="歌舞欣赏",歌团★105
+#EXTINF:-1 tvg-name="歌团★105" tvg-logo="https://live.fanmingming.com/tv/歌团★105.png" group-title="韩国女团",歌团★105
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239993732827.mp4
-#EXTINF:-1 tvg-name="歌团★106" tvg-logo="https://live.fanmingming.com/tv/歌团★106.png" group-title="歌舞欣赏",歌团★106
+#EXTINF:-1 tvg-name="歌团★106" tvg-logo="https://live.fanmingming.com/tv/歌团★106.png" group-title="韩国女团",歌团★106
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239994460907.mp4
-#EXTINF:-1 tvg-name="歌团★107" tvg-logo="https://live.fanmingming.com/tv/歌团★107.png" group-title="歌舞欣赏",歌团★107
+#EXTINF:-1 tvg-name="歌团★107" tvg-logo="https://live.fanmingming.com/tv/歌团★107.png" group-title="韩国女团",歌团★107
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240340899550.mp4
-#EXTINF:-1 tvg-name="歌团★108" tvg-logo="https://live.fanmingming.com/tv/歌团★108.png" group-title="歌舞欣赏",歌团★108
+#EXTINF:-1 tvg-name="歌团★108" tvg-logo="https://live.fanmingming.com/tv/歌团★108.png" group-title="韩国女团",歌团★108
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239995692215.mp4
-#EXTINF:-1 tvg-name="歌团★109" tvg-logo="https://live.fanmingming.com/tv/歌团★109.png" group-title="歌舞欣赏",歌团★109
+#EXTINF:-1 tvg-name="歌团★109" tvg-logo="https://live.fanmingming.com/tv/歌团★109.png" group-title="韩国女团",歌团★109
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240341971789.mp4
-#EXTINF:-1 tvg-name="歌团★110" tvg-logo="https://live.fanmingming.com/tv/歌团★110.png" group-title="歌舞欣赏",歌团★110
+#EXTINF:-1 tvg-name="歌团★110" tvg-logo="https://live.fanmingming.com/tv/歌团★110.png" group-title="韩国女团",歌团★110
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239996664565.mp4
-#EXTINF:-1 tvg-name="歌团★111" tvg-logo="https://live.fanmingming.com/tv/歌团★111.png" group-title="歌舞欣赏",歌团★111
+#EXTINF:-1 tvg-name="歌团★111" tvg-logo="https://live.fanmingming.com/tv/歌团★111.png" group-title="韩国女团",歌团★111
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240342839842.mp4
-#EXTINF:-1 tvg-name="歌团★112" tvg-logo="https://live.fanmingming.com/tv/歌团★112.png" group-title="歌舞欣赏",歌团★112
+#EXTINF:-1 tvg-name="歌团★112" tvg-logo="https://live.fanmingming.com/tv/歌团★112.png" group-title="韩国女团",歌团★112
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240225254466.mp4
-#EXTINF:-1 tvg-name="歌团★113" tvg-logo="https://live.fanmingming.com/tv/歌团★113.png" group-title="歌舞欣赏",歌团★113
+#EXTINF:-1 tvg-name="歌团★113" tvg-logo="https://live.fanmingming.com/tv/歌团★113.png" group-title="韩国女团",歌团★113
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240225226897.mp4
-#EXTINF:-1 tvg-name="歌团★114" tvg-logo="https://live.fanmingming.com/tv/歌团★114.png" group-title="歌舞欣赏",歌团★114
+#EXTINF:-1 tvg-name="歌团★114" tvg-logo="https://live.fanmingming.com/tv/歌团★114.png" group-title="韩国女团",歌团★114
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239998000351.mp4
-#EXTINF:-1 tvg-name="歌团★115" tvg-logo="https://live.fanmingming.com/tv/歌团★115.png" group-title="歌舞欣赏",歌团★115
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240105989528.mp4
-#EXTINF:-1 tvg-name="歌团★116" tvg-logo="https://live.fanmingming.com/tv/歌团★116.png" group-title="歌舞欣赏",歌团★116
+#EXTINF:-1 tvg-name="歌团★116" tvg-logo="https://live.fanmingming.com/tv/歌团★116.png" group-title="韩国女团",歌团★116
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239998340711.mp4
-#EXTINF:-1 tvg-name="歌团★117" tvg-logo="https://live.fanmingming.com/tv/歌团★117.png" group-title="歌舞欣赏",歌团★117
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240106477140.mp4
-#EXTINF:-1 tvg-name="歌团★118" tvg-logo="https://live.fanmingming.com/tv/歌团★118.png" group-title="歌舞欣赏",歌团★118
+#EXTINF:-1 tvg-name="歌团★118" tvg-logo="https://live.fanmingming.com/tv/歌团★118.png" group-title="韩国女团",歌团★118
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240107389699.mp4
-#EXTINF:-1 tvg-name="歌团★119" tvg-logo="https://live.fanmingming.com/tv/歌团★119.png" group-title="歌舞欣赏",歌团★119
+#EXTINF:-1 tvg-name="歌团★119" tvg-logo="https://live.fanmingming.com/tv/歌团★119.png" group-title="韩国女团",歌团★119
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240345787129.mp4
-#EXTINF:-1 tvg-name="歌团★120" tvg-logo="https://live.fanmingming.com/tv/歌团★120.png" group-title="歌舞欣赏",歌团★120
+#EXTINF:-1 tvg-name="歌团★120" tvg-logo="https://live.fanmingming.com/tv/歌团★120.png" group-title="韩国女团",歌团★120
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240227966801.mp4
-#EXTINF:-1 tvg-name="歌团★121" tvg-logo="https://live.fanmingming.com/tv/歌团★121.png" group-title="歌舞欣赏",歌团★121
+#EXTINF:-1 tvg-name="歌团★121" tvg-logo="https://live.fanmingming.com/tv/歌团★121.png" group-title="韩国女团",歌团★121
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240228462625.mp4
-#EXTINF:-1 tvg-name="歌团★122" tvg-logo="https://live.fanmingming.com/tv/歌团★122.png" group-title="歌舞欣赏",歌团★122
+#EXTINF:-1 tvg-name="歌团★122" tvg-logo="https://live.fanmingming.com/tv/歌团★122.png" group-title="韩国女团",歌团★122
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240108721427.mp4
-#EXTINF:-1 tvg-name="歌团★123" tvg-logo="https://live.fanmingming.com/tv/歌团★123.png" group-title="歌舞欣赏",歌团★123
+#EXTINF:-1 tvg-name="歌团★123" tvg-logo="https://live.fanmingming.com/tv/歌团★123.png" group-title="韩国女团",歌团★123
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240001176191.mp4
-#EXTINF:-1 tvg-name="歌团★125" tvg-logo="https://live.fanmingming.com/tv/歌团★125.png" group-title="歌舞欣赏",歌团★125
+#EXTINF:-1 tvg-name="歌团★125" tvg-logo="https://live.fanmingming.com/tv/歌团★125.png" group-title="韩国女团",歌团★125
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240001228776.mp4
-#EXTINF:-1 tvg-name="歌团★126" tvg-logo="https://live.fanmingming.com/tv/歌团★126.png" group-title="歌舞欣赏",歌团★126
+#EXTINF:-1 tvg-name="歌团★126" tvg-logo="https://live.fanmingming.com/tv/歌团★126.png" group-title="韩国女团",歌团★126
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240109533631.mp4
-#EXTINF:-1 tvg-name="歌团★127" tvg-logo="https://live.fanmingming.com/tv/歌团★127.png" group-title="歌舞欣赏",歌团★127
+#EXTINF:-1 tvg-name="歌团★127" tvg-logo="https://live.fanmingming.com/tv/歌团★127.png" group-title="韩国女团",歌团★127
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240347663598.mp4
-#EXTINF:-1 tvg-name="歌团★128" tvg-logo="https://live.fanmingming.com/tv/歌团★128.png" group-title="歌舞欣赏",歌团★128
+#EXTINF:-1 tvg-name="歌团★128" tvg-logo="https://live.fanmingming.com/tv/歌团★128.png" group-title="韩国女团",歌团★128
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240001932458.mp4
-#EXTINF:-1 tvg-name="歌团★129" tvg-logo="https://live.fanmingming.com/tv/歌团★129.png" group-title="歌舞欣赏",歌团★129
+#EXTINF:-1 tvg-name="歌团★129" tvg-logo="https://live.fanmingming.com/tv/歌团★129.png" group-title="韩国女团",歌团★129
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240002044738.mp4
-#EXTINF:-1 tvg-name="歌团★130" tvg-logo="https://live.fanmingming.com/tv/歌团★130.png" group-title="歌舞欣赏",歌团★130
+#EXTINF:-1 tvg-name="歌团★130" tvg-logo="https://live.fanmingming.com/tv/歌团★130.png" group-title="韩国女团",歌团★130
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240111085001.mp4
-#EXTINF:-1 tvg-name="歌团★131" tvg-logo="https://live.fanmingming.com/tv/歌团★131.png" group-title="歌舞欣赏",歌团★131
+#EXTINF:-1 tvg-name="歌团★131" tvg-logo="https://live.fanmingming.com/tv/歌团★131.png" group-title="韩国女团",歌团★131
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240350575186.mp4
-#EXTINF:-1 tvg-name="歌团★132" tvg-logo="https://live.fanmingming.com/tv/歌团★132.png" group-title="歌舞欣赏",歌团★132
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240350771160.mp4
-#EXTINF:-1 tvg-name="歌团★133" tvg-logo="https://live.fanmingming.com/tv/歌团★133.png" group-title="歌舞欣赏",歌团★133
+#EXTINF:-1 tvg-name="歌团★133" tvg-logo="https://live.fanmingming.com/tv/歌团★133.png" group-title="韩国女团",歌团★133
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240113261859.mp4
-#EXTINF:-1 tvg-name="歌团★134" tvg-logo="https://live.fanmingming.com/tv/歌团★134.png" group-title="歌舞欣赏",歌团★134
+#EXTINF:-1 tvg-name="歌团★134" tvg-logo="https://live.fanmingming.com/tv/歌团★134.png" group-title="韩国女团",歌团★134
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240352039996.mp4
-#EXTINF:-1 tvg-name="歌团★135" tvg-logo="https://live.fanmingming.com/tv/歌团★135.png" group-title="歌舞欣赏",歌团★135
+#EXTINF:-1 tvg-name="歌团★135" tvg-logo="https://live.fanmingming.com/tv/歌团★135.png" group-title="韩国女团",歌团★135
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240236014123.mp4
-#EXTINF:-1 tvg-name="歌团★136" tvg-logo="https://live.fanmingming.com/tv/歌团★136.png" group-title="歌舞欣赏",歌团★136
+#EXTINF:-1 tvg-name="歌团★136" tvg-logo="https://live.fanmingming.com/tv/歌团★136.png" group-title="韩国女团",歌团★136
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240008036293.mp4
-#EXTINF:-1 tvg-name="歌团★137" tvg-logo="https://live.fanmingming.com/tv/歌团★137.png" group-title="歌舞欣赏",歌团★137
+#EXTINF:-1 tvg-name="歌团★137" tvg-logo="https://live.fanmingming.com/tv/歌团★137.png" group-title="韩国女团",歌团★137
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240354863286.mp4
-#EXTINF:-1 tvg-name="歌团★138" tvg-logo="https://live.fanmingming.com/tv/歌团★138.png" group-title="歌舞欣赏",歌团★138
+#EXTINF:-1 tvg-name="歌团★138" tvg-logo="https://live.fanmingming.com/tv/歌团★138.png" group-title="韩国女团",歌团★138
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240008780109.mp4
-#EXTINF:-1 tvg-name="歌团★139" tvg-logo="https://live.fanmingming.com/tv/歌团★139.png" group-title="歌舞欣赏",歌团★139
+#EXTINF:-1 tvg-name="歌团★139" tvg-logo="https://live.fanmingming.com/tv/歌团★139.png" group-title="韩国女团",歌团★139
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240009608741.mp4
-#EXTINF:-1 tvg-name="歌团★140" tvg-logo="https://live.fanmingming.com/tv/歌团★140.png" group-title="歌舞欣赏",歌团★140
+#EXTINF:-1 tvg-name="歌团★140" tvg-logo="https://live.fanmingming.com/tv/歌团★140.png" group-title="韩国女团",歌团★140
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240379515679.mp4
-#EXTINF:-1 tvg-name="歌团★141" tvg-logo="https://live.fanmingming.com/tv/歌团★141.png" group-title="歌舞欣赏",歌团★141
+#EXTINF:-1 tvg-name="歌团★141" tvg-logo="https://live.fanmingming.com/tv/歌团★141.png" group-title="韩国女团",歌团★141
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240262842385.mp4
-#EXTINF:-1 tvg-name="歌团★142" tvg-logo="https://live.fanmingming.com/tv/歌团★142.png" group-title="歌舞欣赏",歌团★142
+#EXTINF:-1 tvg-name="歌团★142" tvg-logo="https://live.fanmingming.com/tv/歌团★142.png" group-title="韩国女团",歌团★142
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240264262344.mp4
-#EXTINF:-1 tvg-name="歌团★143" tvg-logo="https://live.fanmingming.com/tv/歌团★143.png" group-title="歌舞欣赏",歌团★143
+#EXTINF:-1 tvg-name="歌团★143" tvg-logo="https://live.fanmingming.com/tv/歌团★143.png" group-title="韩国女团",歌团★143
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240384227055.mp4
-#EXTINF:-1 tvg-name="歌团★145" tvg-logo="https://live.fanmingming.com/tv/歌团★145.png" group-title="歌舞欣赏",歌团★145
+#EXTINF:-1 tvg-name="歌团★145" tvg-logo="https://live.fanmingming.com/tv/歌团★145.png" group-title="韩国女团",歌团★145
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240267170778.mp4
-#EXTINF:-1 tvg-name="歌团★146" tvg-logo="https://live.fanmingming.com/tv/歌团★146.png" group-title="歌舞欣赏",歌团★146
+#EXTINF:-1 tvg-name="歌团★146" tvg-logo="https://live.fanmingming.com/tv/歌团★146.png" group-title="韩国女团",歌团★146
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240386743317.mp4
-#EXTINF:-1 tvg-name="歌团★147" tvg-logo="https://live.fanmingming.com/tv/歌团★147.png" group-title="歌舞欣赏",歌团★147
+#EXTINF:-1 tvg-name="歌团★147" tvg-logo="https://live.fanmingming.com/tv/歌团★147.png" group-title="韩国女团",歌团★147
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240268654616.mp4
-#EXTINF:-1 tvg-name="歌团★148" tvg-logo="https://live.fanmingming.com/tv/歌团★148.png" group-title="歌舞欣赏",歌团★148
+#EXTINF:-1 tvg-name="歌团★148" tvg-logo="https://live.fanmingming.com/tv/歌团★148.png" group-title="韩国女团",歌团★148
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240387107547.mp4
-#EXTINF:-1 tvg-name="歌团★149" tvg-logo="https://live.fanmingming.com/tv/歌团★149.png" group-title="歌舞欣赏",歌团★149
+#EXTINF:-1 tvg-name="歌团★149" tvg-logo="https://live.fanmingming.com/tv/歌团★149.png" group-title="韩国女团",歌团★149
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240150573492.mp4
-#EXTINF:-1 tvg-name="歌团★150" tvg-logo="https://live.fanmingming.com/tv/歌团★150.png" group-title="歌舞欣赏",歌团★150
+#EXTINF:-1 tvg-name="歌团★150" tvg-logo="https://live.fanmingming.com/tv/歌团★150.png" group-title="韩国女团",歌团★150
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240388683474.mp4
-#EXTINF:-1 tvg-name="歌团★151" tvg-logo="https://live.fanmingming.com/tv/歌团★151.png" group-title="歌舞欣赏",歌团★151
+#EXTINF:-1 tvg-name="歌团★151" tvg-logo="https://live.fanmingming.com/tv/歌团★151.png" group-title="韩国女团",歌团★151
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240270774376.mp4
-#EXTINF:-1 tvg-name="歌团★152" tvg-logo="https://live.fanmingming.com/tv/歌团★152.png" group-title="歌舞欣赏",歌团★152
+#EXTINF:-1 tvg-name="歌团★152" tvg-logo="https://live.fanmingming.com/tv/歌团★152.png" group-title="韩国女团",歌团★152
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240151273206.mp4
-#EXTINF:-1 tvg-name="歌团★153" tvg-logo="https://live.fanmingming.com/tv/歌团★153.png" group-title="歌舞欣赏",歌团★153
+#EXTINF:-1 tvg-name="歌团★153" tvg-logo="https://live.fanmingming.com/tv/歌团★153.png" group-title="韩国女团",歌团★153
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240389031565.mp4
 #EXTINF:-1 tvg-name="模特DJ" tvg-logo="https://live.fanmingming.com/tv/模特DJ.png" group-title="动感舞曲",模特DJ
 http://gcw.bdcdn.shoujiduoduo.com/201805/0247-477.mp4
