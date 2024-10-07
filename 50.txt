@@ -3009,9 +3009,8 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 恐龙世界,https://vip.ffzy-play.com/20221017/1665_93f8d6d1/2000k/hls/mixed.m3u8
 
 哨兵行动,https://leshiyuncdn.36s.top/20230905/hYwougvV/hls/index.m3u8
-鬼吹灯之龙岭迷窟,https://vip.kuaikan-play1.com/20230308/YIHUHM9s/1760kb/hls/index.m3u8
+
 鬼吹灯之寻龙诀,https://s1.bfzycdn.com/video/guichuidengzhixunlongjue/HD%E5%9B%BD%E8%AF%AD/index.m3u8
-九龙城寨之围城,https://vip.kuaikan-cdn4.com/20240506/Jl95ROZG/3200kb/hls/index.m3u8
 猎毒风云,https://v.cdnlz2.com/20240428/30676_4e3fad55/2000k/hls/mixed.m3u8
 破毒行动,https://v10.dious.cc/20240410/0MiZquLW/2000kb/hls/index.m3u8
 猩球崛起新世界,https://vv.jisuzyv.com/play/9av0Rnnd/index.m3u8
@@ -3020,18 +3019,10 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 复仇岛,https://leshiyuncdn.36s.top/20230717/PBScC8YT/hls/index.m3u8
 决战帝国,https://hn.bfvvs.com/play/DbDxNqbl/index.m3u8
 决战帝国,https://hn.bfvvs.com/play/DbDxNqbl/index.m3u8
-青木川传奇,https://vip.ffzy-play6.com/20221023/1492_21d98038/2000k/hls/mixed.m3u8
-青木川传奇,https://leshiyuncdn.36s.top/20240223/suvc8Y70/3750kb/hls/index.m3u8
 太空救援,https://vip.ffzy-play7.com/20221104/1440_e165e96a/2000k/hls/mixed.m3u8
 太空救援,https://hn.bfvvs.com/play/DbD0DBbl/index.m3u8
-海盗岛甲板上的家族,https://vip.ffzy-play6.com/20221031/3140_4d158cc2/2000k/hls/mixed.m3u8
-海盗岛甲板上的家族,https://v1.pe12369.com/202308/19/CX3umiEyXW2/video/2000k_0X1080_64k_25/hls/index.m3u8
 伏击2023,https://vip.ffzy-play5.com/20230320/8910_c73b3f9a/2000k/hls/mixed.m3u8
 伏击2023,https://leshiyuncdn.36s.top/20231223/cx0SIn34/hls/index.m3u8
-惊天营救2,https://svipsvip.ffzyread1.com/20230616/13945_bfb3b392/2000k/hls/index.m3u8
-惊天营救2,https://leshiyuncdn.36s.top/20240506/gFG7cEKB/2000kb/hls/index.m3u8
-惊天魔盗团,https://vip.ffzy-play6.com/20221019/172_ab70dfdd/2000k/hls/mixed.m3u8
-惊天魔盗团,https://223.111.202.82:11300/vods/hls/dhz/15/14388/24042718/679947/1920/index.m3u8?appId=kkdy&sign=52548a87f0754201f514bfdec8172ed3&timestamp=1715409787
 猩球崛起新世界,https://vip.ffzy-online1.com/20240510/49130_d626384c/2000k/hls/mixed.m3u8
 猩球崛起新世界,https://223.111.202.73:11300/vods/hls/dhz/16/15949/24051312/762749/1920/index.m3u8?appId=kkdy&sign=70649418b15c1023e334f93773112a64&timestamp=1715737970
 决战帝国,https://hn.bfvvs.com/play/DbDxNqbl/index.m3u8
@@ -3040,115 +3031,50 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 哨兵行动,https://vip.kuaikan-cdn3.com/20230330/AlkV4rlO/hls/index.m3u8
 热辣滚烫,https://svipsvip.ffzyread1.com/20240418/26209_829902db/2000k/hls/mixed.m3u8
 热辣滚烫,https://223.111.202.73:11300/vods/hls/dhz/5/4096/24041820/13046/1920/index.m3u8?appId=kkdy&sign=0ef7d789331445eaaadd5672c49e0f63&timestamp=1715736715
-周处除三害,https://svipsvip.ffzy-online5.com/20240301/24303_f0da8c06/2000k/hls/mixed.m3u8
 孤注一掷,https://vip.ffzy-online1.com/20240430/48811_221dd2ee/2000k/hls/mixed.m3u8
-唐山大地震,https://vip.ffzy-play6.com/20221022/979_c2c7cf9a/2000k/hls/mixed.m3u8
-史前怪兽 (2024),https://s10.fsvod1.com/20240422/xrbJ8MIB/2000kb/hls/index.m3u8
-超能敢死队：冰封之城 (2024),https://v.cdnlz2.com/20240423/30417_c4bed124/2000k/hls/mixed.m3u8
-破墓 (2024),https://s10.fsvod1.com/20240421/ZS4ChJYx/2000kb/hls/index.m3u8
-临时劫案 (2024),https://s10.fsvod1.com/20240306/6ojWInsL/2000kb/hls/index.m3u8
 僵尸先生,https://vip.ffzy-play7.com/20230507/24165_799a7b4a/2000k/hls/mixed.m3u8
-僵尸至尊,https://vip.ffzy-play6.com/20221129/9344_44b64a1a/2000k/hls/mixed.m3u8
-尸家重地,https://vip.ffzy-play6.com/20221112/6051_a60c9433/2000k/hls/mixed.m3u8
-极速僵尸,https://vip.ffzy-play6.com/20221022/1127_e10a4a23/2000k/hls/mixed.m3u8
 驱魔道长,https://vip.ffzy-play7.com/20221112/3670_136b232e/2000k/hls/mixed.m3u8
 赌侠,https://vip.ffzy-online.com/20221017/869_4ed0959f/2000k/hls/mixed.m3u8
-天地玄门,https://vip.ffzy-play6.com/20221112/6127_d615f342/2000k/hls/mixed.m3u8
-僵尸先生5驱魔警察,https://vip.ffzy-play6.com/20221205/9856_18a53055/2000k/hls/mixed.m3u8
-侏罗纪崛起,https://vip.ffzy-play6.com/20221122/7883_e46af164/2000k/hls/mixed.m3u8
 灰影人,https://vip.ffzy-play7.com/20221225/9793_976ebee6/2000k/hls/mixed.m3u8
-极线杀手,https://vip.ffzy-play6.com/20221126/8509_df155574/2000k/hls/mixed.m3u8
 首尔大作战,https://vip.ffzy-play7.com/20221224/9666_a61bd3aa/2000k/hls/mixed.m3u8
 红色通缉令,https://vip.ffzy-play7.com/20230116/11647_6bade482/2000k/hls/mixed.m3u8
 末日激战,https://vip.ffzy-play7.com/20221225/9798_f0714d69/2000k/hls/mixed.m3u8
 极地反击,https://vip.ffzy-play7.com/20221226/9843_777ae90f/2000k/hls/mixed.m3u8
-超能泰坦,https://vip.ffzy-online.com/20221015/737_71ccf696/5000k/hls/mixed.m3u8
 玩命三姐妹,https://vip.ffzy-play7.com/20230116/11586_477acb30/2000k/hls/mixed.m3u8
-侠盗,https://vip.ffzy-play6.com/20221204/9748_7d2d62fe/2000k/hls/mixed.m3u8
 超能计划,https://vip.ffzy-play7.com/20221226/9831_ceb2f30c/2000k/hls/mixed.m3u8
 贴身女保镖2019,https://vip.ffzy-play7.com/20221223/9448_ff2f5496/2000k/hls/mixed.m3u8
-2020去死,https://vip.ffzy-play7.com/20230123/12040_c0d4427c/2000k/hls/mixed.m3u8
 惊天营救,https://vip.ffzy-online2.com/20230521/37662_1a7d27e1/2000k/hls/mixed.m3u8
 夜战风云,https://vip.ffzy-play7.com/20221107/2333_22c5d04c/2000k/hls/mixed.m3u8
 光灵,https://hn.bfvvs.com/play/lej5Pvdj/index.m3u8
 边境杀手,https://vip.ffzy-play7.com/20221208/8774_628c1d65/2000k/hls/mixed.m3u8
 指环王1护戒使者,https://vip.ffzy-play7.com/20230411/22167_a385d245/2000k/hls/mixed.m3u8
 指环王2双塔奇兵,https://vip.ffzy-play7.com/20221127/7286_672b6ffa/2000k/hls/mixed.m3u8
-指环王3王者无敌,https://vip.ffzy-play6.com/20221017/19_8752ff61/2000k/hls/mixed.m3u8
-指环王1魔戒再现,https://vip.kuaikan-cdn4.com/20240220/k2bjbEoB/898kb/hls/index.m3u8
 终结者,https://vip.ffzy-play7.com/20221228/10160_5afa1582/2000k/hls/mixed.m3u8
 终结者2审判日,https://vip.ffzy-play7.com/20230219/15391_e0dd8424/2000k/hls/mixed.m3u8
 终结者3,https://vip.ffzy-play7.com/20230219/15338_218ad517/2000k/hls/mixed.m3u8
-终结者黑暗命运,https://vip.ffzy-play6.com/20221204/9671_c7c6d23b/2000k/hls/mixed.m3u8
 终结者2018,https://vip.ffzy-play7.com/20230217/15110_af027ece/2000k/hls/mixed.m3u8
-指环王前传希望的诞生,https://leshiyuncdn.36s.top/20240312/aZphxIEF/2000kb/hls/index.m3u8
 灰影人,https://leshiyuncdn.36s.top/20240109/WW1ZAsxy/2000kb/hls/index.m3u8
 致命女郎,https://vip.ffzy-play7.com/20230319/18963_6a43929e/2000k/hls/mixed.m3u8
-人工智能,https://leshiyuncdn.36s.top/20240107/eAcFJrkl/1700kb/hls/index.m3u8
 人工智能伏羲觉醒,https://vip.ffzy-play7.com/20221124/6740_57a26e73/2000k/hls/mixed.m3u8
-超体,https://leshiyuncdn.36s.top/20240517/az06bTCg/2000kb/hls/index.m3u8
 她来自未来 一百年以后,https://play.hhuus.com/play/nelw9J5d/index.m3u8
 特工绍特,https://vip.ffzy-play7.com/20221231/10563_e4439114/2000k/hls/mixed.m3u8
 魔警,https://vip.ffzy-play7.com/20221028/550_4d98b3ec/2000k/hls/mixed.m3u8
 暴走神探,https://vip.ffzy-play7.com/20221103/1092_043fc37e/2000k/hls/mixed.m3u8
-骇客交锋,https://vip.ffzy-play6.com/20221204/9703_35d85348/2000k/hls/mixed.m3u8
-天际浩劫,https://vip.ffzy-play6.com/20221022/988_81da1c82/2000k/hls/mixed.m3u8
 明日边缘,https://vip.ffzy-play7.com/20221028/545_59fc39b3/2000k/hls/mixed.m3u8
-明日世界,https://vip.ffzy-play6.com/20221103/4015_ee52532a/2000k/hls/mixed.m3u8
 超能查派,https://vip.ffzy-play7.com/20230214/14682_7c3df6aa/2000k/hls/mixed.m3u8
-新木乃伊,https://vip.ffzy-play6.com/20221204/9622_81856a3d/2000k/hls/mixed.m3u8
 横冲直撞好莱坞,https://vip.ffzy-play7.com/20230117/11733_65598d1d/2000k/hls/mixed.m3u8
-正义的子弹,https://vip.kuaikan-cdn3.com/20230331/gY6qi4ni/hls/index.m3u8
-黄雀在后,https://svipsvip.ffzy-online5.com/20240506/26948_6fe0b3cc/2000k/hls/mixed.m3u8
-绝命狙击,https://v.cdnlz3.com/20240529/23459_8463c348/2000k/hls/mixed.m3u8
-陌路狂刀,https://super.ffzy-online6.com/20240308/27283_16f1d053/2000k/hls/index.m3u8
 末路狂花钱,https://vip.ffzy-online1.com/20240503/48817_998ad06d/2000k/hls/mixed.m3u8
-前途海量,https://svipsvip.ffzy-online5.com/20240516/27330_9f5869dd/2000k/hls/mixed.m3u8
-妖神令,https://svipsvip.ffzy-online5.com/20240328/25362_1435d2a5/2000k/hls/mixed.m3u8
-养蜂人,https://svipsvip.ffzy-online5.com/20240201/22926_4ab8aa83/2000k/hls/mixed.m3u8
-破案之致命追凶,https://svipsvip.ffzy-online5.com/20240528/27862_f897599f/2000k/hls/mixed.m3u8
-第三个嫌疑人,https://super.ffzy-online6.com/20240324/28193_c4583666/2000k/hls/index.m3u8
-东北警察故事,https://vip.ffzy-online.com/20221015/792_81b24941/5000k/hls/mixed.m3u8
-东北警察故事2,https://super.ffzy-online6.com/20230709/14702_e730c008/2000k/hls/index.m3u8
 绝地追击,https://super.ffzy-online6.com/20230923/18977_8858015e/2000k/hls/index.m3u8
 天龙八部之乔峰传,https://vip.ffzy-play5.com/20230121/6052_87b1c663/2000k/hls/mixed.m3u8
-西装暴徒,https://svipsvip.ffzy-online5.com/20240118/22262_c8772663/2000k/hls/mixed.m3u8
-零号追杀,https://super.ffzy-online6.com/20230721/15338_c2e42d5d/2000k/hls/index.m3u8
-缉恶,https://super.ffzy-online6.com/20240212/26147_50d69712/2000k/hls/index.m3u8
-93国际列车大劫案莫斯科行动,https://super.ffzy-online6.com/20231124/22000_602d5114/2000k/hls/index.m3u8
-临时劫案,https://super.ffzy-online6.com/20240306/27199_cea9e4ce/2000k/hls/index.m3u8
 除暴安良,https://svipsvip.ffzyread1.com/20240301/24769_7f369e0a/2000k/hls/mixed.m3u8
-黄雀在后,https://svipsvip.ffzy-online5.com/20240506/26948_6fe0b3cc/2000k/hls/mixed.m3u8
-
-
-
-
-
-
-
-
-
-
-🎬灾难片电影,#genre#
 地质灾难,https://yzzy.play-cdn3.com/20220512/20293_60350db4/1000k/hls/index.m3u8
 地质灾难,https://vip.ffzy-play7.com/20221107/2235_49649a40/2000k/hls/mixed.m3u8
 大台风,https://vip.ffzy-play7.com/20221125/6883_82f61cb8/2000k/hls/mixed.m3u8
-费城实验,https://vip.kuaikan-play1.com/20230308/VV6kgnMA/index.m3u8
-《极限逃生》（2019）,https://leshiyuncdn.36s.top/20230717/pxxDBst0/hls/index.m3u8
-《一切尽失》（2013）,https://leshiyuncdn.36s.top/20240429/xwOtIzFW/2000kb/hls/index.m3u8
-《海啸奇迹》（2012）,https://leshiyuncdn.36s.top/20240328/WfFA8BBo/2000kb/hls/index.m3u8
-韩国2016隧道,https://leshiyuncdn.36s.top/20240120/v1tGQGYO/2000kb/hls/index.m3u8
 《萨利机长》（2016）,https://vip.ffzy-play7.com/20221106/1835_c7f12160/2000k/hls/mixed.m3u8
 《釜山行》（2016）,https://vip.ffzy-play7.com/20221231/10520_3d5b9613/2000k/hls/mixed.m3u8
 《勇往直前》（2017）,https://vip.ffzy-play7.com/20230329/20309_efc66683/2000k/hls/mixed.m3u8
-《科洛弗档案》（2008）,https://leshiyuncdn.36s.top/20240121/CinQky7m/1659kb/hls/index.m3u8
 《惊涛大冒险》（2006）,https://vip.ffzy-play7.com/20221223/9425_b5bba627/2000k/hls/mixed.m3u8
-《完美风暴》（2000）,https://leshiyuncdn.36s.top/20240429/vuCBkL7F/2000kb/hls/index.m3u8
-《汉江怪物》（2006）,https://vip.ffzy-play6.com/20221126/8446_10d4e297/2000k/hls/mixed.m3u8
-《人类之子》（2006）,https://vip.ffzy-play6.com/20221025/1953_74d93a85/2000k/hls/mixed.m3u8
-《93航班》（2006）,https://vip.ffzy-play6.com/20221029/2744_7fdbe383/2000k/hls/mixed.m3u8
 《2012》（2009）,https://play.subokk.com/play/1aM8w55e/index.m3u8
-《我是传奇》（2007）,https://vip.ffzy-play6.com/20221022/1009_0cab4a4e/2000k/hls/mixed.m3u8
 《后天》（2004）,https://vip.ffzy-play7.com/20230213/14532_9579e3bd/2000k/hls/mixed.m3u8
 
 
