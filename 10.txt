@@ -623,7 +623,6 @@ CCTV5,http://115.48.22.43:9901/tsfile/live/1004_1.m3u8
 CCTV5,http://119.125.134.151:9901/tsfile/live/23022_1.m3u8
 CCTV5,http://110.189.102.15:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5,http://60.4.9.230:9901/tsfile/live/0005_1.m3u8
-CCTV5+,http://171.38.193.193:8088/tsfile/live/0011_1.m3u8
 CCTV5+,http://171.38.193.169:8088/tsfile/live/0011_1.m3u8
 CCTV5+,http://119.125.104.185:9901/tsfile/live/1023_1.m3u8
 CCTV5+,http://171.38.193.108:8088/tsfile/live/0011_1.m3u8
@@ -647,7 +646,6 @@ CCTV6,http://110.189.102.15:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&a
 CCTV6,http://60.4.9.98:9901/tsfile/live/0006_1.m3u8
 CCTV6,http://123.161.37.195:9901/tsfile/live/0006_1.m3u8
 CCTV6,http://58.48.5.186:1111/tsfile/live/0006_1.m3u8
-CCTV7,http://171.38.223.24:8088/tsfile/live/0007_1.m3u8
 CCTV7,http://171.38.193.207:8088/tsfile/live/0007_1.m3u8
 CCTV7,http://119.125.134.137:9902/tsfile/live/0007_1.m3u8
 CCTV7,http://59.32.97.59:9901/tsfile/live/1045_1.m3u8
@@ -657,7 +655,6 @@ CCTV7,http://123.53.220.144:9901/tsfile/live/0007_1.m3u8?key=txiptv
 CCTV7,http://60.4.9.230:9901/tsfile/live/0007_1.m3u8
 CCTV7,http://60.4.9.40:9901/tsfile/live/0007_1.m3u8
 CCTV7,http://58.48.5.186:1111/tsfile/live/0007_1.m3u8
-CCTV8,http://113.64.94.171:9901/tsfile/live/1023_1.m3u8
 CCTV8,http://171.38.223.69:8088/tsfile/live/0008_1.m3u8
 CCTV8,http://119.125.134.137:9902/tsfile/live/0008_1.m3u8
 CCTV8,http://123.161.37.195:9901/tsfile/live/0008_1.m3u8
@@ -667,7 +664,6 @@ CCTV8,http://111.8.242.151:9902/tsfile/live/0008_1.m3u8
 CCTV8,http://60.4.9.230:9901/tsfile/live/0008_1.m3u8
 CCTV8,http://119.125.128.206:9901/tsfile/live/1026_1.m3u8
 CCTV8,http://60.4.9.40:9901/tsfile/live/0008_1.m3u8
-CCTV9,http://171.38.223.24:8088/tsfile/live/0009_1.m3u8
 CCTV9,http://171.38.193.207:8088/tsfile/live/0009_1.m3u8
 CCTV9,http://119.125.104.185:9901/tsfile/live/1027_1.m3u8
 CCTV9,http://119.125.134.137:9902/tsfile/live/0009_1.m3u8
@@ -680,7 +676,6 @@ CCTV9,http://119.125.128.206:9901/tsfile/live/1027_1.m3u8
 CCTV9,http://119.163.60.10:9901/tsfile/live/0010_1.m3u8
 CCTV9,http://110.189.102.15:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV9,http://58.48.5.186:1111/tsfile/live/0009_1.m3u8
-CCTV10,http://171.38.193.108:8088/tsfile/live/0010_1.m3u8
 CCTV10,http://171.38.193.169:8088/tsfile/live/0010_1.m3u8
 CCTV10,http://119.125.134.137:9902/tsfile/live/0010_1.m3u8
 CCTV10,http://111.8.242.151:9902/tsfile/live/0010_1.m3u8
@@ -1472,7 +1467,6 @@ CCTV少儿,http://119.163.63.188:9901/tsfile/live/0015_1.m3u8
 河南新闻频道,http://123.53.220.144:9901/tsfile/live/1009_1.m3u8?key=txiptv
 河南公共频道,http://123.53.220.144:9901/tsfile/live/1010_1.m3u8?key=txiptv
 河南梨园频道,http://123.53.220.144:9901/tsfile/live/1014_1.m3u8?key=txiptv
-
 
 
 
