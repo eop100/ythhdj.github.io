@@ -906,7 +906,6 @@ CCTV17,http://119.125.131.37:9901/tsfile/live/1036_1.m3u8
 浙江卫视,http://113.64.94.199:9901/tsfile/live/1045_1.m3u8
 浙江卫视,http://119.125.104.253:9901/tsfile/live/1045_1.m3u8
 浙江卫视,http://110.189.102.15:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-深圳卫视,http://119.125.130.202:9901/tsfile/live/1048_1.m3u8
 深圳卫视,http://119.125.134.151:9901/tsfile/live/23060_1.m3u8
 深圳卫视,http://124.228.160.75:9901/tsfile/live/0126_1.m3u8
 深圳卫视,http://171.38.193.207:8088/tsfile/live/0128_1.m3u8
