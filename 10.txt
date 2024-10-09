@@ -7402,7 +7402,7 @@ CRI HIT FM (广州),http://satellitepull.cnr.cn/live/wxhitfm/playlist.m3u8
 成都文化休闲广播·radio946,http://live.cooltv.top/tv/cdgb.php?id=433-20
 苏州都市音乐广播,http://live.cooltv.top/tv/szradio.php?id=szdsyygb
 
-🌍重要通知事项,#genre#
+重要通知,#genre#
 语音通告,https://07751000.github.io/001github.io/20240929_230449.m4a
 不另行通知劳驾添加,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 微信BC80000008,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
@@ -7417,7 +7417,7 @@ CCTV-5高清,http://175.31.21.146:4480/hls/5/index.m3u8
 
 
 
-⭐戏曲频道⭐,#genre#
+戏曲频道,#genre#
 
 曲剧《桑林收子》,http://gcw.bdcdn.shoujiduoduo.com/v/190617/2282c7e70fc99fe1e7e065e32b1ab2b9.mp4
 曲剧《四郎探母》,http://gcw.bdcdn.shoujiduoduo.com/v/191208/1aef74e8889ab9199f60927ac66b0885.mp4
