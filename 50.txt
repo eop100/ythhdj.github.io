@@ -1,5 +1,4 @@
 央卫,#genre#
-🛰️电视直播,#genre#
 CCTV1,http://119.125.129.182:9901/tsfile/live/1018_1.m3u8
 CCTV1,http://119.125.134.245:9901/tsfile/live/23018_1.m3u8
 CCTV1,http://182.117.136.208:9901/tsfile/live/0001_1.m3u8
