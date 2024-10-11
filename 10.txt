@@ -1124,6 +1124,140 @@ CETV4,http://117.114.153.18:8180/TV00000000000000000012@HHZT$北京全网通
 
 
 
+
+
+
+
+
+嘉兴联通,#genre#
+
+CCTV 1 综合 ,http://home.js001.com:7777/stream/channelid/2047244483?profile=pass
+CCTV 2 财经 ,http://home.js001.com:7777/stream/channelid/1181369424?profile=pass
+CCTV 3 综艺 ,http://home.js001.com:7777/stream/channelid/1708718087?profile=pass
+CCTV 4 中文国际 ,http://home.js001.com:7777/stream/channelid/110915426?profile=pass
+CCTV 5 体育 ,http://home.js001.com:7777/stream/channelid/1005016003?profile=pass
+CCTV 5+ 体育赛事 ,http://home.js001.com:7777/stream/channelid/376950284?profile=pass
+CCTV 6 电影 ,http://home.js001.com:7777/stream/channelid/1531555713?profile=pass
+CCTV 7 国防军事 ,http://home.js001.com:7777/stream/channelid/1337252658?profile=pass
+CCTV 8 电视剧 ,http://home.js001.com:7777/stream/channelid/841425397?profile=pass
+CCTV 9 记录 ,http://home.js001.com:7777/stream/channelid/349290233?profile=pass
+CCTV 10 科教 ,http://home.js001.com:7777/stream/channelid/1857941135?profile=pass
+CCTV 11 戏曲 ,http://home.js001.com:7777/stream/channelid/1584887484?profile=pass
+CCTV 12 社会与法 ,http://home.js001.com:7777/stream/channelid/604912287?profile=pass
+CCTV 13 新闻 ,http://home.js001.com:7777/stream/channelid/2133997348?profile=pass
+CCTV 14 青少 ,http://home.js001.com:7777/stream/channelid/328826133?profile=pass
+CCTV 15 音乐 ,http://home.js001.com:7777/stream/channelid/1502316774?profile=pass
+CCTV 16 奥林匹克 ,http://home.js001.com:7777/stream/channelid/43205297?profile=pass
+CCTV 17 农村农业 ,http://home.js001.com:7777/stream/channelid/800428881?profile=pass
+CCTV 世界地理 ,http://home.js001.com:7777/stream/channelid/169829115?profile=pass
+CCTV 兵器科技 ,http://home.js001.com:7777/stream/channelid/1209763785?profile=pass
+CCTV 女性时尚 靓妆 ,http://home.js001.com:7777/stream/channelid/790182847?profile=pass
+CCTV 第一剧场 ,http://home.js001.com:7777/stream/channelid/450800508?profile=pass
+CCTV风云足球 ,http://home.js001.com:7777/stream/channelid/1069494532?profile=pass
+CCTV高尔夫网球,http://home.js001.com:7777/stream/channelid/1329489557?profile=pass
+CHC动作电影 ,http://home.js001.com:7777/stream/channelid/1524691456?profile=pass
+CHC家庭影院,http://home.js001.com:7777/stream/channelid/569319485?profile=pass
+CHC高清电影,http://home.js001.com:7777/stream/channelid/138818596?profile=pass
+电影HBO,http://home.js001.com:7777/stream/channelid/2040560853?profile=pass
+卫视电影Star Sports,http://home.js001.com:7777/stream/channelid/1787158087?profile=pass
+电影CINEMAX,http://home.js001.com:7777/stream/channelid/354815841?profile=pass
+体育Star Sports,http://home.js001.com:7777/stream/channelid/284416174?profile=pass
+国家地理,http://home.js001.com:7777/stream/channelid/510605985?profile=pass
+KBS,http://home.js001.com:7777/stream/channelid/1926215694?profile=pass
+NHK,http://home.js001.com:7777/stream/channelid/2121161686?profile=pass
+4K频道,http://home.js001.com:7777/stream/channelid/746745884?profile=pass
+梨园频道,http://home.js001.com:7777/stream/channelid/782734182?profile=pass
+求索纪录,http://home.js001.com:7777/stream/channelid/1549571705?profile=pass
+求索纪录 ,http://home.js001.com:7777/stream/channelid/1311034607?profile=pass
+凤凰卫视,http://home.js001.com:7777/stream/channelid/327340771?profile=pass
+凤凰资讯,http://home.js001.com:7777/stream/channelid/1347243459?profile=pass
+凤凰电影台,http://home.js001.com:7777/stream/channelid/884059847?profile=pass
+
+东方卫视 ,http://home.js001.com:7777/stream/channelid/935157586?profile=pass
+三沙卫视 ,http://home.js001.com:7777/stream/channelid/1976493232?profile=pass
+东南卫视 ,http://home.js001.com:7777/stream/channelid/549977164?profile=pass
+兵团卫视,http://home.js001.com:7777/stream/channelid/51705982?profile=pass
+北京卫视 ,http://home.js001.com:7777/stream/channelid/831085837?profile=pass
+吉林卫视 ,http://home.js001.com:7777/stream/channelid/238665852?profile=pass
+四川卫视 ,http://home.js001.com:7777/stream/channelid/1262785849?profile=pass
+天津卫视 ,http://home.js001.com:7777/stream/channelid/1014315020?profile=pass
+安徽卫视 ,http://home.js001.com:7777/stream/channelid/1327176965?profile=pass
+山东卫视 ,http://home.js001.com:7777/stream/channelid/381149734?profile=pass
+广东卫视 ,http://home.js001.com:7777/stream/channelid/1971098978?profile=pass
+新疆卫视,http://home.js001.com:7777/stream/channelid/65208443?profile=pass
+江苏卫视 ,http://home.js001.com:7777/stream/channelid/31605677?profile=pass
+江西卫视 ,http://home.js001.com:7777/stream/channelid/445567678?profile=pass
+河南卫视,http://home.js001.com:7777/stream/channelid/848366056?profile=pass
+浙江卫视 ,http://home.js001.com:7777/stream/channelid/44909195?profile=pass
+深圳卫视 ,http://home.js001.com:7777/stream/channelid/1755670741?profile=pass
+湖北卫视 ,http://home.js001.com:7777/stream/channelid/1098503860?profile=pass
+湖南卫视 ,http://home.js001.com:7777/stream/channelid/1057814870?profile=pass
+西藏卫视,http://home.js001.com:7777/stream/channelid/1949800378?profile=pass
+辽宁卫视 ,http://home.js001.com:7777/stream/channelid/800530619?profile=pass
+重庆卫视 ,http://home.js001.com:7777/stream/channelid/133021347?profile=pass
+青海卫视,http://home.js001.com:7777/stream/channelid/684036725?profile=pass
+黑龙江卫视 ,http://home.js001.com:7777/stream/channelid/1480797258?profile=pass
+
+上海东方财经,http://home.js001.com:7777/stream/channelid/1652786925?profile=pass
+上海五星体育 ,http://home.js001.com:7777/stream/channelid/1857949992?profile=pass
+上海新闻综合,http://home.js001.com:7777/stream/channelid/320946772?profile=pass
+上海都市 ,http://home.js001.com:7777/stream/channelid/952861138?profile=pass
+嘉善新闻综合 ,http://home.js001.com:7777/stream/channelid/1331784265?profile=pass
+嘉善资讯服务,http://home.js001.com:7777/stream/channelid/1801677461?profile=pass
+浙江之江纪录 ,http://home.js001.com:7777/stream/channelid/1537837782?profile=pass
+浙江少儿 ,http://home.js001.com:7777/stream/channelid/1275522912?profile=pass
+浙江教科影视 ,http://home.js001.com:7777/stream/channelid/816055334?profile=pass
+浙江新闻 ,http://home.js001.com:7777/stream/channelid/2115184593?profile=pass
+浙江旅游之声,http://home.js001.com:7777/stream/channelid/1183338144?profile=pass
+浙江民生休闲 ,http://home.js001.com:7777/stream/channelid/1558808462?profile=pass
+浙江经视 ,http://home.js001.com:7777/stream/channelid/1952681679?profile=pass
+浙江钱江 ,http://home.js001.com:7777/stream/channelid/782193856?profile=pass
+环球俄语,http://home.js001.com:7777/stream/channelid/1347904945?profile=pass
+环球旅游,http://home.js001.com:7777/stream/channelid/414909248?profile=pass
+环球法语,http://home.js001.com:7777/stream/channelid/1316535466?profile=pass
+环球英语新闻,http://home.js001.com:7777/stream/channelid/338351661?profile=pass
+环球西班牙语,http://home.js001.com:7777/stream/channelid/1897642906?profile=pass
+环球阿拉伯语,http://home.js001.com:7777/stream/channelid/526294677?profile=pass
+精彩影视,http://home.js001.com:7777/stream/channelid/685272731?profile=pass
+纪实科教 ,http://home.js001.com:7777/stream/channelid/58712203?profile=pass
+聚鲨环球精选,http://home.js001.com:7777/stream/channelid/2135978220?profile=pass
+节目导航,http://home.js001.com:7777/stream/channelid/149270857?profile=pass
+金鹰卡通 ,http://home.js001.com:7777/stream/channelid/1333065964?profile=pass
+优优宝贝,http://home.js001.com:7777/stream/channelid/717228422?profile=pass
+优漫卡通,http://home.js001.com:7777/stream/channelid/426373495?profile=pass
+动漫秀场,http://home.js001.com:7777/stream/channelid/330049056?profile=pass
+华数服务 ,http://home.js001.com:7777/stream/channelid/1790061063?profile=pass
+卡酷少儿 ,http://home.js001.com:7777/stream/channelid/91454755?profile=pass
+卫生健康,http://home.js001.com:7777/stream/channelid/442051654?profile=pass
+四海钓鱼,http://home.js001.com:7777/stream/channelid/2128083959?profile=pass
+天元围棋,http://home.js001.com:7777/stream/channelid/480300023?profile=pass
+摄影频道,http://home.js001.com:7777/stream/channelid/2097601758?profile=pass
+教育台1,http://home.js001.com:7777/stream/channelid/1544111536?profile=pass
+数码时代,http://home.js001.com:7777/stream/channelid/174148467?profile=pass
+汽摩,http://home.js001.com:7777/stream/channelid/438631218?profile=pass
+游戏竞技,http://home.js001.com:7777/stream/channelid/1434079374?profile=pass
+湖南快乐垂钓 ,http://home.js001.com:7777/stream/channelid/678058210?profile=pass
+中教四套,http://home.js001.com:7777/stream/channelid/1231127989?profile=pass
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 河南-联通,#genre#
 CCTV1-综合,http://115.48.60.4:9901/tsfile/live/0001_1.m3u8?key=txiptv
 CCTV2-财经,http://115.48.60.4:9901/tsfile/live/0002_1.m3u8?key=txiptv
