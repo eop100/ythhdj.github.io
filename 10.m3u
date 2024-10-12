@@ -791,8 +791,6 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
 http://home.js001.com:7777/stream/channelid/327340771?profile=pass
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png" group-title="测试频道",凤凰资讯
 http://home.js001.com:7777/stream/channelid/1347243459?profile=pass
-#EXTINF:-1 tvg-name="天映" tvg-logo="https://live.fanmingming.com/tv/天映.png" group-title="测试频道",天映
-http://113.64.94.171:9901/tsfile/live/1043_1.m3u8
 #EXTINF:-1 tvg-name="明珠" tvg-logo="https://live.fanmingming.com/tv/明珠.png" group-title="测试频道",明珠
 http://113.64.94.204:9901/tsfile/live/1008_1.m3u8
 #EXTINF:-1 tvg-name="明珠" tvg-logo="https://live.fanmingming.com/tv/明珠.png" group-title="测试频道",明珠
@@ -803,8 +801,6 @@ http://119.125.129.101:9901/tsfile/live/1005_1.m3u8
 http://119.125.134.245:9901/tsfile/live/23006_1.m3u8
 #EXTINF:-1 tvg-name="星河" tvg-logo="https://live.fanmingming.com/tv/星河.png" group-title="测试频道",星河
 http://119.125.131.243:9901/tsfile/live/1072_1.m3u8
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="测试频道",翡翠台
-http://119.125.129.101:9901/tsfile/live/1004_1.m3u8
 #EXTINF:-1 tvg-name="AMC电影台" tvg-logo="https://live.fanmingming.com/tv/AMC电影台.png" group-title="测试频道",AMC电影台
 http://61.221.215.25:8800/hls/43/index.m3u8
 #EXTINF:-1 tvg-name="环球电视台" tvg-logo="https://live.fanmingming.com/tv/环球电视台.png" group-title="测试频道",环球电视台
