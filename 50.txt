@@ -820,12 +820,12 @@ AXN,http://116.11.140.121:18181/tsfile/live/1217_1.m3u8
 
 
 广东-肇庆,#genre#
-CCTV1,http://119.125.104.173:9901/tsfile/live/1015_1.m3u8
-CCTV2,http://119.125.104.173:9901/tsfile/live/1016_1.m3u8
-CCTV3,http://119.125.104.173:9901/tsfile/live/1017_1.m3u8
-CCTV4,http://119.125.104.173:9901/tsfile/live/1018_1.m3u8
-CCTV5,http://119.125.104.173:9901/tsfile/live/1019_1.m3u8
-CCTV5+,http://119.125.104.173:9901/tsfile/live/1020_1.m3u8
+大湾区,http://119.125.104.173:9901/tsfile/live/1015_1.m3u8
+广东影视,http://119.125.104.173:9901/tsfile/live/1016_1.m3u8
+广东少儿,http://119.125.104.173:9901/tsfile/live/1017_1.m3u8
+CCTV1,http://119.125.104.173:9901/tsfile/live/1018_1.m3u8
+CCTV2,http://119.125.104.173:9901/tsfile/live/1019_1.m3u8
+河南卫视,http://119.125.104.173:9901/tsfile/live/1020_1.m3u8
 CCTV5,http://119.125.104.173:9901/tsfile/live/1074_1.m3u8
 CCTV6,http://119.125.104.173:9901/tsfile/live/1021_1.m3u8
 CCTV7,http://119.125.104.173:9901/tsfile/live/1022_1.m3u8
