@@ -2292,31 +2292,43 @@ http://59.174.227.133:8880/rtp/239.69.1.205:10872
 #EXTINF:-1 tvg-name="湖北教育" tvg-logo="https://live.fanmingming.com/tv/湖北教育.png" group-title="湖北频道",湖北教育
 http://59.174.227.133:8880/rtp/239.69.1.206:10878
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" group-title="四川频道",四川卫视
-http://171.213.194.235:5555/udp/239.93.0.169:5140
+http://182.138.184.35:6666/udp/239.93.0.169:5140
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" group-title="四川频道",四川卫视
-http://171.213.194.235:5555/udp/239.93.1.188:5140
+http://182.138.184.35:6666/udp/239.93.1.188:5140
 #EXTINF:-1 tvg-name="四川康巴卫视" tvg-logo="https://live.fanmingming.com/tv/四川康巴卫视.png" group-title="四川频道",四川康巴卫视
-http://171.213.194.235:5555/udp/239.93.0.41:5140
+http://182.138.184.35:6666/udp/239.93.0.41:5140
 #EXTINF:-1 tvg-name="四川公共乡村" tvg-logo="https://live.fanmingming.com/tv/四川公共乡村.png" group-title="四川频道",四川公共乡村
-http://171.213.194.235:5555/udp/239.93.0.52:5140
+http://182.138.184.35:6666/udp/239.93.0.52:5140
 #EXTINF:-1 tvg-name="四川妇女儿童" tvg-logo="https://live.fanmingming.com/tv/四川妇女儿童.png" group-title="四川频道",四川妇女儿童
-http://171.213.194.235:5555/udp/239.93.0.219:5140
+http://182.138.184.35:6666/udp/239.93.0.219:5140
 #EXTINF:-1 tvg-name="四川影视文艺" tvg-logo="https://live.fanmingming.com/tv/四川影视文艺.png" group-title="四川频道",四川影视文艺
-http://171.213.194.235:5555/udp/239.93.0.166:5140
+http://182.138.184.35:6666/udp/239.93.0.166:5140
 #EXTINF:-1 tvg-name="四川影视文艺" tvg-logo="https://live.fanmingming.com/tv/四川影视文艺.png" group-title="四川频道",四川影视文艺
-http://171.213.194.235:5555/udp/239.93.1.195:5140
-#EXTINF:-1 tvg-name="四川经济" tvg-logo="https://live.fanmingming.com/tv/四川经济.png" group-title="四川频道",四川经济
-http://171.213.194.235:5555/udp/239.93.1.101:5140
+http://182.138.184.35:6666/udp/239.93.1.195:5140
 #EXTINF:-1 tvg-name="四川文化旅游" tvg-logo="https://live.fanmingming.com/tv/四川文化旅游.png" group-title="四川频道",四川文化旅游
-http://171.213.194.235:5555/udp/239.93.1.20:5140
+http://182.138.184.35:6666/udp/239.93.1.101:5140
+#EXTINF:-1 tvg-name="四川文化旅游" tvg-logo="https://live.fanmingming.com/tv/四川文化旅游.png" group-title="四川频道",四川文化旅游
+http://182.138.184.35:6666/udp/239.93.1.20:5140
 #EXTINF:-1 tvg-name="四川新闻" tvg-logo="https://live.fanmingming.com/tv/四川新闻.png" group-title="四川频道",四川新闻
-http://171.213.194.235:5555/udp/239.93.0.47:5140
+http://182.138.184.35:6666/udp/239.93.0.47:5140
 #EXTINF:-1 tvg-name="四川经济" tvg-logo="https://live.fanmingming.com/tv/四川经济.png" group-title="四川频道",四川经济
-http://171.213.194.235:5555/udp/239.93.1.16:5140
+http://182.138.184.35:6666/udp/239.93.1.102:5140
+#EXTINF:-1 tvg-name="四川经济" tvg-logo="https://live.fanmingming.com/tv/四川经济.png" group-title="四川频道",四川经济
+http://182.138.184.35:6666/udp/239.93.1.16:5140
 #EXTINF:-1 tvg-name="峨眉电影" tvg-logo="https://live.fanmingming.com/tv/峨眉电影.png" group-title="四川频道",峨眉电影
-http://171.213.194.235:5555/udp/239.93.1.54:5140
+http://182.138.184.35:6666/udp/239.93.1.54:5140
 #EXTINF:-1 tvg-name="峨眉电影" tvg-logo="https://live.fanmingming.com/tv/峨眉电影.png" group-title="四川频道",峨眉电影
-http://171.213.194.235:5555/udp/239.93.1.18:5140
+http://182.138.184.35:6666/udp/239.93.1.18:5140
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png" group-title="四川频道",凤凰中文
+http://182.138.184.35:6666/udp/239.93.0.162:2192
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png" group-title="四川频道",凤凰中文
+http://182.138.184.35:6666/udp/239.93.1.9:2192
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png" group-title="四川频道",凤凰资讯
+http://182.138.184.35:6666/udp/239.93.0.118:2191
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png" group-title="四川频道",凤凰资讯
+http://182.138.184.35:6666/udp/239.93.1.4:2191
+#EXTINF:-1 tvg-name="星空" tvg-logo="https://live.fanmingming.com/tv/星空.png" group-title="四川频道",星空
+http://182.138.184.35:6666/udp/239.93.0.156:2193
 #EXTINF:-1 tvg-name="青田电视台" tvg-logo="https://live.fanmingming.com/tv/青田电视台.png" group-title="🌍地方卫视1 IPV4",青田电视台
 http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
 #EXTINF:-1 tvg-name="诸暨新闻综合" tvg-logo="https://live.fanmingming.com/tv/诸暨新闻综合.png" group-title="🌍地方卫视1 IPV4",诸暨新闻综合
