@@ -596,10 +596,11 @@ CCTV兵器,http://119.125.134.245:9901/tsfile/live/23035_1.m3u8
 测试频道,#genre#
 香港 卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 TVB翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
-TVB翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
-TVB翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
-凤凰卫视,http://home.js001.com:7777/stream/channelid/327340771?profile=pass
-凤凰资讯,http://home.js001.com:7777/stream/channelid/1347243459?profile=pass
+凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
+凤凰卫视,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
+凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
+TVB星河台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
+
 
 
 
