@@ -6537,20 +6537,6 @@ CRI HIT FM (广州),http://satellitepull.cnr.cn/live/wxhitfm/playlist.m3u8
 
 
 
-重要通知,#genre#
-直播源地址后续更换,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-不另行通知劳驾添加,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-微信BC80000008,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-
-QQ群481207295,http://175.31.21.146:4480/hls/2/index.m3u8
-CCTV-5高清,http://175.31.21.146:4480/hls/5/index.m3u8
-
-
-吉林卫视高清,http://175.31.21.146:4480/hls/19/index.m3u8
-浙江卫视高清,http://175.31.21.146:4480/hls/28/index.m3u8
-湖南卫视高清,http://175.31.21.146:4480/hls/36/index.m3u8
-
-
 
 
 戏曲频道,#genre#
