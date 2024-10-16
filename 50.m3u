@@ -2424,71 +2424,61 @@ http://58.144.154.93/9bwaz8y2.gzstv.com/live/CH06_lo.m3u8
 #EXTINF:-1 tvg-name="贵州经济" tvg-logo="https://live.fanmingming.com/tv/贵州经济.png" group-title="贵州频道",贵州经济
 http://58.144.154.93/9bwaz8y2.gzstv.com/live/CH09_lo.m3u8
 #EXTINF:-1 tvg-name="湖北公共新闻" tvg-logo="https://live.fanmingming.com/tv/湖北公共新闻.png" group-title="湖北频道",湖北公共新闻
-http://59.174.171.182:1234/rtp/239.69.1.40:9880
+http://27.19.81.48:8118/rtp/239.69.1.40:9880
 #EXTINF:-1 tvg-name="湖北经视" tvg-logo="https://live.fanmingming.com/tv/湖北经视.png" group-title="湖北频道",湖北经视
-http://59.174.171.182:1234/rtp/239.69.1.41:9886
+http://27.19.81.48:8118/rtp/239.69.1.41:9886
 #EXTINF:-1 tvg-name="湖北综合" tvg-logo="https://live.fanmingming.com/tv/湖北综合.png" group-title="湖北频道",湖北综合
-http://59.174.171.182:1234/rtp/239.69.1.42:9892
+http://27.19.81.48:8118/rtp/239.69.1.42:9892
 #EXTINF:-1 tvg-name="湖北垄上" tvg-logo="https://live.fanmingming.com/tv/湖北垄上.png" group-title="湖北频道",湖北垄上
-http://59.174.171.182:1234/rtp/239.69.1.43:9898
+http://27.19.81.48:8118/rtp/239.69.1.43:9898
 #EXTINF:-1 tvg-name="湖北影视" tvg-logo="https://live.fanmingming.com/tv/湖北影视.png" group-title="湖北频道",湖北影视
-http://59.174.171.182:1234/rtp/239.69.1.204:10866
+http://27.19.81.48:8118/rtp/239.69.1.204:10866
 #EXTINF:-1 tvg-name="湖北生活" tvg-logo="https://live.fanmingming.com/tv/湖北生活.png" group-title="湖北频道",湖北生活
-http://59.174.171.182:1234/rtp/239.69.1.205:10872
+http://27.19.81.48:8118/rtp/239.69.1.205:10872
 #EXTINF:-1 tvg-name="湖北教育" tvg-logo="https://live.fanmingming.com/tv/湖北教育.png" group-title="湖北频道",湖北教育
-http://59.174.171.182:1234/rtp/239.69.1.206:10878
+http://27.19.81.48:8118/rtp/239.69.1.206:10878
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" group-title="四川频道",四川卫视
-http://182.138.184.35:6666/udp/239.93.0.169:5140
+http://171.213.198.225:4000/udp/239.93.0.169:5140
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" group-title="四川频道",四川卫视
-http://182.138.184.35:6666/udp/239.93.1.188:5140
+http://171.213.198.225:4000/udp/239.93.1.188:5140
 #EXTINF:-1 tvg-name="四川康巴卫视" tvg-logo="https://live.fanmingming.com/tv/四川康巴卫视.png" group-title="四川频道",四川康巴卫视
-http://182.138.184.35:6666/udp/239.93.0.41:5140
+http://171.213.198.225:4000/udp/239.93.0.41:5140
 #EXTINF:-1 tvg-name="四川公共乡村" tvg-logo="https://live.fanmingming.com/tv/四川公共乡村.png" group-title="四川频道",四川公共乡村
-http://182.138.184.35:6666/udp/239.93.0.52:5140
+http://171.213.198.225:4000/udp/239.93.0.52:5140
 #EXTINF:-1 tvg-name="四川妇女儿童" tvg-logo="https://live.fanmingming.com/tv/四川妇女儿童.png" group-title="四川频道",四川妇女儿童
-http://182.138.184.35:6666/udp/239.93.0.219:5140
+http://171.213.198.225:4000/udp/239.93.0.219:5140
 #EXTINF:-1 tvg-name="四川影视文艺" tvg-logo="https://live.fanmingming.com/tv/四川影视文艺.png" group-title="四川频道",四川影视文艺
-http://182.138.184.35:6666/udp/239.93.0.166:5140
+http://171.213.198.225:4000/udp/239.93.0.166:5140
 #EXTINF:-1 tvg-name="四川影视文艺" tvg-logo="https://live.fanmingming.com/tv/四川影视文艺.png" group-title="四川频道",四川影视文艺
-http://182.138.184.35:6666/udp/239.93.1.195:5140
+http://171.213.198.225:4000/udp/239.93.1.195:5140
 #EXTINF:-1 tvg-name="四川文化旅游" tvg-logo="https://live.fanmingming.com/tv/四川文化旅游.png" group-title="四川频道",四川文化旅游
-http://182.138.184.35:6666/udp/239.93.1.101:5140
+http://171.213.198.225:4000/udp/239.93.1.101:5140
 #EXTINF:-1 tvg-name="四川文化旅游" tvg-logo="https://live.fanmingming.com/tv/四川文化旅游.png" group-title="四川频道",四川文化旅游
-http://182.138.184.35:6666/udp/239.93.1.20:5140
+http://171.213.198.225:4000/udp/239.93.1.20:5140
 #EXTINF:-1 tvg-name="四川新闻" tvg-logo="https://live.fanmingming.com/tv/四川新闻.png" group-title="四川频道",四川新闻
-http://182.138.184.35:6666/udp/239.93.0.47:5140
+http://171.213.198.225:4000/udp/239.93.0.47:5140
 #EXTINF:-1 tvg-name="四川经济" tvg-logo="https://live.fanmingming.com/tv/四川经济.png" group-title="四川频道",四川经济
-http://182.138.184.35:6666/udp/239.93.1.102:5140
+http://171.213.198.225:4000/udp/239.93.1.102:5140
 #EXTINF:-1 tvg-name="四川经济" tvg-logo="https://live.fanmingming.com/tv/四川经济.png" group-title="四川频道",四川经济
-http://182.138.184.35:6666/udp/239.93.1.16:5140
+http://171.213.198.225:4000/udp/239.93.1.16:5140
 #EXTINF:-1 tvg-name="峨眉电影" tvg-logo="https://live.fanmingming.com/tv/峨眉电影.png" group-title="四川频道",峨眉电影
-http://182.138.184.35:6666/udp/239.93.1.54:5140
+http://171.213.198.225:4000/udp/239.93.1.54:5140
 #EXTINF:-1 tvg-name="峨眉电影" tvg-logo="https://live.fanmingming.com/tv/峨眉电影.png" group-title="四川频道",峨眉电影
-http://182.138.184.35:6666/udp/239.93.1.18:5140
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png" group-title="四川频道",凤凰中文
-http://182.138.184.35:6666/udp/239.93.0.162:2192
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png" group-title="四川频道",凤凰中文
-http://182.138.184.35:6666/udp/239.93.1.9:2192
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png" group-title="四川频道",凤凰资讯
-http://182.138.184.35:6666/udp/239.93.0.118:2191
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png" group-title="四川频道",凤凰资讯
-http://182.138.184.35:6666/udp/239.93.1.4:2191
-#EXTINF:-1 tvg-name="星空" tvg-logo="https://live.fanmingming.com/tv/星空.png" group-title="四川频道",星空
-http://182.138.184.35:6666/udp/239.93.0.156:2193
+http://171.213.198.225:4000/udp/239.93.1.18:5140
 #EXTINF:-1 tvg-name="河北卫视高清" tvg-logo="https://live.fanmingming.com/tv/河北卫视高清.png" group-title="河北频道",河北卫视高清
-http://121.29.111.83:8888/rtp/239.253.92.154:6011
+http://61.55.46.35:4022/rtp/239.253.92.154:6011
 #EXTINF:-1 tvg-name="河北经济生活高清" tvg-logo="https://live.fanmingming.com/tv/河北经济生活高清.png" group-title="河北频道",河北经济生活高清
-http://121.29.111.83:8888/rtp/239.253.92.171:6001
+http://61.55.46.35:4022/rtp/239.253.92.171:6001
 #EXTINF:-1 tvg-name="河北都市高清" tvg-logo="https://live.fanmingming.com/tv/河北都市高清.png" group-title="河北频道",河北都市高清
-http://121.29.111.83:8888/rtp/239.253.92.172:6002
+http://61.55.46.35:4022/rtp/239.253.92.172:6002
 #EXTINF:-1 tvg-name="河北影视剧高清" tvg-logo="https://live.fanmingming.com/tv/河北影视剧高清.png" group-title="河北频道",河北影视剧高清
-http://121.29.111.83:8888/rtp/239.253.92.173:6003
+http://61.55.46.35:4022/rtp/239.253.92.173:6003
 #EXTINF:-1 tvg-name="河北少儿科教高清" tvg-logo="https://live.fanmingming.com/tv/河北少儿科教高清.png" group-title="河北频道",河北少儿科教高清
-http://121.29.111.83:8888/rtp/239.253.92.174:6004
+http://61.55.46.35:4022/rtp/239.253.92.174:6004
 #EXTINF:-1 tvg-name="河北公共高清" tvg-logo="https://live.fanmingming.com/tv/河北公共高清.png" group-title="河北频道",河北公共高清
-http://121.29.111.83:8888/rtp/239.253.92.175:6005
+http://61.55.46.35:4022/rtp/239.253.92.175:6005
 #EXTINF:-1 tvg-name="河北农民高清" tvg-logo="https://live.fanmingming.com/tv/河北农民高清.png" group-title="河北频道",河北农民高清
-http://121.29.111.83:8888/rtp/239.253.92.176:6006
+http://61.55.46.35:4022/rtp/239.253.92.176:6006
 #EXTINF:-1 tvg-name="青田电视台" tvg-logo="https://live.fanmingming.com/tv/青田电视台.png" group-title="小地方台",青田电视台
 http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
 #EXTINF:-1 tvg-name="诸暨新闻综合" tvg-logo="https://live.fanmingming.com/tv/诸暨新闻综合.png" group-title="小地方台",诸暨新闻综合
