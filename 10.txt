@@ -3087,7 +3087,7 @@ dj新歌句句理,https://vd4.bdstatic.com/mda-ncmb65kfdfysdq4g/sc/cae_h264_delo
 
 
 
-VIP频道,#genre#
+VIP1频道,#genre#
 Dali TV,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8#http://194.87.101.118/live.m3u8?c=5
 
