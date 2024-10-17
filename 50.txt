@@ -679,7 +679,6 @@ CGTN,http://119.125.134.187:9902/tsfile/live/1018_1.m3u8
 湖南娱乐,http://111.8.224.6:9902/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南娱乐,http://111.8.224.6:9902/tsfile/live/1016_1.m3u8
 湖南娱乐,http://124.231.212.113:9999/tsfile/live/1096_1.m3u8
-湖南国际,http://111.8.242.151:9902/tsfile/live/1002_1.m3u8
 湖南导视,http://111.8.242.151:9902/tsfile/live/1017_1.m3u8
 湖南导视,http://111.8.224.6:9902/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南导视,http://111.8.224.6:9902/tsfile/live/1017_1.m3u8
