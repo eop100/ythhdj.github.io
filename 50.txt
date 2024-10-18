@@ -1364,8 +1364,35 @@ NHK,http://home.js001.com:7777/stream/channelid/2121161686?profile=pass
 
 
 
-
-
+iHOT系列,#genre#
+iHOT爱院线,http://114.55.117.163:8081/iptv/itv.php?id=iHOT爱院线.m3u8&sign=ugxuj7
+iHOT爱院线,https://vip.taoiptv.cn/source/itv.php?id=iHOT爱院线.m3u8&sign=ugxuj7
+iHOT爱科幻,http://114.55.117.163:8081/iptv/itv.php?id=iHOT爱科幻.m3u8&sign=ugxuj7
+iHOT爱科幻,https://vip.taoiptv.cn/source/itv.php?id=iHOT爱科幻.m3u8&sign=ugxuj7
+iHOT爱浪漫,https://vip.taoiptv.cn/source/itv.php?id=iHOT爱浪漫.m3u8&sign=ugxuj7
+iHOT爱浪漫,http://114.55.117.163:8081/iptv/itv.php?id=iHOT爱浪漫.m3u8&sign=ugxuj7
+iHOT爱喜剧,http://114.55.117.163:8081/iptv/itv.php?id=iHOT爱喜剧.m3u8&sign=ugxuj7
+iHOT爱喜剧,https://vip.taoiptv.cn/source/itv.php?id=iHOT爱喜剧.m3u8&sign=ugxuj7
+iHOT爱悬疑,http://114.55.117.163:8081/iptv/itv.php?id=iHOT爱悬疑.m3u8&sign=ugxuj7
+iHOT爱悬疑,https://vip.taoiptv.cn/source/itv.php?id=iHOT爱悬疑.m3u8&sign=ugxuj7
+iHOT爱赛车,http://114.55.117.163:8081/iptv/itv.php?id=iHOT爱赛车.m3u8&sign=ugxuj7
+iHOT爱赛车,https://vip.taoiptv.cn/source/itv.php?id=iHOT爱赛车.m3u8&sign=ugxuj7
+iHOT爱奇谈,http://114.55.117.163:8081/iptv/itv.php?id=iHOT爱奇谈.m3u8&sign=ugxuj7
+iHOT爱奇谈,https://vip.taoiptv.cn/source/itv.php?id=iHOT爱奇谈.m3u8&sign=ugxuj7
+iHOT爱玩具,http://114.55.117.163:8081/iptv/itv.php?id=iHOT爱玩具.m3u8&sign=ugxuj7
+iHOT爱玩具,https://vip.taoiptv.cn/source/itv.php?id=iHOT爱玩具.m3u8&sign=ugxuj7
+iHOT爱旅行,https://vip.taoiptv.cn/source/itv.php?id=iHOT爱旅行.m3u8&sign=ugxuj7
+iHOT爱旅行,http://114.55.117.163:8081/iptv/itv.php?id=iHOT爱旅行.m3u8&sign=ugxuj7
+iHOT爱幼教,https://vip.taoiptv.cn/source/itv.php?id=iHOT爱幼教.m3u8&sign=ugxuj7
+iHOT爱幼教,http://114.55.117.163:8081/iptv/itv.php?id=iHOT爱幼教.m3u8&sign=ugxuj7
+iHOT爱谍战,http://114.55.117.163:8081/iptv/itv.php?id=iHOT爱谍战.m3u8&sign=ugxuj7
+iHOT爱谍战,https://vip.taoiptv.cn/source/itv.php?id=iHOT爱谍战.m3u8&sign=ugxuj7
+iHOT爱历史,http://114.55.117.163:8081/iptv/itv.php?id=iHOT爱历史.m3u8&sign=ugxuj7
+iHOT爱历史,https://vip.taoiptv.cn/source/itv.php?id=iHOT爱历史.m3u8&sign=ugxuj7
+iHOT爱科学,https://vip.taoiptv.cn/source/itv.php?id=iHOT爱科学.m3u8&sign=ugxuj7
+iHOT爱科学,http://114.55.117.163:8081/iptv/itv.php?id=iHOT爱科学.m3u8&sign=ugxuj7
+iHOT爱动漫,https://vip.taoiptv.cn/source/itv.php?id=iHOT爱动漫.m3u8&sign=ugxuj7
+iHOT爱动漫,http://114.55.117.163:8081/iptv/itv.php?id=iHOT爱动漫.m3u8&sign=ugxuj7
 
 
 
