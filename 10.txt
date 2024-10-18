@@ -2790,7 +2790,6 @@ NewTv超级电影,http://39.134.134.47/otttv.bj.chinamobile.com/PLTV/88888888/22
 NewTv动作电影,http://39.134.134.87/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226974/1.m3u8?zoneoffset=480&servicetype=1&icpid=&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7EBow_B3ta32lPIHmLzLPzVQ%7EpK8OKM5JoJWWbLRyLfPcUMkwWZ90MzSI9S9PDltJsYzd0ZGcS3Tkh7syciNKJa-w60mDOdwtDyoNwCx9aRgzHNH9AUREV_qvNJtXHRPzYw0%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3D%3D%3A20221022013542%2C915973%2C119.123.71.209%2C20221022013542%2C10000100000000050000000005002640%2C915973%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C371670919%2CEND&GuardEncType=2
 北京IPTV淘电影,http://39.134.135.81/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EXOsrWMA-UCdUl1hQSR9EKw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 北京IPTV淘电影,http://pve.grayidea.com:4022//rtp/239.3.1.250:8001
-北京超清4K,http://bjuni.iptv.im2k.com:5018/rtp/239.3.1.249:8001
 NewTv黑莓电影,http://39.134.134.51/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226939/1.m3u8?zoneoffset=480&servicetype=1&icpid=&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7EkBVQL3MtyiM0GGQzuPjqAQ%7EpK8OKM5JoJWWbLRyLfPcUMkwWZ90MzSI9S9PDltJsYzd0ZGcS3Tkh7syciNKJa-w60mDOdwtDyoNwCx9aRgzHNH9AUREV_qvNJtXHRPzYw0%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3D%3D%3A20221022013542%2C915973%2C119.123.71.209%2C20221022013542%2C10000100000000050000000005002606%2C915973%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C371210150%2CEND&GuardEncType=2
 NewTv超级电影,http://39.134.134.47/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226994/1.m3u8?zoneoffset=480&servicetype=1&icpid=&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7EOKgJ-MarN4M0aStGnXjR0A%7EpK8OKM5JoJWWbLRyLfPcUMkwWZ90MzSI9S9PDltJsYzd0ZGcS3Tkh7syciNKJa-w60mDOdwtDyoNwCx9aRgzHNH9AUREV_qvNJtXHRPzYw0%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3D%3D%3A20221022013542%2C915973%2C119.123.71.209%2C20221022013542%2C10000100000000050000000005002658%2C915973%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C371700698%2CEND&GuardEncType=2
 NewTv动作电影,http://39.134.134.87/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226974/1.m3u8?zoneoffset=480&servicetype=1&icpid=&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7EBow_B3ta32lPIHmLzLPzVQ%7EpK8OKM5JoJWWbLRyLfPcUMkwWZ90MzSI9S9PDltJsYzd0ZGcS3Tkh7syciNKJa-w60mDOdwtDyoNwCx9aRgzHNH9AUREV_qvNJtXHRPzYw0%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3D%3D%3A20221022013542%2C915973%2C119.123.71.209%2C20221022013542%2C10000100000000050000000005002640%2C915973%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C371670919%2CEND&GuardEncType=2
@@ -2811,15 +2810,12 @@ NewTv动作电影,http://39.134.134.87/otttv.bj.chinamobile.com/PLTV/88888888/22
 星爷影院,http://jiaojirentv.top/2020/dy.php?id=508118
 华仔影院,http://jiaojirentv.top/2020/dy.php?id=2516864
 凌儿影院,http://jiaojirentv.top/2020/dy.php?id=1377142
-麓山迷踪,http://jiaojirentv.top/2020/dy.php?id=4505431
-小黛兮影,http://jiaojirentv.top/2020/dy.php?id=11553944
 萌小鬼片,http://jiaojirentv.top/2020/dy.php?id=3928
 可乐影院,http://jiaojirentv.top/2020/dy.php?id=20415
 小宇60帧,http://jiaojirentv.top/2020/dy.php?id=323876
 恐怖惊悚,http://jiaojirentv.top/2020/dy.php?id=96577
 電影劇場,http://jiaojirentv.top/2020/dy.php?id=7575350
 豆瓣高分,http://jiaojirentv.top/2020/dy.php?id=8770422
-花卷陪看,http://jiaojirentv.top/2020/dy.php?id=52787
 漫威影片,http://jiaojirentv.top/2020/dy.php?id=6140589
 霍格沃茨,http://jiaojirentv.top/2020/dy.php?id=8814650
 鱼宝恐怖,http://jiaojirentv.top/2020/dy.php?id=1165374
@@ -2829,7 +2825,6 @@ NewTv动作电影,http://39.134.134.87/otttv.bj.chinamobile.com/PLTV/88888888/22
 女神电影,http://jiaojirentv.top/2020/dy.php?id=747764
 
 电影剧集,#genre#
-粤剧白蛇传情,http://159.75.85.63:35455/huya/19743437
 粤剧白蛇传情,http://cfss.cc/cdn/hy/19743437.m3u8
 第一滴血全集,http://mitv.ts138.top/yy/1354932355
 敢死队全轮播,http://mitv.ts138.top/yy/1382735573
@@ -2839,16 +2834,12 @@ NewTv动作电影,http://39.134.134.87/otttv.bj.chinamobile.com/PLTV/88888888/22
 哈利波特全集,http://mitv.ts138.top/yy/1382745105
 夺宝奇兵全集,http://mitv.ts138.top/yy/1382736833
 机械战警全集,http://mitv.ts138.top/yy/1382736854
-古惑仔国轮播,http://mitv.ts138.top/yy/1458015189
 黑衣一二轮播,http://mitv.ts138.top/yy/1354930936
 叠影重重全集,http://mitv.ts138.top/yy/1382735570
 美剧解说轮播,http://cfss.cc/cdn/dyu/9643264.m3u8
 经典美剧解说,http://cfss.cc/cdn/dyu/9123570.m3u8
-雪中悍刀行剧,http://159.75.85.63:35455/huya/11336592
 雪中悍刀行剧,http://cfss.cc/cdn/hy/11336592.m3u8
-庆余年电视剧,http://159.75.85.63:35455/huya/11352960
 庆余年电视剧,http://cfss.cc/cdn/hy/11352960.m3u8
-琅琊榜电视剧,http://zby.xjqxz.top/lyb/live.m3u8
 83射雕英雄传,http://mitv.ts138.top/yy/1354210357
 95神雕侠侣粤,http://mitv.ts138.top/yy/1354926637
 96笑傲江湖版,http://mitv.ts138.top/yy/1354930909
@@ -2858,15 +2849,10 @@ NewTv动作电影,http://39.134.134.87/otttv.bj.chinamobile.com/PLTV/88888888/22
 花千骨电视剧,http://mitv.ts138.top/yy/1354943110
 少年歌行剧集,http://mitv.ts138.top/yy/1450556636
 鹊刀门传奇剧,http://mitv.ts138.top/yy/1355344777
-三生三世轮播,http://zby.xjqxz.top/sssszss/live.m3u8
-芈月传电视剧,http://159.75.85.63:35455/huya/11352975
 芈月传电视剧,http://cfss.cc/cdn/hy/11352975.m3u8
-延禧攻略轮播,http://159.75.85.63:35455/huya/26355864
 延禧攻略轮播,http://cfss.cc/cdn/hy/26355864.m3u8
 知否知否轮播,http://zby.xjqxz.top/zfzf/live.m3u8
-与凤行电视剧,http://159.75.85.63:35455/huya/26355866
 与凤行电视剧,http://cfss.cc/cdn/hy/26355866.m3u8
-开端电视轮播,http://159.75.85.63:35455/huya/11342397
 开端电视轮播,http://cfss.cc/cdn/hy/11342397.m3u8
 我的体育老师,http://mitv.ts138.top/yy/1382745169
 如果岁月轮播,http://mitv.ts138.top/yy/1382736883
@@ -2875,7 +2861,6 @@ NewTv动作电影,http://39.134.134.87/otttv.bj.chinamobile.com/PLTV/88888888/22
 好先生电视剧,http://cfss.cc/cdn/dyu/9650792.m3u8
 我的前半生剧,http://mitv.ts138.top/yy/1382735564
 伪装者电视剧,http://mitv.ts138.top/yy/1354936244
-雪豹电视轮播,http://159.75.85.63:35455/yy/1354931585/huya/29580970
 雪豹电视轮播,http://cfss.cc/cdn/hy/29580970.m3u8
 火蓝刀锋轮播,http://mitv.ts138.top/yy/1382737892
 二炮手电视剧,http://mitv.ts138.top/yy/1354930964
@@ -2883,7 +2868,6 @@ NewTv动作电影,http://39.134.134.87/otttv.bj.chinamobile.com/PLTV/88888888/22
 武林外传轮播,http://mitv.ts138.top/yy/1355652820
 科幻Fans轮播,http://cfss.cc/cdn/dyu/3508304.m3u8
 科幻解说轮播,http://cfss.cc/cdn/dyu/9338839.m3u8
-科幻梦工场播,http://159.75.85.63:35455/huya/15152155
 科幻梦工场播,http://cfss.cc/cdn/hy/15152155.m3u8
 笑声传奇轮播,http://mitv.ts138.top/yy/1382736880
 笑傲帮集轮播,http://mitv.ts138.top/yy/1382735555
@@ -2893,9 +2877,7 @@ NewTv动作电影,http://39.134.134.87/otttv.bj.chinamobile.com/PLTV/88888888/22
 欢乐集结号三,http://mitv.ts138.top/yy/1382736822
 欢乐集结号四,http://mitv.ts138.top/yy/1382736889
 金星脱口秀播,http://mitv.ts138.top/yy/1382735552
-脱口秀大会肆,http://159.75.85.63:35455/huya/30080243
 脱口秀大会肆,http://cfss.cc/cdn/hy/30080243.m3u8
-脱口秀大会伍,http://159.75.85.63:35455/huya/11352875
 脱口秀大会伍,http://cfss.cc/cdn/hy/11352875.m3u8
 吐槽大会海天,http://mitv.ts138.top/yy/1354932379
 吐槽大会二季,http://mitv.ts138.top/yy/1354936145
@@ -2904,11 +2886,10 @@ NewTv动作电影,http://39.134.134.87/otttv.bj.chinamobile.com/PLTV/88888888/22
 粤语剧集轮播,http://cfss.cc/cdn/dyu/10338873.m3u8
 粤语轮播港剧,http://cfss.cc/cdn/dyu/9019945.m3u8
 粤语经典综艺,http://cfss.cc/cdn/dyu/7919720.m3u8
-粤语星爷电影,http://159.75.85.63:35455/huya/11336587
 粤语星爷电影,http://cfss.cc/cdn/hy/11336587.m3u8
 粤语版电影一,http://cfss.cc/cdn/dyu/5033502.m3u8
 粤语版电影二,http://cfss.cc/cdn/dyu/6566671.m3u8
-粤语版电影三,http://cfss.cc/cdn/dyu/1226741.m3u8
+
 
 
 
