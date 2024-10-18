@@ -4036,12 +4036,10 @@ P2p频道,#genre#
 台湾*动物星球台,P2p://generationnexxxt.com:19806/e2f475dd35c74f20b7dc33c3204beb23
 台湾*三立iNEWS,P2p://generationnexxxt.com:19806/1d4ae63a90fa4f77b866e6f907a2c82c
 台湾*霹雳台湾台,P2p://generationnexxxt.com:19806/28662f792e3745e6893da9c2f2f94575
-台湾*影迷数位台,P2p://generationnexxxt.com:19806/953af90f5a014c74b239928d831a1480
 台湾*博斯高球台,P2p://generationnexxxt.com:19806/a0b205fa58d04238b5a166760468f88a
 台湾*博斯运动台,P2p://generationnexxxt.com:19806/9ab4db0c2a6444f5bca41b8dca371a70
 台湾*博斯无限台,P2p://generationnexxxt.com:19806/3f6a91a25f724acb9bc245c2eda7b04c
 台湾*中天娱乐台,P2p://generationnexxxt.com:19806/ef92e3e69b334eaca20f0e2a26bf0f31
 台湾*iFun动漫台,P2p://generationnexxxt.com:19806/6cb1867e9aa543d7938ecb9ac3605564
 台湾*民视第一台,P2p://generationnexxxt.com:19806/3a4000096c084c79af219586be8ed979
-台湾*东森戏剧台,P2p://generationnexxxt.com:19806/4c925da5e039498a85b4d3fa0bfb5910
 
