@@ -3582,31 +3582,31 @@ http://36.99.128.111:808/hls/39/index.m3u8
 #EXTINF:-1 tvg-name="河南国际频道" tvg-logo="https://live.fanmingming.com/tv/河南国际频道.png" group-title="河南联通",河南国际频道
 http://36.99.128.111:808/hls/40/index.m3u8
 #EXTINF:-1 tvg-name="新闻综合" tvg-logo="https://live.fanmingming.com/tv/新闻综合.png" group-title="上海频道",新闻综合
-http://222.68.48.77:4022/udp/239.45.3.209:5140
+http://101.224.148.168:5022/udp/239.45.3.209:5140
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="上海频道",东方卫视
-http://222.68.48.77:4022/udp/239.45.3.146:5140
+http://101.224.148.168:5022/udp/239.45.3.146:5140
 #EXTINF:-1 tvg-name="都市频道" tvg-logo="https://live.fanmingming.com/tv/都市频道.png" group-title="上海频道",都市频道
-http://222.68.48.77:4022/udp/239.45.3.236:5140
+http://101.224.148.168:5022/udp/239.45.3.236:5140
 #EXTINF:-1 tvg-name="纪实人文" tvg-logo="https://live.fanmingming.com/tv/纪实人文.png" group-title="上海频道",纪实人文
-http://222.68.48.77:4022/udp/239.45.3.212:5140
+http://101.224.148.168:5022/udp/239.45.3.212:5140
 #EXTINF:-1 tvg-name="东方影视" tvg-logo="https://live.fanmingming.com/tv/东方影视.png" group-title="上海频道",东方影视
-http://222.68.48.77:4022/udp/239.45.3.237:5140
+http://101.224.148.168:5022/udp/239.45.3.237:5140
 #EXTINF:-1 tvg-name="第一财经" tvg-logo="https://live.fanmingming.com/tv/第一财经.png" group-title="上海频道",第一财经
-http://222.68.48.77:4022/udp/239.45.3.211:5140
+http://101.224.148.168:5022/udp/239.45.3.211:5140
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="上海频道",五星体育
-http://222.68.48.77:4022/udp/239.45.3.210:5140
+http://101.224.148.168:5022/udp/239.45.3.210:5140
 #EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://live.fanmingming.com/tv/哈哈炫动.png" group-title="上海频道",哈哈炫动
-http://222.68.48.77:4022/udp/239.45.1.55:5140
+http://101.224.148.168:5022/udp/239.45.1.55:5140
 #EXTINF:-1 tvg-name="上视外语" tvg-logo="https://live.fanmingming.com/tv/上视外语.png" group-title="上海频道",上视外语
-http://222.68.48.77:4022/udp/239.45.1.127:5140
+http://101.224.148.168:5022/udp/239.45.1.127:5140
 #EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://live.fanmingming.com/tv/都市剧场.png" group-title="上海频道",都市剧场
-http://222.68.48.77:4022/udp/239.45.3.136:5140
+http://101.224.148.168:5022/udp/239.45.3.136:5140
 #EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场.png" group-title="上海频道",欢笑剧场
-http://222.68.48.77:4022/udp/239.45.3.196:5140
+http://101.224.148.168:5022/udp/239.45.3.196:5140
 #EXTINF:-1 tvg-name="欢笑剧场（备）" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场（备）.png" group-title="上海频道",欢笑剧场（备）
-http://222.68.48.77:4022/udp/239.45.1.4:5140
+http://101.224.148.168:5022/udp/239.45.1.4:5140
 #EXTINF:-1 tvg-name="全纪实" tvg-logo="https://live.fanmingming.com/tv/全纪实.png" group-title="上海频道",全纪实
-http://222.68.48.77:4022/udp/239.45.3.135:5140
+http://101.224.148.168:5022/udp/239.45.3.135:5140
 #EXTINF:-1 tvg-name="精品体育" tvg-logo="https://live.fanmingming.com/tv/精品体育.png" group-title="体育休闲",精品体育
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
 #EXTINF:-1 tvg-name="精品体育" tvg-logo="https://live.fanmingming.com/tv/精品体育.png" group-title="体育休闲",精品体育
