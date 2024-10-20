@@ -453,7 +453,6 @@ MYTV客,http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
 华视新闻,http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
 iNEWS,http://aktv.top/AKTV/live/aktv/null-14/AKTV.m3u8
 三立综合,http://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
-TVB*J1,http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
 TVB*DRAMA,http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
 TVB*明珠台,http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
 TVB*无线新闻,http://aktv.top/AKTV/live/aktv/null-20/AKTV.m3u8
