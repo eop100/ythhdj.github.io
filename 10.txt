@@ -935,7 +935,7 @@ Diso综合频英,http://61.221.215.25:8800/hls/1/index.m3u8
 猪哥,http://litv.zapi.us.kg/?id=4gtv-4gtv006
 中天新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv009
 FGM,http://litv.zapi.us.kg/?id=4gtv-4gtv011
-时间运动,http://litv.zapi.us.kg/?id=4gtv-4gtv014
+时尚运动,http://litv.zapi.us.kg/?id=4gtv-4gtv014
 韩国娱乐台,http://litv.zapi.us.kg/?id=4gtv-4gtv016
 AMC电影台,http://litv.zapi.us.kg/?id=4gtv-4gtv017
 DaVinci,http://litv.zapi.us.kg/?id=4gtv-4gtv018
