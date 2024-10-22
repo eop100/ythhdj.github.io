@@ -1717,6 +1717,182 @@ http://175.0.32.62:8081/tsfile/live/1005_1.m3u8?key=txiptv
 http://175.0.32.62:8081/tsfile/live/1006_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://live.fanmingming.com/tv/哈哈炫动.png" group-title="湖南长沙",哈哈炫动
 http://175.0.32.62:8081/tsfile/live/1007_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="温州电信",CCTV1
+http://ma.510217.xyz:29801/stream/channelid/1706722211?profile=pass
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="温州电信",CCTV2
+http://ma.510217.xyz:29801/stream/channelid/411810583?profile=pass
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="温州电信",CCTV3
+http://ma.510217.xyz:29801/stream/channelid/1492760547?profile=pass
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="温州电信",CCTV4
+http://ma.510217.xyz:29801/stream/channelid/1481169435?profile=pass
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="温州电信",CCTV5
+http://ma.510217.xyz:29801/stream/channelid/1169407458?profile=pass
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="温州电信",CCTV5+
+http://ma.510217.xyz:29801/stream/channelid/874715854?profile=pass
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="温州电信",CCTV6
+http://ma.510217.xyz:29801/stream/channelid/2113176882?profile=pass
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="温州电信",CCTV7
+http://ma.510217.xyz:29801/stream/channelid/2083123762?profile=pass
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="温州电信",CCTV8
+http://ma.510217.xyz:29801/stream/channelid/924176182?profile=pass
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="温州电信",CCTV9
+http://ma.510217.xyz:29801/stream/channelid/1145483586?profile=pass
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="温州电信",CCTV10
+http://ma.510217.xyz:29801/stream/channelid/1665232957?profile=pass
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="温州电信",CCTV11
+http://ma.510217.xyz:29801/stream/channelid/1914710655?profile=pass
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="温州电信",CCTV12
+http://ma.510217.xyz:29801/stream/channelid/1734085284?profile=pass
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="温州电信",CCTV13
+http://ma.510217.xyz:29801/stream/channelid/1512571560?profile=pass
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="温州电信",CCTV14
+http://ma.510217.xyz:29801/stream/channelid/861361934?profile=pass
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="温州电信",CCTV15
+http://ma.510217.xyz:29801/stream/channelid/742580489?profile=pass
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="温州电信",CCTV16
+http://ma.510217.xyz:29801/stream/channelid/1055968952?profile=pass
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="温州电信",CCTV17
+http://ma.510217.xyz:29801/stream/channelid/1169642236?profile=pass
+#EXTINF:-1 tvg-name="CHC高清电影" tvg-logo="https://live.fanmingming.com/tv/CHC高清电影.png" group-title="温州电信",CHC高清电影
+http://ma.510217.xyz:29801/stream/channelid/2065656004?profile=pass
+#EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://live.fanmingming.com/tv/三沙卫视.png" group-title="温州电信",三沙卫视
+http://ma.510217.xyz:29801/stream/channelid/1196515754?profile=pass
+#EXTINF:-1 tvg-name="世界地理" tvg-logo="https://live.fanmingming.com/tv/世界地理.png" group-title="温州电信",世界地理
+http://ma.510217.xyz:29801/stream/channelid/143517322?profile=pass
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png" group-title="温州电信",东南卫视
+http://ma.510217.xyz:29801/stream/channelid/1731343913?profile=pass
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="温州电信",东方卫视
+http://ma.510217.xyz:29801/stream/channelid/627824880?profile=pass
+#EXTINF:-1 tvg-name="东方财经" tvg-logo="https://live.fanmingming.com/tv/东方财经.png" group-title="温州电信",东方财经
+http://ma.510217.xyz:29801/stream/channelid/991476106?profile=pass
+#EXTINF:-1 tvg-name="中国教育1" tvg-logo="https://live.fanmingming.com/tv/中国教育1.png" group-title="温州电信",中国教育1
+http://ma.510217.xyz:29801/stream/channelid/97429600?profile=pass
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png" group-title="温州电信",凤凰中文
+http://ma.510217.xyz:29801/stream/channelid/1026420554?profile=pass
+#EXTINF:-1 tvg-name="之江纪录" tvg-logo="https://live.fanmingming.com/tv/之江纪录.png" group-title="温州电信",之江纪录
+http://ma.510217.xyz:29801/stream/channelid/614712435?profile=pass
+#EXTINF:-1 tvg-name="乐游" tvg-logo="https://live.fanmingming.com/tv/乐游.png" group-title="温州电信",乐游
+http://ma.510217.xyz:29801/stream/channelid/838727822?profile=pass
+#EXTINF:-1 tvg-name="兵器科技" tvg-logo="https://live.fanmingming.com/tv/兵器科技.png" group-title="温州电信",兵器科技
+http://ma.510217.xyz:29801/stream/channelid/92149576?profile=pass
+#EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://live.fanmingming.com/tv/兵团卫视.png" group-title="温州电信",兵团卫视
+http://ma.510217.xyz:29801/stream/channelid/692730957?profile=pass
+#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png" group-title="温州电信",内蒙古卫视
+http://ma.510217.xyz:29801/stream/channelid/1719326806?profile=pass
+#EXTINF:-1 tvg-name="动感体育" tvg-logo="https://live.fanmingming.com/tv/动感体育.png" group-title="温州电信",动感体育
+http://ma.510217.xyz:29801/stream/channelid/1442350955?profile=pass
+#EXTINF:-1 tvg-name="动感英超" tvg-logo="https://live.fanmingming.com/tv/动感英超.png" group-title="温州电信",动感英超
+http://ma.510217.xyz:29801/stream/channelid/857149501?profile=pass
+#EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://live.fanmingming.com/tv/动漫秀场.png" group-title="温州电信",动漫秀场
+http://ma.510217.xyz:29801/stream/channelid/287050212?profile=pass
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="温州电信",北京卫视
+http://ma.510217.xyz:29801/stream/channelid/919988211?profile=pass
+#EXTINF:-1 tvg-name="华数4K" tvg-logo="https://live.fanmingming.com/tv/华数4K.png" group-title="温州电信",华数4K
+http://ma.510217.xyz:29801/stream/channelid/786593922?profile=pass
+#EXTINF:-1 tvg-name="华数服务" tvg-logo="https://live.fanmingming.com/tv/华数服务.png" group-title="温州电信",华数服务
+http://ma.510217.xyz:29801/stream/channelid/1519201311?profile=pass
+#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="温州电信",卡酷少儿
+http://ma.510217.xyz:29801/stream/channelid/115189795?profile=pass
+#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://live.fanmingming.com/tv/吉林卫视.png" group-title="温州电信",吉林卫视
+http://ma.510217.xyz:29801/stream/channelid/2001430799?profile=pass
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" group-title="温州电信",四川卫视
+http://ma.510217.xyz:29801/stream/channelid/2075801689?profile=pass
+#EXTINF:-1 tvg-name="央视精品" tvg-logo="https://live.fanmingming.com/tv/央视精品.png" group-title="温州电信",央视精品
+http://ma.510217.xyz:29801/stream/channelid/827385813?profile=pass
+#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://live.fanmingming.com/tv/宁夏卫视.png" group-title="温州电信",宁夏卫视
+http://ma.510217.xyz:29801/stream/channelid/508856435?profile=pass
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png" group-title="温州电信",安徽卫视
+http://ma.510217.xyz:29801/stream/channelid/902584769?profile=pass
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="温州电信",广东卫视
+http://ma.510217.xyz:29801/stream/channelid/272862999?profile=pass
+#EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://live.fanmingming.com/tv/快乐垂钓.png" group-title="温州电信",快乐垂钓
+http://ma.510217.xyz:29801/stream/channelid/1650494422?profile=pass
+#EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://live.fanmingming.com/tv/怀旧剧场.png" group-title="温州电信",怀旧剧场
+http://ma.510217.xyz:29801/stream/channelid/1466551982?profile=pass
+#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://live.fanmingming.com/tv/新疆卫视.png" group-title="温州电信",新疆卫视
+http://ma.510217.xyz:29801/stream/channelid/553044263?profile=pass
+#EXTINF:-1 tvg-name="梨园" tvg-logo="https://live.fanmingming.com/tv/梨园.png" group-title="温州电信",梨园
+http://ma.510217.xyz:29801/stream/channelid/475353935?profile=pass
+#EXTINF:-1 tvg-name="民生休闲" tvg-logo="https://live.fanmingming.com/tv/民生休闲.png" group-title="温州电信",民生休闲
+http://ma.510217.xyz:29801/stream/channelid/1469326497?profile=pass
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="温州电信",江苏卫视
+http://ma.510217.xyz:29801/stream/channelid/121796097?profile=pass
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://live.fanmingming.com/tv/江西卫视.png" group-title="温州电信",江西卫视
+http://ma.510217.xyz:29801/stream/channelid/1272055370?profile=pass
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://live.fanmingming.com/tv/河北卫视.png" group-title="温州电信",河北卫视
+http://ma.510217.xyz:29801/stream/channelid/1874748935?profile=pass
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://live.fanmingming.com/tv/河南卫视.png" group-title="温州电信",河南卫视
+http://ma.510217.xyz:29801/stream/channelid/1584427052?profile=pass
+#EXTINF:-1 tvg-name="法治天地" tvg-logo="https://live.fanmingming.com/tv/法治天地.png" group-title="温州电信",法治天地
+http://ma.510217.xyz:29801/stream/channelid/1942406451?profile=pass
+#EXTINF:-1 tvg-name="浙江公共" tvg-logo="https://live.fanmingming.com/tv/浙江公共.png" group-title="温州电信",浙江公共
+http://ma.510217.xyz:29801/stream/channelid/2077909743?profile=pass
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="温州电信",浙江卫视
+http://ma.510217.xyz:29801/stream/channelid/1245279460?profile=pass
+#EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://live.fanmingming.com/tv/浙江少儿.png" group-title="温州电信",浙江少儿
+http://ma.510217.xyz:29801/stream/channelid/139050090?profile=pass
+#EXTINF:-1 tvg-name="浙江教科影视" tvg-logo="https://live.fanmingming.com/tv/浙江教科影视.png" group-title="温州电信",浙江教科影视
+http://ma.510217.xyz:29801/stream/channelid/976478376?profile=pass
+#EXTINF:-1 tvg-name="浙江民生休闲" tvg-logo="https://live.fanmingming.com/tv/浙江民生休闲.png" group-title="温州电信",浙江民生休闲
+http://ma.510217.xyz:29801/stream/channelid/342709282?profile=pass
+#EXTINF:-1 tvg-name="浙江经视" tvg-logo="https://live.fanmingming.com/tv/浙江经视.png" group-title="温州电信",浙江经视
+http://ma.510217.xyz:29801/stream/channelid/573351445?profile=pass
+#EXTINF:-1 tvg-name="浙江经视" tvg-logo="https://live.fanmingming.com/tv/浙江经视.png" group-title="温州电信",浙江经视
+http://ma.510217.xyz:29801/stream/channelid/1599750885?profile=pass
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png" group-title="温州电信",海南卫视
+http://ma.510217.xyz:29801/stream/channelid/308212589?profile=pass
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="温州电信",深圳卫视
+http://ma.510217.xyz:29801/stream/channelid/1173198285?profile=pass
+#EXTINF:-1 tvg-name="温州公共频道" tvg-logo="https://live.fanmingming.com/tv/温州公共频道.png" group-title="温州电信",温州公共频道
+http://ma.510217.xyz:29801/stream/channelid/1263565027?profile=pass
+#EXTINF:-1 tvg-name="温州导视" tvg-logo="https://live.fanmingming.com/tv/温州导视.png" group-title="温州电信",温州导视
+http://ma.510217.xyz:29801/stream/channelid/82634535?profile=pass
+#EXTINF:-1 tvg-name="温州新闻综合" tvg-logo="https://live.fanmingming.com/tv/温州新闻综合.png" group-title="温州电信",温州新闻综合
+http://ma.510217.xyz:29801/stream/channelid/394454970?profile=pass
+#EXTINF:-1 tvg-name="温州经济科教" tvg-logo="https://live.fanmingming.com/tv/温州经济科教.png" group-title="温州电信",温州经济科教
+http://ma.510217.xyz:29801/stream/channelid/34188822?profile=pass
+#EXTINF:-1 tvg-name="温州都市生活" tvg-logo="https://live.fanmingming.com/tv/温州都市生活.png" group-title="温州电信",温州都市生活
+http://ma.510217.xyz:29801/stream/channelid/1072437791?profile=pass
+#EXTINF:-1 tvg-name="游戏风云高清" tvg-logo="https://live.fanmingming.com/tv/游戏风云高清.png" group-title="温州电信",游戏风云高清
+http://ma.510217.xyz:29801/stream/channelid/668765800?profile=pass
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png" group-title="温州电信",湖北卫视
+http://ma.510217.xyz:29801/stream/channelid/671445968?profile=pass
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="温州电信",湖南卫视
+http://ma.510217.xyz:29801/stream/channelid/1565900904?profile=pass
+#EXTINF:-1 tvg-name="精彩影视" tvg-logo="https://live.fanmingming.com/tv/精彩影视.png" group-title="温州电信",精彩影视
+http://ma.510217.xyz:29801/stream/channelid/230470115?profile=pass
+#EXTINF:-1 tvg-name="老故事" tvg-logo="https://live.fanmingming.com/tv/老故事.png" group-title="温州电信",老故事
+http://ma.510217.xyz:29801/stream/channelid/1635172243?profile=pass
+#EXTINF:-1 tvg-name="茶频道" tvg-logo="https://live.fanmingming.com/tv/茶频道.png" group-title="温州电信",茶频道
+http://ma.510217.xyz:29801/stream/channelid/539015023?profile=pass
+#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://live.fanmingming.com/tv/西藏卫视.png" group-title="温州电信",西藏卫视
+http://ma.510217.xyz:29801/stream/channelid/849131203?profile=pass
+#EXTINF:-1 tvg-name="凤凰资讯台" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯台.png" group-title="温州电信",凤凰资讯台
+http://ma.510217.xyz:29801/stream/channelid/1607322535?profile=pass
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png" group-title="温州电信",辽宁卫视
+http://ma.510217.xyz:29801/stream/channelid/1717442448?profile=pass
+#EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://live.fanmingming.com/tv/都市剧场.png" group-title="温州电信",都市剧场
+http://ma.510217.xyz:29801/stream/channelid/1586184188?profile=pass
+#EXTINF:-1 tvg-name="金色学堂" tvg-logo="https://live.fanmingming.com/tv/金色学堂.png" group-title="温州电信",金色学堂
+http://ma.510217.xyz:29801/stream/channelid/1284165279?profile=pass
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/金鹰卡通.png" group-title="温州电信",金鹰卡通
+http://ma.510217.xyz:29801/stream/channelid/2049495942?profile=pass
+#EXTINF:-1 tvg-name="钱江都市" tvg-logo="https://live.fanmingming.com/tv/钱江都市.png" group-title="温州电信",钱江都市
+http://ma.510217.xyz:29801/stream/channelid/1574359853?profile=pass
+#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://live.fanmingming.com/tv/青海卫视.png" group-title="温州电信",青海卫视
+http://ma.510217.xyz:29801/stream/channelid/1660513939?profile=pass
+#EXTINF:-1 tvg-name="音乐点歌" tvg-logo="https://live.fanmingming.com/tv/音乐点歌.png" group-title="温州电信",音乐点歌
+http://ma.510217.xyz:29801/stream/channelid/122052664?profile=pass
+#EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://live.fanmingming.com/tv/风云剧场.png" group-title="温州电信",风云剧场
+http://ma.510217.xyz:29801/stream/channelid/1064068658?profile=pass
+#EXTINF:-1 tvg-name="风云足球" tvg-logo="https://live.fanmingming.com/tv/风云足球.png" group-title="温州电信",风云足球
+http://ma.510217.xyz:29801/stream/channelid/1908959037?profile=pass
+#EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://live.fanmingming.com/tv/风云音乐.png" group-title="温州电信",风云音乐
+http://ma.510217.xyz:29801/stream/channelid/1231557171?profile=pass
+#EXTINF:-1 tvg-name="魅力足球" tvg-logo="https://live.fanmingming.com/tv/魅力足球.png" group-title="温州电信",魅力足球
+http://ma.510217.xyz:29801/stream/channelid/1297803062?profile=pass
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png" group-title="温州电信",黑龙江卫视
+http://ma.510217.xyz:29801/stream/channelid/1068589119?profile=pass
 #EXTINF:-1 tvg-name="亚洲影院" tvg-logo="https://live.fanmingming.com/tv/亚洲影院.png" group-title="代理0819",亚洲影院
 http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=5841816227539527643
 #EXTINF:-1 tvg-name="澳门莲花" tvg-logo="https://live.fanmingming.com/tv/澳门莲花.png" group-title="代理0819",澳门莲花
@@ -1828,31 +2004,31 @@ http://36.99.128.111:808/hls/39/index.m3u8
 #EXTINF:-1 tvg-name="河南国际频道" tvg-logo="https://live.fanmingming.com/tv/河南国际频道.png" group-title="河南联通",河南国际频道
 http://36.99.128.111:808/hls/40/index.m3u8
 #EXTINF:-1 tvg-name="新闻综合" tvg-logo="https://live.fanmingming.com/tv/新闻综合.png" group-title="上海频道",新闻综合
-http://222.65.158.32:22222/udp/239.45.3.209:5140
+http://222.68.11.73:9898/udp/239.45.3.209:5140
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="上海频道",东方卫视
-http://222.65.158.32:22222/udp/239.45.3.146:5140
+http://222.68.11.73:9898/udp/239.45.3.146:5140
 #EXTINF:-1 tvg-name="都市频道" tvg-logo="https://live.fanmingming.com/tv/都市频道.png" group-title="上海频道",都市频道
-http://222.65.158.32:22222/udp/239.45.3.236:5140
+http://222.68.11.73:9898/udp/239.45.3.236:5140
 #EXTINF:-1 tvg-name="纪实人文" tvg-logo="https://live.fanmingming.com/tv/纪实人文.png" group-title="上海频道",纪实人文
-http://222.65.158.32:22222/udp/239.45.3.212:5140
+http://222.68.11.73:9898/udp/239.45.3.212:5140
 #EXTINF:-1 tvg-name="东方影视" tvg-logo="https://live.fanmingming.com/tv/东方影视.png" group-title="上海频道",东方影视
-http://222.65.158.32:22222/udp/239.45.3.237:5140
+http://222.68.11.73:9898/udp/239.45.3.237:5140
 #EXTINF:-1 tvg-name="第一财经" tvg-logo="https://live.fanmingming.com/tv/第一财经.png" group-title="上海频道",第一财经
-http://222.65.158.32:22222/udp/239.45.3.211:5140
+http://222.68.11.73:9898/udp/239.45.3.211:5140
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="上海频道",五星体育
-http://222.65.158.32:22222/udp/239.45.3.210:5140
+http://222.68.11.73:9898/udp/239.45.3.210:5140
 #EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://live.fanmingming.com/tv/哈哈炫动.png" group-title="上海频道",哈哈炫动
-http://222.65.158.32:22222/udp/239.45.1.55:5140
+http://222.68.11.73:9898/udp/239.45.1.55:5140
 #EXTINF:-1 tvg-name="上视外语" tvg-logo="https://live.fanmingming.com/tv/上视外语.png" group-title="上海频道",上视外语
-http://222.65.158.32:22222/udp/239.45.1.127:5140
+http://222.68.11.73:9898/udp/239.45.1.127:5140
 #EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://live.fanmingming.com/tv/都市剧场.png" group-title="上海频道",都市剧场
-http://222.65.158.32:22222/udp/239.45.3.136:5140
+http://222.68.11.73:9898/udp/239.45.3.136:5140
 #EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场.png" group-title="上海频道",欢笑剧场
-http://222.65.158.32:22222/udp/239.45.3.196:5140
+http://222.68.11.73:9898/udp/239.45.3.196:5140
 #EXTINF:-1 tvg-name="欢笑剧场（备）" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场（备）.png" group-title="上海频道",欢笑剧场（备）
-http://222.65.158.32:22222/udp/239.45.1.4:5140
+http://222.68.11.73:9898/udp/239.45.1.4:5140
 #EXTINF:-1 tvg-name="全纪实" tvg-logo="https://live.fanmingming.com/tv/全纪实.png" group-title="上海频道",全纪实
-http://222.65.158.32:22222/udp/239.45.3.135:5140
+http://222.68.11.73:9898/udp/239.45.3.135:5140
 #EXTINF:-1 tvg-name="精品体育" tvg-logo="https://live.fanmingming.com/tv/精品体育.png" group-title="体育休闲",精品体育
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
 #EXTINF:-1 tvg-name="精品体育" tvg-logo="https://live.fanmingming.com/tv/精品体育.png" group-title="体育休闲",精品体育
