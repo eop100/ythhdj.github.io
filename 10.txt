@@ -500,7 +500,6 @@ CCTV17,http://116.11.140.122:18181/tsfile/live/0019_1.m3u8
 CCTV17,http://59.32.97.193:9901/tsfile/live/1052_1.m3u8
 翡翠台,http://59.32.97.193:9901/tsfile/live/1013_1.m3u8
 CGTN,http://119.125.134.147:9902/tsfile/live/1018_1.m3u8
-明珠台,http://59.32.97.193:9901/tsfile/live/1014_1.m3u8
 翡翠台,http://119.125.134.147:9902/tsfile/live/1007_1.m3u8
 CHC动作电影,http://59.32.97.193:9901/tsfile/live/1029_1.m3u8
 CHC高清电影,http://119.125.134.147:9902/tsfile/live/1023_1.m3u8
