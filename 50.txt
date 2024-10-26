@@ -1566,6 +1566,7 @@ TVB星河台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
 广东地区,#genre#
 番禺电视台,http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
 广东珠江,http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=1000000004000011655
+广东珠江2,http://113.109.250.116:9999/udp/239.77.1.94:5146
 
 深圳龙岗,http://liveplay.sznews.com/66_showto_live/2647.m3u8
 河源综合,http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
