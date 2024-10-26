@@ -1174,24 +1174,6 @@ DBC东森洋片,http://116.11.140.122:18181/tsfile/live/1218_1.m3u8
 
 
 
-广东体育,#genre#
-广东体育A,https://tcdn.itouchtv.cn/live/gdty.m3u8?t_token=3b16da2cd6df0f8b9efb0280bb8eb9ec-%2B%2FVftNsU%2Fm%2BP0dPoIXDxx4Urg7V8ayewfHigaXZsqBpw6qWfVP94OgDbTF39FJwM%2FVqnzoVKbBax3A8%2FltLnyaMtLdM0gGc6Tn0kswNNPiGVBwtlcMcKEjex%2FOvXl%2FwDoo6vkjhnWRn1b2yLbRTfdErP5hNBiDwKKY7S9qBthaC8MRZWEsm4xdnOHOn1lW0gBUNIKzzuHWyZUaR1I88f9RTnL3pzYqYoKlTaE9F11tV70RLAeeqT8CMeEymcz1dONwfvUqymPfuHeuClR%2B%2F6GVK5M5stA%2B4ROBTa%2B187eHPkOzlk3okv%2B0gMnfQzdZ5FdaFZCojB%2B32DQRevPNzZkS0qnsn4%2FQyX9PkraTahXFP0B0smEKwtAc3HxrRbl11UyOIzcIUQVFkXWsq0iDvFHA%3D%3D
-
-广东体育B,https://tcdn.itouchtv.cn/live/gdty.m3u8?t_token=70dfcce683163a5367525baa82fb29e7-oKsnpiDM%2FXjqipBsQ%2F5E2gEx8Henmd6zS4srYAYzATv4StTbWScd0o%2BNsKen6eXUWZsHRcxcUcreKXTwNLsfrCirs%2F2pK61IBN6bjrHnp7anTApSUGWWldzn5KI2ZaSUbTWwIyZEpAnaKesRnWXLbU5KefzSbK2xwDanwXYVMMqZb%2FAhxLSyw510XvEas1uBSNos9VHwbawWkxL0VgorEmkKCO9eS0IkPE%2BQckccTo3Kl48%2FGfrdB2ES57vTUAbS%2FtwS4wzrJZu2lPZUnqLImVnCpWvGchCbKv427WJpVugW3Lv847DqkxIFXlb3Sc3DQ8ZbjKMWei5mHQPcLz5VNqRMCznWdNYpBGW0FA%2FFCxPhGfaShtBL%2Fb8ggxdis9OnKPAqm6wonRiHUvByZGjLCg%3D%3D
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 广东梅州,#genre#
 广东珠江,http://113.101.119.104:8090/hls/105/index.m3u8
 湛江公共,http://113.101.119.104:8090/hls/3/index.m3u8
