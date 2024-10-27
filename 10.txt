@@ -1311,6 +1311,26 @@ NHK,http://home.js001.com:7777/stream/channelid/2121161686?profile=pass
 
 
 广粤频道,#genre#
+CCTV1-综合高清,http://116.11.140.122:18181/tsfile/live/faacts/0001_1.m3u8
+CCTV2-财经高清,http://116.11.140.122:18181/tsfile/live/0002_1.m3u8
+CCTV3-综艺高清,http://116.11.140.122:18181/tsfile/live/faacts/0003_1.m3u8
+CCTV4-国际高清,http://116.11.140.122:18181/tsfile/live/0004_1.m3u8
+CCTV5-体育高清,http://116.11.140.122:18181/tsfile/live/0005_1.m3u8
+CCTV6-电影,http://116.11.140.122:18181/tsfile/live/0006_1.m3u8
+CCTV7-国防军事高清,http://116.11.140.122:18181/tsfile/live/0007_1.m3u8
+CCTV8-电视剧高清,http://116.11.140.122:18181/tsfile/live/faacts/0008_1.m3u8
+CCTV9-纪录高清,http://116.11.140.122:18181/tsfile/live/0009_1.m3u8
+CCTV10-科教高清,http://116.11.140.122:18181/tsfile/live/0010_1.m3u8
+CCTV11-戏曲高清,http://116.11.140.122:18181/tsfile/live/0011_1.m3u8
+CCTV-12社会与法 高清,http://116.11.140.122:18181/tsfile/live/0012_1.m3u8
+CCTV13-新闻,http://116.11.140.122:18181/tsfile/live/0013_1.m3u8
+CCTV14-少儿 高清,http://116.11.140.122:18181/tsfile/live/0014_1.m3u8
+CCTV15-音乐高清,http://116.11.140.122:18181/tsfile/live/0015_1.m3u8
+CCTV-16-奥运匹克 高清,http://116.11.140.122:18181/tsfile/live/1051_1.m3u8
+CCTV-17农业农村 高清,http://116.11.140.122:18181/tsfile/live/0019_1.m3u8
+CCTV5+体育赛事高清,http://116.11.140.122:18181/tsfile/live/faacts/1046_1.m3u8
+
+
 珠江台 高清,http://222.218.159.222:8181/tsfile/live/1000_1.m3u8?key=txiptv
 广东体育 高清,http://222.218.159.222:8181/tsfile/live/1001_1.m3u8?key=txiptv
 广东公共 高清,http://222.218.159.222:8181/tsfile/live/1002_1.m3u8?key=txiptv
