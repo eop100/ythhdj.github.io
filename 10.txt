@@ -4775,6 +4775,7 @@ P2p频道,#genre#
 台湾*中天娱乐台,P2p://generationnexxxt.com:19806/ef92e3e69b334eaca20f0e2a26bf0f31
 台湾*iFun动漫台,P2p://generationnexxxt.com:19806/6cb1867e9aa543d7938ecb9ac3605564
 台湾*民视第一台,P2p://generationnexxxt.com:19806/3a4000096c084c79af219586be8ed979
-
 问题反馈,#genre#
 QQ群481207295,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+如遇停电或有事,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+不能及时更新,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
