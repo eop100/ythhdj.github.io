@@ -1,4 +1,4 @@
-广西移动专用,#genre#
+央视频道,#genre#
 CCTV1,http://111.12.102.79:6610/PLTV/77777777/224/3221225654/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 CCTV2,http://111.12.102.79:6610/PLTV/77777777/224/3221225657/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 CCTV3,http://111.12.102.79:6610/PLTV/77777777/224/3221225713/index.m3u8?servicetype=1&IASHttpSessionId=OTT
@@ -16,6 +16,7 @@ CCTV13,http://111.12.102.79:6610/PLTV/77777777/224/3221225742/index.m3u8?service
 CCTV14,http://111.12.102.79:6610/PLTV/77777777/224/3221225648/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 CCTV15,http://111.12.102.79:6610/PLTV/77777777/224/3221225693/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 CCTV17,http://111.12.102.79:6610/PLTV/77777777/224/3221225766/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+卫视频道,#genre#
 上海卫视,http://111.12.102.79:6610/PLTV/77777777/224/3221225718/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 湖南卫视,http://111.12.102.79:6610/PLTV/77777777/224/3221225719/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 湖北卫视,http://111.12.102.79:6610/PLTV/77777777/224/3221225721/index.m3u8?servicetype=1&IASHttpSessionId=OTT
@@ -82,6 +83,7 @@ IPTV1,http://111.12.102.79:6610/PLTV/77777777/224/3221225684/index.m3u8?servicet
 CGTN,http://111.12.102.79:6610/PLTV/77777777/224/3221225707/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 电视剧2,http://111.12.102.79:6610/PLTV/77777777/224/3221225709/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 黑莓动画,http://111.12.102.79:6610/PLTV/77777777/224/3221225710/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+咪咕体育,#genre#
 咪咕体育1,http://111.12.102.79:6610/PLTV/77777777/224/3221225771/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 咪咕体育2,http://111.12.102.79:6610/PLTV/77777777/224/3221225774/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 咪咕体育3,http://111.12.102.79:6610/PLTV/77777777/224/3221225777/index.m3u8?servicetype=1&IASHttpSessionId=OTT
