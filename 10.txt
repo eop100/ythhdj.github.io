@@ -1311,25 +1311,6 @@ NHK,http://home.js001.com:7777/stream/channelid/2121161686?profile=pass
 
 
 广粤频道,#genre#
-CCTV1-综合高清,http://116.11.140.122:18181/tsfile/live/faacts/0001_1.m3u8
-CCTV2-财经高清,http://116.11.140.122:18181/tsfile/live/0002_1.m3u8
-CCTV3-综艺高清,http://116.11.140.122:18181/tsfile/live/faacts/0003_1.m3u8
-CCTV4-国际高清,http://116.11.140.122:18181/tsfile/live/0004_1.m3u8
-CCTV5-体育高清,http://116.11.140.122:18181/tsfile/live/0005_1.m3u8
-CCTV6-电影,http://116.11.140.122:18181/tsfile/live/0006_1.m3u8
-CCTV7-国防军事高清,http://116.11.140.122:18181/tsfile/live/0007_1.m3u8
-CCTV8-电视剧高清,http://116.11.140.122:18181/tsfile/live/faacts/0008_1.m3u8
-CCTV9-纪录高清,http://116.11.140.122:18181/tsfile/live/0009_1.m3u8
-CCTV10-科教高清,http://116.11.140.122:18181/tsfile/live/0010_1.m3u8
-CCTV11-戏曲高清,http://116.11.140.122:18181/tsfile/live/0011_1.m3u8
-CCTV-12社会与法 高清,http://116.11.140.122:18181/tsfile/live/0012_1.m3u8
-CCTV13-新闻,http://116.11.140.122:18181/tsfile/live/0013_1.m3u8
-CCTV14-少儿 高清,http://116.11.140.122:18181/tsfile/live/0014_1.m3u8
-CCTV15-音乐高清,http://116.11.140.122:18181/tsfile/live/0015_1.m3u8
-CCTV-16-奥运匹克 高清,http://116.11.140.122:18181/tsfile/live/1051_1.m3u8
-CCTV-17农业农村 高清,http://116.11.140.122:18181/tsfile/live/0019_1.m3u8
-CCTV5+体育赛事高清,http://116.11.140.122:18181/tsfile/live/faacts/1046_1.m3u8
-
 
 珠江台 高清,http://222.218.159.222:8181/tsfile/live/1000_1.m3u8?key=txiptv
 广东体育 高清,http://222.218.159.222:8181/tsfile/live/1001_1.m3u8?key=txiptv
@@ -1348,67 +1329,6 @@ CCTV5+体育赛事高清,http://116.11.140.122:18181/tsfile/live/faacts/1046_1.m
 广东卫视,http://222.218.159.222:8181/tsfile/live/0125_1.m3u8?key=txiptv
 广西卫视 高清,http://222.218.159.222:8181/tsfile/live/0113_1.m3u8?key=txiptv
 
-
-广西综艺高清,http://116.11.140.122:18181/tsfile/live/1001_1.m3u8
-珠江频道,http://116.11.140.122:18181/tsfile/live/1031_1.m3u8
-广东影视,http://116.11.140.122:18181/tsfile/live/1030_1.m3u8
-南方卫视,http://116.11.140.122:18181/tsfile/live/1029_1.m3u8
-广东体育,http://116.11.140.122:18181/tsfile/live/1026_1.m3u8
-广东科技,http://116.11.140.122:18181/tsfile/live/1027_1.m3u8
-岭南戏剧,http://116.11.140.122:18181/tsfile/live/1048_1.m3u8
-重温经典,http://116.11.140.122:18181/tsfile/live/1201_1.m3u8
-牛哥戏,http://116.11.140.122:18181/tsfile/live/1202_1.m3u8
-CCTV13,http://116.11.140.122:18181/tsfile/live/1203_1.m3u8
-韩国娱乐,http://116.11.140.122:18181/tsfile/live/1204_1.m3u8
-龙祥时代,http://116.11.140.122:18181/tsfile/live/1205_1.m3u8
-星河频道,http://116.11.140.122:18181/tsfile/live/1206_1.m3u8
-凤凰香港,http://116.11.140.122:18181/tsfile/live/1207_1.m3u8
-澳门莲花,http://116.11.140.122:18181/tsfile/live/1208_1.m3u8
-南方卫视,http://116.11.140.122:18181/tsfile/live/1209_1.m3u8
-广东珠江,http://116.11.140.122:18181/tsfile/live/1210_1.m3u8
-DMAX,http://116.11.140.122:18181/tsfile/live/1211_1.m3u8
-天映频道,http://116.11.140.122:18181/tsfile/live/1212_1.m3u8
-HRILYWOOD,http://116.11.140.122:18181/tsfile/live/1213_1.m3u8
-香港卫视,http://116.11.140.122:18181/tsfile/live/1214_1.m3u8
-测试频道15,http://116.11.140.122:18181/tsfile/live/1215_1.m3u8
-DBCYOYO,http://116.11.140.122:18181/tsfile/live/1216_1.m3u8
-AXN,http://116.11.140.122:18181/tsfile/live/1217_1.m3u8
-DBC东森洋片,http://116.11.140.122:18181/tsfile/live/1218_1.m3u8
-天映经典,http://116.11.140.122:18181/tsfile/live/1219_1.m3u8
-测试频道20,http://116.11.140.122:18181/tsfile/live/1220_1.m3u8
-凤凰资讯,http://116.11.140.122:18181/tsfile/live/1221_1.m3u8
-东森电影,http://116.11.140.122:18181/tsfile/live/1222_1.m3u8
-广东体育,http://116.11.140.122:18181/tsfile/live/1223_1.m3u8
-糖豆,http://116.11.140.122:18181/tsfile/live/1224_1.m3u8
-经典电影,http://116.11.140.122:18181/tsfile/live/1067_1.m3u8
-高清电影,http://116.11.140.122:18181/tsfile/live/1060_1.m3u8
-家庭影院 高清,http://116.11.140.122:18181/tsfile/live/1058_1.m3u8
-动作电影 高清,http://116.11.140.122:18181/tsfile/live/1059_1.m3u8
-4K电影 高清,http://116.11.140.122:18181/tsfile/live/1098_1.m3u8
-南宁影视 高清,http://116.11.140.122:18181/tsfile/live/1085_1.m3u8
-广西影视 高清,http://116.11.140.122:18181/tsfile/live/1033_1.m3u8
-玉林公共 高清,http://116.11.140.122:18181/tsfile/live/1038_1.m3u8
-玉林新闻 高清,http://116.11.140.122:18181/tsfile/live/1037_1.m3u8
-南宁新闻 高清,http://116.11.140.122:18181/tsfile/live/1083_1.m3u8
-广西新闻 高清,http://116.11.140.122:18181/tsfile/live/1034_1.m3u8
-广西都市 高清,http://116.11.140.122:18181/tsfile/live/1032_1.m3u8
-南宁公共 高清,http://116.11.140.122:18181/tsfile/live/1084_1.m3u8
-东南卫视 高清,http://116.11.140.122:18181/tsfile/live/1086_1.m3u8
-广西新闻回放,http://116.11.140.122:18181/tsfile/live/1050_1.m3u8
-央视新闻回放,http://116.11.140.122:18181/tsfile/live/1049_1.m3u8
-广东新闻,http://116.11.140.122:18181/tsfile/live/1023_1.m3u8
-广东民生,http://116.11.140.122:18181/tsfile/live/1024_1.m3u8
-广州台,http://116.11.140.122:18181/tsfile/live/1022_1.m3u8
-中国气象,http://116.11.140.122:18181/tsfile/live/1063_1.m3u8
-玉林娱乐,http://116.11.140.122:18181/tsfile/live/1039_1.m3u8
-玉林信息,http://116.11.140.122:18181/tsfile/live/1040_1.m3u8
-兴业台,http://116.11.140.122:18181/tsfile/live/1115_1.m3u8
-茶频道,http://116.11.140.122:18181/tsfile/live/1000_1.m3u8
-武术世界,http://116.11.140.122:18181/tsfile/live/1070_1.m3u8
-足球频道,http://116.11.140.122:18181/tsfile/live/1087_1.m3u8
-中学生,http://116.11.140.122:18181/tsfile/live/1113_1.m3u8
-生态环境,http://116.11.140.122:18181/tsfile/live/1072_1.m3u8
-摄影频道,http://116.11.140.122:18181/tsfile/live/1076_1.m3u8
 
 
 
