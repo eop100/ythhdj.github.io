@@ -911,20 +911,26 @@ TVB翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
 翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
 TVB星河,http://php.jdshipin.com:8880/smt.php?id=Xinhe
 
-有线新闻,http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
-TVB*无线新闻,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
-晴天电影台,http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
-中天新闻,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
-MYTV客,http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
-中视,http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
-中天亚洲台,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
-华视新闻,http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
-iNEWS,http://aktv.top/AKTV/live/aktv/null-14/AKTV.m3u8
-三立综合,http://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
-TVB*DRAMA,http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
-TVB*明珠台,http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
-TVB*无线新闻,http://aktv.top/AKTV/live/aktv/null-20/AKTV.m3u8
-
+ak 晴天电影台,http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
+ak 中天新闻,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
+ak 中视,http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
+ak 中天亚洲台,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
+ak 华视新闻,http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
+ak iNEWS,http://aktv.top/AKTV/live/aktv/null-14/AKTV.m3u8
+ak 三立综合,http://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
+ak TVB*无线新闻,http://aktv.top/AKTV/live/aktv/null-20/AKTV.m3u8
+ak 翡翠综合台(北美),http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
+ak 翡翠剧集台(北美),http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
+ak 无线新闻台(北美),http://aktv.top/AKTV/live/aktv/null-20/AKTV.m3u8
+ak 明珠剧集台(北美),http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
+ak 翡翠台(泰国),http://aktv.top/AKTV/live/aktv/null-16/AKTV.m3u8
+ak myTV SUPER 18台,http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
+ak TVB Plus,http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
+ak TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
+ak PopC,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
+ak 有线新闻,http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
+ak TVB*无线新闻,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
+ak TVB*无线新闻,http://aktv.top/AKTV/live/aktv/null-20/AKTV.m3u8
 
 无线翡翠频道,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 无线华丽频道,http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
