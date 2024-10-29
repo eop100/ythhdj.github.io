@@ -823,31 +823,45 @@ http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
 http://php.jdshipin.com:8880/smt.php?id=jade_twn
 #EXTINF:-1 tvg-name="TVB星河" tvg-logo="https://live.fanmingming.com/tv/TVB星河.png" group-title="测试频道",TVB星河
 http://php.jdshipin.com:8880/smt.php?id=Xinhe
-#EXTINF:-1 tvg-name="有线新闻" tvg-logo="https://live.fanmingming.com/tv/有线新闻.png" group-title="测试频道",有线新闻
-http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
-#EXTINF:-1 tvg-name="TVB*无线新闻" tvg-logo="https://live.fanmingming.com/tv/TVB*无线新闻.png" group-title="测试频道",TVB*无线新闻
-http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
-#EXTINF:-1 tvg-name="晴天电影台" tvg-logo="https://live.fanmingming.com/tv/晴天电影台.png" group-title="测试频道",晴天电影台
+#EXTINF:-1 tvg-name="ak 晴天电影台" tvg-logo="https://live.fanmingming.com/tv/ak 晴天电影台.png" group-title="测试频道",ak 晴天电影台
 http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
-#EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://live.fanmingming.com/tv/中天新闻.png" group-title="测试频道",中天新闻
+#EXTINF:-1 tvg-name="ak 中天新闻" tvg-logo="https://live.fanmingming.com/tv/ak 中天新闻.png" group-title="测试频道",ak 中天新闻
 http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
-#EXTINF:-1 tvg-name="MYTV客" tvg-logo="https://live.fanmingming.com/tv/MYTV客.png" group-title="测试频道",MYTV客
-http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
-#EXTINF:-1 tvg-name="中视" tvg-logo="https://live.fanmingming.com/tv/中视.png" group-title="测试频道",中视
+#EXTINF:-1 tvg-name="ak 中视" tvg-logo="https://live.fanmingming.com/tv/ak 中视.png" group-title="测试频道",ak 中视
 http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
-#EXTINF:-1 tvg-name="中天亚洲台" tvg-logo="https://live.fanmingming.com/tv/中天亚洲台.png" group-title="测试频道",中天亚洲台
+#EXTINF:-1 tvg-name="ak 中天亚洲台" tvg-logo="https://live.fanmingming.com/tv/ak 中天亚洲台.png" group-title="测试频道",ak 中天亚洲台
 http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
-#EXTINF:-1 tvg-name="华视新闻" tvg-logo="https://live.fanmingming.com/tv/华视新闻.png" group-title="测试频道",华视新闻
+#EXTINF:-1 tvg-name="ak 华视新闻" tvg-logo="https://live.fanmingming.com/tv/ak 华视新闻.png" group-title="测试频道",ak 华视新闻
 http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
-#EXTINF:-1 tvg-name="iNEWS" tvg-logo="https://live.fanmingming.com/tv/iNEWS.png" group-title="测试频道",iNEWS
+#EXTINF:-1 tvg-name="ak iNEWS" tvg-logo="https://live.fanmingming.com/tv/ak iNEWS.png" group-title="测试频道",ak iNEWS
 http://aktv.top/AKTV/live/aktv/null-14/AKTV.m3u8
-#EXTINF:-1 tvg-name="三立综合" tvg-logo="https://live.fanmingming.com/tv/三立综合.png" group-title="测试频道",三立综合
+#EXTINF:-1 tvg-name="ak 三立综合" tvg-logo="https://live.fanmingming.com/tv/ak 三立综合.png" group-title="测试频道",ak 三立综合
 http://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
-#EXTINF:-1 tvg-name="TVB*DRAMA" tvg-logo="https://live.fanmingming.com/tv/TVB*DRAMA.png" group-title="测试频道",TVB*DRAMA
+#EXTINF:-1 tvg-name="ak TVB*无线新闻" tvg-logo="https://live.fanmingming.com/tv/ak TVB*无线新闻.png" group-title="测试频道",ak TVB*无线新闻
+http://aktv.top/AKTV/live/aktv/null-20/AKTV.m3u8
+#EXTINF:-1 tvg-name="ak 翡翠综合台(北美)" tvg-logo="https://live.fanmingming.com/tv/ak 翡翠综合台(北美).png" group-title="测试频道",ak 翡翠综合台(北美)
+http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
+#EXTINF:-1 tvg-name="ak 翡翠剧集台(北美)" tvg-logo="https://live.fanmingming.com/tv/ak 翡翠剧集台(北美).png" group-title="测试频道",ak 翡翠剧集台(北美)
 http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
-#EXTINF:-1 tvg-name="TVB*明珠台" tvg-logo="https://live.fanmingming.com/tv/TVB*明珠台.png" group-title="测试频道",TVB*明珠台
+#EXTINF:-1 tvg-name="ak 无线新闻台(北美)" tvg-logo="https://live.fanmingming.com/tv/ak 无线新闻台(北美).png" group-title="测试频道",ak 无线新闻台(北美)
+http://aktv.top/AKTV/live/aktv/null-20/AKTV.m3u8
+#EXTINF:-1 tvg-name="ak 明珠剧集台(北美)" tvg-logo="https://live.fanmingming.com/tv/ak 明珠剧集台(北美).png" group-title="测试频道",ak 明珠剧集台(北美)
 http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
-#EXTINF:-1 tvg-name="TVB*无线新闻" tvg-logo="https://live.fanmingming.com/tv/TVB*无线新闻.png" group-title="测试频道",TVB*无线新闻
+#EXTINF:-1 tvg-name="ak 翡翠台(泰国)" tvg-logo="https://live.fanmingming.com/tv/ak 翡翠台(泰国).png" group-title="测试频道",ak 翡翠台(泰国)
+http://aktv.top/AKTV/live/aktv/null-16/AKTV.m3u8
+#EXTINF:-1 tvg-name="ak myTV SUPER 18台" tvg-logo="https://live.fanmingming.com/tv/ak myTV SUPER 18台.png" group-title="测试频道",ak myTV SUPER 18台
+http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
+#EXTINF:-1 tvg-name="ak TVB Plus" tvg-logo="https://live.fanmingming.com/tv/ak TVB Plus.png" group-title="测试频道",ak TVB Plus
+http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
+#EXTINF:-1 tvg-name="ak TVBS" tvg-logo="https://live.fanmingming.com/tv/ak TVBS.png" group-title="测试频道",ak TVBS
+http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
+#EXTINF:-1 tvg-name="ak PopC" tvg-logo="https://live.fanmingming.com/tv/ak PopC.png" group-title="测试频道",ak PopC
+http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
+#EXTINF:-1 tvg-name="ak 有线新闻" tvg-logo="https://live.fanmingming.com/tv/ak 有线新闻.png" group-title="测试频道",ak 有线新闻
+http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
+#EXTINF:-1 tvg-name="ak TVB*无线新闻" tvg-logo="https://live.fanmingming.com/tv/ak TVB*无线新闻.png" group-title="测试频道",ak TVB*无线新闻
+http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
+#EXTINF:-1 tvg-name="ak TVB*无线新闻" tvg-logo="https://live.fanmingming.com/tv/ak TVB*无线新闻.png" group-title="测试频道",ak TVB*无线新闻
 http://aktv.top/AKTV/live/aktv/null-20/AKTV.m3u8
 #EXTINF:-1 tvg-name="无线翡翠频道" tvg-logo="https://live.fanmingming.com/tv/无线翡翠频道.png" group-title="测试频道",无线翡翠频道
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
