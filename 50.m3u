@@ -2790,19 +2790,19 @@ https://v.cdnlz17.com/20231203/63541_fa1a79e6/index.m3u8
 #EXTINF:-1 tvg-name="音乐公主爱美莉26集" tvg-logo="https://live.fanmingming.com/tv/音乐公主爱美莉26集.png" group-title="少儿动画",音乐公主爱美莉26集
 https://v.cdnlz17.com/20231203/63544_0a105da3/index.m3u8
 #EXTINF:-1 tvg-name="湖北公共新闻" tvg-logo="https://live.fanmingming.com/tv/湖北公共新闻.png" group-title="湖北频道",湖北公共新闻
-http://111.170.82.136:9999/udp/239.69.1.40:9880
+http://27.19.209.225:5051/rtp/239.69.1.40:9880
 #EXTINF:-1 tvg-name="湖北经视" tvg-logo="https://live.fanmingming.com/tv/湖北经视.png" group-title="湖北频道",湖北经视
-http://111.170.82.136:9999/udp/239.69.1.41:9886
+http://27.19.209.225:5051/rtp/239.69.1.41:9886
 #EXTINF:-1 tvg-name="湖北综合" tvg-logo="https://live.fanmingming.com/tv/湖北综合.png" group-title="湖北频道",湖北综合
-http://111.170.82.136:9999/udp/239.69.1.42:9892
+http://27.19.209.225:5051/rtp/239.69.1.42:9892
 #EXTINF:-1 tvg-name="湖北垄上" tvg-logo="https://live.fanmingming.com/tv/湖北垄上.png" group-title="湖北频道",湖北垄上
-http://111.170.82.136:9999/udp/239.69.1.43:9898
+http://27.19.209.225:5051/rtp/239.69.1.43:9898
 #EXTINF:-1 tvg-name="湖北影视" tvg-logo="https://live.fanmingming.com/tv/湖北影视.png" group-title="湖北频道",湖北影视
-http://111.170.82.136:9999/udp/239.69.1.204:10866
+http://27.19.209.225:5051/rtp/239.69.1.204:10866
 #EXTINF:-1 tvg-name="湖北生活" tvg-logo="https://live.fanmingming.com/tv/湖北生活.png" group-title="湖北频道",湖北生活
-http://111.170.82.136:9999/udp/239.69.1.205:10872
+http://27.19.209.225:5051/rtp/239.69.1.205:10872
 #EXTINF:-1 tvg-name="湖北教育" tvg-logo="https://live.fanmingming.com/tv/湖北教育.png" group-title="湖北频道",湖北教育
-http://111.170.82.136:9999/udp/239.69.1.206:10878
+http://27.19.209.225:5051/rtp/239.69.1.206:10878
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" group-title="四川频道",四川卫视
 http://xeace.cn:8888/udp/239.93.0.169:5140
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" group-title="四川频道",四川卫视
