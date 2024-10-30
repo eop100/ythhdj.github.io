@@ -632,6 +632,13 @@ TVB翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
 翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
 TVB星河,http://php.jdshipin.com:8880/smt.php?id=Xinhe
 
+
+翡翠台,http://cdn9.1689.us.kg/smt1.1.php?id=jade_twn
+华丽翡翠,http://cdn9.1689.us.kg/smt1.1.php?id=Tvbjade
+星河,http://cdn9.1689.us.kg/smt1.1.php?id=Xinhe
+千禧经典,http://cdn9.1689.us.kg/smt1.1.php?id=Tvbclassic
+ASTRO AOD,http://cdn9.1689.us.kg/smt1.1.php?id=Aodhd
+
 ak 晴天电影台,http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
 ak 中天新闻,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
 ak 中视,http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
