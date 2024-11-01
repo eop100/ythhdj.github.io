@@ -2507,6 +2507,40 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 
 
 
+
+
+山东频道,#genre#
+山东影视,http://112.234.23.81:9901/tsfile/live/1001_1.m3u8?key=txiptv
+山东综艺,http://112.234.23.81:9901/tsfile/live/1002_1.m3u8?key=txiptv
+山东生活,http://112.234.23.81:9901/tsfile/live/1003_1.m3u8?key=txiptv
+山东体育,http://112.234.23.81:9901/tsfile/live/0001_2.m3u8?key=txiptv
+山东农科,http://112.234.23.81:9901/tsfile/live/1005_1.m3u8?key=txiptv
+山东新闻,http://112.234.23.81:9901/tsfile/live/1004_1.m3u8?key=txiptv
+辽宁卫视,http://112.234.23.81:9901/tsfile/live/0121_1.m3u8?key=txiptv
+深圳卫视,http://112.234.23.81:9901/tsfile/live/0126_1.m3u8?key=txiptv
+河南卫视,http://112.234.23.81:9901/tsfile/live/faacts/0139_1.m3u8?key=txiptv
+湖北卫视,http://112.234.23.81:9901/tsfile/live/0132_1.m3u8?key=txiptv
+吉林卫视,http://112.234.23.81:9901/tsfile/live/0116_1.m3u8?key=txiptv
+江西卫视,http://112.234.23.81:9901/tsfile/live/0138_1.m3u8?key=txiptv
+兰陵综合,http://112.234.23.81:9901/tsfile/live/1022_1.m3u8?key=txiptv
+兰陵公共,http://112.234.23.81:9901/tsfile/live/0113_1.m3u8?key=txiptv
+临沂农科,http://112.234.23.81:9901/tsfile/live/1019_1.m3u8?key=txiptv
+临沂经济,http://112.234.23.81:9901/tsfile/live/1016_1.m3u8?key=txiptv
+山东教育,http://112.234.23.81:9901/tsfile/live/1009_1.m3u8?key=txiptv
+新疆卫视,http://112.234.23.81:9901/tsfile/live/0110_1.m3u8?key=txiptv
+安徽卫视,http://112.234.23.81:9901/tsfile/live/0130_1.m3u8?key=txiptv
+江苏卫视,http://112.234.23.81:9901/tsfile/live/0127_1.m3u8?key=txiptv
+天津卫视,http://112.234.23.81:9901/tsfile/live/0135_1.m3u8?key=txiptv
+河北卫视,http://112.234.23.81:9901/tsfile/live/0117_1.m3u8?key=txiptv
+广东卫视,http://112.234.23.81:9901/tsfile/live/0125_1.m3u8?key=txiptv
+
+
+
+
+
+
+
+
 小地方台,#genre#
 青田电视台,http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
 诸暨新闻综合,http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8
