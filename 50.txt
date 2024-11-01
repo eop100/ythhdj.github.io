@@ -1741,9 +1741,11 @@ TVB星河台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
 
 
 河南频道,#genre#
-河南民生,http://117.72.68.25:9930/hn.php?id=hnms
-河南都市,http://117.72.68.25:9930/hn.php?id=hnds
-河南都市,http://61.163.58.195:1718/henan.php?id=hnds
+河南民生,http://61.163.181.78:9901/tsfile/live/1005_1.m3u8
+河南民生,https://stream1.freetv.fun/he-nan-min-sheng-3.m3u8
+河南都市,http://49.232.131.30:99/dxxw.php?id=hnds
+河南都市,http://61.163.181.78:9901/tsfile/live/1004_1.m3u8
+河南都市,https://stream1.freetv.fun/he-nan-du-shi-11.m3u8
 
 
 
