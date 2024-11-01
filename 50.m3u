@@ -2794,11 +2794,15 @@ https://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
 #EXTINF:-1 tvg-name="云浮文旅频道" tvg-logo="https://live.fanmingming.com/tv/云浮文旅频道.png" group-title="广东地区",云浮文旅频道
 https://livestream.oeeee.com/slive/17807.m3u8
 #EXTINF:-1 tvg-name="河南民生" tvg-logo="https://live.fanmingming.com/tv/河南民生.png" group-title="河南频道",河南民生
-http://117.72.68.25:9930/hn.php?id=hnms
+http://61.163.181.78:9901/tsfile/live/1005_1.m3u8
+#EXTINF:-1 tvg-name="河南民生" tvg-logo="https://live.fanmingming.com/tv/河南民生.png" group-title="河南频道",河南民生
+https://stream1.freetv.fun/he-nan-min-sheng-3.m3u8
 #EXTINF:-1 tvg-name="河南都市" tvg-logo="https://live.fanmingming.com/tv/河南都市.png" group-title="河南频道",河南都市
-http://117.72.68.25:9930/hn.php?id=hnds
+http://49.232.131.30:99/dxxw.php?id=hnds
 #EXTINF:-1 tvg-name="河南都市" tvg-logo="https://live.fanmingming.com/tv/河南都市.png" group-title="河南频道",河南都市
-http://61.163.58.195:1718/henan.php?id=hnds
+http://61.163.181.78:9901/tsfile/live/1004_1.m3u8
+#EXTINF:-1 tvg-name="河南都市" tvg-logo="https://live.fanmingming.com/tv/河南都市.png" group-title="河南频道",河南都市
+https://stream1.freetv.fun/he-nan-du-shi-11.m3u8
 #EXTINF:-1 tvg-name="新闻综合" tvg-logo="https://live.fanmingming.com/tv/新闻综合.png" group-title="上海频道",新闻综合
 http://116.231.244.25:8888/udp/239.45.3.209:5140
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="上海频道",东方卫视
