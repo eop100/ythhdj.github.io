@@ -313,6 +313,10 @@ VIUTV,http://php.jdshipin.com:8880/TVOD/iptv.php?id=viutv
 
 
 广粤频道,#genre#
+广东体育,http://183.3.134.56:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+广东影视,http://183.3.134.56:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
+广东少儿,http://183.3.134.56:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+
 
 CCTV1综合,http://218.13.170.98:9901/tsfile/live/0001_1.m3u8?key=txiptv
 CCTV2财经,http://218.13.170.98:9901/tsfile/live/0002_1.m3u8?key=txiptv
