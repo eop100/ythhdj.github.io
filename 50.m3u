@@ -467,28 +467,12 @@ http://171.14.89.49:9901/tsfile/live/1048_1.m3u8
 http://183.136.148.214:9901/tsfile/live/1007_1.m3u8
 #EXTINF:-1 tvg-name="香港 卫视" tvg-logo="https://live.fanmingming.com/tv/香港 卫视.png" group-title="测试频道",香港 卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:-1 tvg-name="TVB翡翠台" tvg-logo="https://live.fanmingming.com/tv/TVB翡翠台.png" group-title="测试频道",TVB翡翠台
-http://php.jdshipin.com:8880/smt.php?id=jade_twn
 #EXTINF:-1 tvg-name="凤凰卫视" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视.png" group-title="测试频道",凤凰卫视
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png" group-title="测试频道",凤凰资讯
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png" group-title="测试频道",凤凰资讯
 http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="测试频道",翡翠台
-http://php.jdshipin.com:8880/smt.php?id=jade_twn
-#EXTINF:-1 tvg-name="TVB星河" tvg-logo="https://live.fanmingming.com/tv/TVB星河.png" group-title="测试频道",TVB星河
-http://php.jdshipin.com:8880/smt.php?id=Xinhe
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="测试频道",翡翠台
-http://cdn9.1689.us.kg/smt1.1.php?id=jade_twn
-#EXTINF:-1 tvg-name="华丽翡翠" tvg-logo="https://live.fanmingming.com/tv/华丽翡翠.png" group-title="测试频道",华丽翡翠
-http://cdn9.1689.us.kg/smt1.1.php?id=Tvbjade
-#EXTINF:-1 tvg-name="星河" tvg-logo="https://live.fanmingming.com/tv/星河.png" group-title="测试频道",星河
-http://cdn9.1689.us.kg/smt1.1.php?id=Xinhe
-#EXTINF:-1 tvg-name="千禧经典" tvg-logo="https://live.fanmingming.com/tv/千禧经典.png" group-title="测试频道",千禧经典
-http://cdn9.1689.us.kg/smt1.1.php?id=Tvbclassic
-#EXTINF:-1 tvg-name="ASTRO AOD" tvg-logo="https://live.fanmingming.com/tv/ASTRO AOD.png" group-title="测试频道",ASTRO AOD
-http://cdn9.1689.us.kg/smt1.1.php?id=Aodhd
 #EXTINF:-1 tvg-name="ak 晴天电影台" tvg-logo="https://live.fanmingming.com/tv/ak 晴天电影台.png" group-title="测试频道",ak 晴天电影台
 http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
 #EXTINF:-1 tvg-name="ak 中天新闻" tvg-logo="https://live.fanmingming.com/tv/ak 中天新闻.png" group-title="测试频道",ak 中天新闻
@@ -529,14 +513,6 @@ http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
 #EXTINF:-1 tvg-name="ak TVB*无线新闻" tvg-logo="https://live.fanmingming.com/tv/ak TVB*无线新闻.png" group-title="测试频道",ak TVB*无线新闻
 http://aktv.top/AKTV/live/aktv/null-20/AKTV.m3u8
-#EXTINF:-1 tvg-name="无线翡翠频道" tvg-logo="https://live.fanmingming.com/tv/无线翡翠频道.png" group-title="测试频道",无线翡翠频道
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
-#EXTINF:-1 tvg-name="无线华丽频道" tvg-logo="https://live.fanmingming.com/tv/无线华丽频道.png" group-title="测试频道",无线华丽频道
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
-#EXTINF:-1 tvg-name="千禧经典频道" tvg-logo="https://live.fanmingming.com/tv/千禧经典频道.png" group-title="测试频道",千禧经典频道
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
-#EXTINF:-1 tvg-name="Astr剧集频道" tvg-logo="https://live.fanmingming.com/tv/Astr剧集频道.png" group-title="测试频道",Astr剧集频道
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
 #EXTINF:-1 tvg-name="香港面包频道" tvg-logo="https://live.fanmingming.com/tv/香港面包频道.png" group-title="测试频道",香港面包频道
 https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 #EXTINF:-1 tvg-name="重温经典频道" tvg-logo="https://live.fanmingming.com/tv/重温经典频道.png" group-title="测试频道",重温经典频道
@@ -563,110 +539,6 @@ http://61.221.215.25:8800/hls/57/index.m3u8
 http://61.221.215.25:8800/hls/50/index.m3u8
 #EXTINF:-1 tvg-name="Diso综合频英" tvg-logo="https://live.fanmingming.com/tv/Diso综合频英.png" group-title="测试频道",Diso综合频英
 http://61.221.215.25:8800/hls/1/index.m3u8
-#EXTINF:-1 tvg-name="民视台湾台" tvg-logo="https://live.fanmingming.com/tv/民视台湾台.png" group-title="测试频道",民视台湾台
-http://litv.zapi.us.kg/?id=4gtv-4gtv156
-#EXTINF:-1 tvg-name="民视" tvg-logo="https://live.fanmingming.com/tv/民视.png" group-title="测试频道",民视
-http://litv.zapi.us.kg/?id=4gtv-4gtv002
-#EXTINF:-1 tvg-name="民视台湾台" tvg-logo="https://live.fanmingming.com/tv/民视台湾台.png" group-title="测试频道",民视台湾台
-http://litv.zapi.us.kg/?id=4gtv-4gtv001
-#EXTINF:-1 tvg-name="民视第一台" tvg-logo="https://live.fanmingming.com/tv/民视第一台.png" group-title="测试频道",民视第一台
-http://litv.zapi.us.kg/?id=4gtv-4gtv003
-#EXTINF:-1 tvg-name="民视综合" tvg-logo="https://live.fanmingming.com/tv/民视综合.png" group-title="测试频道",民视综合
-http://litv.zapi.us.kg/?id=4gtv-4gtv004
-#EXTINF:-1 tvg-name="猪哥" tvg-logo="https://live.fanmingming.com/tv/猪哥.png" group-title="测试频道",猪哥
-http://litv.zapi.us.kg/?id=4gtv-4gtv006
-#EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://live.fanmingming.com/tv/中天新闻.png" group-title="测试频道",中天新闻
-http://litv.zapi.us.kg/?id=4gtv-4gtv009
-#EXTINF:-1 tvg-name="FGM" tvg-logo="https://live.fanmingming.com/tv/FGM.png" group-title="测试频道",FGM
-http://litv.zapi.us.kg/?id=4gtv-4gtv011
-#EXTINF:-1 tvg-name="时尚运动" tvg-logo="https://live.fanmingming.com/tv/时尚运动.png" group-title="测试频道",时尚运动
-http://litv.zapi.us.kg/?id=4gtv-4gtv014
-#EXTINF:-1 tvg-name="韩国娱乐台" tvg-logo="https://live.fanmingming.com/tv/韩国娱乐台.png" group-title="测试频道",韩国娱乐台
-http://litv.zapi.us.kg/?id=4gtv-4gtv016
-#EXTINF:-1 tvg-name="AMC电影台" tvg-logo="https://live.fanmingming.com/tv/AMC电影台.png" group-title="测试频道",AMC电影台
-http://litv.zapi.us.kg/?id=4gtv-4gtv017
-#EXTINF:-1 tvg-name="DaVinci" tvg-logo="https://live.fanmingming.com/tv/DaVinci.png" group-title="测试频道",DaVinci
-http://litv.zapi.us.kg/?id=4gtv-4gtv018
-#EXTINF:-1 tvg-name="八大精彩台" tvg-logo="https://live.fanmingming.com/tv/八大精彩台.png" group-title="测试频道",八大精彩台
-http://litv.zapi.us.kg/?id=4gtv-4gtv034
-#EXTINF:-1 tvg-name="中视" tvg-logo="https://live.fanmingming.com/tv/中视.png" group-title="测试频道",中视
-http://litv.zapi.us.kg/?id=4gtv-4gtv040
-#EXTINF:-1 tvg-name="娱乐台" tvg-logo="https://live.fanmingming.com/tv/娱乐台.png" group-title="测试频道",娱乐台
-http://litv.zapi.us.kg/?id=4gtv-4gtv039
-#EXTINF:-1 tvg-name="公视" tvg-logo="https://live.fanmingming.com/tv/公视.png" group-title="测试频道",公视
-http://litv.zapi.us.kg/?id=4gtv-4gtv042
-#EXTINF:-1 tvg-name="华视新闻" tvg-logo="https://live.fanmingming.com/tv/华视新闻.png" group-title="测试频道",华视新闻
-http://litv.zapi.us.kg/?id=4gtv-4gtv041
-#EXTINF:-1 tvg-name="HakkoTV" tvg-logo="https://live.fanmingming.com/tv/HakkoTV.png" group-title="测试频道",HakkoTV
-http://litv.zapi.us.kg/?id=4gtv-4gtv043
-#EXTINF:-1 tvg-name="晴天卡通台" tvg-logo="https://live.fanmingming.com/tv/晴天卡通台.png" group-title="测试频道",晴天卡通台
-http://litv.zapi.us.kg/?id=4gtv-4gtv044
-#EXTINF:-1 tvg-name="晴洋戏剧台" tvg-logo="https://live.fanmingming.com/tv/晴洋戏剧台.png" group-title="测试频道",晴洋戏剧台
-http://litv.zapi.us.kg/?id=4gtv-4gtv045
-#EXTINF:-1 tvg-name="晴天综合台" tvg-logo="https://live.fanmingming.com/tv/晴天综合台.png" group-title="测试频道",晴天综合台
-http://litv.zapi.us.kg/?id=4gtv-4gtv046
-#EXTINF:-1 tvg-name="晴天日本台" tvg-logo="https://live.fanmingming.com/tv/晴天日本台.png" group-title="测试频道",晴天日本台
-http://litv.zapi.us.kg/?id=4gtv-4gtv047
-#EXTINF:-1 tvg-name="非凡商业台" tvg-logo="https://live.fanmingming.com/tv/非凡商业台.png" group-title="测试频道",非凡商业台
-http://litv.zapi.us.kg/?id=4gtv-4gtv048
-#EXTINF:-1 tvg-name="采昌台" tvg-logo="https://live.fanmingming.com/tv/采昌台.png" group-title="测试频道",采昌台
-http://litv.zapi.us.kg/?id=4gtv-4gtv049
-#EXTINF:-1 tvg-name="华视新闻" tvg-logo="https://live.fanmingming.com/tv/华视新闻.png" group-title="测试频道",华视新闻
-http://litv.zapi.us.kg/?id=4gtv-4gtv052
-#EXTINF:-1 tvg-name="晴天映画" tvg-logo="https://live.fanmingming.com/tv/晴天映画.png" group-title="测试频道",晴天映画
-http://litv.zapi.us.kg/?id=4gtv-4gtv055
-#EXTINF:-1 tvg-name="晴天欢乐台" tvg-logo="https://live.fanmingming.com/tv/晴天欢乐台.png" group-title="测试频道",晴天欢乐台
-http://litv.zapi.us.kg/?id=4gtv-4gtv054
-#EXTINF:-1 tvg-name="台视财经" tvg-logo="https://live.fanmingming.com/tv/台视财经.png" group-title="测试频道",台视财经
-http://litv.zapi.us.kg/?id=4gtv-4gtv056
-#EXTINF:-1 tvg-name="晴天戏剧台" tvg-logo="https://live.fanmingming.com/tv/晴天戏剧台.png" group-title="测试频道",晴天戏剧台
-http://litv.zapi.us.kg/?id=4gtv-4gtv058
-#EXTINF:-1 tvg-name="晴洋卡通" tvg-logo="https://live.fanmingming.com/tv/晴洋卡通.png" group-title="测试频道",晴洋卡通
-http://litv.zapi.us.kg/?id=4gtv-4gtv057
-#EXTINF:-1 tvg-name="晴天电影台" tvg-logo="https://live.fanmingming.com/tv/晴天电影台.png" group-title="测试频道",晴天电影台
-http://litv.zapi.us.kg/?id=4gtv-4gtv061
-#EXTINF:-1 tvg-name="晴天育乐台" tvg-logo="https://live.fanmingming.com/tv/晴天育乐台.png" group-title="测试频道",晴天育乐台
-http://litv.zapi.us.kg/?id=4gtv-4gtv062
-#EXTINF:-1 tvg-name="晴天国际台" tvg-logo="https://live.fanmingming.com/tv/晴天国际台.png" group-title="测试频道",晴天国际台
-http://litv.zapi.us.kg/?id=4gtv-4gtv063
-#EXTINF:-1 tvg-name="中视青采" tvg-logo="https://live.fanmingming.com/tv/中视青采.png" group-title="测试频道",中视青采
-http://litv.zapi.us.kg/?id=4gtv-4gtv064
-#EXTINF:-1 tvg-name="晴天资讯台" tvg-logo="https://live.fanmingming.com/tv/晴天资讯台.png" group-title="测试频道",晴天资讯台
-http://litv.zapi.us.kg/?id=4gtv-4gtv065
-#EXTINF:-1 tvg-name="台视" tvg-logo="https://live.fanmingming.com/tv/台视.png" group-title="测试频道",台视
-http://litv.zapi.us.kg/?id=4gtv-4gtv066
-#EXTINF:-1 tvg-name="TVBS精采台" tvg-logo="https://live.fanmingming.com/tv/TVBS精采台.png" group-title="测试频道",TVBS精采台
-http://litv.zapi.us.kg/?id=4gtv-4gtv067
-#EXTINF:-1 tvg-name="TVBS欢乐台" tvg-logo="https://live.fanmingming.com/tv/TVBS欢乐台.png" group-title="测试频道",TVBS欢乐台
-http://litv.zapi.us.kg/?id=4gtv-4gtv068
-#EXTINF:-1 tvg-name="ELTA娱乐" tvg-logo="https://live.fanmingming.com/tv/ELTA娱乐.png" group-title="测试频道",ELTA娱乐
-http://litv.zapi.us.kg/?id=4gtv-4gtv070
-#EXTINF:-1 tvg-name="TVBS新闻台" tvg-logo="https://live.fanmingming.com/tv/TVBS新闻台.png" group-title="测试频道",TVBS新闻台
-http://litv.zapi.us.kg/?id=4gtv-4gtv072
-#EXTINF:-1 tvg-name="TVBS" tvg-logo="https://live.fanmingming.com/tv/TVBS.png" group-title="测试频道",TVBS
-http://litv.zapi.us.kg/?id=4gtv-4gtv073
-#EXTINF:-1 tvg-name="中视新闻" tvg-logo="https://live.fanmingming.com/tv/中视新闻.png" group-title="测试频道",中视新闻
-http://litv.zapi.us.kg/?id=4gtv-4gtv074
-#EXTINF:-1 tvg-name="镜新闻" tvg-logo="https://live.fanmingming.com/tv/镜新闻.png" group-title="测试频道",镜新闻
-http://litv.zapi.us.kg/?id=4gtv-4gtv075
-#EXTINF:-1 tvg-name="TRAIE" tvg-logo="https://live.fanmingming.com/tv/TRAIE.png" group-title="测试频道",TRAIE
-http://litv.zapi.us.kg/?id=4gtv-4gtv077
-#EXTINF:-1 tvg-name="阿里郎" tvg-logo="https://live.fanmingming.com/tv/阿里郎.png" group-title="测试频道",阿里郎
-http://litv.zapi.us.kg/?id=4gtv-4gtv079
-#EXTINF:-1 tvg-name="国会频道" tvg-logo="https://live.fanmingming.com/tv/国会频道.png" group-title="测试频道",国会频道
-http://litv.zapi.us.kg/?id=4gtv-4gtv084
-#EXTINF:-1 tvg-name="TVBS综艺" tvg-logo="https://live.fanmingming.com/tv/TVBS综艺.png" group-title="测试频道",TVBS综艺
-http://litv.zapi.us.kg/?id=4gtv-4gtv104
-#EXTINF:-1 tvg-name="中天亚洲台" tvg-logo="https://live.fanmingming.com/tv/中天亚洲台.png" group-title="测试频道",中天亚洲台
-http://litv.zapi.us.kg/?id=4gtv-4gtv109
-#EXTINF:-1 tvg-name="东森新闻" tvg-logo="https://live.fanmingming.com/tv/东森新闻.png" group-title="测试频道",东森新闻
-http://litv.zapi.us.kg/?id=4gtv-4gtv152
-#EXTINF:-1 tvg-name="东森财经" tvg-logo="https://live.fanmingming.com/tv/东森财经.png" group-title="测试频道",东森财经
-http://litv.zapi.us.kg/?id=4gtv-4gtv153
-#EXTINF:-1 tvg-name="民视" tvg-logo="https://live.fanmingming.com/tv/民视.png" group-title="测试频道",民视
-http://litv.zapi.us.kg/?id=4gtv-4gtv155
-#EXTINF:-1 tvg-name="AMC电影台" tvg-logo="https://live.fanmingming.com/tv/AMC电影台.png" group-title="测试频道",AMC电影台
-http://61.221.215.25:8800/hls/43/index.m3u8
 #EXTINF:-1 tvg-name="环球电视台" tvg-logo="https://live.fanmingming.com/tv/环球电视台.png" group-title="测试频道",环球电视台
 http://zb.xzxwhcb.com:9999/hls/world.m3u8
 #EXTINF:-1 tvg-name="耀才财经" tvg-logo="https://live.fanmingming.com/tv/耀才财经.png" group-title="测试频道",耀才财经
@@ -683,10 +555,6 @@ http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=viutv
 #EXTINF:-1 tvg-name="东森财经" tvg-logo="https://live.fanmingming.com/tv/东森财经.png" group-title="测试频道",东森财经
 http://litv.zapi.us.kg/?id=4gtv-4gtv153
-#EXTINF:-1 tvg-name="公视戏剧" tvg-logo="https://live.fanmingming.com/tv/公视戏剧.png" group-title="测试频道",公视戏剧
-http://litv.zapi.us.kg/?id=4gtv-4gtv042
-#EXTINF:-1 tvg-name="台湾Plus" tvg-logo="https://live.fanmingming.com/tv/台湾Plus.png" group-title="测试频道",台湾Plus
-https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 #EXTINF:-1 tvg-name="民視台灣台" tvg-logo="https://live.fanmingming.com/tv/民視台灣台.png" group-title="测试频道",民視台灣台
 http://wanzhoulive.cbg.cn:8017/c2F0hmi/1000/live.m3u8
 #EXTINF:-1 tvg-name="浙江公共新闻" tvg-logo="https://live.fanmingming.com/tv/浙江公共新闻.png" group-title="浙江频道",浙江公共新闻
