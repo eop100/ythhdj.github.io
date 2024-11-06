@@ -1355,11 +1355,30 @@ CCTV-16,http://202.100.46.58:9901/tsfile/live/1016_1.m3u8?key=txiptv
 
 
 河南频道,#genre#
-河南民生,http://61.163.181.78:9901/tsfile/live/1005_1.m3u8
-河南民生,https://stream1.freetv.fun/he-nan-min-sheng-3.m3u8
-河南都市,http://49.232.131.30:99/dxxw.php?id=hnds
-河南都市,http://61.163.181.78:9901/tsfile/live/1004_1.m3u8
-河南都市,https://stream1.freetv.fun/he-nan-du-shi-11.m3u8
+1河南民生,http://61.163.181.78:9901/tsfile/live/1005_1.m3u8
+1河南民生,https://stream1.freetv.fun/he-nan-min-sheng-3.m3u8
+1河南都市,http://49.232.131.30:99/dxxw.php?id=hnds
+1河南都市,http://61.163.181.78:9901/tsfile/live/1004_1.m3u8
+1河南都市,https://stream1.freetv.fun/he-nan-du-shi-11.m3u8
+
+CCTV-1综合,http://106.46.38.188:808/hls/1/index.m3u8
+CCTV-2财经,http://106.46.38.188:808/hls/2/index.m3u8
+CCTV3-综艺,http://106.46.38.188:808/hls/3/index.m3u8
+CCTV-6电影,http://106.46.38.188:808/hls/6/index.m3u8
+CCTV-7国防军事,http://106.46.38.188:808/hls/7/index.m3u8
+CCTV-8电视剧,http://106.46.38.188:808/hls/8/index.m3u8
+CCTV-9记录,http://106.46.38.188:808/hls/9/index.m3u8
+CCTV-10科教,http://106.46.38.188:808/hls/10/index.m3u8
+CCTV-11戏曲,http://106.46.38.188:808/hls/11/index.m3u8
+CCTV-12社会与法,http://106.46.38.188:808/hls/12/index.m3u8
+CCTV-13新闻,http://106.46.38.188:808/hls/13/index.m3u8
+CCTV-14少儿,http://106.46.38.188:808/hls/14/index.m3u8
+CCTV-15音乐,http://106.46.38.188:808/hls/15/index.m3u8
+河南卫视,http://106.46.38.188:808/hls/16/index.m3u8
+河南都市,http://106.46.38.188:808/hls/17/index.m3u8
+河南民生,http://106.46.38.188:808/hls/18/index.m3u8
+河南法治,http://106.46.38.188:808/hls/19/index.m3u8
+调解频道,http://106.46.38.188:808/hls/32/index.m3u8
 
 
 
