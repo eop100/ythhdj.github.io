@@ -5879,9 +5879,13 @@ P2p://generationnexxxt.com:19806/ef92e3e69b334eaca20f0e2a26bf0f31
 P2p://generationnexxxt.com:19806/6cb1867e9aa543d7938ecb9ac3605564
 #EXTINF:-1 tvg-name="台湾*民视第一台" tvg-logo="https://live.fanmingming.com/tv/台湾*民视第一台.png" group-title="P2p频道",台湾*民视第一台
 P2p://generationnexxxt.com:19806/3a4000096c084c79af219586be8ed979
+#EXTINF:-1 tvg-name="电视播放不正常" tvg-logo="https://live.fanmingming.com/tv/电视播放不正常.png" group-title="问题反馈",电视播放不正常
+https://www.pl10000.org/55sm.mp4
 #EXTINF:-1 tvg-name="QQ群481207295" tvg-logo="https://live.fanmingming.com/tv/QQ群481207295.png" group-title="问题反馈",QQ群481207295
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-name="如遇停电或有事" tvg-logo="https://live.fanmingming.com/tv/如遇停电或有事.png" group-title="问题反馈",如遇停电或有事
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-name="不能及时更新" tvg-logo="https://live.fanmingming.com/tv/不能及时更新.png" group-title="问题反馈",不能及时更新
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 tvg-name="免费域名注册" tvg-logo="https://live.fanmingming.com/tv/免费域名注册.png" group-title="问题反馈",免费域名注册
+https://www.pl10000.org/US.KG%E6%95%99%E7%A8%8B.mp4
