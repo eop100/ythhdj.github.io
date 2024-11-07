@@ -222,7 +222,7 @@ VIUTV,http://php.jdshipin.com:8880/TVOD/iptv.php?id=viutv
 
 
 
-咪咕频道1,#genre#
+咪咕频道,#genre#
 CCTV1,http://211.101.247.19:6699/api/migu.php?type=hls&url=live-cctv1
 CCTV2,http://211.101.247.19:6699/api/migu.php?type=hls&url=live-cctv2
 CCTV3,http://211.101.247.19:6699/api/migu.php?type=hls&url=live-cctv3
@@ -258,46 +258,6 @@ CCTV17,http://211.101.247.19:6699/api/migu.php?type=hls&url=live-cctv17
 
 
 
-
-咪咕频道2,#genre#
-CCTV1,http://rihou.cc:55/lib/migu.php?id=cctv1
-CCTV2,http://rihou.cc:55/lib/migu.php?id=cctv2
-CCTV3,http://rihou.cc:55/lib/migu.php?id=cctv3
-CCTV4,http://rihou.cc:55/lib/migu.php?id=cctv4
-CCTV5,http://rihou.cc:55/lib/migu.php?id=cctv5
-CCTV5+,http://rihou.cc:55/lib/migu.php?id=cctv5p
-CCTV6,http://rihou.cc:55/lib/migu.php?id=cctv6
-CCTV7,http://rihou.cc:55/lib/migu.php?id=cctv7
-CCTV8,http://rihou.cc:55/lib/migu.php?id=cctv8
-CCTV9,http://rihou.cc:55/lib/migu.php?id=cctv9
-CCTV10,http://rihou.cc:55/lib/migu.php?id=cctv10
-CCTV11,http://rihou.cc:55/lib/migu.php?id=cctv11
-CCTV12,http://rihou.cc:55/lib/migu.php?id=cctv12
-CCTV13,http://rihou.cc:55/lib/migu.php?id=cctv13
-CCTV14,http://rihou.cc:55/lib/migu.php?id=cctv14
-CCTV15,http://rihou.cc:55/lib/migu.php?id=cctv15
-CCTV17,http://rihou.cc:55/lib/migu.php?id=cctv17
-CT4欧洲,http://rihou.cc:55/lib/migu.php?id=cctv4o
-CT4美洲,http://rihou.cc:55/lib/migu.php?id=cctv4a
-CGT纪录,http://rihou.cc:55/lib/migu.php?id=cgtnjl
-CGT西语,http://rihou.cc:55/lib/migu.php?id=cgtne
-CGT阿语,http://rihou.cc:55/lib/migu.php?id=cgtna
-CGT法语,http://rihou.cc:55/lib/migu.php?id=cgtnf
-CGT俄语,http://rihou.cc:55/lib/migu.php?id=cgtnr
-老故事台,http://rihou.cc:55/lib/migu.php?id=lgs
-中学生台,http://rihou.cc:55/lib/migu.php?id=zxs
-东方卫视,http://rihou.cc:55/lib/migu.php?id=dfws
-吉林卫视,http://rihou.cc:55/lib/migu.php?id=jlws
-青海卫视,http://rihou.cc:55/lib/migu.php?id=qhws
-湖北卫视,http://rihou.cc:55/lib/migu.php?id=hubws
-江苏卫视,http://rihou.cc:55/lib/migu.php?id=jsws
-湾区卫视,http://rihou.cc:55/lib/migu.php?id=dwqws
-海南卫视,http://rihou.cc:55/lib/migu.php?id=hinws
-兵团卫视,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022606701/timeshift.m3u8?delay=0&cdn=5202
-中国教育,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022823801/timeshift.m3u8?delay=0&cdn=5202
-四海钓鱼,http://rihou.cc:55/lib/migu.php?id=shdy
-江苏教育,http://rihou.cc:55/lib/migu.php?id=jsjy
-游戏风云,http://rihou.cc:55/lib/migu.php?id=yxfy
 
 
 
@@ -756,43 +716,6 @@ CCTV5+体育赛事,http://218.76.32.193:9901/tsfile/live/0128_1.m3u8?key=txiptv
 动作电影,http://218.76.32.193:9901/tsfile/live/1020_1.m3u8?key=txiptv
 
 
-
-
-
-
-湖北酒店,#genre#
-CCTV1-综合,http://58.48.5.186:1111/tsfile/live/0001_1.m3u8?key=txiptv
-CCTV2-财经,http://58.48.5.186:1111/tsfile/live/0002_1.m3u8?key=txiptv
-CCTV3-综艺,http://58.48.5.186:1111/tsfile/live/0003_1.m3u8?key=txiptv
-CCTV4-中文国际,http://58.48.5.186:1111/tsfile/live/0004_1.m3u8?key=txiptv
-CCTV5-体育,http://58.48.5.186:1111/tsfile/live/0005_1.m3u8?key=txiptv
-CCTV6-电影,http://58.48.5.186:1111/tsfile/live/0006_1.m3u8?key=txiptv
-CCTV7-国防军事,http://58.48.5.186:1111/tsfile/live/0007_1.m3u8?key=txiptv
-CCTV8-电视剧,http://58.48.5.186:1111/tsfile/live/0008_1.m3u8?key=txiptv
-CCTV9-纪录,http://58.48.5.186:1111/tsfile/live/0009_1.m3u8?key=txiptv
-CCTV10-科教,http://58.48.5.186:1111/tsfile/live/0010_1.m3u8?key=txiptv
-CCTV11-戏曲,http://58.48.5.186:1111/tsfile/live/0011_1.m3u8?key=txiptv
-CCTV12-社会与法,http://58.48.5.186:1111/tsfile/live/0012_1.m3u8?key=txiptv
-CCTV13-新闻,http://58.48.5.186:1111/tsfile/live/0013_1.m3u8?key=txiptv
-CCTV14-少儿,http://58.48.5.186:1111/tsfile/live/0014_1.m3u8?key=txiptv
-CCTV15-音乐,http://58.48.5.186:1111/tsfile/live/0015_1.m3u8?key=txiptv
-CCTV5+体育赛事,http://58.48.5.186:1111/tsfile/live/0016_1.m3u8?key=txiptv
-CCTV-17农业农村,http://58.48.5.186:1111/tsfile/live/0017_1.m3u8?key=txiptv
-湖北卫视,http://58.48.5.186:1111/tsfile/live/0018_1.m3u8?key=txiptv
-湖南卫视,http://58.48.5.186:1111/tsfile/live/0128_1.m3u8?key=txiptv
-江苏卫视,http://58.48.5.186:1111/tsfile/live/0127_1.m3u8?key=txiptv
-浙江卫视,http://58.48.5.186:1111/tsfile/live/0124_1.m3u8?key=txiptv
-北京卫视,http://58.48.5.186:1111/tsfile/live/0122_1.m3u8?key=txiptv
-东方卫视,http://58.48.5.186:1111/tsfile/live/0107_1.m3u8?key=txiptv
-深圳卫视,http://58.48.5.186:1111/tsfile/live/0126_1.m3u8?key=txiptv
-广东卫视,http://58.48.5.186:1111/tsfile/live/0125_1.m3u8?key=txiptv
-天津卫视,http://58.48.5.186:1111/tsfile/live/0135_1.m3u8?key=txiptv
-安徽卫视,http://58.48.5.186:1111/tsfile/live/0130_1.m3u8?key=txiptv
-山东卫视,http://58.48.5.186:1111/tsfile/live/0131_1.m3u8?key=txiptv
-CHC-高清电影,http://58.48.5.186:1111/tsfile/live/0142_1.m3u8?key=txiptv
-CHC-动作电影,http://58.48.5.186:1111/tsfile/live/0121_1.m3u8?key=txiptv
-CHC-家庭电影,http://58.48.5.186:1111/tsfile/live/0131_2.m3u8?key=txiptv
-CCTV-风云足球,http://58.48.5.186:1111/tsfile/live/0142_2.m3u8?key=txiptv
 
 
 
