@@ -263,37 +263,17 @@ Smart知识台,https://4gtv.mytvsuper.xyz/4gtv.php?id=litv-longturn19
 
 
 浙江频道,#genre#
-浙江卫视高清,http://220.191.107.162:55555/udp/233.50.201.100:5140
-浙江钱江高清,http://220.191.107.162:55555/udp/233.50.201.132:5140
-浙江生活高清,http://220.191.107.162:55555/udp/233.50.201.133:5140
-浙江教育高清,http://220.191.107.162:55555/udp/233.50.201.134:5140
-浙江民生高清,http://220.191.107.162:55555/udp/233.50.201.136:5140
-浙江新闻高清,http://220.191.107.162:55555/udp/233.50.201.137:5140
-浙江少儿高清,http://220.191.107.162:55555/udp/233.50.201.138:5140
-浙江纪录高清,http://220.191.107.162:55555/udp/233.50.202.25:5140
-
-浙江卫视高清,http://122.247.121.96:9999/udp/233.50.201.100:5140
-浙江钱江高清,http://122.247.121.96:9999/udp/233.50.201.132:5140
-浙江生活高清,http://122.247.121.96:9999/udp/233.50.201.133:5140
-浙江教育高清,http://122.247.121.96:9999/udp/233.50.201.134:5140
-浙江民生高清,http://122.247.121.96:9999/udp/233.50.201.136:5140
-浙江新闻高清,http://122.247.121.96:9999/udp/233.50.201.137:5140
-浙江少儿高清,http://122.247.121.96:9999/udp/233.50.201.138:5140
-浙江纪录高清,http://122.247.121.96:9999/udp/233.50.202.25:5140
-
-浙江卫视高清,http://115.203.68.76:55555/udp/233.50.201.100:5140
-浙江钱江高清,http://115.203.68.76:55555/udp/233.50.201.132:5140
-浙江生活高清,http://115.203.68.76:55555/udp/233.50.201.133:5140
-浙江教育高清,http://115.203.68.76:55555/udp/233.50.201.134:5140
-浙江民生高清,http://115.203.68.76:55555/udp/233.50.201.136:5140
-浙江新闻高清,http://115.203.68.76:55555/udp/233.50.201.137:5140
-浙江少儿高清,http://115.203.68.76:55555/udp/233.50.201.138:5140
-浙江纪录高清,http://115.203.68.76:55555/udp/233.50.202.25:5140
+浙江钱江,http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+浙江新闻,http://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+浙江教科影院,http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+浙江民生休闲,http://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+浙江经济生活,http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+浙江国际,http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 
 
 
 萧山综合频道,http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
-临平新闻综合频道,http://l.cztvcloud.com/channels/lantian/SXyuhang2/720p.m3u8
 象山电视台新闻综合频道,http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8
 绍兴文化影视频道,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
 绍兴电视台公共频道,http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8
