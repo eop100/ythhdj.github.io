@@ -1816,24 +1816,15 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 
 
 四川频道,#genre#
-四川卫视,http://171.213.204.70:4000/udp/239.93.0.169:5140
-四川卫视,http://171.213.204.70:4000/udp/239.93.1.188:5140
-四川康巴卫视,http://171.213.204.70:4000/udp/239.93.0.41:5140
-四川公共乡村,http://171.213.204.70:4000/udp/239.93.0.52:5140
-四川妇女儿童,http://171.213.204.70:4000/udp/239.93.0.219:5140
-四川影视文艺,http://171.213.204.70:4000/udp/239.93.0.166:5140
-四川影视文艺,http://171.213.204.70:4000/udp/239.93.1.195:5140
-四川文化旅游,http://171.213.204.70:4000/udp/239.93.1.101:5140
-四川文化旅游,http://171.213.204.70:4000/udp/239.93.1.20:5140
-四川新闻,http://171.213.204.70:4000/udp/239.93.0.47:5140
-四川经济,http://171.213.204.70:4000/udp/239.93.1.102:5140
-四川经济,http://171.213.204.70:4000/udp/239.93.1.16:5140
-峨眉电影,http://171.213.204.70:4000/udp/239.93.1.54:5140
-峨眉电影,http://171.213.204.70:4000/udp/239.93.1.18:5140
-凤凰中文,http://171.213.204.70:4000/udp/239.93.0.162:2192
-凤凰中文,http://171.213.204.70:4000/udp/239.93.1.9:2192
-凤凰资讯,http://171.213.204.70:4000/udp/239.93.0.118:2191
-凤凰资讯,http://171.213.204.70:4000/udp/239.93.1.4:2191
+四川卫视,http://61.157.139.15:9901/tsfile/live/2393_1.m3u8?key=txiptv&playlive=1&authid=0
+SCTV2,http://61.157.139.15:9901/tsfile/live/2416_1.m3u8?key=txiptv&playlive=1&authid=0
+SCTV3,http://61.157.139.15:9901/tsfile/live/2417_1.m3u8?key=txiptv&playlive=1&authid=0
+SCTV4,http://61.157.139.15:9901/tsfile/live/2411_1.m3u8?key=txiptv&playlive=1&authid=0
+SCTV5,http://61.157.139.15:9901/tsfile/live/2412_1.m3u8?key=txiptv&playlive=1&authid=0
+SCTV6,http://61.157.139.15:9901/tsfile/live/2413_1.m3u8?key=txiptv&playlive=1&authid=0
+SCTV7,http://61.157.139.15:9901/tsfile/live/2414_1.m3u8?key=txiptv&playlive=1&authid=0
+康巴卫视,http://61.157.139.15:9901/tsfile/live/2415_1.m3u8?key=txiptv&playlive=1&authid=0
+
 
 
 万源新闻综合,http://live.wanyuannews.com/wytv/hd/live.m3u8?zsicd
