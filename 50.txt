@@ -1418,7 +1418,6 @@ SCTV7,http://61.157.139.15:9901/tsfile/live/2414_1.m3u8?key=txiptv&playlive=1&au
 
 
 
-👑重庆数字高清,#genre#
 重庆地区,#genre#
 重庆导视,http://home.scanflove.com:7788/rtp/235.254.196.101:1162$重庆cmc3+
 重庆新闻频道,http://home.scanflove.com:7788/rtp/235.254.196.199:7980$重庆cmc3+
