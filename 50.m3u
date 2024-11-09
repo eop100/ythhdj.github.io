@@ -2635,52 +2635,156 @@ https://tv.pull.hebtv.com/jishi/gonggongpindao.m3u8?t=1963555917&k=fc9fcfabd123a
 https://jwplay.hebyun.com.cn/live/jiuyunqianan/1500k/tzwj_video.m3u8
 #EXTINF:-1 tvg-name="邢台综合" tvg-logo="https://live.fanmingming.com/tv/邢台综合.png" group-title="河北频道",邢台综合
 https://jwplay.hebyun.com.cn/live/xttv/1500k/tzwj_video.m3u8?zhebd
-#EXTINF:-1 tvg-name="山东影视" tvg-logo="https://live.fanmingming.com/tv/山东影视.png" group-title="山东频道",山东影视
-http://112.234.23.81:9901/tsfile/live/1001_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-name="山东综艺" tvg-logo="https://live.fanmingming.com/tv/山东综艺.png" group-title="山东频道",山东综艺
-http://112.234.23.81:9901/tsfile/live/1002_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-name="山东生活" tvg-logo="https://live.fanmingming.com/tv/山东生活.png" group-title="山东频道",山东生活
-http://112.234.23.81:9901/tsfile/live/1003_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-name="山东体育" tvg-logo="https://live.fanmingming.com/tv/山东体育.png" group-title="山东频道",山东体育
-http://112.234.23.81:9901/tsfile/live/0001_2.m3u8?key=txiptv
-#EXTINF:-1 tvg-name="山东农科" tvg-logo="https://live.fanmingming.com/tv/山东农科.png" group-title="山东频道",山东农科
-http://112.234.23.81:9901/tsfile/live/1005_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-name="山东新闻" tvg-logo="https://live.fanmingming.com/tv/山东新闻.png" group-title="山东频道",山东新闻
-http://112.234.23.81:9901/tsfile/live/1004_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png" group-title="山东频道",辽宁卫视
-http://112.234.23.81:9901/tsfile/live/0121_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="山东频道",深圳卫视
-http://112.234.23.81:9901/tsfile/live/0126_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://live.fanmingming.com/tv/河南卫视.png" group-title="山东频道",河南卫视
-http://112.234.23.81:9901/tsfile/live/faacts/0139_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png" group-title="山东频道",湖北卫视
-http://112.234.23.81:9901/tsfile/live/0132_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://live.fanmingming.com/tv/吉林卫视.png" group-title="山东频道",吉林卫视
-http://112.234.23.81:9901/tsfile/live/0116_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://live.fanmingming.com/tv/江西卫视.png" group-title="山东频道",江西卫视
-http://112.234.23.81:9901/tsfile/live/0138_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-name="兰陵综合" tvg-logo="https://live.fanmingming.com/tv/兰陵综合.png" group-title="山东频道",兰陵综合
-http://112.234.23.81:9901/tsfile/live/1022_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-name="兰陵公共" tvg-logo="https://live.fanmingming.com/tv/兰陵公共.png" group-title="山东频道",兰陵公共
-http://112.234.23.81:9901/tsfile/live/0113_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-name="临沂农科" tvg-logo="https://live.fanmingming.com/tv/临沂农科.png" group-title="山东频道",临沂农科
-http://112.234.23.81:9901/tsfile/live/1019_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-name="临沂经济" tvg-logo="https://live.fanmingming.com/tv/临沂经济.png" group-title="山东频道",临沂经济
-http://112.234.23.81:9901/tsfile/live/1016_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-name="山东教育" tvg-logo="https://live.fanmingming.com/tv/山东教育.png" group-title="山东频道",山东教育
-http://112.234.23.81:9901/tsfile/live/1009_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://live.fanmingming.com/tv/新疆卫视.png" group-title="山东频道",新疆卫视
-http://112.234.23.81:9901/tsfile/live/0110_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png" group-title="山东频道",安徽卫视
-http://112.234.23.81:9901/tsfile/live/0130_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="山东频道",江苏卫视
-http://112.234.23.81:9901/tsfile/live/0127_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="山东频道",天津卫视
-http://112.234.23.81:9901/tsfile/live/0135_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://live.fanmingming.com/tv/河北卫视.png" group-title="山东频道",河北卫视
-http://112.234.23.81:9901/tsfile/live/0117_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="山东频道",广东卫视
-http://112.234.23.81:9901/tsfile/live/0125_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="重庆导视" tvg-logo="https://live.fanmingming.com/tv/重庆导视.png" group-title="重庆地区",重庆导视
+http://home.scanflove.com:7788/rtp/235.254.196.101:1162$重庆cmc3+
+#EXTINF:-1 tvg-name="重庆新闻频道" tvg-logo="https://live.fanmingming.com/tv/重庆新闻频道.png" group-title="重庆地区",重庆新闻频道
+http://home.scanflove.com:7788/rtp/235.254.196.199:7980$重庆cmc3+
+#EXTINF:-1 tvg-name="重庆影视频道" tvg-logo="https://live.fanmingming.com/tv/重庆影视频道.png" group-title="重庆地区",重庆影视频道
+http://home.scanflove.com:7788/rtp/235.254.198.180:7980$重庆cmc3+
+#EXTINF:-1 tvg-name="重庆都市频道" tvg-logo="https://live.fanmingming.com/tv/重庆都市频道.png" group-title="重庆地区",重庆都市频道
+http://home.scanflove.com:7788/rtp/235.254.198.181:7980$重庆cmc3+
+#EXTINF:-1 tvg-name="重庆时尚生活" tvg-logo="https://live.fanmingming.com/tv/重庆时尚生活.png" group-title="重庆地区",重庆时尚生活
+http://home.scanflove.com:7788/rtp/235.254.198.182:7980$重庆cmc3+
+#EXTINF:-1 tvg-name="重庆娱乐频道" tvg-logo="https://live.fanmingming.com/tv/重庆娱乐频道.png" group-title="重庆地区",重庆娱乐频道
+http://home.scanflove.com:7788/rtp/235.254.198.187:7980$重庆cmc3+
+#EXTINF:-1 tvg-name="重庆新农村" tvg-logo="https://live.fanmingming.com/tv/重庆新农村.png" group-title="重庆地区",重庆新农村
+http://home.scanflove.com:7788/rtp/235.254.198.186:7980$重庆cmc3+
+#EXTINF:-1 tvg-name="重庆社会与法" tvg-logo="https://live.fanmingming.com/tv/重庆社会与法.png" group-title="重庆地区",重庆社会与法
+http://home.scanflove.com:7788/rtp/235.254.196.210:1112$重庆cmc3+
+#EXTINF:-1 tvg-name="重庆汽摩频道" tvg-logo="https://live.fanmingming.com/tv/重庆汽摩频道.png" group-title="重庆地区",重庆汽摩频道
+http://home.scanflove.com:7788/rtp/235.254.196.221:1156$重庆cmc3+
+#EXTINF:-1 tvg-name="重庆光影频道" tvg-logo="https://live.fanmingming.com/tv/重庆光影频道.png" group-title="重庆地区",重庆光影频道
+http://home.scanflove.com:7788/rtp/235.254.198.91:1640$重庆cmc3+
+#EXTINF:-1 tvg-name="重庆军事" tvg-logo="https://live.fanmingming.com/tv/重庆军事.png" group-title="重庆地区",重庆军事
+http://home.scanflove.com:7788/rtp/235.254.198.83:1608$重庆cmc3+
+#EXTINF:-1 tvg-name="重庆军旅剧场" tvg-logo="https://live.fanmingming.com/tv/重庆军旅剧场.png" group-title="重庆地区",重庆军旅剧场
+http://home.scanflove.com:7788/rtp/235.254.198.75:1576$重庆cmc3+
+#EXTINF:-1 tvg-name="重庆古装剧场" tvg-logo="https://live.fanmingming.com/tv/重庆古装剧场.png" group-title="重庆地区",重庆古装剧场
+http://home.scanflove.com:7788/rtp/235.254.198.76:1580$重庆cmc3+
+#EXTINF:-1 tvg-name="重庆国学" tvg-logo="https://live.fanmingming.com/tv/重庆国学.png" group-title="重庆地区",重庆国学
+http://home.scanflove.com:7788/rtp/235.254.198.84:1612$重庆cmc3+
+#EXTINF:-1 tvg-name="重庆地理" tvg-logo="https://live.fanmingming.com/tv/重庆地理.png" group-title="重庆地区",重庆地理
+http://home.scanflove.com:7788/rtp/235.254.198.78:1588$重庆cmc3+
+#EXTINF:-1 tvg-name="重庆法治" tvg-logo="https://live.fanmingming.com/tv/重庆法治.png" group-title="重庆地区",重庆法治
+http://home.scanflove.com:7788/rtp/235.254.198.120:1756$重庆cmc3+
+#EXTINF:-1 tvg-name="重庆热播剧场" tvg-logo="https://live.fanmingming.com/tv/重庆热播剧场.png" group-title="重庆地区",重庆热播剧场
+http://home.scanflove.com:7788/rtp/235.254.198.113:1728$重庆cmc3+
+#EXTINF:-1 tvg-name="重庆相声小品" tvg-logo="https://live.fanmingming.com/tv/重庆相声小品.png" group-title="重庆地区",重庆相声小品
+http://home.scanflove.com:7788/rtp/235.254.198.118:1748$重庆cmc3+
+#EXTINF:-1 tvg-name="重庆精选" tvg-logo="https://live.fanmingming.com/tv/重庆精选.png" group-title="重庆地区",重庆精选
+http://home.scanflove.com:7788/rtp/235.254.198.81:1600$重庆cmc3+
+#EXTINF:-1 tvg-name="重庆经典电影" tvg-logo="https://live.fanmingming.com/tv/重庆经典电影.png" group-title="重庆地区",重庆经典电影
+http://home.scanflove.com:7788/rtp/235.254.198.114:1732$重庆cmc3+
+#EXTINF:-1 tvg-name="重庆美人" tvg-logo="https://live.fanmingming.com/tv/重庆美人.png" group-title="重庆地区",重庆美人
+http://home.scanflove.com:7788/rtp/235.254.198.80:1596$重庆cmc3+
+#EXTINF:-1 tvg-name="重庆美妆" tvg-logo="https://live.fanmingming.com/tv/重庆美妆.png" group-title="重庆地区",重庆美妆
+http://home.scanflove.com:7788/rtp/235.254.198.79:1592$重庆cmc3+
+#EXTINF:-1 tvg-name="重庆谍战剧场" tvg-logo="https://live.fanmingming.com/tv/重庆谍战剧场.png" group-title="重庆地区",重庆谍战剧场
+http://home.scanflove.com:7788/rtp/235.254.198.117:1744$重庆cmc3+
+#EXTINF:-1 tvg-name="重庆野外" tvg-logo="https://live.fanmingming.com/tv/重庆野外.png" group-title="重庆地区",重庆野外
+http://home.scanflove.com:7788/rtp/235.254.198.119:1752$重庆cmc3+
+#EXTINF:-1 tvg-name="重庆音乐现场" tvg-logo="https://live.fanmingming.com/tv/重庆音乐现场.png" group-title="重庆地区",重庆音乐现场
+http://home.scanflove.com:7788/rtp/235.254.198.77:1584$重庆cmc3+
+#EXTINF:-1 tvg-name="重庆高网电影" tvg-logo="https://live.fanmingming.com/tv/重庆高网电影.png" group-title="重庆地区",重庆高网电影
+http://home.scanflove.com:7788/rtp/235.254.198.95:1656$重庆cmc3+
+#EXTINF:-1 tvg-name="山东教育" tvg-logo="https://live.fanmingming.com/tv/山东教育.png" group-title="山东地区",山东教育
+http://oscam.picp.net:4020/rtp/239.21.1.169:5002$山东cmc2+
+#EXTINF:-1 tvg-name="山东农科" tvg-logo="https://live.fanmingming.com/tv/山东农科.png" group-title="山东地区",山东农科
+http://oscam.picp.net:4020/rtp/239.21.1.183:5002$山东cmc2+
+#EXTINF:-1 tvg-name="山东齐鲁" tvg-logo="https://live.fanmingming.com/tv/山东齐鲁.png" group-title="山东地区",山东齐鲁
+http://oscam.picp.net:4020/rtp/239.21.1.134:5002$山东cmc2+
+#EXTINF:-1 tvg-name="山东体育" tvg-logo="https://live.fanmingming.com/tv/山东体育.png" group-title="山东地区",山东体育
+http://oscam.picp.net:4020/rtp/239.21.1.141:5002$山东cmc2+
+#EXTINF:-1 tvg-name="山东少儿" tvg-logo="https://live.fanmingming.com/tv/山东少儿.png" group-title="山东地区",山东少儿
+http://oscam.picp.net:4020/rtp/239.21.1.208:5002$山东cmc2+
+#EXTINF:-1 tvg-name="山东文旅" tvg-logo="https://live.fanmingming.com/tv/山东文旅.png" group-title="山东地区",山东文旅
+http://oscam.picp.net:4020/rtp/239.21.1.176:5002$山东cmc2+
+#EXTINF:-1 tvg-name="山东新闻" tvg-logo="https://live.fanmingming.com/tv/山东新闻.png" group-title="山东地区",山东新闻
+http://oscam.picp.net:4020/rtp/239.21.1.140:5002$山东cmc2+
+#EXTINF:-1 tvg-name="山东生活" tvg-logo="https://live.fanmingming.com/tv/山东生活.png" group-title="山东地区",山东生活
+http://oscam.picp.net:4020/rtp/239.21.1.175:5002$山东cmc2+
+#EXTINF:-1 tvg-name="山东综艺" tvg-logo="https://live.fanmingming.com/tv/山东综艺.png" group-title="山东地区",山东综艺
+http://oscam.picp.net:4020/rtp/239.21.1.177:5002$山东cmc2+
+#EXTINF:-1 tvg-name="山东济南娱乐" tvg-logo="https://live.fanmingming.com/tv/山东济南娱乐.png" group-title="山东地区",山东济南娱乐
+http://oscam.picp.net:4020/rtp/239.21.1.66:5002$山东cmc2+
+#EXTINF:-1 tvg-name="山东济南少儿" tvg-logo="https://live.fanmingming.com/tv/山东济南少儿.png" group-title="山东地区",山东济南少儿
+http://oscam.picp.net:4020/rtp/239.21.1.68:5002$山东cmc2+
+#EXTINF:-1 tvg-name="山东济南影视" tvg-logo="https://live.fanmingming.com/tv/山东济南影视.png" group-title="山东地区",山东济南影视
+http://oscam.picp.net:4020/rtp/239.21.1.65:5002$山东cmc2+
+#EXTINF:-1 tvg-name="山东济南教育" tvg-logo="https://live.fanmingming.com/tv/山东济南教育.png" group-title="山东地区",山东济南教育
+http://oscam.picp.net:4020/rtp/239.21.1.133:5002$山东cmc2+
+#EXTINF:-1 tvg-name="山东济南新闻" tvg-logo="https://live.fanmingming.com/tv/山东济南新闻.png" group-title="山东地区",山东济南新闻
+http://oscam.picp.net:4020/rtp/239.21.1.62:5002$山东cmc2+
+#EXTINF:-1 tvg-name="山东济南新闻" tvg-logo="https://live.fanmingming.com/tv/山东济南新闻.png" group-title="山东地区",山东济南新闻
+http://oscam.picp.net:4020/rtp/239.21.1.94:5002$山东cmc2+
+#EXTINF:-1 tvg-name="山东济南生活" tvg-logo="https://live.fanmingming.com/tv/山东济南生活.png" group-title="山东地区",山东济南生活
+http://oscam.picp.net:4020/rtp/239.21.1.64:5002$山东cmc2+
+#EXTINF:-1 tvg-name="山东济南都市" tvg-logo="https://live.fanmingming.com/tv/山东济南都市.png" group-title="山东地区",山东济南都市
+http://oscam.picp.net:4020/rtp/239.21.1.63:5002$山东cmc2+
+#EXTINF:-1 tvg-name="山东烟台公共" tvg-logo="https://live.fanmingming.com/tv/山东烟台公共.png" group-title="山东地区",山东烟台公共
+http://oscam.picp.net:4020/rtp/239.21.1.117:5002$山东cmc2+
+#EXTINF:-1 tvg-name="山东烟台影视" tvg-logo="https://live.fanmingming.com/tv/山东烟台影视.png" group-title="山东地区",山东烟台影视
+http://oscam.picp.net:4020/rtp/239.21.1.204:5002$山东cmc2+
+#EXTINF:-1 tvg-name="山东烟台新闻" tvg-logo="https://live.fanmingming.com/tv/山东烟台新闻.png" group-title="山东地区",山东烟台新闻
+http://oscam.picp.net:4020/rtp/239.21.1.116:5002$山东cmc2+
+#EXTINF:-1 tvg-name="山东烟台经济" tvg-logo="https://live.fanmingming.com/tv/山东烟台经济.png" group-title="山东地区",山东烟台经济
+http://oscam.picp.net:4020/rtp/239.21.1.205:5002$山东cmc2+
+#EXTINF:-1 tvg-name="山东青岛1" tvg-logo="https://live.fanmingming.com/tv/山东青岛1.png" group-title="山东地区",山东青岛1
+http://oscam.picp.net:4020/rtp/239.21.1.69:5002$山东cmc2+
+#EXTINF:-1 tvg-name="山东青岛2" tvg-logo="https://live.fanmingming.com/tv/山东青岛2.png" group-title="山东地区",山东青岛2
+http://oscam.picp.net:4020/rtp/239.21.1.70:5002$山东cmc2+
+#EXTINF:-1 tvg-name="山东青岛3" tvg-logo="https://live.fanmingming.com/tv/山东青岛3.png" group-title="山东地区",山东青岛3
+http://oscam.picp.net:4020/rtp/239.21.1.71:5002$山东cmc2+
+#EXTINF:-1 tvg-name="山东青岛4" tvg-logo="https://live.fanmingming.com/tv/山东青岛4.png" group-title="山东地区",山东青岛4
+http://oscam.picp.net:4020/rtp/239.21.1.72:5002$山东cmc2+
+#EXTINF:-1 tvg-name="山东青岛5" tvg-logo="https://live.fanmingming.com/tv/山东青岛5.png" group-title="山东地区",山东青岛5
+http://oscam.picp.net:4020/rtp/239.21.1.73:5002$山东cmc2+
+#EXTINF:-1 tvg-name="山东青岛6" tvg-logo="https://live.fanmingming.com/tv/山东青岛6.png" group-title="山东地区",山东青岛6
+http://oscam.picp.net:4020/rtp/239.21.1.74:5002$山东cmc2+
+#EXTINF:-1 tvg-name="山东德州公共" tvg-logo="https://live.fanmingming.com/tv/山东德州公共.png" group-title="山东地区",山东德州公共
+http://oscam.picp.net:4020/rtp/239.21.1.76:5002$山东cmc2+
+#EXTINF:-1 tvg-name="山东德州新闻" tvg-logo="https://live.fanmingming.com/tv/山东德州新闻.png" group-title="山东地区",山东德州新闻
+http://oscam.picp.net:4020/rtp/239.21.1.75:5002$山东cmc2+
+#EXTINF:-1 tvg-name="山东齐河新闻" tvg-logo="https://live.fanmingming.com/tv/山东齐河新闻.png" group-title="山东地区",山东齐河新闻
+http://oscam.picp.net:4020/rtp/239.21.1.230:5002$山东cmc2+
+#EXTINF:-1 tvg-name="山东淄博公共" tvg-logo="https://live.fanmingming.com/tv/山东淄博公共.png" group-title="山东地区",山东淄博公共
+http://oscam.picp.net:4020/rtp/239.21.1.182:5002$山东cmc2+
+#EXTINF:-1 tvg-name="山东淄博新闻" tvg-logo="https://live.fanmingming.com/tv/山东淄博新闻.png" group-title="山东地区",山东淄博新闻
+http://oscam.picp.net:4020/rtp/239.21.1.84:5002$山东cmc2+
+#EXTINF:-1 tvg-name="山东淄博生活" tvg-logo="https://live.fanmingming.com/tv/山东淄博生活.png" group-title="山东地区",山东淄博生活
+http://oscam.picp.net:4020/rtp/239.21.1.109:5002$山东cmc2+
+#EXTINF:-1 tvg-name="山东淄博都市" tvg-logo="https://live.fanmingming.com/tv/山东淄博都市.png" group-title="山东地区",山东淄博都市
+http://oscam.picp.net:4020/rtp/239.21.1.83:5002$山东cmc2+
+#EXTINF:-1 tvg-name="山东滨州公共" tvg-logo="https://live.fanmingming.com/tv/山东滨州公共.png" group-title="山东地区",山东滨州公共
+http://oscam.picp.net:4020/rtp/239.21.1.119:5002$山东cmc2+
+#EXTINF:-1 tvg-name="山东滨州新闻" tvg-logo="https://live.fanmingming.com/tv/山东滨州新闻.png" group-title="山东地区",山东滨州新闻
+http://oscam.picp.net:4020/rtp/239.21.1.118:5002$山东cmc2+
+#EXTINF:-1 tvg-name="山东潍坊TV-1" tvg-logo="https://live.fanmingming.com/tv/山东潍坊TV-1.png" group-title="山东地区",山东潍坊TV-1
+http://oscam.picp.net:4020/rtp/239.21.1.77:5002$山东cmc2+
+#EXTINF:-1 tvg-name="山东潍坊TV-2" tvg-logo="https://live.fanmingming.com/tv/山东潍坊TV-2.png" group-title="山东地区",山东潍坊TV-2
+http://oscam.picp.net:4020/rtp/239.21.1.78:5002$山东cmc2+
+#EXTINF:-1 tvg-name="山东菏泽1" tvg-logo="https://live.fanmingming.com/tv/山东菏泽1.png" group-title="山东地区",山东菏泽1
+http://oscam.picp.net:4020/rtp/239.21.1.103:5002$山东cmc2+
+#EXTINF:-1 tvg-name="山东菏泽2" tvg-logo="https://live.fanmingming.com/tv/山东菏泽2.png" group-title="山东地区",山东菏泽2
+http://oscam.picp.net:4020/rtp/239.21.2.18:5002$山东cmc2+
+#EXTINF:-1 tvg-name="山东济宁公共" tvg-logo="https://live.fanmingming.com/tv/山东济宁公共.png" group-title="山东地区",山东济宁公共
+http://oscam.picp.net:4020/rtp/239.21.2.20:5002$山东cmc2+
+#EXTINF:-1 tvg-name="山东济宁教育" tvg-logo="https://live.fanmingming.com/tv/山东济宁教育.png" group-title="山东地区",山东济宁教育
+http://oscam.picp.net:4020/rtp/239.21.1.139:5002$山东cmc2+
+#EXTINF:-1 tvg-name="山东济宁综合" tvg-logo="https://live.fanmingming.com/tv/山东济宁综合.png" group-title="山东地区",山东济宁综合
+http://oscam.picp.net:4020/rtp/239.21.1.138:5002$山东cmc2+
+#EXTINF:-1 tvg-name="山东济宁综合" tvg-logo="https://live.fanmingming.com/tv/山东济宁综合.png" group-title="山东地区",山东济宁综合
+http://oscam.picp.net:4020/rtp/239.21.2.19:5002$山东cmc2+
+#EXTINF:-1 tvg-name="山东聊城公共" tvg-logo="https://live.fanmingming.com/tv/山东聊城公共.png" group-title="山东地区",山东聊城公共
+http://oscam.picp.net:4020/rtp/239.21.1.254:5002$山东cmc2+
+#EXTINF:-1 tvg-name="山东聊城综合" tvg-logo="https://live.fanmingming.com/tv/山东聊城综合.png" group-title="山东地区",山东聊城综合
+http://oscam.picp.net:4020/rtp/239.21.1.253:5002$山东cmc2+
+#EXTINF:-1 tvg-name="山东光影" tvg-logo="https://live.fanmingming.com/tv/山东光影.png" group-title="山东地区",山东光影
+http://oscam.picp.net:4020/rtp/239.21.1.131:5002$山东cmc2+
+#EXTINF:-1 tvg-name="山东墨宝" tvg-logo="https://live.fanmingming.com/tv/山东墨宝.png" group-title="山东地区",山东墨宝
+http://oscam.picp.net:4020/rtp/239.21.1.130:5002$山东cmc2+
+#EXTINF:-1 tvg-name="山东财富天下" tvg-logo="https://live.fanmingming.com/tv/山东财富天下.png" group-title="山东地区",山东财富天下
+http://oscam.picp.net:4020/rtp/239.21.1.127:5002$山东cmc2+
 #EXTINF:-1 tvg-name="青田电视台" tvg-logo="https://live.fanmingming.com/tv/青田电视台.png" group-title="小地方台",青田电视台
 http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
 #EXTINF:-1 tvg-name="诸暨新闻综合" tvg-logo="https://live.fanmingming.com/tv/诸暨新闻综合.png" group-title="小地方台",诸暨新闻综合
