@@ -395,10 +395,6 @@ http://[2409:8087:1a01:df::7005]/TVOD/88888888/224/3221226031/main.m3u8
 http://[2409:8087:1a01:df::7005]/TVOD/88888888/224/3221226046/main.m3u8
 #EXTINF:-1 tvg-name="睛彩少儿" tvg-logo="https://live.fanmingming.com/tv/睛彩少儿.png" group-title="咪咕IPV6",睛彩少儿
 http://[2409:8087:1a01:df::7005]/TVOD/88888888/224/3221225903/main.m3u8
-#EXTINF:-1 tvg-name="CHC-家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC-家庭影院.png" group-title="CHC电影",CHC-家庭影院
-http://219.140.108.159:8686/rtp/239.69.1.243:11100
-#EXTINF:-1 tvg-name="CHC-高清电影" tvg-logo="https://live.fanmingming.com/tv/CHC-高清电影.png" group-title="CHC电影",CHC-高清电影
-http://219.140.108.159:8686/rtp/239.69.1.241:11088
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央卫IPV6",CCTV-1 综合
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央卫IPV6",CCTV-2 财经
