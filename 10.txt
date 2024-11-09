@@ -1045,35 +1045,6 @@ CCTV-15高清,http://113.101.119.104:8090/hls/127/index.m3u8
 
 
 
-广东移动,#genre#
-CCTV-1,http://120.237.105.163:9600/hls/1/index.m3u8
-CCTV-2,http://120.237.105.163:9600/hls/2/index.m3u8
-CCTV-3,http://120.237.105.163:9600/hls/3/index.m3u8
-CCTV-4,http://120.237.105.163:9600/hls/4/index.m3u8
-CCTV-5,http://120.237.105.163:9600/hls/5/index.m3u8
-CCTV-5+,http://120.237.105.163:9600/hls/6/index.m3u8
-CCTV-6,http://120.237.105.163:9600/hls/7/index.m3u8
-CCTV-8,http://120.237.105.163:9600/hls/9/index.m3u8
-CCTV-9高清,http://120.237.105.163:9600/hls/10/index.m3u8
-CCTV-10高清,http://120.237.105.163:9600/hls/11/index.m3u8
-CCTV-11,http://120.237.105.163:9600/hls/12/index.m3u8
-CCTV-12高清,http://120.237.105.163:9600/hls/13/index.m3u8
-CCTV-15,http://120.237.105.163:9600/hls/16/index.m3u8
-广东珠江,http://120.237.105.163:9600/hls/17/index.m3u8
-广东卫视,http://120.237.105.163:9600/hls/19/index.m3u8
-广东新闻,http://120.237.105.163:9600/hls/20/index.m3u8
-广东经济科教,http://120.237.105.163:9600/hls/22/index.m3u8
-广东南方卫视,http://120.237.105.163:9600/hls/23/index.m3u8
-广东影视,http://120.237.105.163:9600/hls/25/index.m3u8
-广东少儿,http://120.237.105.163:9600/hls/26/index.m3u8
-
-
-
-
-
-
-
-
 
 广西电信,#genre#
 CCTV1-综合,http://182.91.124.224:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=0&authid=0
