@@ -1633,19 +1633,6 @@ CCTV-15音乐,http://106.46.38.188:808/hls/15/index.m3u8
 
 
 上海频道,#genre#
-新闻综合,http://180.175.163.27:7777/tsfile/live/1025_1.m3u8?key=txiptv
-东方卫视,http://180.175.163.27:7777/tsfile/live/0107_1.m3u8?key=txiptv
-都市频道,http://180.175.163.27:7777/tsfile/live/1026_1.m3u8?key=txiptv
-纪实人文,http://180.175.163.27:7777/tsfile/live/1027_1.m3u8?key=txiptv
-东方影视,http://180.175.163.27:7777/tsfile/live/1028_1.m3u8?key=txiptv
-第一财经,http://180.175.163.27:7777/tsfile/live/1029_1.m3u8?key=txiptv
-五星体育,http://180.175.163.27:7777/tsfile/live/1030_1.m3u8?key=txiptv
-东方财经,http://180.175.163.27:7777/tsfile/live/1031_1.m3u8?key=txiptv
-ICS频道,http://180.175.163.27:7777/tsfile/live/1032_1.m3u8?key=txiptv
-上海教育台,http://180.175.163.27:7777/tsfile/live/1033_1.m3u8?key=txiptv
-七彩戏剧,http://180.175.163.27:7777/tsfile/live/1034_1.m3u8?key=txiptv
-法治天地,http://180.175.163.27:7777/tsfile/live/1035_1.m3u8?key=txiptv
-金色学堂,http://180.175.163.27:7777/tsfile/live/1036_1.m3u8?key=txiptv
 CCTV1,http://180.175.163.27:7777/tsfile/live/0001_1.m3u8?key=txiptv
 CCTV2,http://180.175.163.27:7777/tsfile/live/0002_1.m3u8?key=txiptv
 CCTV3,http://180.175.163.27:7777/tsfile/live/0003_1.m3u8?key=txiptv
@@ -1665,6 +1652,19 @@ CCTV14,http://180.175.163.27:7777/tsfile/live/0014_1.m3u8?key=txiptv
 CCTV15,http://180.175.163.27:7777/tsfile/live/0015_1.m3u8?key=txiptv
 CCTV16,http://180.175.163.27:7777/tsfile/live/1038_1.m3u8?key=txiptv
 CCTV17,http://180.175.163.27:7777/tsfile/live/1039_1.m3u8?key=txiptv
+新闻综合,http://180.175.163.27:7777/tsfile/live/1025_1.m3u8?key=txiptv
+东方卫视,http://180.175.163.27:7777/tsfile/live/0107_1.m3u8?key=txiptv
+都市频道,http://180.175.163.27:7777/tsfile/live/1026_1.m3u8?key=txiptv
+纪实人文,http://180.175.163.27:7777/tsfile/live/1027_1.m3u8?key=txiptv
+东方影视,http://180.175.163.27:7777/tsfile/live/1028_1.m3u8?key=txiptv
+第一财经,http://180.175.163.27:7777/tsfile/live/1029_1.m3u8?key=txiptv
+五星体育,http://180.175.163.27:7777/tsfile/live/1030_1.m3u8?key=txiptv
+东方财经,http://180.175.163.27:7777/tsfile/live/1031_1.m3u8?key=txiptv
+ICS频道,http://180.175.163.27:7777/tsfile/live/1032_1.m3u8?key=txiptv
+上海教育台,http://180.175.163.27:7777/tsfile/live/1033_1.m3u8?key=txiptv
+七彩戏剧,http://180.175.163.27:7777/tsfile/live/1034_1.m3u8?key=txiptv
+法治天地,http://180.175.163.27:7777/tsfile/live/1035_1.m3u8?key=txiptv
+金色学堂,http://180.175.163.27:7777/tsfile/live/1036_1.m3u8?key=txiptv
 财富天下,http://180.175.163.27:7777/tsfile/live/1040_1.m3u8?key=txiptv
 CETV,http://180.175.163.27:7777/tsfile/live/1041_1.m3u8?key=txiptv
 金鹰纪实,http://180.175.163.27:7777/tsfile/live/1042_1.m3u8?key=txiptv
