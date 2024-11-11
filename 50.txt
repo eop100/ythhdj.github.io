@@ -2234,6 +2234,7 @@ NewTv动作电影,http://39.134.134.87/otttv.bj.chinamobile.com/PLTV/88888888/22
 电影剧集,#genre#
 郑铁频道,http://39.162.27.11:8081/newlive/live/hls/1/live.m3u8
 人民铁道,http://39.162.27.11:8081/newlive/live/hls/2/live.m3u8
+琅琊榜,http://zby.xjqxz.top/lyb/live.m3u8
 
 知否知否应是绿肥红瘦,https://lunbo.freetv.top/yy/21881901
 庆余年,http://diyp.zxxoo.work/douyu/5908256
