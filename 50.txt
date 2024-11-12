@@ -1729,15 +1729,13 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 
 
 湖北频道,#genre#
-湖北卫视,http://119.36.148.115:59901/tsfile/live/0132_1.m3u8?key=txiptv
-湖北经视,http://119.36.148.115:59901/tsfile/live/1004_1.m3u8?key=txiptv
-湖北综合,http://119.36.148.115:59901/tsfile/live/1005_1.m3u8?key=txiptv
-湖北垄上,http://119.36.148.115:59901/tsfile/live/1006_1.m3u8?key=txiptv
-湖北公共,http://119.36.148.115:59901/tsfile/live/1007_1.m3u8?key=txiptv
-湖北卫视,http://58.51.111.46:1111/tsfile/live/1018_1.m3u8?key=txiptv
-湖北经视,http://58.51.111.46:1111/tsfile/live/1019_1.m3u8?key=txiptv
-湖北综合,http://58.51.111.46:1111/tsfile/live/1020_1.m3u8?key=txiptv
-公共新闻,http://58.51.111.46:1111/tsfile/live/1034_1.m3u8?key=txiptv
+湖北公共新闻,http://119.98.143.106:4022/rtp/239.69.1.40:9880
+湖北经视,http://119.98.143.106:4022/rtp/239.69.1.41:9886
+湖北综合,http://119.98.143.106:4022/rtp/239.69.1.42:9892
+湖北垄上,http://119.98.143.106:4022/rtp/239.69.1.43:9898
+湖北影视,http://119.98.143.106:4022/rtp/239.69.1.204:10866
+湖北生活,http://119.98.143.106:4022/rtp/239.69.1.205:10872
+湖北教育,http://119.98.143.106:4022/rtp/239.69.1.206:10878
 
 
 
