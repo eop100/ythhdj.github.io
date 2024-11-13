@@ -749,38 +749,6 @@ http://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
 #EXTINF:-1 tvg-name="神州新聞台" tvg-logo="https://live.fanmingming.com/tv/神州新聞台.png" group-title="𝔸𝕂𝕋𝕍频道",神州新聞台
 http://aktv.top/AKTV/live/aktv3/null-1/AKTV.m3u8
-#EXTINF:-1 tvg-name="iHOT精彩影视" tvg-logo="https://live.fanmingming.com/tv/iHOT精彩影视.png" group-title="爱系列ᵛ𝟰",iHOT精彩影视
-http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000063
-#EXTINF:-1 tvg-name="iHOT爱谍战" tvg-logo="https://live.fanmingming.com/tv/iHOT爱谍战.png" group-title="爱系列ᵛ𝟰",iHOT爱谍战
-http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000038
-#EXTINF:-1 tvg-name="iHOT爱动漫" tvg-logo="https://live.fanmingming.com/tv/iHOT爱动漫.png" group-title="爱系列ᵛ𝟰",iHOT爱动漫
-http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000059
-#EXTINF:-1 tvg-name="iHOT爱科幻" tvg-logo="https://live.fanmingming.com/tv/iHOT爱科幻.png" group-title="爱系列ᵛ𝟰",iHOT爱科幻
-http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000033
-#EXTINF:-1 tvg-name="iHOT爱科学" tvg-logo="https://live.fanmingming.com/tv/iHOT爱科学.png" group-title="爱系列ᵛ𝟰",iHOT爱科学
-http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000047
-#EXTINF:-1 tvg-name="iHOT爱浪漫" tvg-logo="https://live.fanmingming.com/tv/iHOT爱浪漫.png" group-title="爱系列ᵛ𝟰",iHOT爱浪漫
-http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000035
-#EXTINF:-1 tvg-name="iHOT爱历史" tvg-logo="https://live.fanmingming.com/tv/iHOT爱历史.png" group-title="爱系列ᵛ𝟰",iHOT爱历史
-http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000046
-#EXTINF:-1 tvg-name="iHOT爱旅行" tvg-logo="https://live.fanmingming.com/tv/iHOT爱旅行.png" group-title="爱系列ᵛ𝟰",iHOT爱旅行
-http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000056
-#EXTINF:-1 tvg-name="iHOT爱奇谈" tvg-logo="https://live.fanmingming.com/tv/iHOT爱奇谈.png" group-title="爱系列ᵛ𝟰",iHOT爱奇谈
-http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000058
-#EXTINF:-1 tvg-name="iHOT爱赛车" tvg-logo="https://live.fanmingming.com/tv/iHOT爱赛车.png" group-title="爱系列ᵛ𝟰",iHOT爱赛车
-http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000055
-#EXTINF:-1 tvg-name="iHOT爱体育" tvg-logo="https://live.fanmingming.com/tv/iHOT爱体育.png" group-title="爱系列ᵛ𝟰",iHOT爱体育
-http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000060
-#EXTINF:-1 tvg-name="iHOT爱玩具" tvg-logo="https://live.fanmingming.com/tv/iHOT爱玩具.png" group-title="爱系列ᵛ𝟰",iHOT爱玩具
-http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000053
-#EXTINF:-1 tvg-name="iHOT爱喜剧" tvg-logo="https://live.fanmingming.com/tv/iHOT爱喜剧.png" group-title="爱系列ᵛ𝟰",iHOT爱喜剧
-http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000032
-#EXTINF:-1 tvg-name="iHOT爱悬疑" tvg-logo="https://live.fanmingming.com/tv/iHOT爱悬疑.png" group-title="爱系列ᵛ𝟰",iHOT爱悬疑
-http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000036
-#EXTINF:-1 tvg-name="iHOT爱幼教" tvg-logo="https://live.fanmingming.com/tv/iHOT爱幼教.png" group-title="爱系列ᵛ𝟰",iHOT爱幼教
-http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000049
-#EXTINF:-1 tvg-name="iHOT爱院线" tvg-logo="https://live.fanmingming.com/tv/iHOT爱院线.png" group-title="爱系列ᵛ𝟰",iHOT爱院线
-http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000034
 #EXTINF:-1 tvg-name="浙江钱江" tvg-logo="https://live.fanmingming.com/tv/浙江钱江.png" group-title="浙江频道ᵛ𝟰",浙江钱江
 http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 #EXTINF:-1 tvg-name="浙江新闻" tvg-logo="https://live.fanmingming.com/tv/浙江新闻.png" group-title="浙江频道ᵛ𝟰",浙江新闻
