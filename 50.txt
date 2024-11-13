@@ -219,7 +219,6 @@ CHC精彩影院,http://111.8.242.151:9902/tsfile/live/1072_1.m3u8?key=tx111.8.24
 澳门卫视,http://61.244.22.5/ch3/ch3.live/chunklist_w1228316132.m3u8
 
 NHTV,http://nonghyup.flive.skcdn.com/nonghyup/_definst_/nhlive/playlist.m3u8
-香港面包频道,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 重温经典频道,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 NHK新闻频英,http://61.221.215.25:8800/hls/51/index.m3u8
 tvbs闽南频特,http://61.221.215.25:8800/hls/9/index.m3u8
@@ -375,7 +374,6 @@ CCTV-2,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000502
 CCTV-3,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000003
 CCTV-4,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000503
 CCTV-5,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000005
-CCTV-5+,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000102
 CCTV-5+,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000507
 CCTV-6,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000006
 CCTV-7,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000504
@@ -480,6 +478,7 @@ CCTN6,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000088
 TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
 HOY TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
+精品体育,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000102
 
 
 
