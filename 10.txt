@@ -703,7 +703,7 @@ iHOT爱院线,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=200000000400
 
 
 
-jd央卫频,#genre#
+央视频道𝓲ₚᵛ𝟰,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000001
 CCTV-1,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000501
 CCTV-2,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000502
@@ -733,6 +733,7 @@ CCTN3,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000085
 CCTN4,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000086
 CCTN5,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000087
 CCTN6,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000088
+卫视频道𝓲ₚᵛ𝟰,#genre#
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 甘肃卫视,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000023
@@ -819,7 +820,7 @@ VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 
 
 
-api央卫频,#genre#
+咪咕线路𝓲ₚᵛ𝟰,#genre#
 CCTV1 综合,https://api.livednow.org/migu/608807420?sign=gAAAAABnJcJqONXJva4TySqKVwkHLHby6Ne_WRDndhTk_GS6KA-nBZI-nPc8RaYfnLJYnZOi1_gpZX90FSquN6BF0XzcOnsBN41Kfi9k-GihR8VqmFvGDaU3-w7RPpKH_jQp1rc5eqRkG97TL1ZanN0d0KISy_vT_x2wMEchVQyRwJVbcr-5Q8MDl1WIvSdo9b0tlPwCujaaYIRxzFT-4iEr-NoUcuO0hw%3D%3D
 CCTV2 财经,https://api.livednow.org/migu/631780532?sign=gAAAAABnJcJqr0fwyjCRZenumPiYq29AgCGZbexK2XyM9exSQfwePDL4rwLxMaYmUy5BI5tmZ3p5Opg3XGESQyj1Myyx8xlfa--CzghtRa5MzC5lgOOROQFokKNIjS1xgPhehkOToP6coFx9T1FJaYtv8R7vSMPYGiBtsqx-CdWfMNReSPjRaDJSSrjZ0WKCW5GajQiFiD1fOBTLjS-S7V-uzyIxCqKWiQ%3D%3D
 CCTV3 综艺,https://api.livednow.org/migu/624878271?sign=gAAAAABnJcJqBzuFtK_e-R8Y5zzuNWtH9dD5ErIUOw3PaGq-2cUt_ty4tVxaFlKDox0cB51jc5h1UbnYdWwVB34WOYuNc8lg2HAeZSq8eQxhLSx7-W74CNR6KtgxXvTUzW_5zsQ33PZEpqm7sIuxliL32bQtzxcIIdpid2Gub7vsNYzKJWuVjAicsjoVCenU41Q5dMi8XPDUfnmgkYYiwWzmBdMXqP4I5A%3D%3D
