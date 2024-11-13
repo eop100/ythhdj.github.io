@@ -1865,7 +1865,7 @@ CCTV-世界地理,http://120.76.248.139/live/bfgd/4200000177.m3u8
 
 
 
-小地方台𝓲ₚᵛ𝟰,#genre#
+地方台𝓲ₚᵛ𝟰,#genre#
 青田电视台,http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
 诸暨新闻综合,http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8
 松阳综合频道,http://l.cztvcloud.com/channels/lantian/SXsongyang1/720p.m3u8
