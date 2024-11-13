@@ -801,6 +801,22 @@ http://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
 #EXTINF:-1 tvg-name="神州新聞台" tvg-logo="https://live.fanmingming.com/tv/神州新聞台.png" group-title="𝔸𝕂𝕋𝕍频道",神州新聞台
 http://aktv.top/AKTV/live/aktv3/null-1/AKTV.m3u8
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="浙江频道ᵛ𝟰",浙江卫视
+http://115.230.249.10:9999/udp/233.50.201.100:5140
+#EXTINF:-1 tvg-name="浙江钱江" tvg-logo="https://live.fanmingming.com/tv/浙江钱江.png" group-title="浙江频道ᵛ𝟰",浙江钱江
+http://115.230.249.10:9999/udp/233.50.201.132:5140
+#EXTINF:-1 tvg-name="浙江生活" tvg-logo="https://live.fanmingming.com/tv/浙江生活.png" group-title="浙江频道ᵛ𝟰",浙江生活
+http://115.230.249.10:9999/udp/233.50.201.133:5140
+#EXTINF:-1 tvg-name="浙江教育" tvg-logo="https://live.fanmingming.com/tv/浙江教育.png" group-title="浙江频道ᵛ𝟰",浙江教育
+http://115.230.249.10:9999/udp/233.50.201.134:5140
+#EXTINF:-1 tvg-name="浙江民生" tvg-logo="https://live.fanmingming.com/tv/浙江民生.png" group-title="浙江频道ᵛ𝟰",浙江民生
+http://115.230.249.10:9999/udp/233.50.201.136:5140
+#EXTINF:-1 tvg-name="浙江新闻" tvg-logo="https://live.fanmingming.com/tv/浙江新闻.png" group-title="浙江频道ᵛ𝟰",浙江新闻
+http://115.230.249.10:9999/udp/233.50.201.137:5140
+#EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://live.fanmingming.com/tv/浙江少儿.png" group-title="浙江频道ᵛ𝟰",浙江少儿
+http://115.230.249.10:9999/udp/233.50.201.138:5140
+#EXTINF:-1 tvg-name="浙江纪录" tvg-logo="https://live.fanmingming.com/tv/浙江纪录.png" group-title="浙江频道ᵛ𝟰",浙江纪录
+http://115.230.249.10:9999/udp/233.50.202.25:5140
 #EXTINF:-1 tvg-name="浙江钱江" tvg-logo="https://live.fanmingming.com/tv/浙江钱江.png" group-title="浙江频道ᵛ𝟰",浙江钱江
 http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 #EXTINF:-1 tvg-name="浙江新闻" tvg-logo="https://live.fanmingming.com/tv/浙江新闻.png" group-title="浙江频道ᵛ𝟰",浙江新闻
@@ -809,7 +825,7 @@ http://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 #EXTINF:-1 tvg-name="浙江教科影院" tvg-logo="https://live.fanmingming.com/tv/浙江教科影院.png" group-title="浙江频道ᵛ𝟰",浙江教科影院
 http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-#EXTINF:-1 tvg-name="浙江民生休闲" tvg-logo="https://live.fanmingming.com/tv/浙江民生休闲.png" group-title="浙江频道ᵛ𝟰",浙江民生休闲
+#EXTINF:-1 tvg-name="浙江民生" tvg-logo="https://live.fanmingming.com/tv/浙江民生.png" group-title="浙江频道ᵛ𝟰",浙江民生
 http://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 #EXTINF:-1 tvg-name="浙江经济生活" tvg-logo="https://live.fanmingming.com/tv/浙江经济生活.png" group-title="浙江频道ᵛ𝟰",浙江经济生活
 http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
@@ -3977,6 +3993,548 @@ http://cfss.cc/cdn/hy/11336587.m3u8
 http://cfss.cc/cdn/dyu/5033502.m3u8
 #EXTINF:-1 tvg-name="粤语版电影二" tvg-logo="https://live.fanmingming.com/tv/粤语版电影二.png" group-title="电影剧集",粤语版电影二
 http://cfss.cc/cdn/dyu/6566671.m3u8
+#EXTINF:-1 tvg-name="第01集" tvg-logo="https://live.fanmingming.com/tv/第01集.png" group-title="水月洞天",第01集
+https://vip.lz-cdn16.com/20230413/16840_42504175/index.m3u8
+#EXTINF:-1 tvg-name="第02集" tvg-logo="https://live.fanmingming.com/tv/第02集.png" group-title="水月洞天",第02集
+https://vip.lz-cdn16.com/20230413/16841_af4cfa1b/index.m3u8
+#EXTINF:-1 tvg-name="第03集" tvg-logo="https://live.fanmingming.com/tv/第03集.png" group-title="水月洞天",第03集
+https://vip.lz-cdn16.com/20230413/16843_767cf8bc/index.m3u8
+#EXTINF:-1 tvg-name="第04集" tvg-logo="https://live.fanmingming.com/tv/第04集.png" group-title="水月洞天",第04集
+https://vip.lz-cdn16.com/20230413/16845_62ae01ea/index.m3u8
+#EXTINF:-1 tvg-name="第05集" tvg-logo="https://live.fanmingming.com/tv/第05集.png" group-title="水月洞天",第05集
+https://vip.lz-cdn16.com/20230413/16842_5ca077ad/index.m3u8
+#EXTINF:-1 tvg-name="第06集" tvg-logo="https://live.fanmingming.com/tv/第06集.png" group-title="水月洞天",第06集
+https://vip.lz-cdn16.com/20230413/16844_5bef07ea/index.m3u8
+#EXTINF:-1 tvg-name="第07集" tvg-logo="https://live.fanmingming.com/tv/第07集.png" group-title="水月洞天",第07集
+https://vip.lz-cdn16.com/20230413/16847_c4f3f149/index.m3u8
+#EXTINF:-1 tvg-name="第08集" tvg-logo="https://live.fanmingming.com/tv/第08集.png" group-title="水月洞天",第08集
+https://vip.lz-cdn16.com/20230413/16846_085087a8/index.m3u8
+#EXTINF:-1 tvg-name="第09集" tvg-logo="https://live.fanmingming.com/tv/第09集.png" group-title="水月洞天",第09集
+https://vip.lz-cdn16.com/20230413/16848_b6588f18/index.m3u8
+#EXTINF:-1 tvg-name="第10集" tvg-logo="https://live.fanmingming.com/tv/第10集.png" group-title="水月洞天",第10集
+https://vip.lz-cdn16.com/20230413/16849_505b01a4/index.m3u8
+#EXTINF:-1 tvg-name="第11集" tvg-logo="https://live.fanmingming.com/tv/第11集.png" group-title="水月洞天",第11集
+https://vip.lz-cdn16.com/20230413/16851_36fecef9/index.m3u8
+#EXTINF:-1 tvg-name="第12集" tvg-logo="https://live.fanmingming.com/tv/第12集.png" group-title="水月洞天",第12集
+https://vip.lz-cdn16.com/20230413/16850_a995c7cd/index.m3u8
+#EXTINF:-1 tvg-name="第13集" tvg-logo="https://live.fanmingming.com/tv/第13集.png" group-title="水月洞天",第13集
+https://vip.lz-cdn16.com/20230413/16852_4fdf844d/index.m3u8
+#EXTINF:-1 tvg-name="第14集" tvg-logo="https://live.fanmingming.com/tv/第14集.png" group-title="水月洞天",第14集
+https://vip.lz-cdn16.com/20230413/16853_d8cbfa91/index.m3u8
+#EXTINF:-1 tvg-name="第15集" tvg-logo="https://live.fanmingming.com/tv/第15集.png" group-title="水月洞天",第15集
+https://vip.lz-cdn16.com/20230413/16854_8bd0daad/index.m3u8
+#EXTINF:-1 tvg-name="第16集" tvg-logo="https://live.fanmingming.com/tv/第16集.png" group-title="水月洞天",第16集
+https://vip.lz-cdn16.com/20230413/16855_4a21c924/index.m3u8
+#EXTINF:-1 tvg-name="第17集" tvg-logo="https://live.fanmingming.com/tv/第17集.png" group-title="水月洞天",第17集
+https://vip.lz-cdn16.com/20230413/16856_e99b6177/index.m3u8
+#EXTINF:-1 tvg-name="第18集" tvg-logo="https://live.fanmingming.com/tv/第18集.png" group-title="水月洞天",第18集
+https://vip.lz-cdn16.com/20230413/16857_9fc89db0/index.m3u8
+#EXTINF:-1 tvg-name="第19集" tvg-logo="https://live.fanmingming.com/tv/第19集.png" group-title="水月洞天",第19集
+https://vip.lz-cdn16.com/20230413/16858_d611557a/index.m3u8
+#EXTINF:-1 tvg-name="第20集" tvg-logo="https://live.fanmingming.com/tv/第20集.png" group-title="水月洞天",第20集
+https://vip.lz-cdn16.com/20230413/16859_189ebb28/index.m3u8
+#EXTINF:-1 tvg-name="第21集" tvg-logo="https://live.fanmingming.com/tv/第21集.png" group-title="水月洞天",第21集
+https://vip.lz-cdn16.com/20230413/16860_24f8b38b/index.m3u8
+#EXTINF:-1 tvg-name="第22集" tvg-logo="https://live.fanmingming.com/tv/第22集.png" group-title="水月洞天",第22集
+https://vip.lz-cdn16.com/20230413/16861_0aee273b/index.m3u8
+#EXTINF:-1 tvg-name="第23集" tvg-logo="https://live.fanmingming.com/tv/第23集.png" group-title="水月洞天",第23集
+https://vip.lz-cdn16.com/20230413/16862_13167180/index.m3u8
+#EXTINF:-1 tvg-name="第24集" tvg-logo="https://live.fanmingming.com/tv/第24集.png" group-title="水月洞天",第24集
+https://vip.lz-cdn16.com/20230413/16863_ee1b20ec/index.m3u8
+#EXTINF:-1 tvg-name="第25集" tvg-logo="https://live.fanmingming.com/tv/第25集.png" group-title="水月洞天",第25集
+https://vip.lz-cdn16.com/20230413/16864_341e25ed/index.m3u8
+#EXTINF:-1 tvg-name="第26集" tvg-logo="https://live.fanmingming.com/tv/第26集.png" group-title="水月洞天",第26集
+https://vip.lz-cdn16.com/20230413/16866_7b24c034/index.m3u8
+#EXTINF:-1 tvg-name="第27集" tvg-logo="https://live.fanmingming.com/tv/第27集.png" group-title="水月洞天",第27集
+https://vip.lz-cdn16.com/20230413/16865_39d83414/index.m3u8
+#EXTINF:-1 tvg-name="第28集" tvg-logo="https://live.fanmingming.com/tv/第28集.png" group-title="水月洞天",第28集
+https://vip.lz-cdn16.com/20230413/16867_d5b60c61/index.m3u8
+#EXTINF:-1 tvg-name="第29集" tvg-logo="https://live.fanmingming.com/tv/第29集.png" group-title="水月洞天",第29集
+https://vip.lz-cdn16.com/20230413/16871_b2e4901b/index.m3u8
+#EXTINF:-1 tvg-name="第30集" tvg-logo="https://live.fanmingming.com/tv/第30集.png" group-title="水月洞天",第30集
+https://vip.lz-cdn16.com/20230413/16869_4fda0398/index.m3u8
+#EXTINF:-1 tvg-name="第01集" tvg-logo="https://live.fanmingming.com/tv/第01集.png" group-title="灵镜传奇",第01集
+https://vip.lz-cdn16.com/20230413/16737_6000636c/index.m3u8
+#EXTINF:-1 tvg-name="第02集" tvg-logo="https://live.fanmingming.com/tv/第02集.png" group-title="灵镜传奇",第02集
+https://vip.lz-cdn16.com/20230413/16740_8b040bf1/index.m3u8
+#EXTINF:-1 tvg-name="第03集" tvg-logo="https://live.fanmingming.com/tv/第03集.png" group-title="灵镜传奇",第03集
+https://vip.lz-cdn16.com/20230413/16738_f316523a/index.m3u8
+#EXTINF:-1 tvg-name="第04集" tvg-logo="https://live.fanmingming.com/tv/第04集.png" group-title="灵镜传奇",第04集
+https://vip.lz-cdn16.com/20230413/16742_8bf8ede5/index.m3u8
+#EXTINF:-1 tvg-name="第05集" tvg-logo="https://live.fanmingming.com/tv/第05集.png" group-title="灵镜传奇",第05集
+https://vip.lz-cdn16.com/20230413/16741_c50de8fe/index.m3u8
+#EXTINF:-1 tvg-name="第06集" tvg-logo="https://live.fanmingming.com/tv/第06集.png" group-title="灵镜传奇",第06集
+https://vip.lz-cdn16.com/20230413/16745_3cdc249b/index.m3u8
+#EXTINF:-1 tvg-name="第07集" tvg-logo="https://live.fanmingming.com/tv/第07集.png" group-title="灵镜传奇",第07集
+https://vip.lz-cdn16.com/20230413/16743_3bff9c8f/index.m3u8
+#EXTINF:-1 tvg-name="第08集" tvg-logo="https://live.fanmingming.com/tv/第08集.png" group-title="灵镜传奇",第08集
+https://vip.lz-cdn16.com/20230413/16744_8285e869/index.m3u8
+#EXTINF:-1 tvg-name="第09集" tvg-logo="https://live.fanmingming.com/tv/第09集.png" group-title="灵镜传奇",第09集
+https://vip.lz-cdn16.com/20230413/16746_0648fc43/index.m3u8
+#EXTINF:-1 tvg-name="第10集" tvg-logo="https://live.fanmingming.com/tv/第10集.png" group-title="灵镜传奇",第10集
+https://vip.lz-cdn16.com/20230413/16748_3c859b07/index.m3u8
+#EXTINF:-1 tvg-name="第11集" tvg-logo="https://live.fanmingming.com/tv/第11集.png" group-title="灵镜传奇",第11集
+https://vip.lz-cdn16.com/20230413/16749_e45ffb32/index.m3u8
+#EXTINF:-1 tvg-name="第12集" tvg-logo="https://live.fanmingming.com/tv/第12集.png" group-title="灵镜传奇",第12集
+https://vip.lz-cdn16.com/20230413/16747_54753c80/index.m3u8
+#EXTINF:-1 tvg-name="第13集" tvg-logo="https://live.fanmingming.com/tv/第13集.png" group-title="灵镜传奇",第13集
+https://vip.lz-cdn16.com/20230413/16750_9896f39c/index.m3u8
+#EXTINF:-1 tvg-name="第14集" tvg-logo="https://live.fanmingming.com/tv/第14集.png" group-title="灵镜传奇",第14集
+https://vip.lz-cdn16.com/20230413/16752_21b4b8e0/index.m3u8
+#EXTINF:-1 tvg-name="第15集" tvg-logo="https://live.fanmingming.com/tv/第15集.png" group-title="灵镜传奇",第15集
+https://vip.lz-cdn16.com/20230413/16751_cb14476c/index.m3u8
+#EXTINF:-1 tvg-name="第16集" tvg-logo="https://live.fanmingming.com/tv/第16集.png" group-title="灵镜传奇",第16集
+https://vip.lz-cdn16.com/20230413/16753_f8270cd1/index.m3u8
+#EXTINF:-1 tvg-name="第17集" tvg-logo="https://live.fanmingming.com/tv/第17集.png" group-title="灵镜传奇",第17集
+https://vip.lz-cdn16.com/20230413/16754_26ef7969/index.m3u8
+#EXTINF:-1 tvg-name="第18集" tvg-logo="https://live.fanmingming.com/tv/第18集.png" group-title="灵镜传奇",第18集
+https://vip.lz-cdn16.com/20230413/16756_cf58f896/index.m3u8
+#EXTINF:-1 tvg-name="第19集" tvg-logo="https://live.fanmingming.com/tv/第19集.png" group-title="灵镜传奇",第19集
+https://vip.lz-cdn16.com/20230413/16758_b49d5a51/index.m3u8
+#EXTINF:-1 tvg-name="第20集" tvg-logo="https://live.fanmingming.com/tv/第20集.png" group-title="灵镜传奇",第20集
+https://vip.lz-cdn16.com/20230413/16755_e7d003da/index.m3u8
+#EXTINF:-1 tvg-name="第21集" tvg-logo="https://live.fanmingming.com/tv/第21集.png" group-title="灵镜传奇",第21集
+https://vip.lz-cdn16.com/20230413/16760_7781c60f/index.m3u8
+#EXTINF:-1 tvg-name="第22集" tvg-logo="https://live.fanmingming.com/tv/第22集.png" group-title="灵镜传奇",第22集
+https://vip.lz-cdn16.com/20230413/16757_67161d55/index.m3u8
+#EXTINF:-1 tvg-name="第23集" tvg-logo="https://live.fanmingming.com/tv/第23集.png" group-title="灵镜传奇",第23集
+https://vip.lz-cdn16.com/20230413/16762_9c47cab0/index.m3u8
+#EXTINF:-1 tvg-name="第24集" tvg-logo="https://live.fanmingming.com/tv/第24集.png" group-title="灵镜传奇",第24集
+https://vip.lz-cdn16.com/20230413/16759_321a75ec/index.m3u8
+#EXTINF:-1 tvg-name="第25集" tvg-logo="https://live.fanmingming.com/tv/第25集.png" group-title="灵镜传奇",第25集
+https://vip.lz-cdn16.com/20230413/16761_b45005b8/index.m3u8
+#EXTINF:-1 tvg-name="第26集" tvg-logo="https://live.fanmingming.com/tv/第26集.png" group-title="灵镜传奇",第26集
+https://vip.lz-cdn16.com/20230413/16763_c4374a9e/index.m3u8
+#EXTINF:-1 tvg-name="第27集" tvg-logo="https://live.fanmingming.com/tv/第27集.png" group-title="灵镜传奇",第27集
+https://vip.lz-cdn16.com/20230413/16764_c0b552ab/index.m3u8
+#EXTINF:-1 tvg-name="第28集" tvg-logo="https://live.fanmingming.com/tv/第28集.png" group-title="灵镜传奇",第28集
+https://vip.lz-cdn16.com/20230413/16765_4f6bc40a/index.m3u8
+#EXTINF:-1 tvg-name="第29集" tvg-logo="https://live.fanmingming.com/tv/第29集.png" group-title="灵镜传奇",第29集
+https://vip.lz-cdn16.com/20230413/16766_387df44d/index.m3u8
+#EXTINF:-1 tvg-name="第30集" tvg-logo="https://live.fanmingming.com/tv/第30集.png" group-title="灵镜传奇",第30集
+https://vip.lz-cdn16.com/20230413/16768_824669e3/index.m3u8
+#EXTINF:-1 tvg-name="第01集" tvg-logo="https://live.fanmingming.com/tv/第01集.png" group-title="天龙八部",第01集
+https://vip1.lz-cdn6.com/20220414/3860_91167f57/index.m3u8
+#EXTINF:-1 tvg-name="第02集" tvg-logo="https://live.fanmingming.com/tv/第02集.png" group-title="天龙八部",第02集
+https://vip1.lz-cdn6.com/20220414/3861_868da890/index.m3u8
+#EXTINF:-1 tvg-name="第03集" tvg-logo="https://live.fanmingming.com/tv/第03集.png" group-title="天龙八部",第03集
+https://vip1.lz-cdn6.com/20220414/3862_73e721b6/index.m3u8
+#EXTINF:-1 tvg-name="第04集" tvg-logo="https://live.fanmingming.com/tv/第04集.png" group-title="天龙八部",第04集
+https://vip1.lz-cdn6.com/20220414/3864_d9bde387/index.m3u8
+#EXTINF:-1 tvg-name="第05集" tvg-logo="https://live.fanmingming.com/tv/第05集.png" group-title="天龙八部",第05集
+https://vip1.lz-cdn6.com/20220414/3863_dc4e103a/index.m3u8
+#EXTINF:-1 tvg-name="第06集" tvg-logo="https://live.fanmingming.com/tv/第06集.png" group-title="天龙八部",第06集
+https://vip1.lz-cdn6.com/20220414/3867_4b7301fb/index.m3u8
+#EXTINF:-1 tvg-name="第07集" tvg-logo="https://live.fanmingming.com/tv/第07集.png" group-title="天龙八部",第07集
+https://vip1.lz-cdn6.com/20220414/3865_0040a6b3/index.m3u8
+#EXTINF:-1 tvg-name="第08集" tvg-logo="https://live.fanmingming.com/tv/第08集.png" group-title="天龙八部",第08集
+https://vip1.lz-cdn6.com/20220414/3866_e3dd4a2d/index.m3u8
+#EXTINF:-1 tvg-name="第09集" tvg-logo="https://live.fanmingming.com/tv/第09集.png" group-title="天龙八部",第09集
+https://vip1.lz-cdn6.com/20220414/3869_69eab267/index.m3u8
+#EXTINF:-1 tvg-name="第10集" tvg-logo="https://live.fanmingming.com/tv/第10集.png" group-title="天龙八部",第10集
+https://vip1.lz-cdn6.com/20220414/3868_5f3c41ae/index.m3u8
+#EXTINF:-1 tvg-name="第11集" tvg-logo="https://live.fanmingming.com/tv/第11集.png" group-title="天龙八部",第11集
+https://vip1.lz-cdn6.com/20220414/3870_6ce384bf/index.m3u8
+#EXTINF:-1 tvg-name="第12集" tvg-logo="https://live.fanmingming.com/tv/第12集.png" group-title="天龙八部",第12集
+https://vip1.lz-cdn6.com/20220414/3871_e4aab21b/index.m3u8
+#EXTINF:-1 tvg-name="第13集" tvg-logo="https://live.fanmingming.com/tv/第13集.png" group-title="天龙八部",第13集
+https://vip1.lz-cdn6.com/20220414/3872_bc329d6f/index.m3u8
+#EXTINF:-1 tvg-name="第14集" tvg-logo="https://live.fanmingming.com/tv/第14集.png" group-title="天龙八部",第14集
+https://vip1.lz-cdn6.com/20220414/3873_a4c161cb/index.m3u8
+#EXTINF:-1 tvg-name="第15集" tvg-logo="https://live.fanmingming.com/tv/第15集.png" group-title="天龙八部",第15集
+https://vip1.lz-cdn6.com/20220414/3874_2ce79a56/index.m3u8
+#EXTINF:-1 tvg-name="第16集" tvg-logo="https://live.fanmingming.com/tv/第16集.png" group-title="天龙八部",第16集
+https://vip1.lz-cdn6.com/20220414/3876_9a45fe9c/index.m3u8
+#EXTINF:-1 tvg-name="第17集" tvg-logo="https://live.fanmingming.com/tv/第17集.png" group-title="天龙八部",第17集
+https://vip1.lz-cdn6.com/20220414/3875_bc2e71dd/index.m3u8
+#EXTINF:-1 tvg-name="第18集" tvg-logo="https://live.fanmingming.com/tv/第18集.png" group-title="天龙八部",第18集
+https://vip1.lz-cdn6.com/20220414/4058_a87c7205/index.m3u8
+#EXTINF:-1 tvg-name="第19集" tvg-logo="https://live.fanmingming.com/tv/第19集.png" group-title="天龙八部",第19集
+https://vip1.lz-cdn6.com/20220414/3877_e132daf0/index.m3u8
+#EXTINF:-1 tvg-name="第20集" tvg-logo="https://live.fanmingming.com/tv/第20集.png" group-title="天龙八部",第20集
+https://vip1.lz-cdn6.com/20220414/3878_071a1d9f/index.m3u8
+#EXTINF:-1 tvg-name="第21集" tvg-logo="https://live.fanmingming.com/tv/第21集.png" group-title="天龙八部",第21集
+https://vip1.lz-cdn6.com/20220414/3879_ad03aec9/index.m3u8
+#EXTINF:-1 tvg-name="第22集" tvg-logo="https://live.fanmingming.com/tv/第22集.png" group-title="天龙八部",第22集
+https://vip1.lz-cdn6.com/20220414/3880_5dcaa2e9/index.m3u8
+#EXTINF:-1 tvg-name="第23集" tvg-logo="https://live.fanmingming.com/tv/第23集.png" group-title="天龙八部",第23集
+https://vip1.lz-cdn6.com/20220414/3881_de62fea3/index.m3u8
+#EXTINF:-1 tvg-name="第24集" tvg-logo="https://live.fanmingming.com/tv/第24集.png" group-title="天龙八部",第24集
+https://vip1.lz-cdn6.com/20220414/3882_3071ca77/index.m3u8
+#EXTINF:-1 tvg-name="第25集" tvg-logo="https://live.fanmingming.com/tv/第25集.png" group-title="天龙八部",第25集
+https://vip1.lz-cdn6.com/20220414/3883_2f086009/index.m3u8
+#EXTINF:-1 tvg-name="第26集" tvg-logo="https://live.fanmingming.com/tv/第26集.png" group-title="天龙八部",第26集
+https://vip1.lz-cdn6.com/20220414/3884_2be2f894/index.m3u8
+#EXTINF:-1 tvg-name="第27集" tvg-logo="https://live.fanmingming.com/tv/第27集.png" group-title="天龙八部",第27集
+https://vip1.lz-cdn6.com/20220414/3885_21af5418/index.m3u8
+#EXTINF:-1 tvg-name="第28集" tvg-logo="https://live.fanmingming.com/tv/第28集.png" group-title="天龙八部",第28集
+https://vip1.lz-cdn6.com/20220414/3886_6ca2e32d/index.m3u8
+#EXTINF:-1 tvg-name="第29集" tvg-logo="https://live.fanmingming.com/tv/第29集.png" group-title="天龙八部",第29集
+https://vip1.lz-cdn6.com/20220414/3887_c5b85297/index.m3u8
+#EXTINF:-1 tvg-name="第30集" tvg-logo="https://live.fanmingming.com/tv/第30集.png" group-title="天龙八部",第30集
+https://vip1.lz-cdn6.com/20220414/3888_b5839ab7/index.m3u8
+#EXTINF:-1 tvg-name="第31集" tvg-logo="https://live.fanmingming.com/tv/第31集.png" group-title="天龙八部",第31集
+https://vip1.lz-cdn6.com/20220414/3889_338b06c8/index.m3u8
+#EXTINF:-1 tvg-name="第32集" tvg-logo="https://live.fanmingming.com/tv/第32集.png" group-title="天龙八部",第32集
+https://vip1.lz-cdn6.com/20220414/3890_7965f90d/index.m3u8
+#EXTINF:-1 tvg-name="第33集" tvg-logo="https://live.fanmingming.com/tv/第33集.png" group-title="天龙八部",第33集
+https://vip1.lz-cdn6.com/20220414/3891_a9a744d6/index.m3u8
+#EXTINF:-1 tvg-name="第34集" tvg-logo="https://live.fanmingming.com/tv/第34集.png" group-title="天龙八部",第34集
+https://vip1.lz-cdn6.com/20220414/3892_d4a8ba23/index.m3u8
+#EXTINF:-1 tvg-name="第35集" tvg-logo="https://live.fanmingming.com/tv/第35集.png" group-title="天龙八部",第35集
+https://vip1.lz-cdn6.com/20220414/3893_d61618c3/index.m3u8
+#EXTINF:-1 tvg-name="第36集" tvg-logo="https://live.fanmingming.com/tv/第36集.png" group-title="天龙八部",第36集
+https://vip1.lz-cdn6.com/20220414/3894_15f4a34c/index.m3u8
+#EXTINF:-1 tvg-name="第37集" tvg-logo="https://live.fanmingming.com/tv/第37集.png" group-title="天龙八部",第37集
+https://vip1.lz-cdn6.com/20220414/3895_9124e354/index.m3u8
+#EXTINF:-1 tvg-name="第38集" tvg-logo="https://live.fanmingming.com/tv/第38集.png" group-title="天龙八部",第38集
+https://vip1.lz-cdn6.com/20220414/3896_889282ef/index.m3u8
+#EXTINF:-1 tvg-name="第39集" tvg-logo="https://live.fanmingming.com/tv/第39集.png" group-title="天龙八部",第39集
+https://vip1.lz-cdn6.com/20220414/3897_56b0049d/index.m3u8
+#EXTINF:-1 tvg-name="第40集" tvg-logo="https://live.fanmingming.com/tv/第40集.png" group-title="天龙八部",第40集
+https://vip1.lz-cdn6.com/20220414/3898_b367a102/index.m3u8
+#EXTINF:-1 tvg-name="第41集" tvg-logo="https://live.fanmingming.com/tv/第41集.png" group-title="天龙八部",第41集
+https://vip1.lz-cdn6.com/20220414/3899_96cb4782/index.m3u8
+#EXTINF:-1 tvg-name="第42集" tvg-logo="https://live.fanmingming.com/tv/第42集.png" group-title="天龙八部",第42集
+https://vip1.lz-cdn6.com/20220414/3900_f4fcdcfe/index.m3u8
+#EXTINF:-1 tvg-name="第43集" tvg-logo="https://live.fanmingming.com/tv/第43集.png" group-title="天龙八部",第43集
+https://vip1.lz-cdn6.com/20220414/3901_37775470/index.m3u8
+#EXTINF:-1 tvg-name="第44集" tvg-logo="https://live.fanmingming.com/tv/第44集.png" group-title="天龙八部",第44集
+https://vip1.lz-cdn6.com/20220414/3902_e4666dc2/index.m3u8
+#EXTINF:-1 tvg-name="第45集" tvg-logo="https://live.fanmingming.com/tv/第45集.png" group-title="天龙八部",第45集
+https://vip1.lz-cdn6.com/20220414/3903_34515f50/index.m3u8
+#EXTINF:-1 tvg-name="第一部第01集" tvg-logo="https://live.fanmingming.com/tv/第一部第01集.png" group-title="我和僵尸有个约会",第一部第01集
+https://vip1.lz-cdn.com/20220806/27490_975d6ae4/index.m3u8
+#EXTINF:-1 tvg-name="第02集" tvg-logo="https://live.fanmingming.com/tv/第02集.png" group-title="我和僵尸有个约会",第02集
+https://vip1.lz-cdn.com/20220806/27491_cac0b2ba/index.m3u8
+#EXTINF:-1 tvg-name="第03集" tvg-logo="https://live.fanmingming.com/tv/第03集.png" group-title="我和僵尸有个约会",第03集
+https://vip1.lz-cdn.com/20220806/27492_8ee4724d/index.m3u8
+#EXTINF:-1 tvg-name="第04集" tvg-logo="https://live.fanmingming.com/tv/第04集.png" group-title="我和僵尸有个约会",第04集
+https://vip1.lz-cdn.com/20220806/27493_c071ba76/index.m3u8
+#EXTINF:-1 tvg-name="第05集" tvg-logo="https://live.fanmingming.com/tv/第05集.png" group-title="我和僵尸有个约会",第05集
+https://vip1.lz-cdn.com/20220806/27494_0c2616e2/index.m3u8
+#EXTINF:-1 tvg-name="第06集" tvg-logo="https://live.fanmingming.com/tv/第06集.png" group-title="我和僵尸有个约会",第06集
+https://vip1.lz-cdn.com/20220806/27495_bf3176a5/index.m3u8
+#EXTINF:-1 tvg-name="第07集" tvg-logo="https://live.fanmingming.com/tv/第07集.png" group-title="我和僵尸有个约会",第07集
+https://vip1.lz-cdn.com/20220806/27496_74495582/index.m3u8
+#EXTINF:-1 tvg-name="第08集" tvg-logo="https://live.fanmingming.com/tv/第08集.png" group-title="我和僵尸有个约会",第08集
+https://vip1.lz-cdn.com/20220806/27497_8bf6c849/index.m3u8
+#EXTINF:-1 tvg-name="第09集" tvg-logo="https://live.fanmingming.com/tv/第09集.png" group-title="我和僵尸有个约会",第09集
+https://vip1.lz-cdn.com/20220806/27498_4d795612/index.m3u8
+#EXTINF:-1 tvg-name="第10集" tvg-logo="https://live.fanmingming.com/tv/第10集.png" group-title="我和僵尸有个约会",第10集
+https://vip1.lz-cdn.com/20220806/27499_f1d9ff7b/index.m3u8
+#EXTINF:-1 tvg-name="第11集" tvg-logo="https://live.fanmingming.com/tv/第11集.png" group-title="我和僵尸有个约会",第11集
+https://vip1.lz-cdn.com/20220806/27500_6b4d77b6/index.m3u8
+#EXTINF:-1 tvg-name="第12集" tvg-logo="https://live.fanmingming.com/tv/第12集.png" group-title="我和僵尸有个约会",第12集
+https://vip1.lz-cdn.com/20220806/27501_b552fdbd/index.m3u8
+#EXTINF:-1 tvg-name="第13集" tvg-logo="https://live.fanmingming.com/tv/第13集.png" group-title="我和僵尸有个约会",第13集
+https://vip1.lz-cdn.com/20220806/27502_ec799257/index.m3u8
+#EXTINF:-1 tvg-name="第14集" tvg-logo="https://live.fanmingming.com/tv/第14集.png" group-title="我和僵尸有个约会",第14集
+https://vip1.lz-cdn.com/20220806/27503_b912d599/index.m3u8
+#EXTINF:-1 tvg-name="第15集" tvg-logo="https://live.fanmingming.com/tv/第15集.png" group-title="我和僵尸有个约会",第15集
+https://vip1.lz-cdn.com/20220806/27504_0121b40c/index.m3u8
+#EXTINF:-1 tvg-name="第16集" tvg-logo="https://live.fanmingming.com/tv/第16集.png" group-title="我和僵尸有个约会",第16集
+https://vip1.lz-cdn.com/20220806/27505_8c51258d/index.m3u8
+#EXTINF:-1 tvg-name="第17集" tvg-logo="https://live.fanmingming.com/tv/第17集.png" group-title="我和僵尸有个约会",第17集
+https://vip1.lz-cdn.com/20220806/27506_b5cf8007/index.m3u8
+#EXTINF:-1 tvg-name="第18集" tvg-logo="https://live.fanmingming.com/tv/第18集.png" group-title="我和僵尸有个约会",第18集
+https://vip1.lz-cdn.com/20220806/27507_565feb6e/index.m3u8
+#EXTINF:-1 tvg-name="第19集" tvg-logo="https://live.fanmingming.com/tv/第19集.png" group-title="我和僵尸有个约会",第19集
+https://vip1.lz-cdn.com/20220806/27508_26382fbc/index.m3u8
+#EXTINF:-1 tvg-name="第20集" tvg-logo="https://live.fanmingming.com/tv/第20集.png" group-title="我和僵尸有个约会",第20集
+https://vip1.lz-cdn.com/20220806/27509_747fa233/index.m3u8
+#EXTINF:-1 tvg-name="第21集" tvg-logo="https://live.fanmingming.com/tv/第21集.png" group-title="我和僵尸有个约会",第21集
+https://vip1.lz-cdn.com/20220806/27510_53424ffb/index.m3u8
+#EXTINF:-1 tvg-name="第22集" tvg-logo="https://live.fanmingming.com/tv/第22集.png" group-title="我和僵尸有个约会",第22集
+https://vip1.lz-cdn.com/20220806/27511_4d8cb66d/index.m3u8
+#EXTINF:-1 tvg-name="第23集" tvg-logo="https://live.fanmingming.com/tv/第23集.png" group-title="我和僵尸有个约会",第23集
+https://vip1.lz-cdn.com/20220806/27512_d8985381/index.m3u8
+#EXTINF:-1 tvg-name="第24集" tvg-logo="https://live.fanmingming.com/tv/第24集.png" group-title="我和僵尸有个约会",第24集
+https://vip1.lz-cdn.com/20220806/27513_a86fba63/index.m3u8
+#EXTINF:-1 tvg-name="第25集" tvg-logo="https://live.fanmingming.com/tv/第25集.png" group-title="我和僵尸有个约会",第25集
+https://vip1.lz-cdn.com/20220806/27514_f919bd6c/index.m3u8
+#EXTINF:-1 tvg-name="第26集" tvg-logo="https://live.fanmingming.com/tv/第26集.png" group-title="我和僵尸有个约会",第26集
+https://vip1.lz-cdn.com/20220806/27515_db483f40/index.m3u8
+#EXTINF:-1 tvg-name="第27集" tvg-logo="https://live.fanmingming.com/tv/第27集.png" group-title="我和僵尸有个约会",第27集
+https://vip1.lz-cdn.com/20220806/27516_50a134de/index.m3u8
+#EXTINF:-1 tvg-name="第28集" tvg-logo="https://live.fanmingming.com/tv/第28集.png" group-title="我和僵尸有个约会",第28集
+https://vip1.lz-cdn.com/20220806/27517_12c939b7/index.m3u8
+#EXTINF:-1 tvg-name="第29集" tvg-logo="https://live.fanmingming.com/tv/第29集.png" group-title="我和僵尸有个约会",第29集
+https://vip1.lz-cdn.com/20220806/27518_859d33fd/index.m3u8
+#EXTINF:-1 tvg-name="第30集" tvg-logo="https://live.fanmingming.com/tv/第30集.png" group-title="我和僵尸有个约会",第30集
+https://vip1.lz-cdn.com/20220806/27519_84508f17/index.m3u8
+#EXTINF:-1 tvg-name="第31集" tvg-logo="https://live.fanmingming.com/tv/第31集.png" group-title="我和僵尸有个约会",第31集
+https://vip1.lz-cdn.com/20220806/27520_a9a7860b/index.m3u8
+#EXTINF:-1 tvg-name="第32集" tvg-logo="https://live.fanmingming.com/tv/第32集.png" group-title="我和僵尸有个约会",第32集
+https://vip1.lz-cdn.com/20220806/27521_34bc7cf4/index.m3u8
+#EXTINF:-1 tvg-name="第33集" tvg-logo="https://live.fanmingming.com/tv/第33集.png" group-title="我和僵尸有个约会",第33集
+https://vip1.lz-cdn.com/20220806/27522_85bff65c/index.m3u8
+#EXTINF:-1 tvg-name="第34集" tvg-logo="https://live.fanmingming.com/tv/第34集.png" group-title="我和僵尸有个约会",第34集
+https://vip1.lz-cdn.com/20220806/27523_da6ada64/index.m3u8
+#EXTINF:-1 tvg-name="第35集" tvg-logo="https://live.fanmingming.com/tv/第35集.png" group-title="我和僵尸有个约会",第35集
+https://vip1.lz-cdn.com/20220807/27718_43a77116/index.m3u8
+#EXTINF:-1 tvg-name="第二部第01集" tvg-logo="https://live.fanmingming.com/tv/第二部第01集.png" group-title="我和僵尸有个约会",第二部第01集
+https://vip1.lz-cdn.com/20220806/27560_ddf0823d/index.m3u8
+#EXTINF:-1 tvg-name="二第02集" tvg-logo="https://live.fanmingming.com/tv/二第02集.png" group-title="我和僵尸有个约会",二第02集
+https://vip1.lz-cdn.com/20220806/27561_42f8fccd/index.m3u8
+#EXTINF:-1 tvg-name="二第03集" tvg-logo="https://live.fanmingming.com/tv/二第03集.png" group-title="我和僵尸有个约会",二第03集
+https://vip1.lz-cdn.com/20220806/27562_1bdf918b/index.m3u8
+#EXTINF:-1 tvg-name="二第04集" tvg-logo="https://live.fanmingming.com/tv/二第04集.png" group-title="我和僵尸有个约会",二第04集
+https://vip1.lz-cdn.com/20220806/27563_96136d14/index.m3u8
+#EXTINF:-1 tvg-name="二第05集" tvg-logo="https://live.fanmingming.com/tv/二第05集.png" group-title="我和僵尸有个约会",二第05集
+https://vip1.lz-cdn.com/20220806/27564_94c5db96/index.m3u8
+#EXTINF:-1 tvg-name="二第06集" tvg-logo="https://live.fanmingming.com/tv/二第06集.png" group-title="我和僵尸有个约会",二第06集
+https://vip1.lz-cdn.com/20220806/27565_44c61c71/index.m3u8
+#EXTINF:-1 tvg-name="二第07集" tvg-logo="https://live.fanmingming.com/tv/二第07集.png" group-title="我和僵尸有个约会",二第07集
+https://vip1.lz-cdn.com/20220806/27566_65587066/index.m3u8
+#EXTINF:-1 tvg-name="二第08集" tvg-logo="https://live.fanmingming.com/tv/二第08集.png" group-title="我和僵尸有个约会",二第08集
+https://vip1.lz-cdn.com/20220806/27567_78442cfa/index.m3u8
+#EXTINF:-1 tvg-name="二第09集" tvg-logo="https://live.fanmingming.com/tv/二第09集.png" group-title="我和僵尸有个约会",二第09集
+https://vip1.lz-cdn.com/20220806/27568_0b1fea5b/index.m3u8
+#EXTINF:-1 tvg-name="二第10集" tvg-logo="https://live.fanmingming.com/tv/二第10集.png" group-title="我和僵尸有个约会",二第10集
+https://vip1.lz-cdn.com/20220806/27569_96cdd191/index.m3u8
+#EXTINF:-1 tvg-name="二第11集" tvg-logo="https://live.fanmingming.com/tv/二第11集.png" group-title="我和僵尸有个约会",二第11集
+https://vip1.lz-cdn.com/20220806/27570_3d666ea9/index.m3u8
+#EXTINF:-1 tvg-name="二第12集" tvg-logo="https://live.fanmingming.com/tv/二第12集.png" group-title="我和僵尸有个约会",二第12集
+https://vip1.lz-cdn.com/20220806/27571_875393d4/index.m3u8
+#EXTINF:-1 tvg-name="二第13集" tvg-logo="https://live.fanmingming.com/tv/二第13集.png" group-title="我和僵尸有个约会",二第13集
+https://vip1.lz-cdn.com/20220806/27572_09bc29dc/index.m3u8
+#EXTINF:-1 tvg-name="二第14集" tvg-logo="https://live.fanmingming.com/tv/二第14集.png" group-title="我和僵尸有个约会",二第14集
+https://vip1.lz-cdn.com/20220806/27573_0a4f2e07/index.m3u8
+#EXTINF:-1 tvg-name="二第15集" tvg-logo="https://live.fanmingming.com/tv/二第15集.png" group-title="我和僵尸有个约会",二第15集
+https://vip1.lz-cdn.com/20220806/27574_03d588b4/index.m3u8
+#EXTINF:-1 tvg-name="二第16集" tvg-logo="https://live.fanmingming.com/tv/二第16集.png" group-title="我和僵尸有个约会",二第16集
+https://vip1.lz-cdn.com/20220806/27575_b0e0439d/index.m3u8
+#EXTINF:-1 tvg-name="二第17集" tvg-logo="https://live.fanmingming.com/tv/二第17集.png" group-title="我和僵尸有个约会",二第17集
+https://vip1.lz-cdn.com/20220806/27576_e567dee3/index.m3u8
+#EXTINF:-1 tvg-name="二第18集" tvg-logo="https://live.fanmingming.com/tv/二第18集.png" group-title="我和僵尸有个约会",二第18集
+https://vip1.lz-cdn.com/20220806/27577_37d5ccc3/index.m3u8
+#EXTINF:-1 tvg-name="二第19集" tvg-logo="https://live.fanmingming.com/tv/二第19集.png" group-title="我和僵尸有个约会",二第19集
+https://vip1.lz-cdn.com/20220806/27578_9e0feca6/index.m3u8
+#EXTINF:-1 tvg-name="二第20集" tvg-logo="https://live.fanmingming.com/tv/二第20集.png" group-title="我和僵尸有个约会",二第20集
+https://vip1.lz-cdn.com/20220806/27579_954f4dcc/index.m3u8
+#EXTINF:-1 tvg-name="二第21集" tvg-logo="https://live.fanmingming.com/tv/二第21集.png" group-title="我和僵尸有个约会",二第21集
+https://vip1.lz-cdn.com/20220806/27580_102062cc/index.m3u8
+#EXTINF:-1 tvg-name="二第22集" tvg-logo="https://live.fanmingming.com/tv/二第22集.png" group-title="我和僵尸有个约会",二第22集
+https://vip1.lz-cdn.com/20220806/27581_68dddc37/index.m3u8
+#EXTINF:-1 tvg-name="二第23集" tvg-logo="https://live.fanmingming.com/tv/二第23集.png" group-title="我和僵尸有个约会",二第23集
+https://vip1.lz-cdn.com/20220806/27582_3c937725/index.m3u8
+#EXTINF:-1 tvg-name="二第24集" tvg-logo="https://live.fanmingming.com/tv/二第24集.png" group-title="我和僵尸有个约会",二第24集
+https://vip1.lz-cdn.com/20220806/27583_30546c78/index.m3u8
+#EXTINF:-1 tvg-name="二第25集" tvg-logo="https://live.fanmingming.com/tv/二第25集.png" group-title="我和僵尸有个约会",二第25集
+https://vip1.lz-cdn.com/20220806/27584_52eba5e3/index.m3u8
+#EXTINF:-1 tvg-name="二第26集" tvg-logo="https://live.fanmingming.com/tv/二第26集.png" group-title="我和僵尸有个约会",二第26集
+https://vip1.lz-cdn.com/20220806/27585_15c20f0d/index.m3u8
+#EXTINF:-1 tvg-name="二第27集" tvg-logo="https://live.fanmingming.com/tv/二第27集.png" group-title="我和僵尸有个约会",二第27集
+https://vip1.lz-cdn.com/20220806/27586_34db53c2/index.m3u8
+#EXTINF:-1 tvg-name="二第28集" tvg-logo="https://live.fanmingming.com/tv/二第28集.png" group-title="我和僵尸有个约会",二第28集
+https://vip1.lz-cdn.com/20220806/27587_5413a526/index.m3u8
+#EXTINF:-1 tvg-name="二第29集" tvg-logo="https://live.fanmingming.com/tv/二第29集.png" group-title="我和僵尸有个约会",二第29集
+https://vip1.lz-cdn.com/20220806/27588_c0b866cc/index.m3u8
+#EXTINF:-1 tvg-name="二第30集" tvg-logo="https://live.fanmingming.com/tv/二第30集.png" group-title="我和僵尸有个约会",二第30集
+https://vip1.lz-cdn.com/20220806/27589_9439a840/index.m3u8
+#EXTINF:-1 tvg-name="二第31集" tvg-logo="https://live.fanmingming.com/tv/二第31集.png" group-title="我和僵尸有个约会",二第31集
+https://vip1.lz-cdn.com/20220806/27590_3f9c9dee/index.m3u8
+#EXTINF:-1 tvg-name="二第32集" tvg-logo="https://live.fanmingming.com/tv/二第32集.png" group-title="我和僵尸有个约会",二第32集
+https://vip1.lz-cdn.com/20220806/27591_edb31963/index.m3u8
+#EXTINF:-1 tvg-name="二第33集" tvg-logo="https://live.fanmingming.com/tv/二第33集.png" group-title="我和僵尸有个约会",二第33集
+https://vip1.lz-cdn.com/20220806/27592_ce3a78f7/index.m3u8
+#EXTINF:-1 tvg-name="二第34集" tvg-logo="https://live.fanmingming.com/tv/二第34集.png" group-title="我和僵尸有个约会",二第34集
+https://vip1.lz-cdn.com/20220806/27593_ed142e79/index.m3u8
+#EXTINF:-1 tvg-name="二第35集" tvg-logo="https://live.fanmingming.com/tv/二第35集.png" group-title="我和僵尸有个约会",二第35集
+https://vip1.lz-cdn.com/20220806/27594_0e581dc7/index.m3u8
+#EXTINF:-1 tvg-name="二第36集" tvg-logo="https://live.fanmingming.com/tv/二第36集.png" group-title="我和僵尸有个约会",二第36集
+https://vip1.lz-cdn.com/20220806/27595_af2e09fd/index.m3u8
+#EXTINF:-1 tvg-name="二第37集" tvg-logo="https://live.fanmingming.com/tv/二第37集.png" group-title="我和僵尸有个约会",二第37集
+https://vip1.lz-cdn.com/20220806/27596_c61c4f11/index.m3u8
+#EXTINF:-1 tvg-name="二第38集" tvg-logo="https://live.fanmingming.com/tv/二第38集.png" group-title="我和僵尸有个约会",二第38集
+https://vip1.lz-cdn.com/20220806/27597_dcb4d34b/index.m3u8
+#EXTINF:-1 tvg-name="二第39集" tvg-logo="https://live.fanmingming.com/tv/二第39集.png" group-title="我和僵尸有个约会",二第39集
+https://vip1.lz-cdn.com/20220806/27598_cefcc603/index.m3u8
+#EXTINF:-1 tvg-name="二第40集" tvg-logo="https://live.fanmingming.com/tv/二第40集.png" group-title="我和僵尸有个约会",二第40集
+https://vip1.lz-cdn.com/20220806/27599_417bd74a/index.m3u8
+#EXTINF:-1 tvg-name="二第41集" tvg-logo="https://live.fanmingming.com/tv/二第41集.png" group-title="我和僵尸有个约会",二第41集
+https://vip1.lz-cdn.com/20220806/27600_9c05ef70/index.m3u8
+#EXTINF:-1 tvg-name="二第42集" tvg-logo="https://live.fanmingming.com/tv/二第42集.png" group-title="我和僵尸有个约会",二第42集
+https://vip1.lz-cdn.com/20220806/27601_3d7a7e8a/index.m3u8
+#EXTINF:-1 tvg-name="二第43集" tvg-logo="https://live.fanmingming.com/tv/二第43集.png" group-title="我和僵尸有个约会",二第43集
+https://vip1.lz-cdn.com/20220806/27602_ca64ab87/index.m3u8
+#EXTINF:-1 tvg-name="第三部第01集" tvg-logo="https://live.fanmingming.com/tv/第三部第01集.png" group-title="我和僵尸有个约会",第三部第01集
+https://vip1.lz-cdn.com/20220807/27719_d0150cd4/index.m3u8
+#EXTINF:-1 tvg-name="三第02集" tvg-logo="https://live.fanmingming.com/tv/三第02集.png" group-title="我和僵尸有个约会",三第02集
+https://vip1.lz-cdn.com/20220806/27645_f396323a/index.m3u8
+#EXTINF:-1 tvg-name="三第03集" tvg-logo="https://live.fanmingming.com/tv/三第03集.png" group-title="我和僵尸有个约会",三第03集
+https://vip1.lz-cdn.com/20220807/27720_effc3511/index.m3u8
+#EXTINF:-1 tvg-name="三第04集" tvg-logo="https://live.fanmingming.com/tv/三第04集.png" group-title="我和僵尸有个约会",三第04集
+https://vip1.lz-cdn.com/20220806/27647_336c3b43/index.m3u8
+#EXTINF:-1 tvg-name="三第05集" tvg-logo="https://live.fanmingming.com/tv/三第05集.png" group-title="我和僵尸有个约会",三第05集
+https://vip1.lz-cdn.com/20220806/27648_348b27ca/index.m3u8
+#EXTINF:-1 tvg-name="三第06集" tvg-logo="https://live.fanmingming.com/tv/三第06集.png" group-title="我和僵尸有个约会",三第06集
+https://vip1.lz-cdn.com/20220806/27649_9ad56e66/index.m3u8
+#EXTINF:-1 tvg-name="三第07集" tvg-logo="https://live.fanmingming.com/tv/三第07集.png" group-title="我和僵尸有个约会",三第07集
+https://vip1.lz-cdn.com/20220806/27650_f41a78a4/index.m3u8
+#EXTINF:-1 tvg-name="三第08集" tvg-logo="https://live.fanmingming.com/tv/三第08集.png" group-title="我和僵尸有个约会",三第08集
+https://vip1.lz-cdn.com/20220806/27651_dbff44a2/index.m3u8
+#EXTINF:-1 tvg-name="三第09集" tvg-logo="https://live.fanmingming.com/tv/三第09集.png" group-title="我和僵尸有个约会",三第09集
+https://vip1.lz-cdn.com/20220806/27652_b6f40173/index.m3u8
+#EXTINF:-1 tvg-name="三第10集" tvg-logo="https://live.fanmingming.com/tv/三第10集.png" group-title="我和僵尸有个约会",三第10集
+https://vip1.lz-cdn.com/20220806/27653_bff61364/index.m3u8
+#EXTINF:-1 tvg-name="三第11集" tvg-logo="https://live.fanmingming.com/tv/三第11集.png" group-title="我和僵尸有个约会",三第11集
+https://vip1.lz-cdn.com/20220806/27654_68e614c6/index.m3u8
+#EXTINF:-1 tvg-name="三第12集" tvg-logo="https://live.fanmingming.com/tv/三第12集.png" group-title="我和僵尸有个约会",三第12集
+https://vip1.lz-cdn.com/20220806/27655_3a539179/index.m3u8
+#EXTINF:-1 tvg-name="三第13集" tvg-logo="https://live.fanmingming.com/tv/三第13集.png" group-title="我和僵尸有个约会",三第13集
+https://vip1.lz-cdn.com/20220806/27656_7864e5b5/index.m3u8
+#EXTINF:-1 tvg-name="三第14集" tvg-logo="https://live.fanmingming.com/tv/三第14集.png" group-title="我和僵尸有个约会",三第14集
+https://vip1.lz-cdn.com/20220806/27657_1654c23d/index.m3u8
+#EXTINF:-1 tvg-name="三第15集" tvg-logo="https://live.fanmingming.com/tv/三第15集.png" group-title="我和僵尸有个约会",三第15集
+https://vip1.lz-cdn.com/20220806/27658_bfff39ad/index.m3u8
+#EXTINF:-1 tvg-name="三第16集" tvg-logo="https://live.fanmingming.com/tv/三第16集.png" group-title="我和僵尸有个约会",三第16集
+https://vip1.lz-cdn.com/20220806/27659_64f6b475/index.m3u8
+#EXTINF:-1 tvg-name="三第17集" tvg-logo="https://live.fanmingming.com/tv/三第17集.png" group-title="我和僵尸有个约会",三第17集
+https://vip1.lz-cdn.com/20220806/27660_1d84cd66/index.m3u8
+#EXTINF:-1 tvg-name="三第18集" tvg-logo="https://live.fanmingming.com/tv/三第18集.png" group-title="我和僵尸有个约会",三第18集
+https://vip1.lz-cdn.com/20220806/27661_027616b5/index.m3u8
+#EXTINF:-1 tvg-name="三第19集" tvg-logo="https://live.fanmingming.com/tv/三第19集.png" group-title="我和僵尸有个约会",三第19集
+https://vip1.lz-cdn.com/20220806/27662_449f8656/index.m3u8
+#EXTINF:-1 tvg-name="三第20集" tvg-logo="https://live.fanmingming.com/tv/三第20集.png" group-title="我和僵尸有个约会",三第20集
+https://vip1.lz-cdn.com/20220806/27663_e3984726/index.m3u8
+#EXTINF:-1 tvg-name="三第21集" tvg-logo="https://live.fanmingming.com/tv/三第21集.png" group-title="我和僵尸有个约会",三第21集
+https://vip1.lz-cdn.com/20220806/27664_b997cf91/index.m3u8
+#EXTINF:-1 tvg-name="三第22集" tvg-logo="https://live.fanmingming.com/tv/三第22集.png" group-title="我和僵尸有个约会",三第22集
+https://vip1.lz-cdn.com/20220806/27665_404c1429/index.m3u8
+#EXTINF:-1 tvg-name="三第23集" tvg-logo="https://live.fanmingming.com/tv/三第23集.png" group-title="我和僵尸有个约会",三第23集
+https://vip1.lz-cdn.com/20220806/27666_b65a2345/index.m3u8
+#EXTINF:-1 tvg-name="三第24集" tvg-logo="https://live.fanmingming.com/tv/三第24集.png" group-title="我和僵尸有个约会",三第24集
+https://vip1.lz-cdn.com/20220806/27667_bd036329/index.m3u8
+#EXTINF:-1 tvg-name="三第25集" tvg-logo="https://live.fanmingming.com/tv/三第25集.png" group-title="我和僵尸有个约会",三第25集
+https://vip1.lz-cdn.com/20220806/27668_50eb1704/index.m3u8
+#EXTINF:-1 tvg-name="三第26集" tvg-logo="https://live.fanmingming.com/tv/三第26集.png" group-title="我和僵尸有个约会",三第26集
+https://vip1.lz-cdn.com/20220806/27669_8cce62a0/index.m3u8
+#EXTINF:-1 tvg-name="三第27集" tvg-logo="https://live.fanmingming.com/tv/三第27集.png" group-title="我和僵尸有个约会",三第27集
+https://vip1.lz-cdn.com/20220806/27670_56762e5d/index.m3u8
+#EXTINF:-1 tvg-name="三第28集" tvg-logo="https://live.fanmingming.com/tv/三第28集.png" group-title="我和僵尸有个约会",三第28集
+https://vip1.lz-cdn.com/20220806/27671_e9cbc316/index.m3u8
+#EXTINF:-1 tvg-name="三第29集" tvg-logo="https://live.fanmingming.com/tv/三第29集.png" group-title="我和僵尸有个约会",三第29集
+https://vip1.lz-cdn.com/20220806/27672_e8412438/index.m3u8
+#EXTINF:-1 tvg-name="三第30集" tvg-logo="https://live.fanmingming.com/tv/三第30集.png" group-title="我和僵尸有个约会",三第30集
+https://vip1.lz-cdn.com/20220806/27673_941d9922/index.m3u8
+#EXTINF:-1 tvg-name="三第31集" tvg-logo="https://live.fanmingming.com/tv/三第31集.png" group-title="我和僵尸有个约会",三第31集
+https://vip1.lz-cdn.com/20220806/27674_3236c19b/index.m3u8
+#EXTINF:-1 tvg-name="三第32集" tvg-logo="https://live.fanmingming.com/tv/三第32集.png" group-title="我和僵尸有个约会",三第32集
+https://vip1.lz-cdn.com/20220806/27675_6bcfdba2/index.m3u8
+#EXTINF:-1 tvg-name="三第33集" tvg-logo="https://live.fanmingming.com/tv/三第33集.png" group-title="我和僵尸有个约会",三第33集
+https://vip1.lz-cdn.com/20220806/27676_9e6071f2/index.m3u8
+#EXTINF:-1 tvg-name="三第34集" tvg-logo="https://live.fanmingming.com/tv/三第34集.png" group-title="我和僵尸有个约会",三第34集
+https://vip1.lz-cdn.com/20220806/27677_6368f828/index.m3u8
+#EXTINF:-1 tvg-name="三第35集" tvg-logo="https://live.fanmingming.com/tv/三第35集.png" group-title="我和僵尸有个约会",三第35集
+https://vip1.lz-cdn.com/20220806/27678_bdf8d966/index.m3u8
+#EXTINF:-1 tvg-name="三第36集" tvg-logo="https://live.fanmingming.com/tv/三第36集.png" group-title="我和僵尸有个约会",三第36集
+https://vip1.lz-cdn.com/20220806/27679_34ef3a2e/index.m3u8
+#EXTINF:-1 tvg-name="三第37集" tvg-logo="https://live.fanmingming.com/tv/三第37集.png" group-title="我和僵尸有个约会",三第37集
+https://vip1.lz-cdn.com/20220806/27680_339cf5c5/index.m3u8
+#EXTINF:-1 tvg-name="三第38集" tvg-logo="https://live.fanmingming.com/tv/三第38集.png" group-title="我和僵尸有个约会",三第38集
+https://vip1.lz-cdn.com/20220806/27681_076c97fa/index.m3u8
+#EXTINF:-1 tvg-name="第01集" tvg-logo="https://live.fanmingming.com/tv/第01集.png" group-title="新白娘子传奇",第01集
+https://hn.bfvvs.com/play/yb82K1le/index.m3u8
+#EXTINF:-1 tvg-name="第02集" tvg-logo="https://live.fanmingming.com/tv/第02集.png" group-title="新白娘子传奇",第02集
+https://hn.bfvvs.com/play/lejR6ZWe/index.m3u8
+#EXTINF:-1 tvg-name="第03集" tvg-logo="https://live.fanmingming.com/tv/第03集.png" group-title="新白娘子传奇",第03集
+https://hn.bfvvs.com/play/pen56x4d/index.m3u8
+#EXTINF:-1 tvg-name="第04集" tvg-logo="https://live.fanmingming.com/tv/第04集.png" group-title="新白娘子传奇",第04集
+https://hn.bfvvs.com/play/YerkV8wa/index.m3u8
+#EXTINF:-1 tvg-name="第05集" tvg-logo="https://live.fanmingming.com/tv/第05集.png" group-title="新白娘子传奇",第05集
+https://hn.bfvvs.com/play/lejR6Zze/index.m3u8
+#EXTINF:-1 tvg-name="第06集" tvg-logo="https://live.fanmingming.com/tv/第06集.png" group-title="新白娘子传奇",第06集
+https://hn.bfvvs.com/play/pen56xDd/index.m3u8
+#EXTINF:-1 tvg-name="第07集" tvg-logo="https://live.fanmingming.com/tv/第07集.png" group-title="新白娘子传奇",第07集
+https://hn.bfvvs.com/play/YerkV2ka/index.m3u8
+#EXTINF:-1 tvg-name="第08集" tvg-logo="https://live.fanmingming.com/tv/第08集.png" group-title="新白娘子传奇",第08集
+https://hn.bfvvs.com/play/PdyP2wwb/index.m3u8
+#EXTINF:-1 tvg-name="第09集" tvg-logo="https://live.fanmingming.com/tv/第09集.png" group-title="新白娘子传奇",第09集
+https://hn.bfvvs.com/play/DbDkWqYa/index.m3u8
+#EXTINF:-1 tvg-name="第10集" tvg-logo="https://live.fanmingming.com/tv/第10集.png" group-title="新白娘子传奇",第10集
+https://hn.bfvvs.com/play/1aKr98ze/index.m3u8
+#EXTINF:-1 tvg-name="第11集" tvg-logo="https://live.fanmingming.com/tv/第11集.png" group-title="新白娘子传奇",第11集
+https://hn.bfvvs.com/play/YaOY6gGd/index.m3u8
+#EXTINF:-1 tvg-name="第12集" tvg-logo="https://live.fanmingming.com/tv/第12集.png" group-title="新白娘子传奇",第12集
+https://hn.bfvvs.com/play/5eVOnv9a/index.m3u8
+#EXTINF:-1 tvg-name="第13集" tvg-logo="https://live.fanmingming.com/tv/第13集.png" group-title="新白娘子传奇",第13集
+https://hn.bfvvs.com/play/QeZ6r8Ee/index.m3u8
+#EXTINF:-1 tvg-name="第14集" tvg-logo="https://live.fanmingming.com/tv/第14集.png" group-title="新白娘子传奇",第14集
+https://hn.bfvvs.com/play/Rb4xG60b/index.m3u8
+#EXTINF:-1 tvg-name="第15集" tvg-logo="https://live.fanmingming.com/tv/第15集.png" group-title="新白娘子传奇",第15集
+https://hn.bfvvs.com/play/yb82K35e/index.m3u8
+#EXTINF:-1 tvg-name="第16集" tvg-logo="https://live.fanmingming.com/tv/第16集.png" group-title="新白娘子传奇",第16集
+https://hn.bfvvs.com/play/lejR6Yze/index.m3u8
+#EXTINF:-1 tvg-name="第17集" tvg-logo="https://live.fanmingming.com/tv/第17集.png" group-title="新白娘子传奇",第17集
+https://hn.bfvvs.com/play/pen56RDd/index.m3u8
+#EXTINF:-1 tvg-name="第18集" tvg-logo="https://live.fanmingming.com/tv/第18集.png" group-title="新白娘子传奇",第18集
+https://hn.bfvvs.com/play/YerkVmka/index.m3u8
+#EXTINF:-1 tvg-name="第19集" tvg-logo="https://live.fanmingming.com/tv/第19集.png" group-title="新白娘子传奇",第19集
+https://hn.bfvvs.com/play/PdyP29wb/index.m3u8
+#EXTINF:-1 tvg-name="第20集" tvg-logo="https://live.fanmingming.com/tv/第20集.png" group-title="新白娘子传奇",第20集
+https://hn.bfvvs.com/play/DbDkWQYa/index.m3u8
+#EXTINF:-1 tvg-name="第21集" tvg-logo="https://live.fanmingming.com/tv/第21集.png" group-title="新白娘子传奇",第21集
+https://hn.bfvvs.com/play/1aKr9Lze/index.m3u8
+#EXTINF:-1 tvg-name="第22集" tvg-logo="https://live.fanmingming.com/tv/第22集.png" group-title="新白娘子传奇",第22集
+https://hn.bfvvs.com/play/YaOY6PGd/index.m3u8
+#EXTINF:-1 tvg-name="第23集" tvg-logo="https://live.fanmingming.com/tv/第23集.png" group-title="新白娘子传奇",第23集
+https://hn.bfvvs.com/play/5eVOn79a/index.m3u8
+#EXTINF:-1 tvg-name="第24集" tvg-logo="https://live.fanmingming.com/tv/第24集.png" group-title="新白娘子传奇",第24集
+https://hn.bfvvs.com/play/QeZ6rzEe/index.m3u8
+#EXTINF:-1 tvg-name="第25集" tvg-logo="https://live.fanmingming.com/tv/第25集.png" group-title="新白娘子传奇",第25集
+https://hn.bfvvs.com/play/Rb4xGz0b/index.m3u8
+#EXTINF:-1 tvg-name="第26集" tvg-logo="https://live.fanmingming.com/tv/第26集.png" group-title="新白娘子传奇",第26集
+https://hn.bfvvs.com/play/yb82KM5e/index.m3u8
+#EXTINF:-1 tvg-name="第27集" tvg-logo="https://live.fanmingming.com/tv/第27集.png" group-title="新白娘子传奇",第27集
+https://hn.bfvvs.com/play/lejR60ze/index.m3u8
+#EXTINF:-1 tvg-name="第28集" tvg-logo="https://live.fanmingming.com/tv/第28集.png" group-title="新白娘子传奇",第28集
+https://hn.bfvvs.com/play/pen56gDd/index.m3u8
+#EXTINF:-1 tvg-name="第29集" tvg-logo="https://live.fanmingming.com/tv/第29集.png" group-title="新白娘子传奇",第29集
+https://hn.bfvvs.com/play/YerkV9ka/index.m3u8
+#EXTINF:-1 tvg-name="第30集" tvg-logo="https://live.fanmingming.com/tv/第30集.png" group-title="新白娘子传奇",第30集
+https://hn.bfvvs.com/play/lejR68Ye/index.m3u8
+#EXTINF:-1 tvg-name="第31集" tvg-logo="https://live.fanmingming.com/tv/第31集.png" group-title="新白娘子传奇",第31集
+https://hn.bfvvs.com/play/pen56OYd/index.m3u8
+#EXTINF:-1 tvg-name="第32集" tvg-logo="https://live.fanmingming.com/tv/第32集.png" group-title="新白娘子传奇",第32集
+https://hn.bfvvs.com/play/YerkV9Ba/index.m3u8
+#EXTINF:-1 tvg-name="第33集" tvg-logo="https://live.fanmingming.com/tv/第33集.png" group-title="新白娘子传奇",第33集
+https://hn.bfvvs.com/play/PdyP2Xzb/index.m3u8
+#EXTINF:-1 tvg-name="第34集" tvg-logo="https://live.fanmingming.com/tv/第34集.png" group-title="新白娘子传奇",第34集
+https://hn.bfvvs.com/play/DbDkW8Aa/index.m3u8
+#EXTINF:-1 tvg-name="第35集" tvg-logo="https://live.fanmingming.com/tv/第35集.png" group-title="新白娘子传奇",第35集
+https://hn.bfvvs.com/play/1aKr9Qle/index.m3u8
+#EXTINF:-1 tvg-name="第36集" tvg-logo="https://live.fanmingming.com/tv/第36集.png" group-title="新白娘子传奇",第36集
+https://hn.bfvvs.com/play/YaOY68Bd/index.m3u8
+#EXTINF:-1 tvg-name="第37集" tvg-logo="https://live.fanmingming.com/tv/第37集.png" group-title="新白娘子传奇",第37集
+https://hn.bfvvs.com/play/5eVOnQBa/index.m3u8
+#EXTINF:-1 tvg-name="第38集" tvg-logo="https://live.fanmingming.com/tv/第38集.png" group-title="新白娘子传奇",第38集
+https://hn.bfvvs.com/play/QeZ6r02e/index.m3u8
+#EXTINF:-1 tvg-name="第39集" tvg-logo="https://live.fanmingming.com/tv/第39集.png" group-title="新白娘子传奇",第39集
+https://hn.bfvvs.com/play/Rb4xGLgb/index.m3u8
+#EXTINF:-1 tvg-name="第40集" tvg-logo="https://live.fanmingming.com/tv/第40集.png" group-title="新白娘子传奇",第40集
+https://hn.bfvvs.com/play/yb82K92e/index.m3u8
+#EXTINF:-1 tvg-name="第41集" tvg-logo="https://live.fanmingming.com/tv/第41集.png" group-title="新白娘子传奇",第41集
+https://hn.bfvvs.com/play/lejR6nYe/index.m3u8
+#EXTINF:-1 tvg-name="第42集" tvg-logo="https://live.fanmingming.com/tv/第42集.png" group-title="新白娘子传奇",第42集
+https://hn.bfvvs.com/play/pen56zYd/index.m3u8
+#EXTINF:-1 tvg-name="第43集" tvg-logo="https://live.fanmingming.com/tv/第43集.png" group-title="新白娘子传奇",第43集
+https://hn.bfvvs.com/play/YerkVYBa/index.m3u8
+#EXTINF:-1 tvg-name="第44集" tvg-logo="https://live.fanmingming.com/tv/第44集.png" group-title="新白娘子传奇",第44集
+https://hn.bfvvs.com/play/PdyP2mzb/index.m3u8
+#EXTINF:-1 tvg-name="第45集" tvg-logo="https://live.fanmingming.com/tv/第45集.png" group-title="新白娘子传奇",第45集
+https://hn.bfvvs.com/play/DbDkW0Aa/index.m3u8
+#EXTINF:-1 tvg-name="第46集" tvg-logo="https://live.fanmingming.com/tv/第46集.png" group-title="新白娘子传奇",第46集
+https://hn.bfvvs.com/play/1aKr96le/index.m3u8
+#EXTINF:-1 tvg-name="第47集" tvg-logo="https://live.fanmingming.com/tv/第47集.png" group-title="新白娘子传奇",第47集
+https://hn.bfvvs.com/play/YaOY6ZBd/index.m3u8
+#EXTINF:-1 tvg-name="第48集" tvg-logo="https://live.fanmingming.com/tv/第48集.png" group-title="新白娘子传奇",第48集
+https://hn.bfvvs.com/play/5eVOnNBa/index.m3u8
+#EXTINF:-1 tvg-name="第49集" tvg-logo="https://live.fanmingming.com/tv/第49集.png" group-title="新白娘子传奇",第49集
+https://hn.bfvvs.com/play/QeZ6rW2e/index.m3u8
+#EXTINF:-1 tvg-name="第50集" tvg-logo="https://live.fanmingming.com/tv/第50集.png" group-title="新白娘子传奇",第50集
+https://hn.bfvvs.com/play/Rb4xG9gb/index.m3u8
 #EXTINF:-1 tvg-name="堕-戴羽彤" tvg-logo="https://live.fanmingming.com/tv/堕-戴羽彤.png" group-title="MTV现代",堕-戴羽彤
 https://vd3.bdstatic.com/mda-pe8yinxx1y1dpsxk/720p/h264/1683673132967321820/mda-pe8yinxx1y1dpsxk.mp4
 #EXTINF:-1 tvg-name="海市蜃楼 - 一颗狼星" tvg-logo="https://live.fanmingming.com/tv/海市蜃楼 - 一颗狼星.png" group-title="MTV现代",海市蜃楼 - 一颗狼星
