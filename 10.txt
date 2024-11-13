@@ -413,7 +413,7 @@ iHOT爱幼教,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=200000000400
 iHOT爱院线,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000034
 
 
-浙江频道𝓲ₚᵛ𝟰,#genre#
+浙江频道ᵛ𝟰,#genre#
 浙江钱江,http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 浙江新闻,http://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
