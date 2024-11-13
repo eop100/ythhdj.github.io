@@ -2179,10 +2179,40 @@ NewTv动作电影,http://39.134.134.87/otttv.bj.chinamobile.com/PLTV/88888888/22
 粤语版电影一,http://cfss.cc/cdn/dyu/5033502.m3u8
 粤语版电影二,http://cfss.cc/cdn/dyu/6566671.m3u8
 
+水月洞天,#genre#
+第01集,https://vip.lz-cdn16.com/20230413/16840_42504175/index.m3u8
+第02集,https://vip.lz-cdn16.com/20230413/16841_af4cfa1b/index.m3u8
+第03集,https://vip.lz-cdn16.com/20230413/16843_767cf8bc/index.m3u8
+第04集,https://vip.lz-cdn16.com/20230413/16845_62ae01ea/index.m3u8
+第05集,https://vip.lz-cdn16.com/20230413/16842_5ca077ad/index.m3u8
+第06集,https://vip.lz-cdn16.com/20230413/16844_5bef07ea/index.m3u8
+第07集,https://vip.lz-cdn16.com/20230413/16847_c4f3f149/index.m3u8
+第08集,https://vip.lz-cdn16.com/20230413/16846_085087a8/index.m3u8
+第09集,https://vip.lz-cdn16.com/20230413/16848_b6588f18/index.m3u8
+第10集,https://vip.lz-cdn16.com/20230413/16849_505b01a4/index.m3u8
+第11集,https://vip.lz-cdn16.com/20230413/16851_36fecef9/index.m3u8
+第12集,https://vip.lz-cdn16.com/20230413/16850_a995c7cd/index.m3u8
+第13集,https://vip.lz-cdn16.com/20230413/16852_4fdf844d/index.m3u8
+第14集,https://vip.lz-cdn16.com/20230413/16853_d8cbfa91/index.m3u8
+第15集,https://vip.lz-cdn16.com/20230413/16854_8bd0daad/index.m3u8
+第16集,https://vip.lz-cdn16.com/20230413/16855_4a21c924/index.m3u8
+第17集,https://vip.lz-cdn16.com/20230413/16856_e99b6177/index.m3u8
+第18集,https://vip.lz-cdn16.com/20230413/16857_9fc89db0/index.m3u8
+第19集,https://vip.lz-cdn16.com/20230413/16858_d611557a/index.m3u8
+第20集,https://vip.lz-cdn16.com/20230413/16859_189ebb28/index.m3u8
+第21集,https://vip.lz-cdn16.com/20230413/16860_24f8b38b/index.m3u8
+第22集,https://vip.lz-cdn16.com/20230413/16861_0aee273b/index.m3u8
+第23集,https://vip.lz-cdn16.com/20230413/16862_13167180/index.m3u8
+第24集,https://vip.lz-cdn16.com/20230413/16863_ee1b20ec/index.m3u8
+第25集,https://vip.lz-cdn16.com/20230413/16864_341e25ed/index.m3u8
+第26集,https://vip.lz-cdn16.com/20230413/16866_7b24c034/index.m3u8
+第27集,https://vip.lz-cdn16.com/20230413/16865_39d83414/index.m3u8
+第28集,https://vip.lz-cdn16.com/20230413/16867_d5b60c61/index.m3u8
+第29集,https://vip.lz-cdn16.com/20230413/16871_b2e4901b/index.m3u8
+第30集,https://vip.lz-cdn16.com/20230413/16869_4fda0398/index.m3u8
 
 
-
-天龙八部黄日华版,#genre#
+天龙八部,#genre#
 第01集,https://vip1.lz-cdn6.com/20220414/3860_91167f57/index.m3u8
 第02集,https://vip1.lz-cdn6.com/20220414/3861_868da890/index.m3u8
 第03集,https://vip1.lz-cdn6.com/20220414/3862_73e721b6/index.m3u8
