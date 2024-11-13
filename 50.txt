@@ -300,11 +300,20 @@ ZooMoo,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
 
 
 浙江频道ᵛ𝟰,#genre#
+浙江卫视,http://115.230.249.10:9999/udp/233.50.201.100:5140
+浙江钱江,http://115.230.249.10:9999/udp/233.50.201.132:5140
+浙江生活,http://115.230.249.10:9999/udp/233.50.201.133:5140
+浙江教育,http://115.230.249.10:9999/udp/233.50.201.134:5140
+浙江民生,http://115.230.249.10:9999/udp/233.50.201.136:5140
+浙江新闻,http://115.230.249.10:9999/udp/233.50.201.137:5140
+浙江少儿,http://115.230.249.10:9999/udp/233.50.201.138:5140
+浙江纪录,http://115.230.249.10:9999/udp/233.50.202.25:5140
+
 浙江钱江,http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 浙江新闻,http://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江教科影院,http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-浙江民生休闲,http://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+浙江民生,http://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 浙江经济生活,http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 浙江国际,http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 
