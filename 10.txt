@@ -703,7 +703,6 @@ CCTV-2,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000502
 CCTV-3,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000003
 CCTV-4,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000503
 CCTV-5,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000005
-CCTV-5+,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000102
 CCTV-5+,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000507
 CCTV-6,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000006
 CCTV-7,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000504
@@ -808,6 +807,7 @@ CCTN6,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000088
 TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
 HOY TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
+精品体育,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000102
 
 
 
