@@ -855,22 +855,22 @@ http://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
 #EXTINF:-1 tvg-name="神州新聞台" tvg-logo="https://live.fanmingming.com/tv/神州新聞台.png" group-title="𝔸𝕂𝕋𝕍频道",神州新聞台
 http://aktv.top/AKTV/live/aktv3/null-1/AKTV.m3u8
-#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="浙江频道ᵛ𝟰",浙江卫视
-http://115.230.249.10:9999/udp/233.50.201.100:5140
-#EXTINF:-1 tvg-name="浙江钱江" tvg-logo="https://live.fanmingming.com/tv/浙江钱江.png" group-title="浙江频道ᵛ𝟰",浙江钱江
-http://115.230.249.10:9999/udp/233.50.201.132:5140
-#EXTINF:-1 tvg-name="浙江生活" tvg-logo="https://live.fanmingming.com/tv/浙江生活.png" group-title="浙江频道ᵛ𝟰",浙江生活
-http://115.230.249.10:9999/udp/233.50.201.133:5140
-#EXTINF:-1 tvg-name="浙江教育" tvg-logo="https://live.fanmingming.com/tv/浙江教育.png" group-title="浙江频道ᵛ𝟰",浙江教育
-http://115.230.249.10:9999/udp/233.50.201.134:5140
-#EXTINF:-1 tvg-name="浙江民生" tvg-logo="https://live.fanmingming.com/tv/浙江民生.png" group-title="浙江频道ᵛ𝟰",浙江民生
-http://115.230.249.10:9999/udp/233.50.201.136:5140
-#EXTINF:-1 tvg-name="浙江新闻" tvg-logo="https://live.fanmingming.com/tv/浙江新闻.png" group-title="浙江频道ᵛ𝟰",浙江新闻
-http://115.230.249.10:9999/udp/233.50.201.137:5140
-#EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://live.fanmingming.com/tv/浙江少儿.png" group-title="浙江频道ᵛ𝟰",浙江少儿
-http://115.230.249.10:9999/udp/233.50.201.138:5140
-#EXTINF:-1 tvg-name="浙江纪录" tvg-logo="https://live.fanmingming.com/tv/浙江纪录.png" group-title="浙江频道ᵛ𝟰",浙江纪录
-http://115.230.249.10:9999/udp/233.50.202.25:5140
+#EXTINF:-1 tvg-name="浙江卫视高清" tvg-logo="https://live.fanmingming.com/tv/浙江卫视高清.png" group-title="浙江频道ᵛ𝟰",浙江卫视高清
+http://125.126.24.9:9999/udp/233.50.201.100:5140
+#EXTINF:-1 tvg-name="浙江钱江高清" tvg-logo="https://live.fanmingming.com/tv/浙江钱江高清.png" group-title="浙江频道ᵛ𝟰",浙江钱江高清
+http://125.126.24.9:9999/udp/233.50.201.132:5140
+#EXTINF:-1 tvg-name="浙江生活高清" tvg-logo="https://live.fanmingming.com/tv/浙江生活高清.png" group-title="浙江频道ᵛ𝟰",浙江生活高清
+http://125.126.24.9:9999/udp/233.50.201.133:5140
+#EXTINF:-1 tvg-name="浙江教育高清" tvg-logo="https://live.fanmingming.com/tv/浙江教育高清.png" group-title="浙江频道ᵛ𝟰",浙江教育高清
+http://125.126.24.9:9999/udp/233.50.201.134:5140
+#EXTINF:-1 tvg-name="浙江民生高清" tvg-logo="https://live.fanmingming.com/tv/浙江民生高清.png" group-title="浙江频道ᵛ𝟰",浙江民生高清
+http://125.126.24.9:9999/udp/233.50.201.136:5140
+#EXTINF:-1 tvg-name="浙江新闻高清" tvg-logo="https://live.fanmingming.com/tv/浙江新闻高清.png" group-title="浙江频道ᵛ𝟰",浙江新闻高清
+http://125.126.24.9:9999/udp/233.50.201.137:5140
+#EXTINF:-1 tvg-name="浙江少儿高清" tvg-logo="https://live.fanmingming.com/tv/浙江少儿高清.png" group-title="浙江频道ᵛ𝟰",浙江少儿高清
+http://125.126.24.9:9999/udp/233.50.201.138:5140
+#EXTINF:-1 tvg-name="浙江纪录高清" tvg-logo="https://live.fanmingming.com/tv/浙江纪录高清.png" group-title="浙江频道ᵛ𝟰",浙江纪录高清
+http://125.126.24.9:9999/udp/233.50.202.25:5140
 #EXTINF:-1 tvg-name="浙江钱江" tvg-logo="https://live.fanmingming.com/tv/浙江钱江.png" group-title="浙江频道ᵛ𝟰",浙江钱江
 http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 #EXTINF:-1 tvg-name="浙江新闻" tvg-logo="https://live.fanmingming.com/tv/浙江新闻.png" group-title="浙江频道ᵛ𝟰",浙江新闻
