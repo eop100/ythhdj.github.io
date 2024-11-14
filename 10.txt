@@ -366,13 +366,8 @@ CHC精彩影院,http://111.8.242.151:9902/tsfile/live/1072_1.m3u8?key=tx111.8.24
 
 测试频道ᵛ𝟰,#genre#
 香港 卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-凤凰资讯,http://171.104.192.203:8181/tsfile/live/1000_1.m3u8?key=txiptv
-凤凰资讯,http://171.104.192.200:8181/tsfile/live/1000_1.m3u8?key=txiptv
-凤凰中文,http://171.104.192.203:8181/tsfile/live/1001_1.m3u8?key=txiptv
-凤凰中文,http://171.104.192.200:8181/tsfile/live/1001_1.m3u8?key=txiptv
-凤凰香港,http://171.104.192.203:8181/tsfile/live/1002_1.m3u8?key=txiptv
-凤凰香港,http://171.104.192.200:8181/tsfile/live/1002_1.m3u8?key=txiptv
-澳视澳门,http://grandprix2023.asuscomm.com:8891/bysid/91.m3u8
+凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 澳门卫视,http://61.244.22.5/ch3/ch3.live/chunklist_w1228316132.m3u8
 NHTV,http://nonghyup.flive.skcdn.com/nonghyup/_definst_/nhlive/playlist.m3u8
 重温经典频道,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
