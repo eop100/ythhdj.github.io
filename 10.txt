@@ -1221,18 +1221,6 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 
 
 
-河北频道ᵛ𝟰,#genre#
-河北农民,https://tv.pull.hebtv.com/jishi/nongminpindao.m3u8?t=1731595721&k=9b53da9fd161cc538b9f449d7676171b
-河北影视,https://tv.pull.hebtv.com/zhibo/yingshijupindao.m3u8?t=1731595824&k=3a8ac15c3143aacce826aeb21784e12d
-河北公共,https://tv.pull.hebtv.com/jishi/dushipindao.m3u8?t=1731595876&k=a2492ab3b80a7d0768189d11e7cc4946
-河北经济,https://tv.pull.hebtv.com/jishi/jingjishenghuo.m3u8?t=1731595914&k=540cae50859299c3cd68b907212bda95
-河北少儿科教,https://tv.pull.hebtv.com/jishi/shaoerkejiao.m3u8?t=1731595971&k=24e34c3b7d8afc2064b9dbd0d755c9f6
-迁安综合,https://jwplay.hebyun.com.cn/live/jiuyunqianan/1500k/tzwj_video.m3u8
-邢台综合,https://jwplay.hebyun.com.cn/live/xttv/1500k/tzwj_video.m3u8?zhebd
-
-
-
-
 
 
 重庆地区ᵛ𝟰,#genre#
