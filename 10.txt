@@ -329,6 +329,87 @@ ZooMoo,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
 
 
 
+
+𝐋𝐢'𝐓𝐕频道,#genre#
+台湾*民视,https://litv.zapi.us.kg/?id=4gtv-4gtv002
+台湾*民视新闻台,https://litv.zapi.us.kg/?id=litv-ftv13
+台湾*民视第一台,https://litv.zapi.us.kg/?id=4gtv-4gtv003
+台湾*民视台湾台,https://litv.zapi.us.kg/?id=4gtv-4gtv001
+台湾*民视综艺,https://litv.zapi.us.kg/?id=4gtv-4gtv004
+台湾*民视影剧,https://litv.zapi.us.kg/?id=litv-ftv09
+台湾*民视旅游,https://litv.zapi.us.kg/?id=litv-ftv07
+台湾*中天新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv009
+台湾*中天亚洲台,https://litv.zapi.us.kg/?id=4gtv-4gtv109
+台湾*东森新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv152
+台湾*东森财经新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv153
+台湾*TVBS HD,https://litv.zapi.us.kg/?id=4gtv-4gtv073
+台湾*TVBS新闻台,https://litv.zapi.us.kg/?id=4gtv-4gtv072
+台湾*TVBS精采台,https://litv.zapi.us.kg/?id=4gtv-4gtv067
+台湾*TVBS欢乐台,https://litv.zapi.us.kg/?id=4gtv-4gtv068
+台湾*非凡新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv010
+台湾*非凡商业,https://litv.zapi.us.kg/?id=4gtv-4gtv048
+台湾*中视,https://litv.zapi.us.kg/?id=4gtv-4gtv040
+台湾*中视新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv074
+台湾*中视经典,https://litv.zapi.us.kg/?id=4gtv-4gtv080
+台湾*中视菁采,https://litv.zapi.us.kg/?id=4gtv-4gtv064
+台湾*台视,https://litv.zapi.us.kg/?id=4gtv-4gtv066
+台湾*台视新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv051
+台湾*台视财经,https://litv.zapi.us.kg/?id=4gtv-4gtv056
+台湾*华视,https://litv.zapi.us.kg/?id=4gtv-4gtv041
+台湾*华视新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv052
+台湾*镜新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv075
+台湾*寰宇新闻台,https://litv.zapi.us.kg/?id=litv-longturn14
+台湾*寰宇新闻台湾台,https://litv.zapi.us.kg/?id=litv-longturn15
+台湾*龙华电影,https://litv.zapi.us.kg/?id=litv-longturn03
+台湾*龙华戏剧,https://litv.zapi.us.kg/?id=litv-longturn18
+台湾*龙华偶像,https://litv.zapi.us.kg/?id=litv-longturn12
+台湾*龙华经典,https://litv.zapi.us.kg/?id=litv-longturn21
+台湾*龙华日韩,https://litv.zapi.us.kg/?id=litv-longturn11
+台湾*龙华卡通,https://litv.zapi.us.kg/?id=litv-longturn01
+台湾*靖天综合台,https://litv.zapi.us.kg/?id=4gtv-4gtv046
+台湾*靖天电影台,https://litv.zapi.us.kg/?id=4gtv-4gtv061
+台湾*靖天戏剧台,https://litv.zapi.us.kg/?id=4gtv-4gtv058
+台湾*靖天欢乐台,https://litv.zapi.us.kg/?id=4gtv-4gtv054
+台湾*靖天映画,https://litv.zapi.us.kg/?id=4gtv-4gtv055
+台湾*靖天育乐台,https://litv.zapi.us.kg/?id=4gtv-4gtv062
+台湾*靖天日本台,https://litv.zapi.us.kg/?id=4gtv-4gtv047
+台湾*靖天国际台,https://litv.zapi.us.kg/?id=4gtv-4gtv063
+台湾*靖天资讯台,https://litv.zapi.us.kg/?id=4gtv-4gtv065
+台湾*靖天卡通台,https://litv.zapi.us.kg/?id=4gtv-4gtv044
+台湾*靖洋戏剧台,https://litv.zapi.us.kg/?id=4gtv-4gtv045
+台湾*靖洋卡通台,https://litv.zapi.us.kg/?id=4gtv-4gtv057
+台湾*八大精彩台,https://litv.zapi.us.kg/?id=4gtv-4gtv034
+台湾*八大综艺台,https://litv.zapi.us.kg/?id=4gtv-4gtv039
+台湾*采昌,https://litv.zapi.us.kg/?id=4gtv-4gtv049
+台湾*台湾戏剧台,https://litv.zapi.us.kg/?id=litv-longturn22
+台湾*公视戏剧,https://litv.zapi.us.kg/?id=4gtv-4gtv042
+台湾*客家,https://litv.zapi.us.kg/?id=4gtv-4gtv043
+台湾*好消息1,https://litv.zapi.us.kg/?id=litv-ftv16
+台湾*好消息2,https://litv.zapi.us.kg/?id=litv-ftv17
+台湾*爱放,https://litv.zapi.us.kg/?id=litv-ftv15
+台湾*ELTA娱乐,https://litv.zapi.us.kg/?id=4gtv-4gtv070
+台湾*SMART,https://litv.zapi.us.kg/?id=litv-longturn19
+台湾*亚洲旅游台,https://litv.zapi.us.kg/?id=litv-longturn17
+台湾*生活英语台,https://litv.zapi.us.kg/?id=litv-longturn20
+台湾*国会频道1,https://litv.zapi.us.kg/?id=4gtv-4gtv084
+台湾*国会频道2,https://litv.zapi.us.kg/?id=4gtv-4gtv085
+台湾*博斯无限,https://litv.zapi.us.kg/?id=litv-longturn10
+台湾*博斯无限2,https://litv.zapi.us.kg/?id=litv-longturn13
+台湾*博斯网球,https://litv.zapi.us.kg/?id=litv-longturn09
+台湾*博斯运动1,https://litv.zapi.us.kg/?id=litv-longturn07
+台湾*博斯运动2,https://litv.zapi.us.kg/?id=litv-longturn08
+台湾*博斯高球1,https://litv.zapi.us.kg/?id=litv-longturn05
+台湾*博斯高球2,https://litv.zapi.us.kg/?id=litv-longturn06
+台湾*博斯魅力,https://litv.zapi.us.kg/?id=litv-longturn04
+台湾*智林体育台,https://litv.zapi.us.kg/?id=4gtv-4gtv101
+台湾*影迷數位電影台,https://litv.zapi.us.kg/?id=4gtv-4gtv011
+台湾*CATCHPLAY电影台,https://litv.zapi.us.kg/?id=4gtv-4gtv076
+台湾*amc电影台,https://litv.zapi.us.kg/?id=4gtv-4gtv017
+
+
+
+
+
 浙江频道ᵛ𝟰,#genre#
 浙江卫视高清,http://60.186.79.1:6666/udp/233.50.201.100:5140
 浙江钱江高清,http://60.186.79.1:6666/udp/233.50.201.132:5140
