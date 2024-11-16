@@ -1,3 +1,5 @@
-测试频道ᵛ𝟰,#genre#
-临时接入服务器,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-VX：BC80000008,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+#EXTINF:-1 tvg-name="临时接入服务器" tvg-logo="https://live.fanmingming.com/tv/临时接入服务器.png" group-title="测试频道ᵛ𝟰",临时接入服务器
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 tvg-name="VX：BC80000008" tvg-logo="https://live.fanmingming.com/tv/VX：BC80000008.png" group-title="测试频道ᵛ𝟰",VX：BC80000008
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
