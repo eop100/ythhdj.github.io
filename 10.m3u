@@ -609,6 +609,154 @@ http://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
 #EXTINF:-1 tvg-name="神州新聞台" tvg-logo="https://live.fanmingming.com/tv/神州新聞台.png" group-title="𝔸𝕂𝕋𝕍频道",神州新聞台
 http://aktv.top/AKTV/live/aktv3/null-1/AKTV.m3u8
+#EXTINF:-1 tvg-name="台湾*民视" tvg-logo="https://live.fanmingming.com/tv/台湾*民视.png" group-title="𝐋𝐢'𝐓𝐕频道",台湾*民视
+https://litv.zapi.us.kg/?id=4gtv-4gtv002
+#EXTINF:-1 tvg-name="台湾*民视新闻台" tvg-logo="https://live.fanmingming.com/tv/台湾*民视新闻台.png" group-title="𝐋𝐢'𝐓𝐕频道",台湾*民视新闻台
+https://litv.zapi.us.kg/?id=litv-ftv13
+#EXTINF:-1 tvg-name="台湾*民视第一台" tvg-logo="https://live.fanmingming.com/tv/台湾*民视第一台.png" group-title="𝐋𝐢'𝐓𝐕频道",台湾*民视第一台
+https://litv.zapi.us.kg/?id=4gtv-4gtv003
+#EXTINF:-1 tvg-name="台湾*民视台湾台" tvg-logo="https://live.fanmingming.com/tv/台湾*民视台湾台.png" group-title="𝐋𝐢'𝐓𝐕频道",台湾*民视台湾台
+https://litv.zapi.us.kg/?id=4gtv-4gtv001
+#EXTINF:-1 tvg-name="台湾*民视综艺" tvg-logo="https://live.fanmingming.com/tv/台湾*民视综艺.png" group-title="𝐋𝐢'𝐓𝐕频道",台湾*民视综艺
+https://litv.zapi.us.kg/?id=4gtv-4gtv004
+#EXTINF:-1 tvg-name="台湾*民视影剧" tvg-logo="https://live.fanmingming.com/tv/台湾*民视影剧.png" group-title="𝐋𝐢'𝐓𝐕频道",台湾*民视影剧
+https://litv.zapi.us.kg/?id=litv-ftv09
+#EXTINF:-1 tvg-name="台湾*民视旅游" tvg-logo="https://live.fanmingming.com/tv/台湾*民视旅游.png" group-title="𝐋𝐢'𝐓𝐕频道",台湾*民视旅游
+https://litv.zapi.us.kg/?id=litv-ftv07
+#EXTINF:-1 tvg-name="台湾*中天新闻" tvg-logo="https://live.fanmingming.com/tv/台湾*中天新闻.png" group-title="𝐋𝐢'𝐓𝐕频道",台湾*中天新闻
+https://litv.zapi.us.kg/?id=4gtv-4gtv009
+#EXTINF:-1 tvg-name="台湾*中天亚洲台" tvg-logo="https://live.fanmingming.com/tv/台湾*中天亚洲台.png" group-title="𝐋𝐢'𝐓𝐕频道",台湾*中天亚洲台
+https://litv.zapi.us.kg/?id=4gtv-4gtv109
+#EXTINF:-1 tvg-name="台湾*东森新闻" tvg-logo="https://live.fanmingming.com/tv/台湾*东森新闻.png" group-title="𝐋𝐢'𝐓𝐕频道",台湾*东森新闻
+https://litv.zapi.us.kg/?id=4gtv-4gtv152
+#EXTINF:-1 tvg-name="台湾*东森财经新闻" tvg-logo="https://live.fanmingming.com/tv/台湾*东森财经新闻.png" group-title="𝐋𝐢'𝐓𝐕频道",台湾*东森财经新闻
+https://litv.zapi.us.kg/?id=4gtv-4gtv153
+#EXTINF:-1 tvg-name="台湾*TVBS HD" tvg-logo="https://live.fanmingming.com/tv/台湾*TVBS HD.png" group-title="𝐋𝐢'𝐓𝐕频道",台湾*TVBS HD
+https://litv.zapi.us.kg/?id=4gtv-4gtv073
+#EXTINF:-1 tvg-name="台湾*TVBS新闻台" tvg-logo="https://live.fanmingming.com/tv/台湾*TVBS新闻台.png" group-title="𝐋𝐢'𝐓𝐕频道",台湾*TVBS新闻台
+https://litv.zapi.us.kg/?id=4gtv-4gtv072
+#EXTINF:-1 tvg-name="台湾*TVBS精采台" tvg-logo="https://live.fanmingming.com/tv/台湾*TVBS精采台.png" group-title="𝐋𝐢'𝐓𝐕频道",台湾*TVBS精采台
+https://litv.zapi.us.kg/?id=4gtv-4gtv067
+#EXTINF:-1 tvg-name="台湾*TVBS欢乐台" tvg-logo="https://live.fanmingming.com/tv/台湾*TVBS欢乐台.png" group-title="𝐋𝐢'𝐓𝐕频道",台湾*TVBS欢乐台
+https://litv.zapi.us.kg/?id=4gtv-4gtv068
+#EXTINF:-1 tvg-name="台湾*非凡新闻" tvg-logo="https://live.fanmingming.com/tv/台湾*非凡新闻.png" group-title="𝐋𝐢'𝐓𝐕频道",台湾*非凡新闻
+https://litv.zapi.us.kg/?id=4gtv-4gtv010
+#EXTINF:-1 tvg-name="台湾*非凡商业" tvg-logo="https://live.fanmingming.com/tv/台湾*非凡商业.png" group-title="𝐋𝐢'𝐓𝐕频道",台湾*非凡商业
+https://litv.zapi.us.kg/?id=4gtv-4gtv048
+#EXTINF:-1 tvg-name="台湾*中视" tvg-logo="https://live.fanmingming.com/tv/台湾*中视.png" group-title="𝐋𝐢'𝐓𝐕频道",台湾*中视
+https://litv.zapi.us.kg/?id=4gtv-4gtv040
+#EXTINF:-1 tvg-name="台湾*中视新闻" tvg-logo="https://live.fanmingming.com/tv/台湾*中视新闻.png" group-title="𝐋𝐢'𝐓𝐕频道",台湾*中视新闻
+https://litv.zapi.us.kg/?id=4gtv-4gtv074
+#EXTINF:-1 tvg-name="台湾*中视经典" tvg-logo="https://live.fanmingming.com/tv/台湾*中视经典.png" group-title="𝐋𝐢'𝐓𝐕频道",台湾*中视经典
+https://litv.zapi.us.kg/?id=4gtv-4gtv080
+#EXTINF:-1 tvg-name="台湾*中视菁采" tvg-logo="https://live.fanmingming.com/tv/台湾*中视菁采.png" group-title="𝐋𝐢'𝐓𝐕频道",台湾*中视菁采
+https://litv.zapi.us.kg/?id=4gtv-4gtv064
+#EXTINF:-1 tvg-name="台湾*台视" tvg-logo="https://live.fanmingming.com/tv/台湾*台视.png" group-title="𝐋𝐢'𝐓𝐕频道",台湾*台视
+https://litv.zapi.us.kg/?id=4gtv-4gtv066
+#EXTINF:-1 tvg-name="台湾*台视新闻" tvg-logo="https://live.fanmingming.com/tv/台湾*台视新闻.png" group-title="𝐋𝐢'𝐓𝐕频道",台湾*台视新闻
+https://litv.zapi.us.kg/?id=4gtv-4gtv051
+#EXTINF:-1 tvg-name="台湾*台视财经" tvg-logo="https://live.fanmingming.com/tv/台湾*台视财经.png" group-title="𝐋𝐢'𝐓𝐕频道",台湾*台视财经
+https://litv.zapi.us.kg/?id=4gtv-4gtv056
+#EXTINF:-1 tvg-name="台湾*华视" tvg-logo="https://live.fanmingming.com/tv/台湾*华视.png" group-title="𝐋𝐢'𝐓𝐕频道",台湾*华视
+https://litv.zapi.us.kg/?id=4gtv-4gtv041
+#EXTINF:-1 tvg-name="台湾*华视新闻" tvg-logo="https://live.fanmingming.com/tv/台湾*华视新闻.png" group-title="𝐋𝐢'𝐓𝐕频道",台湾*华视新闻
+https://litv.zapi.us.kg/?id=4gtv-4gtv052
+#EXTINF:-1 tvg-name="台湾*镜新闻" tvg-logo="https://live.fanmingming.com/tv/台湾*镜新闻.png" group-title="𝐋𝐢'𝐓𝐕频道",台湾*镜新闻
+https://litv.zapi.us.kg/?id=4gtv-4gtv075
+#EXTINF:-1 tvg-name="台湾*寰宇新闻台" tvg-logo="https://live.fanmingming.com/tv/台湾*寰宇新闻台.png" group-title="𝐋𝐢'𝐓𝐕频道",台湾*寰宇新闻台
+https://litv.zapi.us.kg/?id=litv-longturn14
+#EXTINF:-1 tvg-name="台湾*寰宇新闻台湾台" tvg-logo="https://live.fanmingming.com/tv/台湾*寰宇新闻台湾台.png" group-title="𝐋𝐢'𝐓𝐕频道",台湾*寰宇新闻台湾台
+https://litv.zapi.us.kg/?id=litv-longturn15
+#EXTINF:-1 tvg-name="台湾*龙华电影" tvg-logo="https://live.fanmingming.com/tv/台湾*龙华电影.png" group-title="𝐋𝐢'𝐓𝐕频道",台湾*龙华电影
+https://litv.zapi.us.kg/?id=litv-longturn03
+#EXTINF:-1 tvg-name="台湾*龙华戏剧" tvg-logo="https://live.fanmingming.com/tv/台湾*龙华戏剧.png" group-title="𝐋𝐢'𝐓𝐕频道",台湾*龙华戏剧
+https://litv.zapi.us.kg/?id=litv-longturn18
+#EXTINF:-1 tvg-name="台湾*龙华偶像" tvg-logo="https://live.fanmingming.com/tv/台湾*龙华偶像.png" group-title="𝐋𝐢'𝐓𝐕频道",台湾*龙华偶像
+https://litv.zapi.us.kg/?id=litv-longturn12
+#EXTINF:-1 tvg-name="台湾*龙华经典" tvg-logo="https://live.fanmingming.com/tv/台湾*龙华经典.png" group-title="𝐋𝐢'𝐓𝐕频道",台湾*龙华经典
+https://litv.zapi.us.kg/?id=litv-longturn21
+#EXTINF:-1 tvg-name="台湾*龙华日韩" tvg-logo="https://live.fanmingming.com/tv/台湾*龙华日韩.png" group-title="𝐋𝐢'𝐓𝐕频道",台湾*龙华日韩
+https://litv.zapi.us.kg/?id=litv-longturn11
+#EXTINF:-1 tvg-name="台湾*龙华卡通" tvg-logo="https://live.fanmingming.com/tv/台湾*龙华卡通.png" group-title="𝐋𝐢'𝐓𝐕频道",台湾*龙华卡通
+https://litv.zapi.us.kg/?id=litv-longturn01
+#EXTINF:-1 tvg-name="台湾*靖天综合台" tvg-logo="https://live.fanmingming.com/tv/台湾*靖天综合台.png" group-title="𝐋𝐢'𝐓𝐕频道",台湾*靖天综合台
+https://litv.zapi.us.kg/?id=4gtv-4gtv046
+#EXTINF:-1 tvg-name="台湾*靖天电影台" tvg-logo="https://live.fanmingming.com/tv/台湾*靖天电影台.png" group-title="𝐋𝐢'𝐓𝐕频道",台湾*靖天电影台
+https://litv.zapi.us.kg/?id=4gtv-4gtv061
+#EXTINF:-1 tvg-name="台湾*靖天戏剧台" tvg-logo="https://live.fanmingming.com/tv/台湾*靖天戏剧台.png" group-title="𝐋𝐢'𝐓𝐕频道",台湾*靖天戏剧台
+https://litv.zapi.us.kg/?id=4gtv-4gtv058
+#EXTINF:-1 tvg-name="台湾*靖天欢乐台" tvg-logo="https://live.fanmingming.com/tv/台湾*靖天欢乐台.png" group-title="𝐋𝐢'𝐓𝐕频道",台湾*靖天欢乐台
+https://litv.zapi.us.kg/?id=4gtv-4gtv054
+#EXTINF:-1 tvg-name="台湾*靖天映画" tvg-logo="https://live.fanmingming.com/tv/台湾*靖天映画.png" group-title="𝐋𝐢'𝐓𝐕频道",台湾*靖天映画
+https://litv.zapi.us.kg/?id=4gtv-4gtv055
+#EXTINF:-1 tvg-name="台湾*靖天育乐台" tvg-logo="https://live.fanmingming.com/tv/台湾*靖天育乐台.png" group-title="𝐋𝐢'𝐓𝐕频道",台湾*靖天育乐台
+https://litv.zapi.us.kg/?id=4gtv-4gtv062
+#EXTINF:-1 tvg-name="台湾*靖天日本台" tvg-logo="https://live.fanmingming.com/tv/台湾*靖天日本台.png" group-title="𝐋𝐢'𝐓𝐕频道",台湾*靖天日本台
+https://litv.zapi.us.kg/?id=4gtv-4gtv047
+#EXTINF:-1 tvg-name="台湾*靖天国际台" tvg-logo="https://live.fanmingming.com/tv/台湾*靖天国际台.png" group-title="𝐋𝐢'𝐓𝐕频道",台湾*靖天国际台
+https://litv.zapi.us.kg/?id=4gtv-4gtv063
+#EXTINF:-1 tvg-name="台湾*靖天资讯台" tvg-logo="https://live.fanmingming.com/tv/台湾*靖天资讯台.png" group-title="𝐋𝐢'𝐓𝐕频道",台湾*靖天资讯台
+https://litv.zapi.us.kg/?id=4gtv-4gtv065
+#EXTINF:-1 tvg-name="台湾*靖天卡通台" tvg-logo="https://live.fanmingming.com/tv/台湾*靖天卡通台.png" group-title="𝐋𝐢'𝐓𝐕频道",台湾*靖天卡通台
+https://litv.zapi.us.kg/?id=4gtv-4gtv044
+#EXTINF:-1 tvg-name="台湾*靖洋戏剧台" tvg-logo="https://live.fanmingming.com/tv/台湾*靖洋戏剧台.png" group-title="𝐋𝐢'𝐓𝐕频道",台湾*靖洋戏剧台
+https://litv.zapi.us.kg/?id=4gtv-4gtv045
+#EXTINF:-1 tvg-name="台湾*靖洋卡通台" tvg-logo="https://live.fanmingming.com/tv/台湾*靖洋卡通台.png" group-title="𝐋𝐢'𝐓𝐕频道",台湾*靖洋卡通台
+https://litv.zapi.us.kg/?id=4gtv-4gtv057
+#EXTINF:-1 tvg-name="台湾*八大精彩台" tvg-logo="https://live.fanmingming.com/tv/台湾*八大精彩台.png" group-title="𝐋𝐢'𝐓𝐕频道",台湾*八大精彩台
+https://litv.zapi.us.kg/?id=4gtv-4gtv034
+#EXTINF:-1 tvg-name="台湾*八大综艺台" tvg-logo="https://live.fanmingming.com/tv/台湾*八大综艺台.png" group-title="𝐋𝐢'𝐓𝐕频道",台湾*八大综艺台
+https://litv.zapi.us.kg/?id=4gtv-4gtv039
+#EXTINF:-1 tvg-name="台湾*采昌" tvg-logo="https://live.fanmingming.com/tv/台湾*采昌.png" group-title="𝐋𝐢'𝐓𝐕频道",台湾*采昌
+https://litv.zapi.us.kg/?id=4gtv-4gtv049
+#EXTINF:-1 tvg-name="台湾*台湾戏剧台" tvg-logo="https://live.fanmingming.com/tv/台湾*台湾戏剧台.png" group-title="𝐋𝐢'𝐓𝐕频道",台湾*台湾戏剧台
+https://litv.zapi.us.kg/?id=litv-longturn22
+#EXTINF:-1 tvg-name="台湾*公视戏剧" tvg-logo="https://live.fanmingming.com/tv/台湾*公视戏剧.png" group-title="𝐋𝐢'𝐓𝐕频道",台湾*公视戏剧
+https://litv.zapi.us.kg/?id=4gtv-4gtv042
+#EXTINF:-1 tvg-name="台湾*客家" tvg-logo="https://live.fanmingming.com/tv/台湾*客家.png" group-title="𝐋𝐢'𝐓𝐕频道",台湾*客家
+https://litv.zapi.us.kg/?id=4gtv-4gtv043
+#EXTINF:-1 tvg-name="台湾*好消息1" tvg-logo="https://live.fanmingming.com/tv/台湾*好消息1.png" group-title="𝐋𝐢'𝐓𝐕频道",台湾*好消息1
+https://litv.zapi.us.kg/?id=litv-ftv16
+#EXTINF:-1 tvg-name="台湾*好消息2" tvg-logo="https://live.fanmingming.com/tv/台湾*好消息2.png" group-title="𝐋𝐢'𝐓𝐕频道",台湾*好消息2
+https://litv.zapi.us.kg/?id=litv-ftv17
+#EXTINF:-1 tvg-name="台湾*爱放" tvg-logo="https://live.fanmingming.com/tv/台湾*爱放.png" group-title="𝐋𝐢'𝐓𝐕频道",台湾*爱放
+https://litv.zapi.us.kg/?id=litv-ftv15
+#EXTINF:-1 tvg-name="台湾*ELTA娱乐" tvg-logo="https://live.fanmingming.com/tv/台湾*ELTA娱乐.png" group-title="𝐋𝐢'𝐓𝐕频道",台湾*ELTA娱乐
+https://litv.zapi.us.kg/?id=4gtv-4gtv070
+#EXTINF:-1 tvg-name="台湾*SMART" tvg-logo="https://live.fanmingming.com/tv/台湾*SMART.png" group-title="𝐋𝐢'𝐓𝐕频道",台湾*SMART
+https://litv.zapi.us.kg/?id=litv-longturn19
+#EXTINF:-1 tvg-name="台湾*亚洲旅游台" tvg-logo="https://live.fanmingming.com/tv/台湾*亚洲旅游台.png" group-title="𝐋𝐢'𝐓𝐕频道",台湾*亚洲旅游台
+https://litv.zapi.us.kg/?id=litv-longturn17
+#EXTINF:-1 tvg-name="台湾*生活英语台" tvg-logo="https://live.fanmingming.com/tv/台湾*生活英语台.png" group-title="𝐋𝐢'𝐓𝐕频道",台湾*生活英语台
+https://litv.zapi.us.kg/?id=litv-longturn20
+#EXTINF:-1 tvg-name="台湾*国会频道1" tvg-logo="https://live.fanmingming.com/tv/台湾*国会频道1.png" group-title="𝐋𝐢'𝐓𝐕频道",台湾*国会频道1
+https://litv.zapi.us.kg/?id=4gtv-4gtv084
+#EXTINF:-1 tvg-name="台湾*国会频道2" tvg-logo="https://live.fanmingming.com/tv/台湾*国会频道2.png" group-title="𝐋𝐢'𝐓𝐕频道",台湾*国会频道2
+https://litv.zapi.us.kg/?id=4gtv-4gtv085
+#EXTINF:-1 tvg-name="台湾*博斯无限" tvg-logo="https://live.fanmingming.com/tv/台湾*博斯无限.png" group-title="𝐋𝐢'𝐓𝐕频道",台湾*博斯无限
+https://litv.zapi.us.kg/?id=litv-longturn10
+#EXTINF:-1 tvg-name="台湾*博斯无限2" tvg-logo="https://live.fanmingming.com/tv/台湾*博斯无限2.png" group-title="𝐋𝐢'𝐓𝐕频道",台湾*博斯无限2
+https://litv.zapi.us.kg/?id=litv-longturn13
+#EXTINF:-1 tvg-name="台湾*博斯网球" tvg-logo="https://live.fanmingming.com/tv/台湾*博斯网球.png" group-title="𝐋𝐢'𝐓𝐕频道",台湾*博斯网球
+https://litv.zapi.us.kg/?id=litv-longturn09
+#EXTINF:-1 tvg-name="台湾*博斯运动1" tvg-logo="https://live.fanmingming.com/tv/台湾*博斯运动1.png" group-title="𝐋𝐢'𝐓𝐕频道",台湾*博斯运动1
+https://litv.zapi.us.kg/?id=litv-longturn07
+#EXTINF:-1 tvg-name="台湾*博斯运动2" tvg-logo="https://live.fanmingming.com/tv/台湾*博斯运动2.png" group-title="𝐋𝐢'𝐓𝐕频道",台湾*博斯运动2
+https://litv.zapi.us.kg/?id=litv-longturn08
+#EXTINF:-1 tvg-name="台湾*博斯高球1" tvg-logo="https://live.fanmingming.com/tv/台湾*博斯高球1.png" group-title="𝐋𝐢'𝐓𝐕频道",台湾*博斯高球1
+https://litv.zapi.us.kg/?id=litv-longturn05
+#EXTINF:-1 tvg-name="台湾*博斯高球2" tvg-logo="https://live.fanmingming.com/tv/台湾*博斯高球2.png" group-title="𝐋𝐢'𝐓𝐕频道",台湾*博斯高球2
+https://litv.zapi.us.kg/?id=litv-longturn06
+#EXTINF:-1 tvg-name="台湾*博斯魅力" tvg-logo="https://live.fanmingming.com/tv/台湾*博斯魅力.png" group-title="𝐋𝐢'𝐓𝐕频道",台湾*博斯魅力
+https://litv.zapi.us.kg/?id=litv-longturn04
+#EXTINF:-1 tvg-name="台湾*智林体育台" tvg-logo="https://live.fanmingming.com/tv/台湾*智林体育台.png" group-title="𝐋𝐢'𝐓𝐕频道",台湾*智林体育台
+https://litv.zapi.us.kg/?id=4gtv-4gtv101
+#EXTINF:-1 tvg-name="台湾*影迷數位電影台" tvg-logo="https://live.fanmingming.com/tv/台湾*影迷數位電影台.png" group-title="𝐋𝐢'𝐓𝐕频道",台湾*影迷數位電影台
+https://litv.zapi.us.kg/?id=4gtv-4gtv011
+#EXTINF:-1 tvg-name="台湾*CATCHPLAY电影台" tvg-logo="https://live.fanmingming.com/tv/台湾*CATCHPLAY电影台.png" group-title="𝐋𝐢'𝐓𝐕频道",台湾*CATCHPLAY电影台
+https://litv.zapi.us.kg/?id=4gtv-4gtv076
+#EXTINF:-1 tvg-name="台湾*amc电影台" tvg-logo="https://live.fanmingming.com/tv/台湾*amc电影台.png" group-title="𝐋𝐢'𝐓𝐕频道",台湾*amc电影台
+https://litv.zapi.us.kg/?id=4gtv-4gtv017
 #EXTINF:-1 tvg-name="浙江卫视高清" tvg-logo="https://live.fanmingming.com/tv/浙江卫视高清.png" group-title="浙江频道ᵛ𝟰",浙江卫视高清
 http://60.186.79.1:6666/udp/233.50.201.100:5140
 #EXTINF:-1 tvg-name="浙江钱江高清" tvg-logo="https://live.fanmingming.com/tv/浙江钱江高清.png" group-title="浙江频道ᵛ𝟰",浙江钱江高清
