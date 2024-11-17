@@ -6,6 +6,7 @@ CCTV4,http://123.182.247.236:4433/tsfile/live/0004_1.m3u8?key=txiptv
 CCTV5,http://123.182.247.236:4433/tsfile/live/0005_1.m3u8?key=txiptv
 CCTV5+,http://123.182.247.236:4433/tsfile/live/0016_1.m3u8?key=txiptv
 CCTV6,http://123.182.247.236:4433/tsfile/live/0006_1.m3u8?key=txiptv
+CCTV6,http://dsk.cc/php/xxtv.php?id=cctv6
 CCTV7,http://123.182.247.236:4433/tsfile/live/0007_1.m3u8?key=txiptv
 CCTV8,http://123.182.247.236:4433/tsfile/live/0008_1.m3u8?key=txiptv
 CCTV9,http://123.182.247.236:4433/tsfile/live/0009_1.m3u8?key=txiptv
