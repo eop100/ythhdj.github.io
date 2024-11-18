@@ -1,3 +1,4 @@
+央卫综合ᵛ𝟰,#genre#
 CCTV-4-HEVC,http://192.168.0.156:35455/itv/1000000005000265004.m3u8?cdn=ystenlive
 cctv5-高码,http://192.168.0.156:35455/ysptp/cctv5.m3u8
 CCTV-5,http://192.168.0.156:35455/itv/1000000005000025222.m3u8?cdn=ystenlive
@@ -45,6 +46,7 @@ cctv4k,http://192.168.0.156:35455/ysptp/cctv4k.m3u8
 咪咕4K-1,http://192.168.0.156:35455/itv/3000000010000005180.m3u8?cdn=FifastbLive
 Love Nature 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 Loupe 4K,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
+数字频道ᵛ𝟰,#genre#
 NewTV-精品萌宠,http://192.168.0.156:35455/itv/1000000006000032328.m3u8?cdn=ystenlive
 NewTV-超级电视剧,http://192.168.0.156:35455/itv/1000000006000268003.m3u8?cdn=ystenlive
 NewTV-超级电影,http://192.168.0.156:35455/itv/1000000003000012426.m3u8?cdn=ystenlive
