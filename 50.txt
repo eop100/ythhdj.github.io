@@ -201,6 +201,27 @@ CCTV17,http://58.48.5.186:1111/tsfile/live/0017_1.m3u8?key=txiptv
 
 
 
+CCTV频道,#genre#
+CCTV1,http://home.918518.xyz:12121/ysptp/cctv1.m3u8
+CCTV2,http://home.918518.xyz:12121/ysptp/cctv2.m3u8
+CCTV3,http://home.918518.xyz:12121/ysptp/cctv3.m3u8
+CCTV4,http://home.918518.xyz:12121/ysptp/cctv4.m3u8
+CCTV5,http://home.918518.xyz:12121/ysptp/cctv5.m3u8
+CCTV5+,http://home.918518.xyz:12121/ysptp/cctv5p.m3u8
+CCTV6,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0&cdn=5202
+CCTV7,http://home.918518.xyz:12121/ysptp/cctv7.m3u8
+CCTV8,http://home.918518.xyz:12121/ysptp/cctv8.m3u8
+CCTV9,http://home.918518.xyz:12121/ysptp/cctv9.m3u8
+CCTV10,http://home.918518.xyz:12121/ysptp/cctv10.m3u8
+CCTV11,http://home.918518.xyz:12121/ysptp/cctv11.m3u8
+CCTV12,http://home.918518.xyz:12121/ysptp/cctv12.m3u8
+CCTV13,http://home.918518.xyz:12121/ysptp/cctv13.m3u8
+CCTV14,http://home.918518.xyz:12121/ysptp/cctv14.m3u8
+CCTV15,http://home.918518.xyz:12121/ysptp/cctv15.m3u8
+CCTV16,http://home.918518.xyz:12121/ysptp/cctv16.m3u8
+CCTV17,http://home.918518.xyz:12121/ysptp/cctv17.m3u8
+
+
 
 
 测试频道ᵛ𝟰,#genre#
