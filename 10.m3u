@@ -983,6 +983,42 @@ http://218.76.32.193:9901/tsfile/live/1018_1.m3u8?key=txiptv
 http://218.76.32.193:9901/tsfile/live/1019_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-name="动作电影" tvg-logo="https://live.fanmingming.com/tv/动作电影.png" group-title="央卫综合ᵛ𝟰",动作电影
 http://218.76.32.193:9901/tsfile/live/1020_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="CCTV频道",CCTV1
+http://home.918518.xyz:12121/ysptp/cctv1.m3u8
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="CCTV频道",CCTV2
+http://home.918518.xyz:12121/ysptp/cctv2.m3u8
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="CCTV频道",CCTV3
+http://home.918518.xyz:12121/ysptp/cctv3.m3u8
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="CCTV频道",CCTV4
+http://home.918518.xyz:12121/ysptp/cctv4.m3u8
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="CCTV频道",CCTV5
+http://home.918518.xyz:12121/ysptp/cctv5.m3u8
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="CCTV频道",CCTV5+
+http://home.918518.xyz:12121/ysptp/cctv5p.m3u8
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="CCTV频道",CCTV6
+http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0&cdn=5202
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="CCTV频道",CCTV7
+http://home.918518.xyz:12121/ysptp/cctv7.m3u8
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="CCTV频道",CCTV8
+http://home.918518.xyz:12121/ysptp/cctv8.m3u8
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="CCTV频道",CCTV9
+http://home.918518.xyz:12121/ysptp/cctv9.m3u8
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="CCTV频道",CCTV10
+http://home.918518.xyz:12121/ysptp/cctv10.m3u8
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="CCTV频道",CCTV11
+http://home.918518.xyz:12121/ysptp/cctv11.m3u8
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="CCTV频道",CCTV12
+http://home.918518.xyz:12121/ysptp/cctv12.m3u8
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="CCTV频道",CCTV13
+http://home.918518.xyz:12121/ysptp/cctv13.m3u8
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="CCTV频道",CCTV14
+http://home.918518.xyz:12121/ysptp/cctv14.m3u8
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="CCTV频道",CCTV15
+http://home.918518.xyz:12121/ysptp/cctv15.m3u8
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="CCTV频道",CCTV16
+http://home.918518.xyz:12121/ysptp/cctv16.m3u8
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="CCTV频道",CCTV17
+http://home.918518.xyz:12121/ysptp/cctv17.m3u8
 #EXTINF:-1 tvg-name="香港 卫视" tvg-logo="https://live.fanmingming.com/tv/香港 卫视.png" group-title="测试频道ᵛ𝟰",香港 卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png" group-title="测试频道ᵛ𝟰",凤凰资讯
@@ -2715,98 +2751,6 @@ http://111.13.111.242/000000001000/3000000010000027691/index.m3u8?channel-id=Fif
 http://111.13.111.242/000000001000/3000000010000031669/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
 #EXTINF:-1 tvg-name="咪咕直播-1-4K" tvg-logo="https://live.fanmingming.com/tv/咪咕直播-1-4K.png" group-title="咪咕体育ᵛ𝟰",咪咕直播-1-4K
 http://111.13.111.242/000000001000/3000000010000005180/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-#EXTINF:-1 tvg-name="枫枫玩具01集" tvg-logo="https://live.fanmingming.com/tv/枫枫玩具01集.png" group-title="少儿动画",枫枫玩具01集
-https://vip.ffzy-online1.com/20240412/46899_da98d18d/index.m3u8
-#EXTINF:-1 tvg-name="枫枫玩具02集" tvg-logo="https://live.fanmingming.com/tv/枫枫玩具02集.png" group-title="少儿动画",枫枫玩具02集
-https://vip.ffzy-online1.com/20240412/46898_d092af54/index.m3u8
-#EXTINF:-1 tvg-name="枫枫玩具03集" tvg-logo="https://live.fanmingming.com/tv/枫枫玩具03集.png" group-title="少儿动画",枫枫玩具03集
-https://vip.ffzy-online1.com/20240412/46901_b2cec1e9/index.m3u8
-#EXTINF:-1 tvg-name="枫枫玩具04集" tvg-logo="https://live.fanmingming.com/tv/枫枫玩具04集.png" group-title="少儿动画",枫枫玩具04集
-https://vip.ffzy-online1.com/20240412/46900_a44c77fd/index.m3u8
-#EXTINF:-1 tvg-name="枫枫玩具05集" tvg-logo="https://live.fanmingming.com/tv/枫枫玩具05集.png" group-title="少儿动画",枫枫玩具05集
-https://vip.ffzy-online1.com/20240412/46902_9b607f8b/index.m3u8
-#EXTINF:-1 tvg-name="枫枫玩具06集" tvg-logo="https://live.fanmingming.com/tv/枫枫玩具06集.png" group-title="少儿动画",枫枫玩具06集
-https://vip.ffzy-online1.com/20240412/46903_5f752f36/index.m3u8
-#EXTINF:-1 tvg-name="枫枫玩具07集" tvg-logo="https://live.fanmingming.com/tv/枫枫玩具07集.png" group-title="少儿动画",枫枫玩具07集
-https://vip.ffzy-online1.com/20240412/46905_9c12fc73/index.m3u8
-#EXTINF:-1 tvg-name="枫枫玩具08集" tvg-logo="https://live.fanmingming.com/tv/枫枫玩具08集.png" group-title="少儿动画",枫枫玩具08集
-https://vip.ffzy-online1.com/20240412/46904_efcde00a/index.m3u8
-#EXTINF:-1 tvg-name="枫枫玩具09集" tvg-logo="https://live.fanmingming.com/tv/枫枫玩具09集.png" group-title="少儿动画",枫枫玩具09集
-https://vip.ffzy-online1.com/20240412/46906_734db1c6/index.m3u8
-#EXTINF:-1 tvg-name="枫枫玩具10集" tvg-logo="https://live.fanmingming.com/tv/枫枫玩具10集.png" group-title="少儿动画",枫枫玩具10集
-https://vip.ffzy-online1.com/20240412/46907_2a398e57/index.m3u8
-#EXTINF:-1 tvg-name="枫枫玩具11集" tvg-logo="https://live.fanmingming.com/tv/枫枫玩具11集.png" group-title="少儿动画",枫枫玩具11集
-https://vip.ffzy-online1.com/20240412/46908_a5db9672/index.m3u8
-#EXTINF:-1 tvg-name="枫枫玩具12集" tvg-logo="https://live.fanmingming.com/tv/枫枫玩具12集.png" group-title="少儿动画",枫枫玩具12集
-https://vip.ffzy-online1.com/20240412/46909_7d1d4cce/index.m3u8
-#EXTINF:-1 tvg-name="枫枫玩具13集" tvg-logo="https://live.fanmingming.com/tv/枫枫玩具13集.png" group-title="少儿动画",枫枫玩具13集
-https://vip.ffzy-online1.com/20240412/46923_1be7ee3f/index.m3u8
-#EXTINF:-1 tvg-name="枫枫玩具14集" tvg-logo="https://live.fanmingming.com/tv/枫枫玩具14集.png" group-title="少儿动画",枫枫玩具14集
-https://vip.ffzy-online1.com/20240412/46925_716958cf/index.m3u8
-#EXTINF:-1 tvg-name="枫枫玩具15集" tvg-logo="https://live.fanmingming.com/tv/枫枫玩具15集.png" group-title="少儿动画",枫枫玩具15集
-https://vip.ffzy-online1.com/20240412/46926_5efac910/index.m3u8
-#EXTINF:-1 tvg-name="枫枫玩具16集" tvg-logo="https://live.fanmingming.com/tv/枫枫玩具16集.png" group-title="少儿动画",枫枫玩具16集
-https://vip.ffzy-online1.com/20240412/46924_0a671cbf/index.m3u8
-#EXTINF:-1 tvg-name="枫枫玩具17集" tvg-logo="https://live.fanmingming.com/tv/枫枫玩具17集.png" group-title="少儿动画",枫枫玩具17集
-https://vip.ffzy-online1.com/20240412/46930_4bae9c60/index.m3u8
-#EXTINF:-1 tvg-name="枫枫玩具18集" tvg-logo="https://live.fanmingming.com/tv/枫枫玩具18集.png" group-title="少儿动画",枫枫玩具18集
-https://vip.ffzy-online1.com/20240412/46929_12a02802/index.m3u8
-#EXTINF:-1 tvg-name="枫枫玩具19集" tvg-logo="https://live.fanmingming.com/tv/枫枫玩具19集.png" group-title="少儿动画",枫枫玩具19集
-https://vip.ffzy-online1.com/20240412/46928_e0fa5c65/index.m3u8
-#EXTINF:-1 tvg-name="枫枫玩具20集" tvg-logo="https://live.fanmingming.com/tv/枫枫玩具20集.png" group-title="少儿动画",枫枫玩具20集
-https://vip.ffzy-online1.com/20240412/46927_b431c773/index.m3u8
-#EXTINF:-1 tvg-name="音乐公主爱美莉01集" tvg-logo="https://live.fanmingming.com/tv/音乐公主爱美莉01集.png" group-title="少儿动画",音乐公主爱美莉01集
-https://v.cdnlz17.com/20231203/63516_e930fb3e/index.m3u8
-#EXTINF:-1 tvg-name="音乐公主爱美莉02集" tvg-logo="https://live.fanmingming.com/tv/音乐公主爱美莉02集.png" group-title="少儿动画",音乐公主爱美莉02集
-https://v.cdnlz17.com/20231203/63519_b68cacab/index.m3u8
-#EXTINF:-1 tvg-name="音乐公主爱美莉03集" tvg-logo="https://live.fanmingming.com/tv/音乐公主爱美莉03集.png" group-title="少儿动画",音乐公主爱美莉03集
-https://v.cdnlz17.com/20231203/63522_346fe075/index.m3u8
-#EXTINF:-1 tvg-name="音乐公主爱美莉04集" tvg-logo="https://live.fanmingming.com/tv/音乐公主爱美莉04集.png" group-title="少儿动画",音乐公主爱美莉04集
-https://v.cdnlz17.com/20231203/63521_1fb410ea/index.m3u8
-#EXTINF:-1 tvg-name="音乐公主爱美莉05集" tvg-logo="https://live.fanmingming.com/tv/音乐公主爱美莉05集.png" group-title="少儿动画",音乐公主爱美莉05集
-https://v.cdnlz17.com/20231203/63524_396e3acc/index.m3u8
-#EXTINF:-1 tvg-name="音乐公主爱美莉06集" tvg-logo="https://live.fanmingming.com/tv/音乐公主爱美莉06集.png" group-title="少儿动画",音乐公主爱美莉06集
-https://v.cdnlz17.com/20231203/63523_0095072b/index.m3u8
-#EXTINF:-1 tvg-name="音乐公主爱美莉07集" tvg-logo="https://live.fanmingming.com/tv/音乐公主爱美莉07集.png" group-title="少儿动画",音乐公主爱美莉07集
-https://v.cdnlz17.com/20231203/63525_e462fe61/index.m3u8
-#EXTINF:-1 tvg-name="音乐公主爱美莉08集" tvg-logo="https://live.fanmingming.com/tv/音乐公主爱美莉08集.png" group-title="少儿动画",音乐公主爱美莉08集
-https://v.cdnlz17.com/20231203/63526_dbdaa726/index.m3u8
-#EXTINF:-1 tvg-name="音乐公主爱美莉09集" tvg-logo="https://live.fanmingming.com/tv/音乐公主爱美莉09集.png" group-title="少儿动画",音乐公主爱美莉09集
-https://v.cdnlz17.com/20231203/63530_a4e20102/index.m3u8
-#EXTINF:-1 tvg-name="音乐公主爱美莉10集" tvg-logo="https://live.fanmingming.com/tv/音乐公主爱美莉10集.png" group-title="少儿动画",音乐公主爱美莉10集
-https://v.cdnlz17.com/20231203/63527_2d676873/index.m3u8
-#EXTINF:-1 tvg-name="音乐公主爱美莉11集" tvg-logo="https://live.fanmingming.com/tv/音乐公主爱美莉11集.png" group-title="少儿动画",音乐公主爱美莉11集
-https://v.cdnlz17.com/20231203/63528_c634292f/index.m3u8
-#EXTINF:-1 tvg-name="音乐公主爱美莉12集" tvg-logo="https://live.fanmingming.com/tv/音乐公主爱美莉12集.png" group-title="少儿动画",音乐公主爱美莉12集
-https://v.cdnlz17.com/20231203/63529_c06529b6/index.m3u8
-#EXTINF:-1 tvg-name="音乐公主爱美莉13集" tvg-logo="https://live.fanmingming.com/tv/音乐公主爱美莉13集.png" group-title="少儿动画",音乐公主爱美莉13集
-https://v.cdnlz17.com/20231203/63531_b9f47d3d/index.m3u8
-#EXTINF:-1 tvg-name="音乐公主爱美莉14集" tvg-logo="https://live.fanmingming.com/tv/音乐公主爱美莉14集.png" group-title="少儿动画",音乐公主爱美莉14集
-https://v.cdnlz17.com/20231203/63533_0b62450f/index.m3u8
-#EXTINF:-1 tvg-name="音乐公主爱美莉15集" tvg-logo="https://live.fanmingming.com/tv/音乐公主爱美莉15集.png" group-title="少儿动画",音乐公主爱美莉15集
-https://v.cdnlz17.com/20231203/63532_4482fd8f/index.m3u8
-#EXTINF:-1 tvg-name="音乐公主爱美莉16集" tvg-logo="https://live.fanmingming.com/tv/音乐公主爱美莉16集.png" group-title="少儿动画",音乐公主爱美莉16集
-https://v.cdnlz17.com/20231203/63535_ab20e233/index.m3u8
-#EXTINF:-1 tvg-name="音乐公主爱美莉17集" tvg-logo="https://live.fanmingming.com/tv/音乐公主爱美莉17集.png" group-title="少儿动画",音乐公主爱美莉17集
-https://v.cdnlz17.com/20231203/63534_6754d0fd/index.m3u8
-#EXTINF:-1 tvg-name="音乐公主爱美莉18集" tvg-logo="https://live.fanmingming.com/tv/音乐公主爱美莉18集.png" group-title="少儿动画",音乐公主爱美莉18集
-https://v.cdnlz17.com/20231203/63536_2f3af511/index.m3u8
-#EXTINF:-1 tvg-name="音乐公主爱美莉19集" tvg-logo="https://live.fanmingming.com/tv/音乐公主爱美莉19集.png" group-title="少儿动画",音乐公主爱美莉19集
-https://v.cdnlz17.com/20231203/63539_775b9e24/index.m3u8
-#EXTINF:-1 tvg-name="音乐公主爱美莉20集" tvg-logo="https://live.fanmingming.com/tv/音乐公主爱美莉20集.png" group-title="少儿动画",音乐公主爱美莉20集
-https://v.cdnlz17.com/20231203/63538_d44e5f5c/index.m3u8
-#EXTINF:-1 tvg-name="音乐公主爱美莉21集" tvg-logo="https://live.fanmingming.com/tv/音乐公主爱美莉21集.png" group-title="少儿动画",音乐公主爱美莉21集
-https://v.cdnlz17.com/20231203/63537_a8ff0230/index.m3u8
-#EXTINF:-1 tvg-name="音乐公主爱美莉22集" tvg-logo="https://live.fanmingming.com/tv/音乐公主爱美莉22集.png" group-title="少儿动画",音乐公主爱美莉22集
-https://v.cdnlz17.com/20231203/63540_317bdb8a/index.m3u8
-#EXTINF:-1 tvg-name="音乐公主爱美莉23集" tvg-logo="https://live.fanmingming.com/tv/音乐公主爱美莉23集.png" group-title="少儿动画",音乐公主爱美莉23集
-https://v.cdnlz17.com/20231203/63542_63173f59/index.m3u8
-#EXTINF:-1 tvg-name="音乐公主爱美莉24集" tvg-logo="https://live.fanmingming.com/tv/音乐公主爱美莉24集.png" group-title="少儿动画",音乐公主爱美莉24集
-https://v.cdnlz17.com/20231203/63543_7fca39ef/index.m3u8
-#EXTINF:-1 tvg-name="音乐公主爱美莉25集" tvg-logo="https://live.fanmingming.com/tv/音乐公主爱美莉25集.png" group-title="少儿动画",音乐公主爱美莉25集
-https://v.cdnlz17.com/20231203/63541_fa1a79e6/index.m3u8
-#EXTINF:-1 tvg-name="音乐公主爱美莉26集" tvg-logo="https://live.fanmingming.com/tv/音乐公主爱美莉26集.png" group-title="少儿动画",音乐公主爱美莉26集
-https://v.cdnlz17.com/20231203/63544_0a105da3/index.m3u8
 #EXTINF:-1 tvg-name="湖北经视" tvg-logo="https://live.fanmingming.com/tv/湖北经视.png" group-title="湖北频道ᵛ𝟰",湖北经视
 http://59.173.183.242:9901/tsfile/live/1000_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-name="湖北经视" tvg-logo="https://live.fanmingming.com/tv/湖北经视.png" group-title="湖北频道ᵛ𝟰",湖北经视
@@ -2857,252 +2801,6 @@ http://lmt.scqstv.com/live1/live1.m3u8?zsicd
 http://live.zmmek.com:90/live/zhxw.m3u8?zsicd
 #EXTINF:-1 tvg-name="龙泉驿新闻综合" tvg-logo="https://live.fanmingming.com/tv/龙泉驿新闻综合.png" group-title="四川频道ᵛ𝟰",龙泉驿新闻综合
 https://b1062f7b55454db2698371807994f44a.livehwc3.cn/live-pull.newslqy.com/live/fmzb1682404988829.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=99304eb19ef35216c9e8f35cdeb49c8b
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="辽宁广电ᵛ𝟰",CCTV-1HD
-http://120.76.248.139/live/bfgd/4200000484.m3u8
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="辽宁广电ᵛ𝟰",CCTV-2HD
-http://120.76.248.139/live/bfgd/4200000061.m3u8
-#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="辽宁广电ᵛ𝟰",CCTV-3HD
-http://120.76.248.139/live/bfgd/4200000062.m3u8
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="辽宁广电ᵛ𝟰",CCTV-4HD
-http://120.76.248.139/live/bfgd/4200000063.m3u8
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="辽宁广电ᵛ𝟰",CCTV-5HD
-http://120.76.248.139/live/bfgd/4200000064.m3u8
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="辽宁广电ᵛ𝟰",CCTV-5+HD
-http://120.76.248.139/live/bfgd/4200000246.m3u8
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="辽宁广电ᵛ𝟰",CCTV-6HD
-http://120.76.248.139/live/bfgd/4200000065.m3u8
-#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="辽宁广电ᵛ𝟰",CCTV-7HD
-http://120.76.248.139/live/bfgd/4200000127.m3u8
-#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="辽宁广电ᵛ𝟰",CCTV-8HD
-http://120.76.248.139/live/bfgd/4200000066.m3u8
-#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="辽宁广电ᵛ𝟰",CCTV-9HD
-http://120.76.248.139/live/bfgd/4200000128.m3u8
-#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="辽宁广电ᵛ𝟰",CCTV-10HD
-http://120.76.248.139/live/bfgd/4200000129.m3u8
-#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="辽宁广电ᵛ𝟰",CCTV-11HD
-http://120.76.248.139/live/bfgd/4200000130.m3u8
-#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="辽宁广电ᵛ𝟰",CCTV-12HD
-http://120.76.248.139/live/bfgd/4200000131.m3u8
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="辽宁广电ᵛ𝟰",CCTV-13HD
-http://120.76.248.139/live/bfgd/4200000067.m3u8
-#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="辽宁广电ᵛ𝟰",CCTV-14HD
-http://120.76.248.139/live/bfgd/4200000132.m3u8
-#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="辽宁广电ᵛ𝟰",CCTV-15HD
-http://120.76.248.139/live/bfgd/4200000133.m3u8
-#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="辽宁广电ᵛ𝟰",CCTV-17HD
-http://120.76.248.139/live/bfgd/4200000204.m3u8
-#EXTINF:-1 tvg-name="CGTN阿拉伯语" tvg-logo="https://live.fanmingming.com/tv/CGTN阿拉伯语.png" group-title="辽宁广电ᵛ𝟰",CGTN阿拉伯语
-http://120.76.248.139/live/bfgd/4200000308.m3u8
-#EXTINF:-1 tvg-name="CGTN西班牙语" tvg-logo="https://live.fanmingming.com/tv/CGTN西班牙语.png" group-title="辽宁广电ᵛ𝟰",CGTN西班牙语
-http://120.76.248.139/live/bfgd/4200000306.m3u8
-#EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://live.fanmingming.com/tv/CGTN法语.png" group-title="辽宁广电ᵛ𝟰",CGTN法语
-http://120.76.248.139/live/bfgd/4200000307.m3u8
-#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="辽宁广电ᵛ𝟰",CGTN
-http://120.76.248.139/live/bfgd/4200000134.m3u8
-#EXTINF:-1 tvg-name="CGTN俄罗斯语" tvg-logo="https://live.fanmingming.com/tv/CGTN俄罗斯语.png" group-title="辽宁广电ᵛ𝟰",CGTN俄罗斯语
-http://120.76.248.139/live/bfgd/4200000309.m3u8
-#EXTINF:-1 tvg-name="中国教育1" tvg-logo="https://live.fanmingming.com/tv/中国教育1.png" group-title="辽宁广电ᵛ𝟰",中国教育1
-http://120.76.248.139/live/bfgd/4200000135.m3u8
-#EXTINF:-1 tvg-name="中国教育2" tvg-logo="https://live.fanmingming.com/tv/中国教育2.png" group-title="辽宁广电ᵛ𝟰",中国教育2
-http://120.76.248.139/live/bfgd/4200000492.m3u8
-#EXTINF:-1 tvg-name="CHC华诚影视" tvg-logo="https://live.fanmingming.com/tv/CHC华诚影视.png" group-title="辽宁广电ᵛ𝟰",CHC华诚影视
-http://120.76.248.139/live/bfgd/4200000289.m3u8
-#EXTINF:-1 tvg-name="安徽卫视HD" tvg-logo="https://live.fanmingming.com/tv/安徽卫视HD.png" group-title="辽宁广电ᵛ𝟰",安徽卫视HD
-http://120.76.248.139/live/bfgd/4200000096.m3u8
-#EXTINF:-1 tvg-name="北京卫视HD" tvg-logo="https://live.fanmingming.com/tv/北京卫视HD.png" group-title="辽宁广电ᵛ𝟰",北京卫视HD
-http://120.76.248.139/live/bfgd/4200000083.m3u8
-#EXTINF:-1 tvg-name="北京|北京卡酷少儿" tvg-logo="https://live.fanmingming.com/tv/北京|北京卡酷少儿.png" group-title="辽宁广电ᵛ𝟰",北京|北京卡酷少儿
-http://120.76.248.139/live/bfgd/4200000106.m3u8
-#EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://live.fanmingming.com/tv/兵团卫视.png" group-title="辽宁广电ᵛ𝟰",兵团卫视
-http://120.76.248.139/live/bfgd/4200000124.m3u8
-#EXTINF:-1 tvg-name="北京|车迷频道" tvg-logo="https://live.fanmingming.com/tv/北京|车迷频道.png" group-title="辽宁广电ᵛ𝟰",北京|车迷频道
-http://120.76.248.139/live/bfgd/4200000146.m3u8
-#EXTINF:-1 tvg-name="重庆|重庆汽摩" tvg-logo="https://live.fanmingming.com/tv/重庆|重庆汽摩.png" group-title="辽宁广电ᵛ𝟰",重庆|重庆汽摩
-http://120.76.248.139/live/bfgd/4200000168.m3u8
-#EXTINF:-1 tvg-name="重庆卫视HD" tvg-logo="https://live.fanmingming.com/tv/重庆卫视HD.png" group-title="辽宁广电ᵛ𝟰",重庆卫视HD
-http://120.76.248.139/live/bfgd/4200000107.m3u8
-#EXTINF:-1 tvg-name="重温经典" tvg-logo="https://live.fanmingming.com/tv/重温经典.png" group-title="辽宁广电ᵛ𝟰",重温经典
-http://120.76.248.139/live/bfgd/4200000635.m3u8
-#EXTINF:-1 tvg-name="东方卫视HD" tvg-logo="https://live.fanmingming.com/tv/东方卫视HD.png" group-title="辽宁广电ᵛ𝟰",东方卫视HD
-http://120.76.248.139/live/bfgd/4200000093.m3u8
-#EXTINF:-1 tvg-name="东南卫视HD" tvg-logo="https://live.fanmingming.com/tv/东南卫视HD.png" group-title="辽宁广电ᵛ𝟰",东南卫视HD
-http://120.76.248.139/live/bfgd/4200000483.m3u8
-#EXTINF:-1 tvg-name="CCTV-电视指南" tvg-logo="https://live.fanmingming.com/tv/CCTV-电视指南.png" group-title="辽宁广电ᵛ𝟰",CCTV-电视指南
-http://120.76.248.139/live/bfgd/4200000164.m3u8
-#EXTINF:-1 tvg-name="中央新影-发现之旅" tvg-logo="https://live.fanmingming.com/tv/中央新影-发现之旅.png" group-title="辽宁广电ᵛ𝟰",中央新影-发现之旅
-http://120.76.248.139/live/bfgd/4200000151.m3u8
-#EXTINF:-1 tvg-name="CCTV-风云足球" tvg-logo="https://live.fanmingming.com/tv/CCTV-风云足球.png" group-title="辽宁广电ᵛ𝟰",CCTV-风云足球
-http://120.76.248.139/live/bfgd/4200000225.m3u8
-#EXTINF:-1 tvg-name="上海|法治天地" tvg-logo="https://live.fanmingming.com/tv/上海|法治天地.png" group-title="辽宁广电ᵛ𝟰",上海|法治天地
-http://120.76.248.139/live/bfgd/4200000162.m3u8
-#EXTINF:-1 tvg-name="广东卫视HD" tvg-logo="https://live.fanmingming.com/tv/广东卫视HD.png" group-title="辽宁广电ᵛ𝟰",广东卫视HD
-http://120.76.248.139/live/bfgd/4200000092.m3u8
-#EXTINF:-1 tvg-name="甘肃卫视HD" tvg-logo="https://live.fanmingming.com/tv/甘肃卫视HD.png" group-title="辽宁广电ᵛ𝟰",甘肃卫视HD
-http://120.76.248.139/live/bfgd/4200000119.m3u8
-#EXTINF:-1 tvg-name="河南|国学频道" tvg-logo="https://live.fanmingming.com/tv/河南|国学频道.png" group-title="辽宁广电ᵛ𝟰",河南|国学频道
-http://120.76.248.139/live/bfgd/4200000169.m3u8
-#EXTINF:-1 tvg-name="广西卫视HD" tvg-logo="https://live.fanmingming.com/tv/广西卫视HD.png" group-title="辽宁广电ᵛ𝟰",广西卫视HD
-http://120.76.248.139/live/bfgd/4200000116.m3u8
-#EXTINF:-1 tvg-name="贵州|天元围棋" tvg-logo="https://live.fanmingming.com/tv/贵州|天元围棋.png" group-title="辽宁广电ᵛ𝟰",贵州|天元围棋
-http://120.76.248.139/live/bfgd/4200000633.m3u8
-#EXTINF:-1 tvg-name="贵州卫视HD" tvg-logo="https://live.fanmingming.com/tv/贵州卫视HD.png" group-title="辽宁广电ᵛ𝟰",贵州卫视HD
-http://120.76.248.139/live/bfgd/4200000101.m3u8
-#EXTINF:-1 tvg-name="河南卫视HD" tvg-logo="https://live.fanmingming.com/tv/河南卫视HD.png" group-title="辽宁广电ᵛ𝟰",河南卫视HD
-http://120.76.248.139/live/bfgd/4200000339.m3u8
-#EXTINF:-1 tvg-name="湖北卫视HD" tvg-logo="https://live.fanmingming.com/tv/湖北卫视HD.png" group-title="辽宁广电ᵛ𝟰",湖北卫视HD
-http://120.76.248.139/live/bfgd/4200000102.m3u8
-#EXTINF:-1 tvg-name="河北卫视HD" tvg-logo="https://live.fanmingming.com/tv/河北卫视HD.png" group-title="辽宁广电ᵛ𝟰",河北卫视HD
-http://120.76.248.139/live/bfgd/4200000108.m3u8
-#EXTINF:-1 tvg-name="CCTV-怀旧剧场" tvg-logo="https://live.fanmingming.com/tv/CCTV-怀旧剧场.png" group-title="辽宁广电ᵛ𝟰",CCTV-怀旧剧场
-http://120.76.248.139/live/bfgd/4200000224.m3u8
-#EXTINF:-1 tvg-name="黑龙江卫视HD" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视HD.png" group-title="辽宁广电ᵛ𝟰",黑龙江卫视HD
-http://120.76.248.139/live/bfgd/4200000095.m3u8
-#EXTINF:-1 tvg-name="湖南|茶频道" tvg-logo="https://live.fanmingming.com/tv/湖南|茶频道.png" group-title="辽宁广电ᵛ𝟰",湖南|茶频道
-http://120.76.248.139/live/bfgd/4200000181.m3u8
-#EXTINF:-1 tvg-name="湖南|金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/湖南|金鹰卡通.png" group-title="辽宁广电ᵛ𝟰",湖南|金鹰卡通
-http://120.76.248.139/live/bfgd/4200000350.m3u8
-#EXTINF:-1 tvg-name="湖南|快乐垂钓" tvg-logo="https://live.fanmingming.com/tv/湖南|快乐垂钓.png" group-title="辽宁广电ᵛ𝟰",湖南|快乐垂钓
-http://120.76.248.139/live/bfgd/4200000228.m3u8
-#EXTINF:-1 tvg-name="湖南卫视HD" tvg-logo="https://live.fanmingming.com/tv/湖南卫视HD.png" group-title="辽宁广电ᵛ𝟰",湖南卫视HD
-http://120.76.248.139/live/bfgd/4200000086.m3u8
-#EXTINF:-1 tvg-name="湖南|先锋乒羽" tvg-logo="https://live.fanmingming.com/tv/湖南|先锋乒羽.png" group-title="辽宁广电ᵛ𝟰",湖南|先锋乒羽
-http://120.76.248.139/live/bfgd/4200000349.m3u8
-#EXTINF:-1 tvg-name="北京|环球旅游" tvg-logo="https://live.fanmingming.com/tv/北京|环球旅游.png" group-title="辽宁广电ᵛ𝟰",北京|环球旅游
-http://120.76.248.139/live/bfgd/4200000147.m3u8
-#EXTINF:-1 tvg-name="吉林卫视HD" tvg-logo="https://live.fanmingming.com/tv/吉林卫视HD.png" group-title="辽宁广电ᵛ𝟰",吉林卫视HD
-http://120.76.248.139/live/bfgd/4200000097.m3u8
-#EXTINF:-1 tvg-name="江苏|财富天下" tvg-logo="https://live.fanmingming.com/tv/江苏|财富天下.png" group-title="辽宁广电ᵛ𝟰",江苏|财富天下
-http://120.76.248.139/live/bfgd/4200000231.m3u8
-#EXTINF:-1 tvg-name="江苏卫视HD" tvg-logo="https://live.fanmingming.com/tv/江苏卫视HD.png" group-title="辽宁广电ᵛ𝟰",江苏卫视HD
-http://120.76.248.139/live/bfgd/4200000085.m3u8
-#EXTINF:-1 tvg-name="江西卫视HD" tvg-logo="https://live.fanmingming.com/tv/江西卫视HD.png" group-title="辽宁广电ᵛ𝟰",江西卫视HD
-http://120.76.248.139/live/bfgd/4200000098.m3u8
-#EXTINF:-1 tvg-name="中央新影-老故事" tvg-logo="https://live.fanmingming.com/tv/中央新影-老故事.png" group-title="辽宁广电ᵛ𝟰",中央新影-老故事
-http://120.76.248.139/live/bfgd/4200000166.m3u8
-#EXTINF:-1 tvg-name="辽宁|鞍山新闻综合" tvg-logo="https://live.fanmingming.com/tv/辽宁|鞍山新闻综合.png" group-title="辽宁广电ᵛ𝟰",辽宁|鞍山新闻综合
-http://120.76.248.139/live/bfgd/4200000274.m3u8
-#EXTINF:-1 tvg-name="辽宁|辽宁北方" tvg-logo="https://live.fanmingming.com/tv/辽宁|辽宁北方.png" group-title="辽宁广电ᵛ𝟰",辽宁|辽宁北方
-http://120.76.248.139/live/bfgd/4200000071.m3u8
-#EXTINF:-1 tvg-name="辽宁|本溪新闻频道" tvg-logo="https://live.fanmingming.com/tv/辽宁|本溪新闻频道.png" group-title="辽宁广电ᵛ𝟰",辽宁|本溪新闻频道
-http://120.76.248.139/live/bfgd/4200000312.m3u8
-#EXTINF:-1 tvg-name="辽宁|朝阳新闻综合" tvg-logo="https://live.fanmingming.com/tv/辽宁|朝阳新闻综合.png" group-title="辽宁广电ᵛ𝟰",辽宁|朝阳新闻综合
-http://120.76.248.139/live/bfgd/4200000282.m3u8
-#EXTINF:-1 tvg-name="辽宁|辽宁导视" tvg-logo="https://live.fanmingming.com/tv/辽宁|辽宁导视.png" group-title="辽宁广电ᵛ𝟰",辽宁|辽宁导视
-http://120.76.248.139/live/bfgd/4200000187.m3u8
-#EXTINF:-1 tvg-name="辽宁|丹东新闻综合" tvg-logo="https://live.fanmingming.com/tv/辽宁|丹东新闻综合.png" group-title="辽宁广电ᵛ𝟰",辽宁|丹东新闻综合
-http://120.76.248.139/live/bfgd/4200000276.m3u8
-#EXTINF:-1 tvg-name="辽宁|大连新闻综合" tvg-logo="https://live.fanmingming.com/tv/辽宁|大连新闻综合.png" group-title="辽宁广电ᵛ𝟰",辽宁|大连新闻综合
-http://120.76.248.139/live/bfgd/4200000273.m3u8
-#EXTINF:-1 tvg-name="辽宁|辽宁都市" tvg-logo="https://live.fanmingming.com/tv/辽宁|辽宁都市.png" group-title="辽宁广电ᵛ𝟰",辽宁|辽宁都市
-http://120.76.248.139/live/bfgd/4200000610.m3u8
-#EXTINF:-1 tvg-name="辽宁|抚顺新闻综合" tvg-logo="https://live.fanmingming.com/tv/辽宁|抚顺新闻综合.png" group-title="辽宁广电ᵛ𝟰",辽宁|抚顺新闻综合
-http://120.76.248.139/live/bfgd/4200000275.m3u8
-#EXTINF:-1 tvg-name="辽宁|阜新新闻综合" tvg-logo="https://live.fanmingming.com/tv/辽宁|阜新新闻综合.png" group-title="辽宁广电ᵛ𝟰",辽宁|阜新新闻综合
-http://120.76.248.139/live/bfgd/4200000279.m3u8
-#EXTINF:-1 tvg-name="辽宁|辽宁公共" tvg-logo="https://live.fanmingming.com/tv/辽宁|辽宁公共.png" group-title="辽宁广电ᵛ𝟰",辽宁|辽宁公共
-http://120.76.248.139/live/bfgd/4200000481.m3u8
-#EXTINF:-1 tvg-name="辽宁|葫芦岛新闻综合" tvg-logo="https://live.fanmingming.com/tv/辽宁|葫芦岛新闻综合.png" group-title="辽宁广电ᵛ𝟰",辽宁|葫芦岛新闻综合
-http://120.76.248.139/live/bfgd/4200000284.m3u8
-#EXTINF:-1 tvg-name="辽宁|龙港综合" tvg-logo="https://live.fanmingming.com/tv/辽宁|龙港综合.png" group-title="辽宁广电ᵛ𝟰",辽宁|龙港综合
-http://120.76.248.139/live/bfgd/4200000490.m3u8
-#EXTINF:-1 tvg-name="辽宁|连山综合" tvg-logo="https://live.fanmingming.com/tv/辽宁|连山综合.png" group-title="辽宁广电ᵛ𝟰",辽宁|连山综合
-http://120.76.248.139/live/bfgd/4200000491.m3u8
-#EXTINF:-1 tvg-name="辽宁|辽宁经济" tvg-logo="https://live.fanmingming.com/tv/辽宁|辽宁经济.png" group-title="辽宁广电ᵛ𝟰",辽宁|辽宁经济
-http://120.76.248.139/live/bfgd/4200000076.m3u8
-#EXTINF:-1 tvg-name="辽宁|辽宁教育青少" tvg-logo="https://live.fanmingming.com/tv/辽宁|辽宁教育青少.png" group-title="辽宁广电ᵛ𝟰",辽宁|辽宁教育青少
-http://120.76.248.139/live/bfgd/4200000075.m3u8
-#EXTINF:-1 tvg-name="辽宁|锦州新闻综合" tvg-logo="https://live.fanmingming.com/tv/辽宁|锦州新闻综合.png" group-title="辽宁广电ᵛ𝟰",辽宁|锦州新闻综合
-http://120.76.248.139/live/bfgd/4200000277.m3u8
-#EXTINF:-1 tvg-name="辽宁|辽阳新闻综合" tvg-logo="https://live.fanmingming.com/tv/辽宁|辽阳新闻综合.png" group-title="辽宁广电ᵛ𝟰",辽宁|辽阳新闻综合
-http://120.76.248.139/live/bfgd/4200000280.m3u8
-#EXTINF:-1 tvg-name="辽宁|盘锦新闻综合" tvg-logo="https://live.fanmingming.com/tv/辽宁|盘锦新闻综合.png" group-title="辽宁广电ᵛ𝟰",辽宁|盘锦新闻综合
-http://120.76.248.139/live/bfgd/4200000283.m3u8
-#EXTINF:-1 tvg-name="辽宁|辽宁生活" tvg-logo="https://live.fanmingming.com/tv/辽宁|辽宁生活.png" group-title="辽宁广电ᵛ𝟰",辽宁|辽宁生活
-http://120.76.248.139/live/bfgd/4200000073.m3u8
-#EXTINF:-1 tvg-name="辽宁|沈阳新闻" tvg-logo="https://live.fanmingming.com/tv/辽宁|沈阳新闻.png" group-title="辽宁广电ᵛ𝟰",辽宁|沈阳新闻
-http://120.76.248.139/live/bfgd/4200000059.m3u8
-#EXTINF:-1 tvg-name="辽宁|铁岭综合频道" tvg-logo="https://live.fanmingming.com/tv/辽宁|铁岭综合频道.png" group-title="辽宁广电ᵛ𝟰",辽宁|铁岭综合频道
-http://120.76.248.139/live/bfgd/4200000281.m3u8
-#EXTINF:-1 tvg-name="辽宁|辽宁体育" tvg-logo="https://live.fanmingming.com/tv/辽宁|辽宁体育.png" group-title="辽宁广电ᵛ𝟰",辽宁|辽宁体育
-http://120.76.248.139/live/bfgd/4200000611.m3u8
-#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png" group-title="辽宁广电ᵛ𝟰",辽宁卫视
-http://120.76.248.139/live/bfgd/4200000141.m3u8
-#EXTINF:-1 tvg-name="辽宁|营口新闻频道" tvg-logo="https://live.fanmingming.com/tv/辽宁|营口新闻频道.png" group-title="辽宁广电ᵛ𝟰",辽宁|营口新闻频道
-http://120.76.248.139/live/bfgd/4200000278.m3u8
-#EXTINF:-1 tvg-name="辽宁|辽宁影视剧" tvg-logo="https://live.fanmingming.com/tv/辽宁|辽宁影视剧.png" group-title="辽宁广电ᵛ𝟰",辽宁|辽宁影视剧
-http://120.76.248.139/live/bfgd/4200000070.m3u8
-#EXTINF:-1 tvg-name="海南卫视HD" tvg-logo="https://live.fanmingming.com/tv/海南卫视HD.png" group-title="辽宁广电ᵛ𝟰",海南卫视HD
-http://120.76.248.139/live/bfgd/4200000473.m3u8
-#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png" group-title="辽宁广电ᵛ𝟰",内蒙古卫视
-http://120.76.248.139/live/bfgd/4200000110.m3u8
-#EXTINF:-1 tvg-name="CCTV-女性时尚" tvg-logo="https://live.fanmingming.com/tv/CCTV-女性时尚.png" group-title="辽宁广电ᵛ𝟰",CCTV-女性时尚
-http://120.76.248.139/live/bfgd/4200000176.m3u8
-#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://live.fanmingming.com/tv/宁夏卫视.png" group-title="辽宁广电ᵛ𝟰",宁夏卫视
-http://120.76.248.139/live/bfgd/4200000118.m3u8
-#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://live.fanmingming.com/tv/青海卫视.png" group-title="辽宁广电ᵛ𝟰",青海卫视
-http://120.76.248.139/live/bfgd/4200000111.m3u8
-#EXTINF:-1 tvg-name="山东|收藏天下" tvg-logo="https://live.fanmingming.com/tv/山东|收藏天下.png" group-title="辽宁广电ᵛ𝟰",山东|收藏天下
-http://120.76.248.139/live/bfgd/4200000155.m3u8
-#EXTINF:-1 tvg-name="四川卫视HD" tvg-logo="https://live.fanmingming.com/tv/四川卫视HD.png" group-title="辽宁广电ᵛ𝟰",四川卫视HD
-http://120.76.248.139/live/bfgd/4200000103.m3u8
-#EXTINF:-1 tvg-name="山东教育卫视" tvg-logo="https://live.fanmingming.com/tv/山东教育卫视.png" group-title="辽宁广电ᵛ𝟰",山东教育卫视
-http://120.76.248.139/live/bfgd/4200000112.m3u8
-#EXTINF:-1 tvg-name="山东卫视HD" tvg-logo="https://live.fanmingming.com/tv/山东卫视HD.png" group-title="辽宁广电ᵛ𝟰",山东卫视HD
-http://120.76.248.139/live/bfgd/4200000099.m3u8
-#EXTINF:-1 tvg-name="北京|四海钓鱼" tvg-logo="https://live.fanmingming.com/tv/北京|四海钓鱼.png" group-title="辽宁广电ᵛ𝟰",北京|四海钓鱼
-http://120.76.248.139/live/bfgd/4200000229.m3u8
-#EXTINF:-1 tvg-name="书画频道" tvg-logo="https://live.fanmingming.com/tv/书画频道.png" group-title="辽宁广电ᵛ𝟰",书画频道
-http://120.76.248.139/live/bfgd/4200000180.m3u8
-#EXTINF:-1 tvg-name="CCTV-世界地理" tvg-logo="https://live.fanmingming.com/tv/CCTV-世界地理.png" group-title="辽宁广电ᵛ𝟰",CCTV-世界地理
-http://120.76.248.139/live/bfgd/4200000177.m3u8
-#EXTINF:-1 tvg-name="农林卫视" tvg-logo="https://live.fanmingming.com/tv/农林卫视.png" group-title="辽宁广电ᵛ𝟰",农林卫视
-http://120.76.248.139/live/bfgd/4200000122.m3u8
-#EXTINF:-1 tvg-name="陕西卫视HD" tvg-logo="https://live.fanmingming.com/tv/陕西卫视HD.png" group-title="辽宁广电ᵛ𝟰",陕西卫视HD
-http://120.76.248.139/live/bfgd/4200000512.m3u8
-#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="辽宁广电ᵛ𝟰",山西卫视
-http://120.76.248.139/live/bfgd/4200000109.m3u8
-#EXTINF:-1 tvg-name="深圳卫视HD" tvg-logo="https://live.fanmingming.com/tv/深圳卫视HD.png" group-title="辽宁广电ᵛ𝟰",深圳卫视HD
-http://120.76.248.139/live/bfgd/4200000100.m3u8
-#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://live.fanmingming.com/tv/新疆卫视.png" group-title="辽宁广电ᵛ𝟰",新疆卫视
-http://120.76.248.139/live/bfgd/4200000150.m3u8
-#EXTINF:-1 tvg-name="上海|新视觉HD" tvg-logo="https://live.fanmingming.com/tv/上海|新视觉HD.png" group-title="辽宁广电ᵛ𝟰",上海|新视觉HD
-http://120.76.248.139/live/bfgd/4200000249.m3u8
-#EXTINF:-1 tvg-name="北京|生态环境频道" tvg-logo="https://live.fanmingming.com/tv/北京|生态环境频道.png" group-title="辽宁广电ᵛ𝟰",北京|生态环境频道
-http://120.76.248.139/live/bfgd/4200000149.m3u8
-#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://live.fanmingming.com/tv/西藏卫视.png" group-title="辽宁广电ᵛ𝟰",西藏卫视
-http://120.76.248.139/live/bfgd/4200000121.m3u8
-#EXTINF:-1 tvg-name="延边卫视" tvg-logo="https://live.fanmingming.com/tv/延边卫视.png" group-title="辽宁广电ᵛ𝟰",延边卫视
-http://120.76.248.139/live/bfgd/4200000117.m3u8
-#EXTINF:-1 tvg-name="云南卫视HD" tvg-logo="https://live.fanmingming.com/tv/云南卫视HD.png" group-title="辽宁广电ᵛ𝟰",云南卫视HD
-http://120.76.248.139/live/bfgd/4200000482.m3u8
-#EXTINF:-1 tvg-name="北京|优优宝贝" tvg-logo="https://live.fanmingming.com/tv/北京|优优宝贝.png" group-title="辽宁广电ᵛ𝟰",北京|优优宝贝
-http://120.76.248.139/live/bfgd/4200000153.m3u8
-#EXTINF:-1 tvg-name="北京|中华特产" tvg-logo="https://live.fanmingming.com/tv/北京|中华特产.png" group-title="辽宁广电ᵛ𝟰",北京|中华特产
-http://120.76.248.139/live/bfgd/4200000158.m3u8
-#EXTINF:-1 tvg-name="浙江卫视HD" tvg-logo="https://live.fanmingming.com/tv/浙江卫视HD.png" group-title="辽宁广电ᵛ𝟰",浙江卫视HD
-http://120.76.248.139/live/bfgd/4200000094.m3u8
-#EXTINF:-1 tvg-name="甘肃|纪录片" tvg-logo="https://live.fanmingming.com/tv/甘肃|纪录片.png" group-title="辽宁广电ᵛ𝟰",甘肃|纪录片
-http://120.76.248.139/live/bfgd/4200000615.m3u8
-#EXTINF:-1 tvg-name="甘肃|纪录片" tvg-logo="https://live.fanmingming.com/tv/甘肃|纪录片.png" group-title="辽宁广电ᵛ𝟰",甘肃|纪录片
-http://120.76.248.139/live/bfgd/4200000286.m3u8
-#EXTINF:-1 tvg-name="甘肃|纪录片" tvg-logo="https://live.fanmingming.com/tv/甘肃|纪录片.png" group-title="辽宁广电ᵛ𝟰",甘肃|纪录片
-http://120.76.248.139/live/bfgd/4200000287.m3u8
-#EXTINF:-1 tvg-name="甘肃|纪录片" tvg-logo="https://live.fanmingming.com/tv/甘肃|纪录片.png" group-title="辽宁广电ᵛ𝟰",甘肃|纪录片
-http://120.76.248.139/live/bfgd/4200000288.m3u8
-#EXTINF:-1 tvg-name="甘肃|轮播1" tvg-logo="https://live.fanmingming.com/tv/甘肃|轮播1.png" group-title="辽宁广电ᵛ𝟰",甘肃|轮播1
-http://120.76.248.139/live/bfgd/4200000290.m3u8
-#EXTINF:-1 tvg-name="甘肃|轮播2" tvg-logo="https://live.fanmingming.com/tv/甘肃|轮播2.png" group-title="辽宁广电ᵛ𝟰",甘肃|轮播2
-http://120.76.248.139/live/bfgd/4200000291.m3u8
-#EXTINF:-1 tvg-name="甘肃|轮播3" tvg-logo="https://live.fanmingming.com/tv/甘肃|轮播3.png" group-title="辽宁广电ᵛ𝟰",甘肃|轮播3
-http://120.76.248.139/live/bfgd/4200000292.m3u8
-#EXTINF:-1 tvg-name="甘肃|轮播4" tvg-logo="https://live.fanmingming.com/tv/甘肃|轮播4.png" group-title="辽宁广电ᵛ𝟰",甘肃|轮播4
-http://120.76.248.139/live/bfgd/4200000293.m3u8
-#EXTINF:-1 tvg-name="甘肃|轮播5" tvg-logo="https://live.fanmingming.com/tv/甘肃|轮播5.png" group-title="辽宁广电ᵛ𝟰",甘肃|轮播5
-http://120.76.248.139/live/bfgd/4200000295.m3u8
-#EXTINF:-1 tvg-name="甘肃|轮播6" tvg-logo="https://live.fanmingming.com/tv/甘肃|轮播6.png" group-title="辽宁广电ᵛ𝟰",甘肃|轮播6
-http://120.76.248.139/live/bfgd/4200000296.m3u8
-#EXTINF:-1 tvg-name="甘肃|轮播7" tvg-logo="https://live.fanmingming.com/tv/甘肃|轮播7.png" group-title="辽宁广电ᵛ𝟰",甘肃|轮播7
-http://120.76.248.139/live/bfgd/4200000297.m3u8
 #EXTINF:-1 tvg-name="青田电视台" tvg-logo="https://live.fanmingming.com/tv/青田电视台.png" group-title="地方台ᵛ𝟰",青田电视台
 http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
 #EXTINF:-1 tvg-name="诸暨新闻综合" tvg-logo="https://live.fanmingming.com/tv/诸暨新闻综合.png" group-title="地方台ᵛ𝟰",诸暨新闻综合
@@ -3567,6 +3265,58 @@ http://live.0359tv.com/lsdream/t667aTY/1000/live.m3u8
 http://live.0359tv.com/lsdream/p5eq48m/1000/live.m3u8
 #EXTINF:-1 tvg-name="运城新闻" tvg-logo="https://live.fanmingming.com/tv/运城新闻.png" group-title="地方台ᵛ𝟰",运城新闻
 http://live.0359tv.com/lsdream/ss4Lj11/1000/live.m3u8
+#EXTINF:-1 tvg-name="埋堆堆1" tvg-logo="https://live.fanmingming.com/tv/埋堆堆1.png" group-title="埋堆堆",埋堆堆1
+http://120.77.28.4:8648/huya.php?id=23740156
+#EXTINF:-1 tvg-name="埋堆堆2" tvg-logo="https://live.fanmingming.com/tv/埋堆堆2.png" group-title="埋堆堆",埋堆堆2
+http://120.77.28.4:8648/huya.php?id=23749096
+#EXTINF:-1 tvg-name="埋堆堆3" tvg-logo="https://live.fanmingming.com/tv/埋堆堆3.png" group-title="埋堆堆",埋堆堆3
+http://120.77.28.4:8648/huya.php?id=23735126
+#EXTINF:-1 tvg-name="埋堆堆4" tvg-logo="https://live.fanmingming.com/tv/埋堆堆4.png" group-title="埋堆堆",埋堆堆4
+http://120.77.28.4:8648/huya.php?id=23903123
+#EXTINF:-1 tvg-name="埋堆堆5" tvg-logo="https://live.fanmingming.com/tv/埋堆堆5.png" group-title="埋堆堆",埋堆堆5
+http://120.77.28.4:8648/huya.php?id=23734169
+#EXTINF:-1 tvg-name="埋堆堆6" tvg-logo="https://live.fanmingming.com/tv/埋堆堆6.png" group-title="埋堆堆",埋堆堆6
+http://120.77.28.4:8648/huya.php?id=23863804
+#EXTINF:-1 tvg-name="埋堆堆7" tvg-logo="https://live.fanmingming.com/tv/埋堆堆7.png" group-title="埋堆堆",埋堆堆7
+http://120.77.28.4:8648/huya.php?id=23865080
+#EXTINF:-1 tvg-name="埋堆堆8" tvg-logo="https://live.fanmingming.com/tv/埋堆堆8.png" group-title="埋堆堆",埋堆堆8
+http://120.77.28.4:8648/huya.php?id=23864973
+#EXTINF:-1 tvg-name="埋堆堆9" tvg-logo="https://live.fanmingming.com/tv/埋堆堆9.png" group-title="埋堆堆",埋堆堆9
+http://120.77.28.4:8648/huya.php?id=23903130
+#EXTINF:-1 tvg-name="埋堆堆10" tvg-logo="https://live.fanmingming.com/tv/埋堆堆10.png" group-title="埋堆堆",埋堆堆10
+http://120.77.28.4:8648/huya.php?id=23860039
+#EXTINF:-1 tvg-name="埋堆堆11" tvg-logo="https://live.fanmingming.com/tv/埋堆堆11.png" group-title="埋堆堆",埋堆堆11
+http://120.77.28.4:8648/huya.php?id=23903183
+#EXTINF:-1 tvg-name="埋堆堆12" tvg-logo="https://live.fanmingming.com/tv/埋堆堆12.png" group-title="埋堆堆",埋堆堆12
+http://120.77.28.4:8648/huya.php?id=23903196
+#EXTINF:-1 tvg-name="埋堆堆13" tvg-logo="https://live.fanmingming.com/tv/埋堆堆13.png" group-title="埋堆堆",埋堆堆13
+http://120.77.28.4:8648/huya.php?id=23728674
+#EXTINF:-1 tvg-name="埋堆堆14" tvg-logo="https://live.fanmingming.com/tv/埋堆堆14.png" group-title="埋堆堆",埋堆堆14
+http://120.77.28.4:8648/huya.php?id=23865036
+#EXTINF:-1 tvg-name="埋堆堆15" tvg-logo="https://live.fanmingming.com/tv/埋堆堆15.png" group-title="埋堆堆",埋堆堆15
+http://120.77.28.4:8648/huya.php?id=23829543
+#EXTINF:-1 tvg-name="埋堆堆16" tvg-logo="https://live.fanmingming.com/tv/埋堆堆16.png" group-title="埋堆堆",埋堆堆16
+http://120.77.28.4:8648/huya.php?id=23865161
+#EXTINF:-1 tvg-name="埋堆堆17" tvg-logo="https://live.fanmingming.com/tv/埋堆堆17.png" group-title="埋堆堆",埋堆堆17
+http://120.77.28.4:8648/huya.php?id=23865058
+#EXTINF:-1 tvg-name="埋堆堆18" tvg-logo="https://live.fanmingming.com/tv/埋堆堆18.png" group-title="埋堆堆",埋堆堆18
+http://120.77.28.4:8648/huya.php?id=23824164
+#EXTINF:-1 tvg-name="埋堆堆19" tvg-logo="https://live.fanmingming.com/tv/埋堆堆19.png" group-title="埋堆堆",埋堆堆19
+http://120.77.28.4:8648/huya.php?id=23863796
+#EXTINF:-1 tvg-name="埋堆堆20" tvg-logo="https://live.fanmingming.com/tv/埋堆堆20.png" group-title="埋堆堆",埋堆堆20
+http://120.77.28.4:8648/huya.php?id=23734183
+#EXTINF:-1 tvg-name="埋堆堆21" tvg-logo="https://live.fanmingming.com/tv/埋堆堆21.png" group-title="埋堆堆",埋堆堆21
+http://120.77.28.4:8648/huya.php?id=23728660
+#EXTINF:-1 tvg-name="埋堆堆22" tvg-logo="https://live.fanmingming.com/tv/埋堆堆22.png" group-title="埋堆堆",埋堆堆22
+http://120.77.28.4:8648/huya.php?id=23865142
+#EXTINF:-1 tvg-name="埋堆堆23" tvg-logo="https://live.fanmingming.com/tv/埋堆堆23.png" group-title="埋堆堆",埋堆堆23
+http://120.77.28.4:8648/huya.php?id=23734246
+#EXTINF:-1 tvg-name="埋堆堆24" tvg-logo="https://live.fanmingming.com/tv/埋堆堆24.png" group-title="埋堆堆",埋堆堆24
+http://120.77.28.4:8648/huya.php?id=23865171
+#EXTINF:-1 tvg-name="埋堆堆25" tvg-logo="https://live.fanmingming.com/tv/埋堆堆25.png" group-title="埋堆堆",埋堆堆25
+http://120.77.28.4:8648/huya.php?id=23734256
+#EXTINF:-1 tvg-name="埋堆堆26" tvg-logo="https://live.fanmingming.com/tv/埋堆堆26.png" group-title="埋堆堆",埋堆堆26
+http://120.77.28.4:8648/huya.php?id=23749083
 #EXTINF:-1 tvg-name="情感影院" tvg-logo="https://live.fanmingming.com/tv/情感影院.png" group-title="CIBN影院",情感影院
 http://zby.xjqxz.top/zh09/live.m3u8
 #EXTINF:-1 tvg-name="动作影院" tvg-logo="https://live.fanmingming.com/tv/动作影院.png" group-title="CIBN影院",动作影院
@@ -3603,68 +3353,370 @@ http://39.134.134.87/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226974/1.m3u
 http://39.134.135.81/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EXOsrWMA-UCdUl1hQSR9EKw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 tvg-name="北京IPTV淘电影" tvg-logo="https://live.fanmingming.com/tv/北京IPTV淘电影.png" group-title="电影轮播",北京IPTV淘电影
 http://pve.grayidea.com:4022//rtp/239.3.1.250:8001
-#EXTINF:-1 tvg-name="神乐剧场" tvg-logo="https://live.fanmingming.com/tv/神乐剧场.png" group-title="电影轮播",神乐剧场
-http://jiaojirentv.top/2020/dy.php?id=85894
-#EXTINF:-1 tvg-name="神乐剧院" tvg-logo="https://live.fanmingming.com/tv/神乐剧院.png" group-title="电影轮播",神乐剧院
-http://jiaojirentv.top/2020/dy.php?id=122402
-#EXTINF:-1 tvg-name="欧美大片" tvg-logo="https://live.fanmingming.com/tv/欧美大片.png" group-title="电影轮播",欧美大片
-http://jiaojirentv.top/2020/dy.php?id=2793084
-#EXTINF:-1 tvg-name="贝爷max" tvg-logo="https://live.fanmingming.com/tv/贝爷max.png" group-title="电影轮播",贝爷max
-http://jiaojirentv.top/2020/dy.php?id=4332
-#EXTINF:-1 tvg-name="贝爷影厅1" tvg-logo="https://live.fanmingming.com/tv/贝爷影厅1.png" group-title="电影轮播",贝爷影厅1
-http://jiaojirentv.top/2020/dy.php?id=252802
-#EXTINF:-1 tvg-name="贝爷影厅2" tvg-logo="https://live.fanmingming.com/tv/贝爷影厅2.png" group-title="电影轮播",贝爷影厅2
-http://jiaojirentv.top/2020/dy.php?id=36337
+#EXTINF:-1 tvg-name="电影_星爷" tvg-logo="https://live.fanmingming.com/tv/电影_星爷.png" group-title="电影轮播",电影_星爷
+http://120.77.28.4:8648/huya.php?id=11342412
+#EXTINF:-1 tvg-name="电影_英叔" tvg-logo="https://live.fanmingming.com/tv/电影_英叔.png" group-title="电影轮播",电影_英叔
+http://120.77.28.4:8648/huya.php?id=11342421
+#EXTINF:-1 tvg-name="电影_发哥" tvg-logo="https://live.fanmingming.com/tv/电影_发哥.png" group-title="电影轮播",电影_发哥
+http://120.77.28.4:8648/huya.php?id=11342387
+#EXTINF:-1 tvg-name="电影_成龙" tvg-logo="https://live.fanmingming.com/tv/电影_成龙.png" group-title="电影轮播",电影_成龙
+http://120.77.28.4:8648/huya.php?id=11342386
+#EXTINF:-1 tvg-name="电影_王晶" tvg-logo="https://live.fanmingming.com/tv/电影_王晶.png" group-title="电影轮播",电影_王晶
+http://120.77.28.4:8648/huya.php?id=11602058
+#EXTINF:-1 tvg-name="电影_沈腾" tvg-logo="https://live.fanmingming.com/tv/电影_沈腾.png" group-title="电影轮播",电影_沈腾
+http://120.77.28.4:8648/huya.php?id=11601968
+#EXTINF:-1 tvg-name="电影_黄渤" tvg-logo="https://live.fanmingming.com/tv/电影_黄渤.png" group-title="电影轮播",电影_黄渤
+http://120.77.28.4:8648/huya.php?id=11352876
+#EXTINF:-1 tvg-name="电影_强森" tvg-logo="https://live.fanmingming.com/tv/电影_强森.png" group-title="电影轮播",电影_强森
+http://120.77.28.4:8648/huya.php?id=21059581
+#EXTINF:-1 tvg-name="电影_周星星" tvg-logo="https://live.fanmingming.com/tv/电影_周星星.png" group-title="电影轮播",电影_周星星
+http://120.77.28.4:8648/huya.php?id=11336587
+#EXTINF:-1 tvg-name="电影_李连杰" tvg-logo="https://live.fanmingming.com/tv/电影_李连杰.png" group-title="电影轮播",电影_李连杰
+http://120.77.28.4:8648/huya.php?id=11342390
+#EXTINF:-1 tvg-name="电影_洪金宝" tvg-logo="https://live.fanmingming.com/tv/电影_洪金宝.png" group-title="电影轮播",电影_洪金宝
+http://120.77.28.4:8648/huya.php?id=11279251
+#EXTINF:-1 tvg-name="电影_梁家辉" tvg-logo="https://live.fanmingming.com/tv/电影_梁家辉.png" group-title="电影轮播",电影_梁家辉
+http://120.77.28.4:8648/huya.php?id=11342429
+#EXTINF:-1 tvg-name="电影_刘德华" tvg-logo="https://live.fanmingming.com/tv/电影_刘德华.png" group-title="电影轮播",电影_刘德华
+http://120.77.28.4:8648/huya.php?id=11342424
+#EXTINF:-1 tvg-name="电影_斯坦森" tvg-logo="https://live.fanmingming.com/tv/电影_斯坦森.png" group-title="电影轮播",电影_斯坦森
+http://120.77.28.4:8648/huya.php?id=21059588
+#EXTINF:-1 tvg-name="电影_漫威" tvg-logo="https://live.fanmingming.com/tv/电影_漫威.png" group-title="电影轮播",电影_漫威
+http://120.77.28.4:8648/huya.php?id=11602034
+#EXTINF:-1 tvg-name="电影_宇宙" tvg-logo="https://live.fanmingming.com/tv/电影_宇宙.png" group-title="电影轮播",电影_宇宙
+http://120.77.28.4:8648/huya.php?id=11342428
+#EXTINF:-1 tvg-name="电影_怪兽" tvg-logo="https://live.fanmingming.com/tv/电影_怪兽.png" group-title="电影轮播",电影_怪兽
+http://120.77.28.4:8648/huya.php?id=21059577
+#EXTINF:-1 tvg-name="电影_武侠" tvg-logo="https://live.fanmingming.com/tv/电影_武侠.png" group-title="电影轮播",电影_武侠
+http://120.77.28.4:8648/huya.php?id=11342427
+#EXTINF:-1 tvg-name="电影_警匪" tvg-logo="https://live.fanmingming.com/tv/电影_警匪.png" group-title="电影轮播",电影_警匪
+http://120.77.28.4:8648/huya.php?id=11352886
+#EXTINF:-1 tvg-name="电影_罪犯" tvg-logo="https://live.fanmingming.com/tv/电影_罪犯.png" group-title="电影轮播",电影_罪犯
+http://120.77.28.4:8648/huya.php?id=11352962
+#EXTINF:-1 tvg-name="电影_枪战" tvg-logo="https://live.fanmingming.com/tv/电影_枪战.png" group-title="电影轮播",电影_枪战
+http://120.77.28.4:8648/huya.php?id=21059579
+#EXTINF:-1 tvg-name="电影_海盗" tvg-logo="https://live.fanmingming.com/tv/电影_海盗.png" group-title="电影轮播",电影_海盗
+http://120.77.28.4:8648/huya.php?id=21059595
+#EXTINF:-1 tvg-name="电影_赛车" tvg-logo="https://live.fanmingming.com/tv/电影_赛车.png" group-title="电影轮播",电影_赛车
+http://120.77.28.4:8648/huya.php?id=11279247
+#EXTINF:-1 tvg-name="电影_推荐" tvg-logo="https://live.fanmingming.com/tv/电影_推荐.png" group-title="电影轮播",电影_推荐
+http://120.77.28.4:8648/huya.php?id=11602041
+#EXTINF:-1 tvg-name="电影_救援" tvg-logo="https://live.fanmingming.com/tv/电影_救援.png" group-title="电影轮播",电影_救援
+http://120.77.28.4:8648/huya.php?id=21059594
+#EXTINF:-1 tvg-name="电影_热血" tvg-logo="https://live.fanmingming.com/tv/电影_热血.png" group-title="电影轮播",电影_热血
+http://120.77.28.4:8648/huya.php?id=11352934
+#EXTINF:-1 tvg-name="电影_盗墓" tvg-logo="https://live.fanmingming.com/tv/电影_盗墓.png" group-title="电影轮播",电影_盗墓
+http://120.77.28.4:8648/huya.php?id=21059552
+#EXTINF:-1 tvg-name="电影_贺岁" tvg-logo="https://live.fanmingming.com/tv/电影_贺岁.png" group-title="电影轮播",电影_贺岁
+http://120.77.28.4:8648/huya.php?id=11601971
+#EXTINF:-1 tvg-name="电影_玄幻" tvg-logo="https://live.fanmingming.com/tv/电影_玄幻.png" group-title="电影轮播",电影_玄幻
+http://120.77.28.4:8648/huya.php?id=11342414
+#EXTINF:-1 tvg-name="电影_谍战" tvg-logo="https://live.fanmingming.com/tv/电影_谍战.png" group-title="电影轮播",电影_谍战
+http://120.77.28.4:8648/huya.php?id=21059585
+#EXTINF:-1 tvg-name="电影_战争" tvg-logo="https://live.fanmingming.com/tv/电影_战争.png" group-title="电影轮播",电影_战争
+http://120.77.28.4:8648/huya.php?id=21059592
+#EXTINF:-1 tvg-name="电影_喜剧" tvg-logo="https://live.fanmingming.com/tv/电影_喜剧.png" group-title="电影轮播",电影_喜剧
+http://120.77.28.4:8648/huya.php?id=11352877
+#EXTINF:-1 tvg-name="电影_港片" tvg-logo="https://live.fanmingming.com/tv/电影_港片.png" group-title="电影轮播",电影_港片
+http://120.77.28.4:8648/huya.php?id=11602043
+#EXTINF:-1 tvg-name="电影_国产" tvg-logo="https://live.fanmingming.com/tv/电影_国产.png" group-title="电影轮播",电影_国产
+http://120.77.28.4:8648/huya.php?id=11352973
+#EXTINF:-1 tvg-name="电影_贺岁片" tvg-logo="https://live.fanmingming.com/tv/电影_贺岁片.png" group-title="电影轮播",电影_贺岁片
+http://120.77.28.4:8648/huya.php?id=11601986
+#EXTINF:-1 tvg-name="电影_功夫片" tvg-logo="https://live.fanmingming.com/tv/电影_功夫片.png" group-title="电影轮播",电影_功夫片
+http://120.77.28.4:8648/huya.php?id=11352941
+#EXTINF:-1 tvg-name="电影_黑帮片" tvg-logo="https://live.fanmingming.com/tv/电影_黑帮片.png" group-title="电影轮播",电影_黑帮片
+http://120.77.28.4:8648/huya.php?id=11336719
+#EXTINF:-1 tvg-name="电影_丧尸片" tvg-logo="https://live.fanmingming.com/tv/电影_丧尸片.png" group-title="电影轮播",电影_丧尸片
+http://120.77.28.4:8648/huya.php?id=21059578
+#EXTINF:-1 tvg-name="电影_灾难片" tvg-logo="https://live.fanmingming.com/tv/电影_灾难片.png" group-title="电影轮播",电影_灾难片
+http://120.77.28.4:8648/huya.php?id=11602075
+#EXTINF:-1 tvg-name="电影_谍战片" tvg-logo="https://live.fanmingming.com/tv/电影_谍战片.png" group-title="电影轮播",电影_谍战片
+http://120.77.28.4:8648/huya.php?id=21059587
+#EXTINF:-1 tvg-name="电影_战争片" tvg-logo="https://live.fanmingming.com/tv/电影_战争片.png" group-title="电影轮播",电影_战争片
+http://120.77.28.4:8648/huya.php?id=21059574
+#EXTINF:-1 tvg-name="电影_古装片" tvg-logo="https://live.fanmingming.com/tv/电影_古装片.png" group-title="电影轮播",电影_古装片
+http://120.77.28.4:8648/huya.php?id=11336590
+#EXTINF:-1 tvg-name="电影_小鬼头" tvg-logo="https://live.fanmingming.com/tv/电影_小鬼头.png" group-title="电影轮播",电影_小鬼头
+http://120.77.28.4:8648/huya.php?id=11352963
+#EXTINF:-1 tvg-name="电影_八点档" tvg-logo="https://live.fanmingming.com/tv/电影_八点档.png" group-title="电影轮播",电影_八点档
+http://120.77.28.4:8648/huya.php?id=880261
+#EXTINF:-1 tvg-name="电影_高分动作" tvg-logo="https://live.fanmingming.com/tv/电影_高分动作.png" group-title="电影轮播",电影_高分动作
+http://120.77.28.4:8648/huya.php?id=11352884
+#EXTINF:-1 tvg-name="电影_动作电影" tvg-logo="https://live.fanmingming.com/tv/电影_动作电影.png" group-title="电影轮播",电影_动作电影
+http://120.77.28.4:8648/huya.php?id=11602077
+#EXTINF:-1 tvg-name="电影_搞笑喜剧" tvg-logo="https://live.fanmingming.com/tv/电影_搞笑喜剧.png" group-title="电影轮播",电影_搞笑喜剧
+http://120.77.28.4:8648/huya.php?id=11342423
+#EXTINF:-1 tvg-name="电影_喜剧专场" tvg-logo="https://live.fanmingming.com/tv/电影_喜剧专场.png" group-title="电影轮播",电影_喜剧专场
+http://120.77.28.4:8648/huya.php?id=11602044
+#EXTINF:-1 tvg-name="电影_欢笑影院" tvg-logo="https://live.fanmingming.com/tv/电影_欢笑影院.png" group-title="电影轮播",电影_欢笑影院
+http://120.77.28.4:8648/huya.php?id=11352894
+#EXTINF:-1 tvg-name="电影_不挤影院" tvg-logo="https://live.fanmingming.com/tv/电影_不挤影院.png" group-title="电影轮播",电影_不挤影院
+http://120.77.28.4:8648/huya.php?id=11352897
+#EXTINF:-1 tvg-name="电影_国产悬疑" tvg-logo="https://live.fanmingming.com/tv/电影_国产悬疑.png" group-title="电影轮播",电影_国产悬疑
+http://120.77.28.4:8648/huya.php?id=11342395
+#EXTINF:-1 tvg-name="电影_快意江湖" tvg-logo="https://live.fanmingming.com/tv/电影_快意江湖.png" group-title="电影轮播",电影_快意江湖
+http://120.77.28.4:8648/huya.php?id=11342435
+#EXTINF:-1 tvg-name="电影_黑帮斗争" tvg-logo="https://live.fanmingming.com/tv/电影_黑帮斗争.png" group-title="电影轮播",电影_黑帮斗争
+http://120.77.28.4:8648/huya.php?id=11342419
+#EXTINF:-1 tvg-name="电影_嫣然影厅" tvg-logo="https://live.fanmingming.com/tv/电影_嫣然影厅.png" group-title="电影轮播",电影_嫣然影厅
+http://120.77.28.4:8648/huya.php?id=11601977
+#EXTINF:-1 tvg-name="电影_许氏三杰" tvg-logo="https://live.fanmingming.com/tv/电影_许氏三杰.png" group-title="电影轮播",电影_许氏三杰
+http://120.77.28.4:8648/huya.php?id=11602033
+#EXTINF:-1 tvg-name="电影_经典港片" tvg-logo="https://live.fanmingming.com/tv/电影_经典港片.png" group-title="电影轮播",电影_经典港片
+http://120.77.28.4:8648/huya.php?id=11352965
+#EXTINF:-1 tvg-name="电影_镖行天下" tvg-logo="https://live.fanmingming.com/tv/电影_镖行天下.png" group-title="电影轮播",电影_镖行天下
+http://120.77.28.4:8648/huya.php?id=11352969
+#EXTINF:-1 tvg-name="电影_喜乐影院" tvg-logo="https://live.fanmingming.com/tv/电影_喜乐影院.png" group-title="电影轮播",电影_喜乐影院
+http://120.77.28.4:8648/huya.php?id=21059580
+#EXTINF:-1 tvg-name="电影_蘑菇影厅" tvg-logo="https://live.fanmingming.com/tv/电影_蘑菇影厅.png" group-title="电影轮播",电影_蘑菇影厅
+http://120.77.28.4:8648/huya.php?id=11601981
+#EXTINF:-1 tvg-name="电影_搞笑恐怖" tvg-logo="https://live.fanmingming.com/tv/电影_搞笑恐怖.png" group-title="电影轮播",电影_搞笑恐怖
+http://120.77.28.4:8648/huya.php?id=11601960
+#EXTINF:-1 tvg-name="电影_死神来了" tvg-logo="https://live.fanmingming.com/tv/电影_死神来了.png" group-title="电影轮播",电影_死神来了
+http://120.77.28.4:8648/huya.php?id=11352903
+#EXTINF:-1 tvg-name="电影_变形金刚" tvg-logo="https://live.fanmingming.com/tv/电影_变形金刚.png" group-title="电影轮播",电影_变形金刚
+http://120.77.28.4:8648/huya.php?id=21059596
+#EXTINF:-1 tvg-name="电影_怪兽系列" tvg-logo="https://live.fanmingming.com/tv/电影_怪兽系列.png" group-title="电影轮播",电影_怪兽系列
+http://120.77.28.4:8648/huya.php?id=21059554
+#EXTINF:-1 tvg-name="剧集_老三国" tvg-logo="https://live.fanmingming.com/tv/剧集_老三国.png" group-title="电影轮播",剧集_老三国
+http://120.77.28.4:8648/huya.php?id=11602081
+#EXTINF:-1 tvg-name="剧集_新三国" tvg-logo="https://live.fanmingming.com/tv/剧集_新三国.png" group-title="电影轮播",剧集_新三国
+http://120.77.28.4:8648/huya.php?id=11352944
+#EXTINF:-1 tvg-name="剧集_新水浒" tvg-logo="https://live.fanmingming.com/tv/剧集_新水浒.png" group-title="电影轮播",剧集_新水浒
+http://120.77.28.4:8648/huya.php?id=11342384
+#EXTINF:-1 tvg-name="剧集_纪晓岚" tvg-logo="https://live.fanmingming.com/tv/剧集_纪晓岚.png" group-title="电影轮播",剧集_纪晓岚
+http://120.77.28.4:8648/huya.php?id=11342396
+#EXTINF:-1 tvg-name="剧集_庆余年" tvg-logo="https://live.fanmingming.com/tv/剧集_庆余年.png" group-title="电影轮播",剧集_庆余年
+http://120.77.28.4:8648/huya.php?id=11352960
+#EXTINF:-1 tvg-name="剧集_庆余年" tvg-logo="https://live.fanmingming.com/tv/剧集_庆余年.png" group-title="电影轮播",剧集_庆余年
+http://120.77.28.4:8648/huya.php?id=11336592
+#EXTINF:-1 tvg-name="剧集_雍正王朝" tvg-logo="https://live.fanmingming.com/tv/剧集_雍正王朝.png" group-title="电影轮播",剧集_雍正王朝
+http://120.77.28.4:8648/huya.php?id=11342439
+#EXTINF:-1 tvg-name="剧集_士兵突击" tvg-logo="https://live.fanmingming.com/tv/剧集_士兵突击.png" group-title="电影轮播",剧集_士兵突击
+http://120.77.28.4:8648/huya.php?id=11342430
+#EXTINF:-1 tvg-name="剧集_爱情公寓" tvg-logo="https://live.fanmingming.com/tv/剧集_爱情公寓.png" group-title="电影轮播",剧集_爱情公寓
+http://120.77.28.4:8648/huya.php?id=11336726
+#EXTINF:-1 tvg-name="剧集_武林外传" tvg-logo="https://live.fanmingming.com/tv/剧集_武林外传.png" group-title="电影轮播",剧集_武林外传
+http://120.77.28.4:8648/huya.php?id=21059598
+#EXTINF:-1 tvg-name="剧集_地下交通站" tvg-logo="https://live.fanmingming.com/tv/剧集_地下交通站.png" group-title="电影轮播",剧集_地下交通站
+http://120.77.28.4:8648/huya.php?id=11342433
+#EXTINF:-1 tvg-name="剧集_邻里一家亲" tvg-logo="https://live.fanmingming.com/tv/剧集_邻里一家亲.png" group-title="电影轮播",剧集_邻里一家亲
+http://120.77.28.4:8648/huya.php?id=11342426
+#EXTINF:-1 tvg-name="搞笑_陈翔六点半" tvg-logo="https://live.fanmingming.com/tv/搞笑_陈翔六点半.png" group-title="电影轮播",搞笑_陈翔六点半
+http://120.77.28.4:8648/huya.php?id=11274154
+#EXTINF:-1 tvg-name="许冠英" tvg-logo="https://live.fanmingming.com/tv/许冠英.png" group-title="电影轮播",许冠英
+http://120.77.28.4:8648/huya.php?id=11601972
+#EXTINF:-1 tvg-name="五福星" tvg-logo="https://live.fanmingming.com/tv/五福星.png" group-title="电影轮播",五福星
+http://120.77.28.4:8648/huya.php?id=11282233
+#EXTINF:-1 tvg-name="电影_邱淑贞" tvg-logo="https://live.fanmingming.com/tv/电影_邱淑贞.png" group-title="电影轮播",电影_邱淑贞
+http://120.77.28.4:8648/huya.php?id=11352949
+#EXTINF:-1 tvg-name="电影_徐克" tvg-logo="https://live.fanmingming.com/tv/电影_徐克.png" group-title="电影轮播",电影_徐克
+http://120.77.28.4:8648/huya.php?id=11352909
+#EXTINF:-1 tvg-name="大宋提刑官" tvg-logo="https://live.fanmingming.com/tv/大宋提刑官.png" group-title="电影轮播",大宋提刑官
+http://120.77.28.4:8648/huya.php?id=26355856
+#EXTINF:-1 tvg-name="延禧攻略" tvg-logo="https://live.fanmingming.com/tv/延禧攻略.png" group-title="电影轮播",延禧攻略
+http://120.77.28.4:8648/huya.php?id=26355864
+#EXTINF:-1 tvg-name="剧集_民兵葛二蛋" tvg-logo="https://live.fanmingming.com/tv/剧集_民兵葛二蛋.png" group-title="电影轮播",剧集_民兵葛二蛋
+http://120.77.28.4:8648/huya.php?id=11602072
+#EXTINF:-1 tvg-name="剧集_开端" tvg-logo="https://live.fanmingming.com/tv/剧集_开端.png" group-title="电影轮播",剧集_开端
+http://120.77.28.4:8648/huya.php?id=11342397
+#EXTINF:-1 tvg-name="剧集_铁道游击队" tvg-logo="https://live.fanmingming.com/tv/剧集_铁道游击队.png" group-title="电影轮播",剧集_铁道游击队
+http://120.77.28.4:8648/huya.php?id=11352936
+#EXTINF:-1 tvg-name="勇敢的心" tvg-logo="https://live.fanmingming.com/tv/勇敢的心.png" group-title="电影轮播",勇敢的心
+http://120.77.28.4:8648/huya.php?id=11602037
+#EXTINF:-1 tvg-name="剧集_康熙微服私访记" tvg-logo="https://live.fanmingming.com/tv/剧集_康熙微服私访记.png" group-title="电影轮播",剧集_康熙微服私访记
+http://120.77.28.4:8648/huya.php?id=11342418
+#EXTINF:-1 tvg-name="御赐小仵作" tvg-logo="https://live.fanmingming.com/tv/御赐小仵作.png" group-title="电影轮播",御赐小仵作
+http://120.77.28.4:8648/huya.php?id=11352948
+#EXTINF:-1 tvg-name="康熙王朝" tvg-logo="https://live.fanmingming.com/tv/康熙王朝.png" group-title="电影轮播",康熙王朝
+http://120.77.28.4:8648/huya.php?id=11352940
+#EXTINF:-1 tvg-name="芈月传" tvg-logo="https://live.fanmingming.com/tv/芈月传.png" group-title="电影轮播",芈月传
+http://120.77.28.4:8648/huya.php?id=11352975
+#EXTINF:-1 tvg-name="一代枭雄" tvg-logo="https://live.fanmingming.com/tv/一代枭雄.png" group-title="电影轮播",一代枭雄
+http://120.77.28.4:8648/huya.php?id=11342398
+#EXTINF:-1 tvg-name="问心" tvg-logo="https://live.fanmingming.com/tv/问心.png" group-title="电影轮播",问心
+http://120.77.28.4:8648/huya.php?id=11352890
+#EXTINF:-1 tvg-name="风云雄霸天下" tvg-logo="https://live.fanmingming.com/tv/风云雄霸天下.png" group-title="电影轮播",风云雄霸天下
+http://120.77.28.4:8648/huya.php?id=21059612
+#EXTINF:-1 tvg-name="全职高手" tvg-logo="https://live.fanmingming.com/tv/全职高手.png" group-title="电影轮播",全职高手
+http://120.77.28.4:8648/huya.php?id=11352901
+#EXTINF:-1 tvg-name="炊事班的故事3" tvg-logo="https://live.fanmingming.com/tv/炊事班的故事3.png" group-title="电影轮播",炊事班的故事3
+http://120.77.28.4:8648/huya.php?id=19524135
+#EXTINF:-1 tvg-name="医馆笑传" tvg-logo="https://live.fanmingming.com/tv/医馆笑传.png" group-title="电影轮播",医馆笑传
+http://120.77.28.4:8648/huya.php?id=11352891
+#EXTINF:-1 tvg-name="杨光的快乐生活" tvg-logo="https://live.fanmingming.com/tv/杨光的快乐生活.png" group-title="电影轮播",杨光的快乐生活
+http://120.77.28.4:8648/huya.php?id=11602085
+#EXTINF:-1 tvg-name="陈情令" tvg-logo="https://live.fanmingming.com/tv/陈情令.png" group-title="电影轮播",陈情令
+http://120.77.28.4:8648/huya.php?id=29465862
+#EXTINF:-1 tvg-name="神医喜来乐" tvg-logo="https://live.fanmingming.com/tv/神医喜来乐.png" group-title="电影轮播",神医喜来乐
+http://120.77.28.4:8648/huya.php?id=11601978
+#EXTINF:-1 tvg-name="鹊刀门传奇" tvg-logo="https://live.fanmingming.com/tv/鹊刀门传奇.png" group-title="电影轮播",鹊刀门传奇
+http://120.77.28.4:8648/huya.php?id=29805872
+#EXTINF:-1 tvg-name="白鹿原" tvg-logo="https://live.fanmingming.com/tv/白鹿原.png" group-title="电影轮播",白鹿原
+http://120.77.28.4:8648/huya.php?id=11342416
+#EXTINF:-1 tvg-name="长相思" tvg-logo="https://live.fanmingming.com/tv/长相思.png" group-title="电影轮播",长相思
+http://120.77.28.4:8648/huya.php?id=11336593
+#EXTINF:-1 tvg-name="你是我的荣耀" tvg-logo="https://live.fanmingming.com/tv/你是我的荣耀.png" group-title="电影轮播",你是我的荣耀
+http://120.77.28.4:8648/huya.php?id=11352920
+#EXTINF:-1 tvg-name="我的团长我的团" tvg-logo="https://live.fanmingming.com/tv/我的团长我的团.png" group-title="电影轮播",我的团长我的团
+http://120.77.28.4:8648/huya.php?id=11352910
+#EXTINF:-1 tvg-name="星汉灿烂·月生沧海" tvg-logo="https://live.fanmingming.com/tv/星汉灿烂·月生沧海.png" group-title="电影轮播",星汉灿烂·月生沧海
+http://120.77.28.4:8648/huya.php?id=11336591
+#EXTINF:-1 tvg-name="将夜" tvg-logo="https://live.fanmingming.com/tv/将夜.png" group-title="电影轮播",将夜
+http://120.77.28.4:8648/huya.php?id=11352885
+#EXTINF:-1 tvg-name="铁梨花" tvg-logo="https://live.fanmingming.com/tv/铁梨花.png" group-title="电影轮播",铁梨花
+http://120.77.28.4:8648/huya.php?id=11352912
+#EXTINF:-1 tvg-name="父母爱情" tvg-logo="https://live.fanmingming.com/tv/父母爱情.png" group-title="电影轮播",父母爱情
+http://120.77.28.4:8648/huya.php?id=11602071
+#EXTINF:-1 tvg-name="大染坊" tvg-logo="https://live.fanmingming.com/tv/大染坊.png" group-title="电影轮播",大染坊
+http://120.77.28.4:8648/huya.php?id=11602086
+#EXTINF:-1 tvg-name="斗罗大陆" tvg-logo="https://live.fanmingming.com/tv/斗罗大陆.png" group-title="电影轮播",斗罗大陆
+http://120.77.28.4:8648/huya.php?id=11352906
+#EXTINF:-1 tvg-name="我的前半生" tvg-logo="https://live.fanmingming.com/tv/我的前半生.png" group-title="电影轮播",我的前半生
+http://120.77.28.4:8648/yy.php?id=1382735564
+#EXTINF:-1 tvg-name="鸡毛飞上天" tvg-logo="https://live.fanmingming.com/tv/鸡毛飞上天.png" group-title="电影轮播",鸡毛飞上天
+http://120.77.28.4:8648/yy.php?id=1461033197
+#EXTINF:-1 tvg-name="我的体育老师" tvg-logo="https://live.fanmingming.com/tv/我的体育老师.png" group-title="电影轮播",我的体育老师
+http://120.77.28.4:8648/yy.php?id=1382745169
+#EXTINF:-1 tvg-name="少年歌行" tvg-logo="https://live.fanmingming.com/tv/少年歌行.png" group-title="电影轮播",少年歌行
+http://120.77.28.4:8648/yy.php?id=1354806550
+#EXTINF:-1 tvg-name="伪装者" tvg-logo="https://live.fanmingming.com/tv/伪装者.png" group-title="电影轮播",伪装者
+http://120.77.28.4:8648/yy.php?id=1354936244
+#EXTINF:-1 tvg-name="勇敢的心" tvg-logo="https://live.fanmingming.com/tv/勇敢的心.png" group-title="电影轮播",勇敢的心
+http://120.77.28.4:8648/yy.php?id=1354744544
+#EXTINF:-1 tvg-name="雍正王朝" tvg-logo="https://live.fanmingming.com/tv/雍正王朝.png" group-title="电影轮播",雍正王朝
+http://120.77.28.4:8648/yy.php?id=26650882
+#EXTINF:-1 tvg-name="宰相刘罗锅" tvg-logo="https://live.fanmingming.com/tv/宰相刘罗锅.png" group-title="电影轮播",宰相刘罗锅
+http://120.77.28.4:8648/yy.php?id=1382745191
+#EXTINF:-1 tvg-name="武林外传" tvg-logo="https://live.fanmingming.com/tv/武林外传.png" group-title="电影轮播",武林外传
+http://120.77.28.4:8648/yy.php?id=1355652820
+#EXTINF:-1 tvg-name="包青天（金超群版）" tvg-logo="https://live.fanmingming.com/tv/包青天（金超群版）.png" group-title="电影轮播",包青天（金超群版）
+http://120.77.28.4:8648/yy.php?id=1356158015
+#EXTINF:-1 tvg-name="少年包青天" tvg-logo="https://live.fanmingming.com/tv/少年包青天.png" group-title="电影轮播",少年包青天
+http://120.77.28.4:8648/yy.php?id=38498680
+#EXTINF:-1 tvg-name="红楼梦" tvg-logo="https://live.fanmingming.com/tv/红楼梦.png" group-title="电影轮播",红楼梦
+http://120.77.28.4:8648/yy.php?id=1382745084
+#EXTINF:-1 tvg-name="我爱我家" tvg-logo="https://live.fanmingming.com/tv/我爱我家.png" group-title="电影轮播",我爱我家
+http://120.77.28.4:8648/yy.php?id=1382735557
+#EXTINF:-1 tvg-name="神医喜来乐" tvg-logo="https://live.fanmingming.com/tv/神医喜来乐.png" group-title="电影轮播",神医喜来乐
+http://120.77.28.4:8648/yy.php?id=1382714119
+#EXTINF:-1 tvg-name="且试天下" tvg-logo="https://live.fanmingming.com/tv/且试天下.png" group-title="电影轮播",且试天下
+http://120.77.28.4:8648/yy.php?id=29067083
+#EXTINF:-1 tvg-name="雪中悍刀行" tvg-logo="https://live.fanmingming.com/tv/雪中悍刀行.png" group-title="电影轮播",雪中悍刀行
+http://120.77.28.4:8648/yy.php?id=1382660835
+#EXTINF:-1 tvg-name="情满四合院" tvg-logo="https://live.fanmingming.com/tv/情满四合院.png" group-title="电影轮播",情满四合院
+http://120.77.28.4:8648/yy.php?id=1382735541
+#EXTINF:-1 tvg-name="短剧轮播" tvg-logo="https://live.fanmingming.com/tv/短剧轮播.png" group-title="电影轮播",短剧轮播
+http://120.77.28.4:8648/yy.php?id=1382881708
+#EXTINF:-1 tvg-name="狂飙高清" tvg-logo="https://live.fanmingming.com/tv/狂飙高清.png" group-title="电影轮播",狂飙高清
+http://120.77.28.4:8648/yy.php?id=1355142167
+#EXTINF:-1 tvg-name="赵本山小品" tvg-logo="https://live.fanmingming.com/tv/赵本山小品.png" group-title="电影轮播",赵本山小品
+http://120.77.28.4:8648/yy.php?id=1354936217
+#EXTINF:-1 tvg-name="火凤凰" tvg-logo="https://live.fanmingming.com/tv/火凤凰.png" group-title="电影轮播",火凤凰
+http://120.77.28.4:8648/yy.php?id=1463088777
+#EXTINF:-1 tvg-name="鹿鼎记" tvg-logo="https://live.fanmingming.com/tv/鹿鼎记.png" group-title="电影轮播",鹿鼎记
+http://120.77.28.4:8648/yy.php?id=28265277
+#EXTINF:-1 tvg-name="老三国" tvg-logo="https://live.fanmingming.com/tv/老三国.png" group-title="电影轮播",老三国
+http://120.77.28.4:8648/yy.php?id=1354930932
+#EXTINF:-1 tvg-name="老三国" tvg-logo="https://live.fanmingming.com/tv/老三国.png" group-title="电影轮播",老三国
+http://120.77.28.4:8648/yy.php?id=1354936241
+#EXTINF:-1 tvg-name="西游记张卫健" tvg-logo="https://live.fanmingming.com/tv/西游记张卫健.png" group-title="电影轮播",西游记张卫健
+http://120.77.28.4:8648/yy.php?id=1354936155
+#EXTINF:-1 tvg-name="剧集_新三国" tvg-logo="https://live.fanmingming.com/tv/剧集_新三国.png" group-title="电影轮播",剧集_新三国
+http://120.77.28.4:8648/yy.php?id=23512910
+#EXTINF:-1 tvg-name="巩汉林小品" tvg-logo="https://live.fanmingming.com/tv/巩汉林小品.png" group-title="电影轮播",巩汉林小品
+http://120.77.28.4:8648/yy.php?id=1354889035
+#EXTINF:-1 tvg-name="蔡明小品" tvg-logo="https://live.fanmingming.com/tv/蔡明小品.png" group-title="电影轮播",蔡明小品
+http://120.77.28.4:8648/yy.php?id=1354936177
+#EXTINF:-1 tvg-name="今夜欢乐颂" tvg-logo="https://live.fanmingming.com/tv/今夜欢乐颂.png" group-title="电影轮播",今夜欢乐颂
+http://120.77.28.4:8648/yy.php?id=1382735572
+#EXTINF:-1 tvg-name="笑声传奇" tvg-logo="https://live.fanmingming.com/tv/笑声传奇.png" group-title="电影轮播",笑声传奇
+http://120.77.28.4:8648/yy.php?id=1382736880
+#EXTINF:-1 tvg-name="笑傲江湖第一季" tvg-logo="https://live.fanmingming.com/tv/笑傲江湖第一季.png" group-title="电影轮播",笑傲江湖第一季
+http://120.77.28.4:8648/yy.php?id=1382749896
 #EXTINF:-1 tvg-name="邵氏影院" tvg-logo="https://live.fanmingming.com/tv/邵氏影院.png" group-title="电影轮播",邵氏影院
-http://jiaojirentv.top/2020/dy.php?id=4246519
-#EXTINF:-1 tvg-name="瑶瑶恐怖" tvg-logo="https://live.fanmingming.com/tv/瑶瑶恐怖.png" group-title="电影轮播",瑶瑶恐怖
-http://jiaojirentv.top/2020/dy.php?id=2935323
-#EXTINF:-1 tvg-name="怡寶影院" tvg-logo="https://live.fanmingming.com/tv/怡寶影院.png" group-title="电影轮播",怡寶影院
-http://jiaojirentv.top/2020/dy.php?id=434971
+http://120.77.28.4:8648/douyu.php?id=4246519
+#EXTINF:-1 tvg-name="粤语综艺" tvg-logo="https://live.fanmingming.com/tv/粤语综艺.png" group-title="电影轮播",粤语综艺
+http://120.77.28.4:8648/douyu.php?id=7919720
+#EXTINF:-1 tvg-name="华语经典" tvg-logo="https://live.fanmingming.com/tv/华语经典.png" group-title="电影轮播",华语经典
+http://120.77.28.4:8648/douyu.php?id=434971
 #EXTINF:-1 tvg-name="吃米滴虫" tvg-logo="https://live.fanmingming.com/tv/吃米滴虫.png" group-title="电影轮播",吃米滴虫
-http://jiaojirentv.top/2020/dy.php?id=315457
-#EXTINF:-1 tvg-name="吃奶滴虫" tvg-logo="https://live.fanmingming.com/tv/吃奶滴虫.png" group-title="电影轮播",吃奶滴虫
-http://jiaojirentv.top/2020/dy.php?id=263824
-#EXTINF:-1 tvg-name="冰冰经典" tvg-logo="https://live.fanmingming.com/tv/冰冰经典.png" group-title="电影轮播",冰冰经典
-http://jiaojirentv.top/2020/dy.php?id=74374
-#EXTINF:-1 tvg-name="星爷影院" tvg-logo="https://live.fanmingming.com/tv/星爷影院.png" group-title="电影轮播",星爷影院
-http://jiaojirentv.top/2020/dy.php?id=508118
-#EXTINF:-1 tvg-name="华仔影院" tvg-logo="https://live.fanmingming.com/tv/华仔影院.png" group-title="电影轮播",华仔影院
-http://jiaojirentv.top/2020/dy.php?id=2516864
-#EXTINF:-1 tvg-name="凌儿影院" tvg-logo="https://live.fanmingming.com/tv/凌儿影院.png" group-title="电影轮播",凌儿影院
-http://jiaojirentv.top/2020/dy.php?id=1377142
-#EXTINF:-1 tvg-name="萌小鬼片" tvg-logo="https://live.fanmingming.com/tv/萌小鬼片.png" group-title="电影轮播",萌小鬼片
-http://jiaojirentv.top/2020/dy.php?id=3928
-#EXTINF:-1 tvg-name="可乐影院" tvg-logo="https://live.fanmingming.com/tv/可乐影院.png" group-title="电影轮播",可乐影院
-http://jiaojirentv.top/2020/dy.php?id=20415
-#EXTINF:-1 tvg-name="小宇60帧" tvg-logo="https://live.fanmingming.com/tv/小宇60帧.png" group-title="电影轮播",小宇60帧
-http://jiaojirentv.top/2020/dy.php?id=323876
-#EXTINF:-1 tvg-name="恐怖惊悚" tvg-logo="https://live.fanmingming.com/tv/恐怖惊悚.png" group-title="电影轮播",恐怖惊悚
-http://jiaojirentv.top/2020/dy.php?id=96577
-#EXTINF:-1 tvg-name="電影劇場" tvg-logo="https://live.fanmingming.com/tv/電影劇場.png" group-title="电影轮播",電影劇場
-http://jiaojirentv.top/2020/dy.php?id=7575350
-#EXTINF:-1 tvg-name="豆瓣高分" tvg-logo="https://live.fanmingming.com/tv/豆瓣高分.png" group-title="电影轮播",豆瓣高分
-http://jiaojirentv.top/2020/dy.php?id=8770422
+http://120.77.28.4:8648/douyu.php?id=315457
+#EXTINF:-1 tvg-name="神乐影片" tvg-logo="https://live.fanmingming.com/tv/神乐影片.png" group-title="电影轮播",神乐影片
+http://120.77.28.4:8648/douyu.php?id=85894
+#EXTINF:-1 tvg-name="贝爷MAX厅" tvg-logo="https://live.fanmingming.com/tv/贝爷MAX厅.png" group-title="电影轮播",贝爷MAX厅
+http://120.77.28.4:8648/douyu.php?id=4332
 #EXTINF:-1 tvg-name="漫威影片" tvg-logo="https://live.fanmingming.com/tv/漫威影片.png" group-title="电影轮播",漫威影片
-http://jiaojirentv.top/2020/dy.php?id=6140589
-#EXTINF:-1 tvg-name="霍格沃茨" tvg-logo="https://live.fanmingming.com/tv/霍格沃茨.png" group-title="电影轮播",霍格沃茨
-http://jiaojirentv.top/2020/dy.php?id=8814650
-#EXTINF:-1 tvg-name="鱼宝恐怖" tvg-logo="https://live.fanmingming.com/tv/鱼宝恐怖.png" group-title="电影轮播",鱼宝恐怖
-http://jiaojirentv.top/2020/dy.php?id=1165374
-#EXTINF:-1 tvg-name="贝贝影院" tvg-logo="https://live.fanmingming.com/tv/贝贝影院.png" group-title="电影轮播",贝贝影院
-http://jiaojirentv.top/2020/dy.php?id=431460
-#EXTINF:-1 tvg-name="变种人片" tvg-logo="https://live.fanmingming.com/tv/变种人片.png" group-title="电影轮播",变种人片
-http://jiaojirentv.top/2020/dy.php?id=9651304
-#EXTINF:-1 tvg-name="喜剧电影" tvg-logo="https://live.fanmingming.com/tv/喜剧电影.png" group-title="电影轮播",喜剧电影
-http://jiaojirentv.top/2020/dy.php?id=9292492
-#EXTINF:-1 tvg-name="女神电影" tvg-logo="https://live.fanmingming.com/tv/女神电影.png" group-title="电影轮播",女神电影
-http://jiaojirentv.top/2020/dy.php?id=747764
-#EXTINF:-1 tvg-name="周星驰" tvg-logo="https://live.fanmingming.com/tv/周星驰.png" group-title="电影轮播",周星驰
-http://huanqiuzhibo.cn/manifest/douyu.php?id=122402
-#EXTINF:-1 tvg-name="周星驰" tvg-logo="https://live.fanmingming.com/tv/周星驰.png" group-title="电影轮播",周星驰
-http://diyp.zxxoo.work/douyu/122402
-#EXTINF:-1 tvg-name="林正英" tvg-logo="https://live.fanmingming.com/tv/林正英.png" group-title="电影轮播",林正英
-http://diyp.zxxoo.work/douyu/7356023
+http://120.77.28.4:8648/douyu.php?id=6140589
+#EXTINF:-1 tvg-name="豆瓣高分" tvg-logo="https://live.fanmingming.com/tv/豆瓣高分.png" group-title="电影轮播",豆瓣高分
+http://120.77.28.4:8648/douyu.php?id=8770422
+#EXTINF:-1 tvg-name="林正英电影1" tvg-logo="https://live.fanmingming.com/tv/林正英电影1.png" group-title="电影轮播",林正英电影1
+http://120.77.28.4:8648/douyu.php?id=218859
+#EXTINF:-1 tvg-name="林正英电影2" tvg-logo="https://live.fanmingming.com/tv/林正英电影2.png" group-title="电影轮播",林正英电影2
+http://120.77.28.4:8648/douyu.php?id=7356023
+#EXTINF:-1 tvg-name="贝爷影厅1" tvg-logo="https://live.fanmingming.com/tv/贝爷影厅1.png" group-title="电影轮播",贝爷影厅1
+http://120.77.28.4:8648/douyu.php?id=252802
+#EXTINF:-1 tvg-name="贝爷影厅2" tvg-logo="https://live.fanmingming.com/tv/贝爷影厅2.png" group-title="电影轮播",贝爷影厅2
+http://120.77.28.4:8648/douyu.php?id=36337
+#EXTINF:-1 tvg-name="霍格影片" tvg-logo="https://live.fanmingming.com/tv/霍格影片.png" group-title="电影轮播",霍格影片
+http://120.77.28.4:8648/douyu.php?id=8814650
+#EXTINF:-1 tvg-name="可乐电影" tvg-logo="https://live.fanmingming.com/tv/可乐电影.png" group-title="电影轮播",可乐电影
+http://120.77.28.4:8648/douyu.php?id=20415
+#EXTINF:-1 tvg-name="奶虫恐怖电影" tvg-logo="https://live.fanmingming.com/tv/奶虫恐怖电影.png" group-title="电影轮播",奶虫恐怖电影
+http://120.77.28.4:8648/douyu.php?id=263824
+#EXTINF:-1 tvg-name="恐怖经典" tvg-logo="https://live.fanmingming.com/tv/恐怖经典.png" group-title="电影轮播",恐怖经典
+http://120.77.28.4:8648/douyu.php?id=1165374
+#EXTINF:-1 tvg-name="变种人电影" tvg-logo="https://live.fanmingming.com/tv/变种人电影.png" group-title="电影轮播",变种人电影
+http://120.77.28.4:8648/douyu.php?id=9651304
+#EXTINF:-1 tvg-name="华语电影" tvg-logo="https://live.fanmingming.com/tv/华语电影.png" group-title="电影轮播",华语电影
+http://120.77.28.4:8648/douyu.php?id=3928
+#EXTINF:-1 tvg-name="连续剧1" tvg-logo="https://live.fanmingming.com/tv/连续剧1.png" group-title="电影轮播",连续剧1
+http://120.77.28.4:8648/douyu.php?id=4549169
+#EXTINF:-1 tvg-name="连续剧2" tvg-logo="https://live.fanmingming.com/tv/连续剧2.png" group-title="电影轮播",连续剧2
+http://120.77.28.4:8648/douyu.php?id=7623292
+#EXTINF:-1 tvg-name="斗鱼动画" tvg-logo="https://live.fanmingming.com/tv/斗鱼动画.png" group-title="电影轮播",斗鱼动画
+http://120.77.28.4:8648/douyu.php?id=7528160
+#EXTINF:-1 tvg-name="斗鱼电影1" tvg-logo="https://live.fanmingming.com/tv/斗鱼电影1.png" group-title="电影轮播",斗鱼电影1
+http://120.77.28.4:8648/douyu.php?id=2935323
+#EXTINF:-1 tvg-name="斗鱼电影2" tvg-logo="https://live.fanmingming.com/tv/斗鱼电影2.png" group-title="电影轮播",斗鱼电影2
+http://120.77.28.4:8648/douyu.php?id=7459925
+#EXTINF:-1 tvg-name="斗鱼电影3" tvg-logo="https://live.fanmingming.com/tv/斗鱼电影3.png" group-title="电影轮播",斗鱼电影3
+http://120.77.28.4:8648/douyu.php?id=431460
+#EXTINF:-1 tvg-name="斗鱼电影7" tvg-logo="https://live.fanmingming.com/tv/斗鱼电影7.png" group-title="电影轮播",斗鱼电影7
+http://120.77.28.4:8648/douyu.php?id=7655471
+#EXTINF:-1 tvg-name="斗鱼电影9" tvg-logo="https://live.fanmingming.com/tv/斗鱼电影9.png" group-title="电影轮播",斗鱼电影9
+http://120.77.28.4:8648/douyu.php?id=6566671
+#EXTINF:-1 tvg-name="斗鱼电影10" tvg-logo="https://live.fanmingming.com/tv/斗鱼电影10.png" group-title="电影轮播",斗鱼电影10
+http://120.77.28.4:8648/douyu.php?id=8475821
+#EXTINF:-1 tvg-name="斗鱼电影11" tvg-logo="https://live.fanmingming.com/tv/斗鱼电影11.png" group-title="电影轮播",斗鱼电影11
+http://120.77.28.4:8648/douyu.php?id=338759
+#EXTINF:-1 tvg-name="斗鱼电影12" tvg-logo="https://live.fanmingming.com/tv/斗鱼电影12.png" group-title="电影轮播",斗鱼电影12
+http://120.77.28.4:8648/douyu.php?id=2793084
+#EXTINF:-1 tvg-name="斗鱼电影13" tvg-logo="https://live.fanmingming.com/tv/斗鱼电影13.png" group-title="电影轮播",斗鱼电影13
+http://120.77.28.4:8648/douyu.php?id=5067952
+#EXTINF:-1 tvg-name="斗鱼电影15" tvg-logo="https://live.fanmingming.com/tv/斗鱼电影15.png" group-title="电影轮播",斗鱼电影15
+http://120.77.28.4:8648/douyu.php?id=5033502
+#EXTINF:-1 tvg-name="斗鱼电影16" tvg-logo="https://live.fanmingming.com/tv/斗鱼电影16.png" group-title="电影轮播",斗鱼电影16
+http://120.77.28.4:8648/douyu.php?id=426517
+#EXTINF:-1 tvg-name="斗鱼电影20" tvg-logo="https://live.fanmingming.com/tv/斗鱼电影20.png" group-title="电影轮播",斗鱼电影20
+http://120.77.28.4:8648/douyu.php?id=323876
+#EXTINF:-1 tvg-name="冰冰经典" tvg-logo="https://live.fanmingming.com/tv/冰冰经典.png" group-title="电影轮播",冰冰经典
+http://120.77.28.4:8648/douyu.php?id=74374
+#EXTINF:-1 tvg-name="星爷影院" tvg-logo="https://live.fanmingming.com/tv/星爷影院.png" group-title="电影轮播",星爷影院
+http://120.77.28.4:8648/douyu.php?id=508118
+#EXTINF:-1 tvg-name="凌儿影院" tvg-logo="https://live.fanmingming.com/tv/凌儿影院.png" group-title="电影轮播",凌儿影院
+http://120.77.28.4:8648/douyu.php?id=1377142
+#EXTINF:-1 tvg-name="恐怖惊悚" tvg-logo="https://live.fanmingming.com/tv/恐怖惊悚.png" group-title="电影轮播",恐怖惊悚
+http://120.77.28.4:8648/douyu.php?id=96577
+#EXTINF:-1 tvg-name="开心麻花小品" tvg-logo="https://live.fanmingming.com/tv/开心麻花小品.png" group-title="电影轮播",开心麻花小品
+http://120.77.28.4:8648/douyu.php?id=10153463
+#EXTINF:-1 tvg-name="贾玲小品" tvg-logo="https://live.fanmingming.com/tv/贾玲小品.png" group-title="电影轮播",贾玲小品
+http://120.77.28.4:8648/douyu.php?id=10419541
+#EXTINF:-1 tvg-name="经典相声小品" tvg-logo="https://live.fanmingming.com/tv/经典相声小品.png" group-title="电影轮播",经典相声小品
+http://120.77.28.4:8648/douyu.php?id=9273031
+#EXTINF:-1 tvg-name="辽宁台相声小品" tvg-logo="https://live.fanmingming.com/tv/辽宁台相声小品.png" group-title="电影轮播",辽宁台相声小品
+http://120.77.28.4:8648/douyu.php?id=9403712
 #EXTINF:-1 tvg-name="郑铁频道" tvg-logo="https://live.fanmingming.com/tv/郑铁频道.png" group-title="电影剧集",郑铁频道
 http://39.162.27.11:8081/newlive/live/hls/1/live.m3u8
 #EXTINF:-1 tvg-name="人民铁道" tvg-logo="https://live.fanmingming.com/tv/人民铁道.png" group-title="电影剧集",人民铁道
@@ -3697,548 +3749,6 @@ http://11.xmyxc.cn/api/php/yy.php?id=1354932427
 http://diyp.zxxoo.work/huya/11342430
 #EXTINF:-1 tvg-name="剧集_老三国" tvg-logo="https://live.fanmingming.com/tv/剧集_老三国.png" group-title="电影剧集",剧集_老三国
 http://diyp.zxxoo.work/huya/11602081
-#EXTINF:-1 tvg-name="第01集" tvg-logo="https://live.fanmingming.com/tv/第01集.png" group-title="水月洞天",第01集
-https://vip.lz-cdn16.com/20230413/16840_42504175/index.m3u8
-#EXTINF:-1 tvg-name="第02集" tvg-logo="https://live.fanmingming.com/tv/第02集.png" group-title="水月洞天",第02集
-https://vip.lz-cdn16.com/20230413/16841_af4cfa1b/index.m3u8
-#EXTINF:-1 tvg-name="第03集" tvg-logo="https://live.fanmingming.com/tv/第03集.png" group-title="水月洞天",第03集
-https://vip.lz-cdn16.com/20230413/16843_767cf8bc/index.m3u8
-#EXTINF:-1 tvg-name="第04集" tvg-logo="https://live.fanmingming.com/tv/第04集.png" group-title="水月洞天",第04集
-https://vip.lz-cdn16.com/20230413/16845_62ae01ea/index.m3u8
-#EXTINF:-1 tvg-name="第05集" tvg-logo="https://live.fanmingming.com/tv/第05集.png" group-title="水月洞天",第05集
-https://vip.lz-cdn16.com/20230413/16842_5ca077ad/index.m3u8
-#EXTINF:-1 tvg-name="第06集" tvg-logo="https://live.fanmingming.com/tv/第06集.png" group-title="水月洞天",第06集
-https://vip.lz-cdn16.com/20230413/16844_5bef07ea/index.m3u8
-#EXTINF:-1 tvg-name="第07集" tvg-logo="https://live.fanmingming.com/tv/第07集.png" group-title="水月洞天",第07集
-https://vip.lz-cdn16.com/20230413/16847_c4f3f149/index.m3u8
-#EXTINF:-1 tvg-name="第08集" tvg-logo="https://live.fanmingming.com/tv/第08集.png" group-title="水月洞天",第08集
-https://vip.lz-cdn16.com/20230413/16846_085087a8/index.m3u8
-#EXTINF:-1 tvg-name="第09集" tvg-logo="https://live.fanmingming.com/tv/第09集.png" group-title="水月洞天",第09集
-https://vip.lz-cdn16.com/20230413/16848_b6588f18/index.m3u8
-#EXTINF:-1 tvg-name="第10集" tvg-logo="https://live.fanmingming.com/tv/第10集.png" group-title="水月洞天",第10集
-https://vip.lz-cdn16.com/20230413/16849_505b01a4/index.m3u8
-#EXTINF:-1 tvg-name="第11集" tvg-logo="https://live.fanmingming.com/tv/第11集.png" group-title="水月洞天",第11集
-https://vip.lz-cdn16.com/20230413/16851_36fecef9/index.m3u8
-#EXTINF:-1 tvg-name="第12集" tvg-logo="https://live.fanmingming.com/tv/第12集.png" group-title="水月洞天",第12集
-https://vip.lz-cdn16.com/20230413/16850_a995c7cd/index.m3u8
-#EXTINF:-1 tvg-name="第13集" tvg-logo="https://live.fanmingming.com/tv/第13集.png" group-title="水月洞天",第13集
-https://vip.lz-cdn16.com/20230413/16852_4fdf844d/index.m3u8
-#EXTINF:-1 tvg-name="第14集" tvg-logo="https://live.fanmingming.com/tv/第14集.png" group-title="水月洞天",第14集
-https://vip.lz-cdn16.com/20230413/16853_d8cbfa91/index.m3u8
-#EXTINF:-1 tvg-name="第15集" tvg-logo="https://live.fanmingming.com/tv/第15集.png" group-title="水月洞天",第15集
-https://vip.lz-cdn16.com/20230413/16854_8bd0daad/index.m3u8
-#EXTINF:-1 tvg-name="第16集" tvg-logo="https://live.fanmingming.com/tv/第16集.png" group-title="水月洞天",第16集
-https://vip.lz-cdn16.com/20230413/16855_4a21c924/index.m3u8
-#EXTINF:-1 tvg-name="第17集" tvg-logo="https://live.fanmingming.com/tv/第17集.png" group-title="水月洞天",第17集
-https://vip.lz-cdn16.com/20230413/16856_e99b6177/index.m3u8
-#EXTINF:-1 tvg-name="第18集" tvg-logo="https://live.fanmingming.com/tv/第18集.png" group-title="水月洞天",第18集
-https://vip.lz-cdn16.com/20230413/16857_9fc89db0/index.m3u8
-#EXTINF:-1 tvg-name="第19集" tvg-logo="https://live.fanmingming.com/tv/第19集.png" group-title="水月洞天",第19集
-https://vip.lz-cdn16.com/20230413/16858_d611557a/index.m3u8
-#EXTINF:-1 tvg-name="第20集" tvg-logo="https://live.fanmingming.com/tv/第20集.png" group-title="水月洞天",第20集
-https://vip.lz-cdn16.com/20230413/16859_189ebb28/index.m3u8
-#EXTINF:-1 tvg-name="第21集" tvg-logo="https://live.fanmingming.com/tv/第21集.png" group-title="水月洞天",第21集
-https://vip.lz-cdn16.com/20230413/16860_24f8b38b/index.m3u8
-#EXTINF:-1 tvg-name="第22集" tvg-logo="https://live.fanmingming.com/tv/第22集.png" group-title="水月洞天",第22集
-https://vip.lz-cdn16.com/20230413/16861_0aee273b/index.m3u8
-#EXTINF:-1 tvg-name="第23集" tvg-logo="https://live.fanmingming.com/tv/第23集.png" group-title="水月洞天",第23集
-https://vip.lz-cdn16.com/20230413/16862_13167180/index.m3u8
-#EXTINF:-1 tvg-name="第24集" tvg-logo="https://live.fanmingming.com/tv/第24集.png" group-title="水月洞天",第24集
-https://vip.lz-cdn16.com/20230413/16863_ee1b20ec/index.m3u8
-#EXTINF:-1 tvg-name="第25集" tvg-logo="https://live.fanmingming.com/tv/第25集.png" group-title="水月洞天",第25集
-https://vip.lz-cdn16.com/20230413/16864_341e25ed/index.m3u8
-#EXTINF:-1 tvg-name="第26集" tvg-logo="https://live.fanmingming.com/tv/第26集.png" group-title="水月洞天",第26集
-https://vip.lz-cdn16.com/20230413/16866_7b24c034/index.m3u8
-#EXTINF:-1 tvg-name="第27集" tvg-logo="https://live.fanmingming.com/tv/第27集.png" group-title="水月洞天",第27集
-https://vip.lz-cdn16.com/20230413/16865_39d83414/index.m3u8
-#EXTINF:-1 tvg-name="第28集" tvg-logo="https://live.fanmingming.com/tv/第28集.png" group-title="水月洞天",第28集
-https://vip.lz-cdn16.com/20230413/16867_d5b60c61/index.m3u8
-#EXTINF:-1 tvg-name="第29集" tvg-logo="https://live.fanmingming.com/tv/第29集.png" group-title="水月洞天",第29集
-https://vip.lz-cdn16.com/20230413/16871_b2e4901b/index.m3u8
-#EXTINF:-1 tvg-name="第30集" tvg-logo="https://live.fanmingming.com/tv/第30集.png" group-title="水月洞天",第30集
-https://vip.lz-cdn16.com/20230413/16869_4fda0398/index.m3u8
-#EXTINF:-1 tvg-name="第01集" tvg-logo="https://live.fanmingming.com/tv/第01集.png" group-title="灵镜传奇",第01集
-https://vip.lz-cdn16.com/20230413/16737_6000636c/index.m3u8
-#EXTINF:-1 tvg-name="第02集" tvg-logo="https://live.fanmingming.com/tv/第02集.png" group-title="灵镜传奇",第02集
-https://vip.lz-cdn16.com/20230413/16740_8b040bf1/index.m3u8
-#EXTINF:-1 tvg-name="第03集" tvg-logo="https://live.fanmingming.com/tv/第03集.png" group-title="灵镜传奇",第03集
-https://vip.lz-cdn16.com/20230413/16738_f316523a/index.m3u8
-#EXTINF:-1 tvg-name="第04集" tvg-logo="https://live.fanmingming.com/tv/第04集.png" group-title="灵镜传奇",第04集
-https://vip.lz-cdn16.com/20230413/16742_8bf8ede5/index.m3u8
-#EXTINF:-1 tvg-name="第05集" tvg-logo="https://live.fanmingming.com/tv/第05集.png" group-title="灵镜传奇",第05集
-https://vip.lz-cdn16.com/20230413/16741_c50de8fe/index.m3u8
-#EXTINF:-1 tvg-name="第06集" tvg-logo="https://live.fanmingming.com/tv/第06集.png" group-title="灵镜传奇",第06集
-https://vip.lz-cdn16.com/20230413/16745_3cdc249b/index.m3u8
-#EXTINF:-1 tvg-name="第07集" tvg-logo="https://live.fanmingming.com/tv/第07集.png" group-title="灵镜传奇",第07集
-https://vip.lz-cdn16.com/20230413/16743_3bff9c8f/index.m3u8
-#EXTINF:-1 tvg-name="第08集" tvg-logo="https://live.fanmingming.com/tv/第08集.png" group-title="灵镜传奇",第08集
-https://vip.lz-cdn16.com/20230413/16744_8285e869/index.m3u8
-#EXTINF:-1 tvg-name="第09集" tvg-logo="https://live.fanmingming.com/tv/第09集.png" group-title="灵镜传奇",第09集
-https://vip.lz-cdn16.com/20230413/16746_0648fc43/index.m3u8
-#EXTINF:-1 tvg-name="第10集" tvg-logo="https://live.fanmingming.com/tv/第10集.png" group-title="灵镜传奇",第10集
-https://vip.lz-cdn16.com/20230413/16748_3c859b07/index.m3u8
-#EXTINF:-1 tvg-name="第11集" tvg-logo="https://live.fanmingming.com/tv/第11集.png" group-title="灵镜传奇",第11集
-https://vip.lz-cdn16.com/20230413/16749_e45ffb32/index.m3u8
-#EXTINF:-1 tvg-name="第12集" tvg-logo="https://live.fanmingming.com/tv/第12集.png" group-title="灵镜传奇",第12集
-https://vip.lz-cdn16.com/20230413/16747_54753c80/index.m3u8
-#EXTINF:-1 tvg-name="第13集" tvg-logo="https://live.fanmingming.com/tv/第13集.png" group-title="灵镜传奇",第13集
-https://vip.lz-cdn16.com/20230413/16750_9896f39c/index.m3u8
-#EXTINF:-1 tvg-name="第14集" tvg-logo="https://live.fanmingming.com/tv/第14集.png" group-title="灵镜传奇",第14集
-https://vip.lz-cdn16.com/20230413/16752_21b4b8e0/index.m3u8
-#EXTINF:-1 tvg-name="第15集" tvg-logo="https://live.fanmingming.com/tv/第15集.png" group-title="灵镜传奇",第15集
-https://vip.lz-cdn16.com/20230413/16751_cb14476c/index.m3u8
-#EXTINF:-1 tvg-name="第16集" tvg-logo="https://live.fanmingming.com/tv/第16集.png" group-title="灵镜传奇",第16集
-https://vip.lz-cdn16.com/20230413/16753_f8270cd1/index.m3u8
-#EXTINF:-1 tvg-name="第17集" tvg-logo="https://live.fanmingming.com/tv/第17集.png" group-title="灵镜传奇",第17集
-https://vip.lz-cdn16.com/20230413/16754_26ef7969/index.m3u8
-#EXTINF:-1 tvg-name="第18集" tvg-logo="https://live.fanmingming.com/tv/第18集.png" group-title="灵镜传奇",第18集
-https://vip.lz-cdn16.com/20230413/16756_cf58f896/index.m3u8
-#EXTINF:-1 tvg-name="第19集" tvg-logo="https://live.fanmingming.com/tv/第19集.png" group-title="灵镜传奇",第19集
-https://vip.lz-cdn16.com/20230413/16758_b49d5a51/index.m3u8
-#EXTINF:-1 tvg-name="第20集" tvg-logo="https://live.fanmingming.com/tv/第20集.png" group-title="灵镜传奇",第20集
-https://vip.lz-cdn16.com/20230413/16755_e7d003da/index.m3u8
-#EXTINF:-1 tvg-name="第21集" tvg-logo="https://live.fanmingming.com/tv/第21集.png" group-title="灵镜传奇",第21集
-https://vip.lz-cdn16.com/20230413/16760_7781c60f/index.m3u8
-#EXTINF:-1 tvg-name="第22集" tvg-logo="https://live.fanmingming.com/tv/第22集.png" group-title="灵镜传奇",第22集
-https://vip.lz-cdn16.com/20230413/16757_67161d55/index.m3u8
-#EXTINF:-1 tvg-name="第23集" tvg-logo="https://live.fanmingming.com/tv/第23集.png" group-title="灵镜传奇",第23集
-https://vip.lz-cdn16.com/20230413/16762_9c47cab0/index.m3u8
-#EXTINF:-1 tvg-name="第24集" tvg-logo="https://live.fanmingming.com/tv/第24集.png" group-title="灵镜传奇",第24集
-https://vip.lz-cdn16.com/20230413/16759_321a75ec/index.m3u8
-#EXTINF:-1 tvg-name="第25集" tvg-logo="https://live.fanmingming.com/tv/第25集.png" group-title="灵镜传奇",第25集
-https://vip.lz-cdn16.com/20230413/16761_b45005b8/index.m3u8
-#EXTINF:-1 tvg-name="第26集" tvg-logo="https://live.fanmingming.com/tv/第26集.png" group-title="灵镜传奇",第26集
-https://vip.lz-cdn16.com/20230413/16763_c4374a9e/index.m3u8
-#EXTINF:-1 tvg-name="第27集" tvg-logo="https://live.fanmingming.com/tv/第27集.png" group-title="灵镜传奇",第27集
-https://vip.lz-cdn16.com/20230413/16764_c0b552ab/index.m3u8
-#EXTINF:-1 tvg-name="第28集" tvg-logo="https://live.fanmingming.com/tv/第28集.png" group-title="灵镜传奇",第28集
-https://vip.lz-cdn16.com/20230413/16765_4f6bc40a/index.m3u8
-#EXTINF:-1 tvg-name="第29集" tvg-logo="https://live.fanmingming.com/tv/第29集.png" group-title="灵镜传奇",第29集
-https://vip.lz-cdn16.com/20230413/16766_387df44d/index.m3u8
-#EXTINF:-1 tvg-name="第30集" tvg-logo="https://live.fanmingming.com/tv/第30集.png" group-title="灵镜传奇",第30集
-https://vip.lz-cdn16.com/20230413/16768_824669e3/index.m3u8
-#EXTINF:-1 tvg-name="第01集" tvg-logo="https://live.fanmingming.com/tv/第01集.png" group-title="天龙八部",第01集
-https://vip1.lz-cdn6.com/20220414/3860_91167f57/index.m3u8
-#EXTINF:-1 tvg-name="第02集" tvg-logo="https://live.fanmingming.com/tv/第02集.png" group-title="天龙八部",第02集
-https://vip1.lz-cdn6.com/20220414/3861_868da890/index.m3u8
-#EXTINF:-1 tvg-name="第03集" tvg-logo="https://live.fanmingming.com/tv/第03集.png" group-title="天龙八部",第03集
-https://vip1.lz-cdn6.com/20220414/3862_73e721b6/index.m3u8
-#EXTINF:-1 tvg-name="第04集" tvg-logo="https://live.fanmingming.com/tv/第04集.png" group-title="天龙八部",第04集
-https://vip1.lz-cdn6.com/20220414/3864_d9bde387/index.m3u8
-#EXTINF:-1 tvg-name="第05集" tvg-logo="https://live.fanmingming.com/tv/第05集.png" group-title="天龙八部",第05集
-https://vip1.lz-cdn6.com/20220414/3863_dc4e103a/index.m3u8
-#EXTINF:-1 tvg-name="第06集" tvg-logo="https://live.fanmingming.com/tv/第06集.png" group-title="天龙八部",第06集
-https://vip1.lz-cdn6.com/20220414/3867_4b7301fb/index.m3u8
-#EXTINF:-1 tvg-name="第07集" tvg-logo="https://live.fanmingming.com/tv/第07集.png" group-title="天龙八部",第07集
-https://vip1.lz-cdn6.com/20220414/3865_0040a6b3/index.m3u8
-#EXTINF:-1 tvg-name="第08集" tvg-logo="https://live.fanmingming.com/tv/第08集.png" group-title="天龙八部",第08集
-https://vip1.lz-cdn6.com/20220414/3866_e3dd4a2d/index.m3u8
-#EXTINF:-1 tvg-name="第09集" tvg-logo="https://live.fanmingming.com/tv/第09集.png" group-title="天龙八部",第09集
-https://vip1.lz-cdn6.com/20220414/3869_69eab267/index.m3u8
-#EXTINF:-1 tvg-name="第10集" tvg-logo="https://live.fanmingming.com/tv/第10集.png" group-title="天龙八部",第10集
-https://vip1.lz-cdn6.com/20220414/3868_5f3c41ae/index.m3u8
-#EXTINF:-1 tvg-name="第11集" tvg-logo="https://live.fanmingming.com/tv/第11集.png" group-title="天龙八部",第11集
-https://vip1.lz-cdn6.com/20220414/3870_6ce384bf/index.m3u8
-#EXTINF:-1 tvg-name="第12集" tvg-logo="https://live.fanmingming.com/tv/第12集.png" group-title="天龙八部",第12集
-https://vip1.lz-cdn6.com/20220414/3871_e4aab21b/index.m3u8
-#EXTINF:-1 tvg-name="第13集" tvg-logo="https://live.fanmingming.com/tv/第13集.png" group-title="天龙八部",第13集
-https://vip1.lz-cdn6.com/20220414/3872_bc329d6f/index.m3u8
-#EXTINF:-1 tvg-name="第14集" tvg-logo="https://live.fanmingming.com/tv/第14集.png" group-title="天龙八部",第14集
-https://vip1.lz-cdn6.com/20220414/3873_a4c161cb/index.m3u8
-#EXTINF:-1 tvg-name="第15集" tvg-logo="https://live.fanmingming.com/tv/第15集.png" group-title="天龙八部",第15集
-https://vip1.lz-cdn6.com/20220414/3874_2ce79a56/index.m3u8
-#EXTINF:-1 tvg-name="第16集" tvg-logo="https://live.fanmingming.com/tv/第16集.png" group-title="天龙八部",第16集
-https://vip1.lz-cdn6.com/20220414/3876_9a45fe9c/index.m3u8
-#EXTINF:-1 tvg-name="第17集" tvg-logo="https://live.fanmingming.com/tv/第17集.png" group-title="天龙八部",第17集
-https://vip1.lz-cdn6.com/20220414/3875_bc2e71dd/index.m3u8
-#EXTINF:-1 tvg-name="第18集" tvg-logo="https://live.fanmingming.com/tv/第18集.png" group-title="天龙八部",第18集
-https://vip1.lz-cdn6.com/20220414/4058_a87c7205/index.m3u8
-#EXTINF:-1 tvg-name="第19集" tvg-logo="https://live.fanmingming.com/tv/第19集.png" group-title="天龙八部",第19集
-https://vip1.lz-cdn6.com/20220414/3877_e132daf0/index.m3u8
-#EXTINF:-1 tvg-name="第20集" tvg-logo="https://live.fanmingming.com/tv/第20集.png" group-title="天龙八部",第20集
-https://vip1.lz-cdn6.com/20220414/3878_071a1d9f/index.m3u8
-#EXTINF:-1 tvg-name="第21集" tvg-logo="https://live.fanmingming.com/tv/第21集.png" group-title="天龙八部",第21集
-https://vip1.lz-cdn6.com/20220414/3879_ad03aec9/index.m3u8
-#EXTINF:-1 tvg-name="第22集" tvg-logo="https://live.fanmingming.com/tv/第22集.png" group-title="天龙八部",第22集
-https://vip1.lz-cdn6.com/20220414/3880_5dcaa2e9/index.m3u8
-#EXTINF:-1 tvg-name="第23集" tvg-logo="https://live.fanmingming.com/tv/第23集.png" group-title="天龙八部",第23集
-https://vip1.lz-cdn6.com/20220414/3881_de62fea3/index.m3u8
-#EXTINF:-1 tvg-name="第24集" tvg-logo="https://live.fanmingming.com/tv/第24集.png" group-title="天龙八部",第24集
-https://vip1.lz-cdn6.com/20220414/3882_3071ca77/index.m3u8
-#EXTINF:-1 tvg-name="第25集" tvg-logo="https://live.fanmingming.com/tv/第25集.png" group-title="天龙八部",第25集
-https://vip1.lz-cdn6.com/20220414/3883_2f086009/index.m3u8
-#EXTINF:-1 tvg-name="第26集" tvg-logo="https://live.fanmingming.com/tv/第26集.png" group-title="天龙八部",第26集
-https://vip1.lz-cdn6.com/20220414/3884_2be2f894/index.m3u8
-#EXTINF:-1 tvg-name="第27集" tvg-logo="https://live.fanmingming.com/tv/第27集.png" group-title="天龙八部",第27集
-https://vip1.lz-cdn6.com/20220414/3885_21af5418/index.m3u8
-#EXTINF:-1 tvg-name="第28集" tvg-logo="https://live.fanmingming.com/tv/第28集.png" group-title="天龙八部",第28集
-https://vip1.lz-cdn6.com/20220414/3886_6ca2e32d/index.m3u8
-#EXTINF:-1 tvg-name="第29集" tvg-logo="https://live.fanmingming.com/tv/第29集.png" group-title="天龙八部",第29集
-https://vip1.lz-cdn6.com/20220414/3887_c5b85297/index.m3u8
-#EXTINF:-1 tvg-name="第30集" tvg-logo="https://live.fanmingming.com/tv/第30集.png" group-title="天龙八部",第30集
-https://vip1.lz-cdn6.com/20220414/3888_b5839ab7/index.m3u8
-#EXTINF:-1 tvg-name="第31集" tvg-logo="https://live.fanmingming.com/tv/第31集.png" group-title="天龙八部",第31集
-https://vip1.lz-cdn6.com/20220414/3889_338b06c8/index.m3u8
-#EXTINF:-1 tvg-name="第32集" tvg-logo="https://live.fanmingming.com/tv/第32集.png" group-title="天龙八部",第32集
-https://vip1.lz-cdn6.com/20220414/3890_7965f90d/index.m3u8
-#EXTINF:-1 tvg-name="第33集" tvg-logo="https://live.fanmingming.com/tv/第33集.png" group-title="天龙八部",第33集
-https://vip1.lz-cdn6.com/20220414/3891_a9a744d6/index.m3u8
-#EXTINF:-1 tvg-name="第34集" tvg-logo="https://live.fanmingming.com/tv/第34集.png" group-title="天龙八部",第34集
-https://vip1.lz-cdn6.com/20220414/3892_d4a8ba23/index.m3u8
-#EXTINF:-1 tvg-name="第35集" tvg-logo="https://live.fanmingming.com/tv/第35集.png" group-title="天龙八部",第35集
-https://vip1.lz-cdn6.com/20220414/3893_d61618c3/index.m3u8
-#EXTINF:-1 tvg-name="第36集" tvg-logo="https://live.fanmingming.com/tv/第36集.png" group-title="天龙八部",第36集
-https://vip1.lz-cdn6.com/20220414/3894_15f4a34c/index.m3u8
-#EXTINF:-1 tvg-name="第37集" tvg-logo="https://live.fanmingming.com/tv/第37集.png" group-title="天龙八部",第37集
-https://vip1.lz-cdn6.com/20220414/3895_9124e354/index.m3u8
-#EXTINF:-1 tvg-name="第38集" tvg-logo="https://live.fanmingming.com/tv/第38集.png" group-title="天龙八部",第38集
-https://vip1.lz-cdn6.com/20220414/3896_889282ef/index.m3u8
-#EXTINF:-1 tvg-name="第39集" tvg-logo="https://live.fanmingming.com/tv/第39集.png" group-title="天龙八部",第39集
-https://vip1.lz-cdn6.com/20220414/3897_56b0049d/index.m3u8
-#EXTINF:-1 tvg-name="第40集" tvg-logo="https://live.fanmingming.com/tv/第40集.png" group-title="天龙八部",第40集
-https://vip1.lz-cdn6.com/20220414/3898_b367a102/index.m3u8
-#EXTINF:-1 tvg-name="第41集" tvg-logo="https://live.fanmingming.com/tv/第41集.png" group-title="天龙八部",第41集
-https://vip1.lz-cdn6.com/20220414/3899_96cb4782/index.m3u8
-#EXTINF:-1 tvg-name="第42集" tvg-logo="https://live.fanmingming.com/tv/第42集.png" group-title="天龙八部",第42集
-https://vip1.lz-cdn6.com/20220414/3900_f4fcdcfe/index.m3u8
-#EXTINF:-1 tvg-name="第43集" tvg-logo="https://live.fanmingming.com/tv/第43集.png" group-title="天龙八部",第43集
-https://vip1.lz-cdn6.com/20220414/3901_37775470/index.m3u8
-#EXTINF:-1 tvg-name="第44集" tvg-logo="https://live.fanmingming.com/tv/第44集.png" group-title="天龙八部",第44集
-https://vip1.lz-cdn6.com/20220414/3902_e4666dc2/index.m3u8
-#EXTINF:-1 tvg-name="第45集" tvg-logo="https://live.fanmingming.com/tv/第45集.png" group-title="天龙八部",第45集
-https://vip1.lz-cdn6.com/20220414/3903_34515f50/index.m3u8
-#EXTINF:-1 tvg-name="第一部第01集" tvg-logo="https://live.fanmingming.com/tv/第一部第01集.png" group-title="我和僵尸有个约会",第一部第01集
-https://vip1.lz-cdn.com/20220806/27490_975d6ae4/index.m3u8
-#EXTINF:-1 tvg-name="第02集" tvg-logo="https://live.fanmingming.com/tv/第02集.png" group-title="我和僵尸有个约会",第02集
-https://vip1.lz-cdn.com/20220806/27491_cac0b2ba/index.m3u8
-#EXTINF:-1 tvg-name="第03集" tvg-logo="https://live.fanmingming.com/tv/第03集.png" group-title="我和僵尸有个约会",第03集
-https://vip1.lz-cdn.com/20220806/27492_8ee4724d/index.m3u8
-#EXTINF:-1 tvg-name="第04集" tvg-logo="https://live.fanmingming.com/tv/第04集.png" group-title="我和僵尸有个约会",第04集
-https://vip1.lz-cdn.com/20220806/27493_c071ba76/index.m3u8
-#EXTINF:-1 tvg-name="第05集" tvg-logo="https://live.fanmingming.com/tv/第05集.png" group-title="我和僵尸有个约会",第05集
-https://vip1.lz-cdn.com/20220806/27494_0c2616e2/index.m3u8
-#EXTINF:-1 tvg-name="第06集" tvg-logo="https://live.fanmingming.com/tv/第06集.png" group-title="我和僵尸有个约会",第06集
-https://vip1.lz-cdn.com/20220806/27495_bf3176a5/index.m3u8
-#EXTINF:-1 tvg-name="第07集" tvg-logo="https://live.fanmingming.com/tv/第07集.png" group-title="我和僵尸有个约会",第07集
-https://vip1.lz-cdn.com/20220806/27496_74495582/index.m3u8
-#EXTINF:-1 tvg-name="第08集" tvg-logo="https://live.fanmingming.com/tv/第08集.png" group-title="我和僵尸有个约会",第08集
-https://vip1.lz-cdn.com/20220806/27497_8bf6c849/index.m3u8
-#EXTINF:-1 tvg-name="第09集" tvg-logo="https://live.fanmingming.com/tv/第09集.png" group-title="我和僵尸有个约会",第09集
-https://vip1.lz-cdn.com/20220806/27498_4d795612/index.m3u8
-#EXTINF:-1 tvg-name="第10集" tvg-logo="https://live.fanmingming.com/tv/第10集.png" group-title="我和僵尸有个约会",第10集
-https://vip1.lz-cdn.com/20220806/27499_f1d9ff7b/index.m3u8
-#EXTINF:-1 tvg-name="第11集" tvg-logo="https://live.fanmingming.com/tv/第11集.png" group-title="我和僵尸有个约会",第11集
-https://vip1.lz-cdn.com/20220806/27500_6b4d77b6/index.m3u8
-#EXTINF:-1 tvg-name="第12集" tvg-logo="https://live.fanmingming.com/tv/第12集.png" group-title="我和僵尸有个约会",第12集
-https://vip1.lz-cdn.com/20220806/27501_b552fdbd/index.m3u8
-#EXTINF:-1 tvg-name="第13集" tvg-logo="https://live.fanmingming.com/tv/第13集.png" group-title="我和僵尸有个约会",第13集
-https://vip1.lz-cdn.com/20220806/27502_ec799257/index.m3u8
-#EXTINF:-1 tvg-name="第14集" tvg-logo="https://live.fanmingming.com/tv/第14集.png" group-title="我和僵尸有个约会",第14集
-https://vip1.lz-cdn.com/20220806/27503_b912d599/index.m3u8
-#EXTINF:-1 tvg-name="第15集" tvg-logo="https://live.fanmingming.com/tv/第15集.png" group-title="我和僵尸有个约会",第15集
-https://vip1.lz-cdn.com/20220806/27504_0121b40c/index.m3u8
-#EXTINF:-1 tvg-name="第16集" tvg-logo="https://live.fanmingming.com/tv/第16集.png" group-title="我和僵尸有个约会",第16集
-https://vip1.lz-cdn.com/20220806/27505_8c51258d/index.m3u8
-#EXTINF:-1 tvg-name="第17集" tvg-logo="https://live.fanmingming.com/tv/第17集.png" group-title="我和僵尸有个约会",第17集
-https://vip1.lz-cdn.com/20220806/27506_b5cf8007/index.m3u8
-#EXTINF:-1 tvg-name="第18集" tvg-logo="https://live.fanmingming.com/tv/第18集.png" group-title="我和僵尸有个约会",第18集
-https://vip1.lz-cdn.com/20220806/27507_565feb6e/index.m3u8
-#EXTINF:-1 tvg-name="第19集" tvg-logo="https://live.fanmingming.com/tv/第19集.png" group-title="我和僵尸有个约会",第19集
-https://vip1.lz-cdn.com/20220806/27508_26382fbc/index.m3u8
-#EXTINF:-1 tvg-name="第20集" tvg-logo="https://live.fanmingming.com/tv/第20集.png" group-title="我和僵尸有个约会",第20集
-https://vip1.lz-cdn.com/20220806/27509_747fa233/index.m3u8
-#EXTINF:-1 tvg-name="第21集" tvg-logo="https://live.fanmingming.com/tv/第21集.png" group-title="我和僵尸有个约会",第21集
-https://vip1.lz-cdn.com/20220806/27510_53424ffb/index.m3u8
-#EXTINF:-1 tvg-name="第22集" tvg-logo="https://live.fanmingming.com/tv/第22集.png" group-title="我和僵尸有个约会",第22集
-https://vip1.lz-cdn.com/20220806/27511_4d8cb66d/index.m3u8
-#EXTINF:-1 tvg-name="第23集" tvg-logo="https://live.fanmingming.com/tv/第23集.png" group-title="我和僵尸有个约会",第23集
-https://vip1.lz-cdn.com/20220806/27512_d8985381/index.m3u8
-#EXTINF:-1 tvg-name="第24集" tvg-logo="https://live.fanmingming.com/tv/第24集.png" group-title="我和僵尸有个约会",第24集
-https://vip1.lz-cdn.com/20220806/27513_a86fba63/index.m3u8
-#EXTINF:-1 tvg-name="第25集" tvg-logo="https://live.fanmingming.com/tv/第25集.png" group-title="我和僵尸有个约会",第25集
-https://vip1.lz-cdn.com/20220806/27514_f919bd6c/index.m3u8
-#EXTINF:-1 tvg-name="第26集" tvg-logo="https://live.fanmingming.com/tv/第26集.png" group-title="我和僵尸有个约会",第26集
-https://vip1.lz-cdn.com/20220806/27515_db483f40/index.m3u8
-#EXTINF:-1 tvg-name="第27集" tvg-logo="https://live.fanmingming.com/tv/第27集.png" group-title="我和僵尸有个约会",第27集
-https://vip1.lz-cdn.com/20220806/27516_50a134de/index.m3u8
-#EXTINF:-1 tvg-name="第28集" tvg-logo="https://live.fanmingming.com/tv/第28集.png" group-title="我和僵尸有个约会",第28集
-https://vip1.lz-cdn.com/20220806/27517_12c939b7/index.m3u8
-#EXTINF:-1 tvg-name="第29集" tvg-logo="https://live.fanmingming.com/tv/第29集.png" group-title="我和僵尸有个约会",第29集
-https://vip1.lz-cdn.com/20220806/27518_859d33fd/index.m3u8
-#EXTINF:-1 tvg-name="第30集" tvg-logo="https://live.fanmingming.com/tv/第30集.png" group-title="我和僵尸有个约会",第30集
-https://vip1.lz-cdn.com/20220806/27519_84508f17/index.m3u8
-#EXTINF:-1 tvg-name="第31集" tvg-logo="https://live.fanmingming.com/tv/第31集.png" group-title="我和僵尸有个约会",第31集
-https://vip1.lz-cdn.com/20220806/27520_a9a7860b/index.m3u8
-#EXTINF:-1 tvg-name="第32集" tvg-logo="https://live.fanmingming.com/tv/第32集.png" group-title="我和僵尸有个约会",第32集
-https://vip1.lz-cdn.com/20220806/27521_34bc7cf4/index.m3u8
-#EXTINF:-1 tvg-name="第33集" tvg-logo="https://live.fanmingming.com/tv/第33集.png" group-title="我和僵尸有个约会",第33集
-https://vip1.lz-cdn.com/20220806/27522_85bff65c/index.m3u8
-#EXTINF:-1 tvg-name="第34集" tvg-logo="https://live.fanmingming.com/tv/第34集.png" group-title="我和僵尸有个约会",第34集
-https://vip1.lz-cdn.com/20220806/27523_da6ada64/index.m3u8
-#EXTINF:-1 tvg-name="第35集" tvg-logo="https://live.fanmingming.com/tv/第35集.png" group-title="我和僵尸有个约会",第35集
-https://vip1.lz-cdn.com/20220807/27718_43a77116/index.m3u8
-#EXTINF:-1 tvg-name="第二部第01集" tvg-logo="https://live.fanmingming.com/tv/第二部第01集.png" group-title="我和僵尸有个约会",第二部第01集
-https://vip1.lz-cdn.com/20220806/27560_ddf0823d/index.m3u8
-#EXTINF:-1 tvg-name="二第02集" tvg-logo="https://live.fanmingming.com/tv/二第02集.png" group-title="我和僵尸有个约会",二第02集
-https://vip1.lz-cdn.com/20220806/27561_42f8fccd/index.m3u8
-#EXTINF:-1 tvg-name="二第03集" tvg-logo="https://live.fanmingming.com/tv/二第03集.png" group-title="我和僵尸有个约会",二第03集
-https://vip1.lz-cdn.com/20220806/27562_1bdf918b/index.m3u8
-#EXTINF:-1 tvg-name="二第04集" tvg-logo="https://live.fanmingming.com/tv/二第04集.png" group-title="我和僵尸有个约会",二第04集
-https://vip1.lz-cdn.com/20220806/27563_96136d14/index.m3u8
-#EXTINF:-1 tvg-name="二第05集" tvg-logo="https://live.fanmingming.com/tv/二第05集.png" group-title="我和僵尸有个约会",二第05集
-https://vip1.lz-cdn.com/20220806/27564_94c5db96/index.m3u8
-#EXTINF:-1 tvg-name="二第06集" tvg-logo="https://live.fanmingming.com/tv/二第06集.png" group-title="我和僵尸有个约会",二第06集
-https://vip1.lz-cdn.com/20220806/27565_44c61c71/index.m3u8
-#EXTINF:-1 tvg-name="二第07集" tvg-logo="https://live.fanmingming.com/tv/二第07集.png" group-title="我和僵尸有个约会",二第07集
-https://vip1.lz-cdn.com/20220806/27566_65587066/index.m3u8
-#EXTINF:-1 tvg-name="二第08集" tvg-logo="https://live.fanmingming.com/tv/二第08集.png" group-title="我和僵尸有个约会",二第08集
-https://vip1.lz-cdn.com/20220806/27567_78442cfa/index.m3u8
-#EXTINF:-1 tvg-name="二第09集" tvg-logo="https://live.fanmingming.com/tv/二第09集.png" group-title="我和僵尸有个约会",二第09集
-https://vip1.lz-cdn.com/20220806/27568_0b1fea5b/index.m3u8
-#EXTINF:-1 tvg-name="二第10集" tvg-logo="https://live.fanmingming.com/tv/二第10集.png" group-title="我和僵尸有个约会",二第10集
-https://vip1.lz-cdn.com/20220806/27569_96cdd191/index.m3u8
-#EXTINF:-1 tvg-name="二第11集" tvg-logo="https://live.fanmingming.com/tv/二第11集.png" group-title="我和僵尸有个约会",二第11集
-https://vip1.lz-cdn.com/20220806/27570_3d666ea9/index.m3u8
-#EXTINF:-1 tvg-name="二第12集" tvg-logo="https://live.fanmingming.com/tv/二第12集.png" group-title="我和僵尸有个约会",二第12集
-https://vip1.lz-cdn.com/20220806/27571_875393d4/index.m3u8
-#EXTINF:-1 tvg-name="二第13集" tvg-logo="https://live.fanmingming.com/tv/二第13集.png" group-title="我和僵尸有个约会",二第13集
-https://vip1.lz-cdn.com/20220806/27572_09bc29dc/index.m3u8
-#EXTINF:-1 tvg-name="二第14集" tvg-logo="https://live.fanmingming.com/tv/二第14集.png" group-title="我和僵尸有个约会",二第14集
-https://vip1.lz-cdn.com/20220806/27573_0a4f2e07/index.m3u8
-#EXTINF:-1 tvg-name="二第15集" tvg-logo="https://live.fanmingming.com/tv/二第15集.png" group-title="我和僵尸有个约会",二第15集
-https://vip1.lz-cdn.com/20220806/27574_03d588b4/index.m3u8
-#EXTINF:-1 tvg-name="二第16集" tvg-logo="https://live.fanmingming.com/tv/二第16集.png" group-title="我和僵尸有个约会",二第16集
-https://vip1.lz-cdn.com/20220806/27575_b0e0439d/index.m3u8
-#EXTINF:-1 tvg-name="二第17集" tvg-logo="https://live.fanmingming.com/tv/二第17集.png" group-title="我和僵尸有个约会",二第17集
-https://vip1.lz-cdn.com/20220806/27576_e567dee3/index.m3u8
-#EXTINF:-1 tvg-name="二第18集" tvg-logo="https://live.fanmingming.com/tv/二第18集.png" group-title="我和僵尸有个约会",二第18集
-https://vip1.lz-cdn.com/20220806/27577_37d5ccc3/index.m3u8
-#EXTINF:-1 tvg-name="二第19集" tvg-logo="https://live.fanmingming.com/tv/二第19集.png" group-title="我和僵尸有个约会",二第19集
-https://vip1.lz-cdn.com/20220806/27578_9e0feca6/index.m3u8
-#EXTINF:-1 tvg-name="二第20集" tvg-logo="https://live.fanmingming.com/tv/二第20集.png" group-title="我和僵尸有个约会",二第20集
-https://vip1.lz-cdn.com/20220806/27579_954f4dcc/index.m3u8
-#EXTINF:-1 tvg-name="二第21集" tvg-logo="https://live.fanmingming.com/tv/二第21集.png" group-title="我和僵尸有个约会",二第21集
-https://vip1.lz-cdn.com/20220806/27580_102062cc/index.m3u8
-#EXTINF:-1 tvg-name="二第22集" tvg-logo="https://live.fanmingming.com/tv/二第22集.png" group-title="我和僵尸有个约会",二第22集
-https://vip1.lz-cdn.com/20220806/27581_68dddc37/index.m3u8
-#EXTINF:-1 tvg-name="二第23集" tvg-logo="https://live.fanmingming.com/tv/二第23集.png" group-title="我和僵尸有个约会",二第23集
-https://vip1.lz-cdn.com/20220806/27582_3c937725/index.m3u8
-#EXTINF:-1 tvg-name="二第24集" tvg-logo="https://live.fanmingming.com/tv/二第24集.png" group-title="我和僵尸有个约会",二第24集
-https://vip1.lz-cdn.com/20220806/27583_30546c78/index.m3u8
-#EXTINF:-1 tvg-name="二第25集" tvg-logo="https://live.fanmingming.com/tv/二第25集.png" group-title="我和僵尸有个约会",二第25集
-https://vip1.lz-cdn.com/20220806/27584_52eba5e3/index.m3u8
-#EXTINF:-1 tvg-name="二第26集" tvg-logo="https://live.fanmingming.com/tv/二第26集.png" group-title="我和僵尸有个约会",二第26集
-https://vip1.lz-cdn.com/20220806/27585_15c20f0d/index.m3u8
-#EXTINF:-1 tvg-name="二第27集" tvg-logo="https://live.fanmingming.com/tv/二第27集.png" group-title="我和僵尸有个约会",二第27集
-https://vip1.lz-cdn.com/20220806/27586_34db53c2/index.m3u8
-#EXTINF:-1 tvg-name="二第28集" tvg-logo="https://live.fanmingming.com/tv/二第28集.png" group-title="我和僵尸有个约会",二第28集
-https://vip1.lz-cdn.com/20220806/27587_5413a526/index.m3u8
-#EXTINF:-1 tvg-name="二第29集" tvg-logo="https://live.fanmingming.com/tv/二第29集.png" group-title="我和僵尸有个约会",二第29集
-https://vip1.lz-cdn.com/20220806/27588_c0b866cc/index.m3u8
-#EXTINF:-1 tvg-name="二第30集" tvg-logo="https://live.fanmingming.com/tv/二第30集.png" group-title="我和僵尸有个约会",二第30集
-https://vip1.lz-cdn.com/20220806/27589_9439a840/index.m3u8
-#EXTINF:-1 tvg-name="二第31集" tvg-logo="https://live.fanmingming.com/tv/二第31集.png" group-title="我和僵尸有个约会",二第31集
-https://vip1.lz-cdn.com/20220806/27590_3f9c9dee/index.m3u8
-#EXTINF:-1 tvg-name="二第32集" tvg-logo="https://live.fanmingming.com/tv/二第32集.png" group-title="我和僵尸有个约会",二第32集
-https://vip1.lz-cdn.com/20220806/27591_edb31963/index.m3u8
-#EXTINF:-1 tvg-name="二第33集" tvg-logo="https://live.fanmingming.com/tv/二第33集.png" group-title="我和僵尸有个约会",二第33集
-https://vip1.lz-cdn.com/20220806/27592_ce3a78f7/index.m3u8
-#EXTINF:-1 tvg-name="二第34集" tvg-logo="https://live.fanmingming.com/tv/二第34集.png" group-title="我和僵尸有个约会",二第34集
-https://vip1.lz-cdn.com/20220806/27593_ed142e79/index.m3u8
-#EXTINF:-1 tvg-name="二第35集" tvg-logo="https://live.fanmingming.com/tv/二第35集.png" group-title="我和僵尸有个约会",二第35集
-https://vip1.lz-cdn.com/20220806/27594_0e581dc7/index.m3u8
-#EXTINF:-1 tvg-name="二第36集" tvg-logo="https://live.fanmingming.com/tv/二第36集.png" group-title="我和僵尸有个约会",二第36集
-https://vip1.lz-cdn.com/20220806/27595_af2e09fd/index.m3u8
-#EXTINF:-1 tvg-name="二第37集" tvg-logo="https://live.fanmingming.com/tv/二第37集.png" group-title="我和僵尸有个约会",二第37集
-https://vip1.lz-cdn.com/20220806/27596_c61c4f11/index.m3u8
-#EXTINF:-1 tvg-name="二第38集" tvg-logo="https://live.fanmingming.com/tv/二第38集.png" group-title="我和僵尸有个约会",二第38集
-https://vip1.lz-cdn.com/20220806/27597_dcb4d34b/index.m3u8
-#EXTINF:-1 tvg-name="二第39集" tvg-logo="https://live.fanmingming.com/tv/二第39集.png" group-title="我和僵尸有个约会",二第39集
-https://vip1.lz-cdn.com/20220806/27598_cefcc603/index.m3u8
-#EXTINF:-1 tvg-name="二第40集" tvg-logo="https://live.fanmingming.com/tv/二第40集.png" group-title="我和僵尸有个约会",二第40集
-https://vip1.lz-cdn.com/20220806/27599_417bd74a/index.m3u8
-#EXTINF:-1 tvg-name="二第41集" tvg-logo="https://live.fanmingming.com/tv/二第41集.png" group-title="我和僵尸有个约会",二第41集
-https://vip1.lz-cdn.com/20220806/27600_9c05ef70/index.m3u8
-#EXTINF:-1 tvg-name="二第42集" tvg-logo="https://live.fanmingming.com/tv/二第42集.png" group-title="我和僵尸有个约会",二第42集
-https://vip1.lz-cdn.com/20220806/27601_3d7a7e8a/index.m3u8
-#EXTINF:-1 tvg-name="二第43集" tvg-logo="https://live.fanmingming.com/tv/二第43集.png" group-title="我和僵尸有个约会",二第43集
-https://vip1.lz-cdn.com/20220806/27602_ca64ab87/index.m3u8
-#EXTINF:-1 tvg-name="第三部第01集" tvg-logo="https://live.fanmingming.com/tv/第三部第01集.png" group-title="我和僵尸有个约会",第三部第01集
-https://vip1.lz-cdn.com/20220807/27719_d0150cd4/index.m3u8
-#EXTINF:-1 tvg-name="三第02集" tvg-logo="https://live.fanmingming.com/tv/三第02集.png" group-title="我和僵尸有个约会",三第02集
-https://vip1.lz-cdn.com/20220806/27645_f396323a/index.m3u8
-#EXTINF:-1 tvg-name="三第03集" tvg-logo="https://live.fanmingming.com/tv/三第03集.png" group-title="我和僵尸有个约会",三第03集
-https://vip1.lz-cdn.com/20220807/27720_effc3511/index.m3u8
-#EXTINF:-1 tvg-name="三第04集" tvg-logo="https://live.fanmingming.com/tv/三第04集.png" group-title="我和僵尸有个约会",三第04集
-https://vip1.lz-cdn.com/20220806/27647_336c3b43/index.m3u8
-#EXTINF:-1 tvg-name="三第05集" tvg-logo="https://live.fanmingming.com/tv/三第05集.png" group-title="我和僵尸有个约会",三第05集
-https://vip1.lz-cdn.com/20220806/27648_348b27ca/index.m3u8
-#EXTINF:-1 tvg-name="三第06集" tvg-logo="https://live.fanmingming.com/tv/三第06集.png" group-title="我和僵尸有个约会",三第06集
-https://vip1.lz-cdn.com/20220806/27649_9ad56e66/index.m3u8
-#EXTINF:-1 tvg-name="三第07集" tvg-logo="https://live.fanmingming.com/tv/三第07集.png" group-title="我和僵尸有个约会",三第07集
-https://vip1.lz-cdn.com/20220806/27650_f41a78a4/index.m3u8
-#EXTINF:-1 tvg-name="三第08集" tvg-logo="https://live.fanmingming.com/tv/三第08集.png" group-title="我和僵尸有个约会",三第08集
-https://vip1.lz-cdn.com/20220806/27651_dbff44a2/index.m3u8
-#EXTINF:-1 tvg-name="三第09集" tvg-logo="https://live.fanmingming.com/tv/三第09集.png" group-title="我和僵尸有个约会",三第09集
-https://vip1.lz-cdn.com/20220806/27652_b6f40173/index.m3u8
-#EXTINF:-1 tvg-name="三第10集" tvg-logo="https://live.fanmingming.com/tv/三第10集.png" group-title="我和僵尸有个约会",三第10集
-https://vip1.lz-cdn.com/20220806/27653_bff61364/index.m3u8
-#EXTINF:-1 tvg-name="三第11集" tvg-logo="https://live.fanmingming.com/tv/三第11集.png" group-title="我和僵尸有个约会",三第11集
-https://vip1.lz-cdn.com/20220806/27654_68e614c6/index.m3u8
-#EXTINF:-1 tvg-name="三第12集" tvg-logo="https://live.fanmingming.com/tv/三第12集.png" group-title="我和僵尸有个约会",三第12集
-https://vip1.lz-cdn.com/20220806/27655_3a539179/index.m3u8
-#EXTINF:-1 tvg-name="三第13集" tvg-logo="https://live.fanmingming.com/tv/三第13集.png" group-title="我和僵尸有个约会",三第13集
-https://vip1.lz-cdn.com/20220806/27656_7864e5b5/index.m3u8
-#EXTINF:-1 tvg-name="三第14集" tvg-logo="https://live.fanmingming.com/tv/三第14集.png" group-title="我和僵尸有个约会",三第14集
-https://vip1.lz-cdn.com/20220806/27657_1654c23d/index.m3u8
-#EXTINF:-1 tvg-name="三第15集" tvg-logo="https://live.fanmingming.com/tv/三第15集.png" group-title="我和僵尸有个约会",三第15集
-https://vip1.lz-cdn.com/20220806/27658_bfff39ad/index.m3u8
-#EXTINF:-1 tvg-name="三第16集" tvg-logo="https://live.fanmingming.com/tv/三第16集.png" group-title="我和僵尸有个约会",三第16集
-https://vip1.lz-cdn.com/20220806/27659_64f6b475/index.m3u8
-#EXTINF:-1 tvg-name="三第17集" tvg-logo="https://live.fanmingming.com/tv/三第17集.png" group-title="我和僵尸有个约会",三第17集
-https://vip1.lz-cdn.com/20220806/27660_1d84cd66/index.m3u8
-#EXTINF:-1 tvg-name="三第18集" tvg-logo="https://live.fanmingming.com/tv/三第18集.png" group-title="我和僵尸有个约会",三第18集
-https://vip1.lz-cdn.com/20220806/27661_027616b5/index.m3u8
-#EXTINF:-1 tvg-name="三第19集" tvg-logo="https://live.fanmingming.com/tv/三第19集.png" group-title="我和僵尸有个约会",三第19集
-https://vip1.lz-cdn.com/20220806/27662_449f8656/index.m3u8
-#EXTINF:-1 tvg-name="三第20集" tvg-logo="https://live.fanmingming.com/tv/三第20集.png" group-title="我和僵尸有个约会",三第20集
-https://vip1.lz-cdn.com/20220806/27663_e3984726/index.m3u8
-#EXTINF:-1 tvg-name="三第21集" tvg-logo="https://live.fanmingming.com/tv/三第21集.png" group-title="我和僵尸有个约会",三第21集
-https://vip1.lz-cdn.com/20220806/27664_b997cf91/index.m3u8
-#EXTINF:-1 tvg-name="三第22集" tvg-logo="https://live.fanmingming.com/tv/三第22集.png" group-title="我和僵尸有个约会",三第22集
-https://vip1.lz-cdn.com/20220806/27665_404c1429/index.m3u8
-#EXTINF:-1 tvg-name="三第23集" tvg-logo="https://live.fanmingming.com/tv/三第23集.png" group-title="我和僵尸有个约会",三第23集
-https://vip1.lz-cdn.com/20220806/27666_b65a2345/index.m3u8
-#EXTINF:-1 tvg-name="三第24集" tvg-logo="https://live.fanmingming.com/tv/三第24集.png" group-title="我和僵尸有个约会",三第24集
-https://vip1.lz-cdn.com/20220806/27667_bd036329/index.m3u8
-#EXTINF:-1 tvg-name="三第25集" tvg-logo="https://live.fanmingming.com/tv/三第25集.png" group-title="我和僵尸有个约会",三第25集
-https://vip1.lz-cdn.com/20220806/27668_50eb1704/index.m3u8
-#EXTINF:-1 tvg-name="三第26集" tvg-logo="https://live.fanmingming.com/tv/三第26集.png" group-title="我和僵尸有个约会",三第26集
-https://vip1.lz-cdn.com/20220806/27669_8cce62a0/index.m3u8
-#EXTINF:-1 tvg-name="三第27集" tvg-logo="https://live.fanmingming.com/tv/三第27集.png" group-title="我和僵尸有个约会",三第27集
-https://vip1.lz-cdn.com/20220806/27670_56762e5d/index.m3u8
-#EXTINF:-1 tvg-name="三第28集" tvg-logo="https://live.fanmingming.com/tv/三第28集.png" group-title="我和僵尸有个约会",三第28集
-https://vip1.lz-cdn.com/20220806/27671_e9cbc316/index.m3u8
-#EXTINF:-1 tvg-name="三第29集" tvg-logo="https://live.fanmingming.com/tv/三第29集.png" group-title="我和僵尸有个约会",三第29集
-https://vip1.lz-cdn.com/20220806/27672_e8412438/index.m3u8
-#EXTINF:-1 tvg-name="三第30集" tvg-logo="https://live.fanmingming.com/tv/三第30集.png" group-title="我和僵尸有个约会",三第30集
-https://vip1.lz-cdn.com/20220806/27673_941d9922/index.m3u8
-#EXTINF:-1 tvg-name="三第31集" tvg-logo="https://live.fanmingming.com/tv/三第31集.png" group-title="我和僵尸有个约会",三第31集
-https://vip1.lz-cdn.com/20220806/27674_3236c19b/index.m3u8
-#EXTINF:-1 tvg-name="三第32集" tvg-logo="https://live.fanmingming.com/tv/三第32集.png" group-title="我和僵尸有个约会",三第32集
-https://vip1.lz-cdn.com/20220806/27675_6bcfdba2/index.m3u8
-#EXTINF:-1 tvg-name="三第33集" tvg-logo="https://live.fanmingming.com/tv/三第33集.png" group-title="我和僵尸有个约会",三第33集
-https://vip1.lz-cdn.com/20220806/27676_9e6071f2/index.m3u8
-#EXTINF:-1 tvg-name="三第34集" tvg-logo="https://live.fanmingming.com/tv/三第34集.png" group-title="我和僵尸有个约会",三第34集
-https://vip1.lz-cdn.com/20220806/27677_6368f828/index.m3u8
-#EXTINF:-1 tvg-name="三第35集" tvg-logo="https://live.fanmingming.com/tv/三第35集.png" group-title="我和僵尸有个约会",三第35集
-https://vip1.lz-cdn.com/20220806/27678_bdf8d966/index.m3u8
-#EXTINF:-1 tvg-name="三第36集" tvg-logo="https://live.fanmingming.com/tv/三第36集.png" group-title="我和僵尸有个约会",三第36集
-https://vip1.lz-cdn.com/20220806/27679_34ef3a2e/index.m3u8
-#EXTINF:-1 tvg-name="三第37集" tvg-logo="https://live.fanmingming.com/tv/三第37集.png" group-title="我和僵尸有个约会",三第37集
-https://vip1.lz-cdn.com/20220806/27680_339cf5c5/index.m3u8
-#EXTINF:-1 tvg-name="三第38集" tvg-logo="https://live.fanmingming.com/tv/三第38集.png" group-title="我和僵尸有个约会",三第38集
-https://vip1.lz-cdn.com/20220806/27681_076c97fa/index.m3u8
-#EXTINF:-1 tvg-name="第01集" tvg-logo="https://live.fanmingming.com/tv/第01集.png" group-title="新白娘子传奇",第01集
-https://vip1.lz-cdn6.com/20220823/23777_0fdfb16f/index.m3u8
-#EXTINF:-1 tvg-name="第02集" tvg-logo="https://live.fanmingming.com/tv/第02集.png" group-title="新白娘子传奇",第02集
-https://vip1.lz-cdn6.com/20220823/23778_e783f5e8/index.m3u8
-#EXTINF:-1 tvg-name="第03集" tvg-logo="https://live.fanmingming.com/tv/第03集.png" group-title="新白娘子传奇",第03集
-https://vip1.lz-cdn6.com/20220823/23779_d71cd57b/index.m3u8
-#EXTINF:-1 tvg-name="第04集" tvg-logo="https://live.fanmingming.com/tv/第04集.png" group-title="新白娘子传奇",第04集
-https://vip1.lz-cdn6.com/20220823/23780_8344d4f8/index.m3u8
-#EXTINF:-1 tvg-name="第05集" tvg-logo="https://live.fanmingming.com/tv/第05集.png" group-title="新白娘子传奇",第05集
-https://vip1.lz-cdn6.com/20220823/23781_c0b04627/index.m3u8
-#EXTINF:-1 tvg-name="第06集" tvg-logo="https://live.fanmingming.com/tv/第06集.png" group-title="新白娘子传奇",第06集
-https://vip1.lz-cdn6.com/20220823/23782_6d05e12b/index.m3u8
-#EXTINF:-1 tvg-name="第07集" tvg-logo="https://live.fanmingming.com/tv/第07集.png" group-title="新白娘子传奇",第07集
-https://vip1.lz-cdn6.com/20220823/23783_3bb22104/index.m3u8
-#EXTINF:-1 tvg-name="第08集" tvg-logo="https://live.fanmingming.com/tv/第08集.png" group-title="新白娘子传奇",第08集
-https://vip1.lz-cdn6.com/20220823/23784_8e4a9851/index.m3u8
-#EXTINF:-1 tvg-name="第09集" tvg-logo="https://live.fanmingming.com/tv/第09集.png" group-title="新白娘子传奇",第09集
-https://vip1.lz-cdn6.com/20220823/23785_e2bc0fad/index.m3u8
-#EXTINF:-1 tvg-name="第10集" tvg-logo="https://live.fanmingming.com/tv/第10集.png" group-title="新白娘子传奇",第10集
-https://vip1.lz-cdn6.com/20220823/23786_b20cca44/index.m3u8
-#EXTINF:-1 tvg-name="第11集" tvg-logo="https://live.fanmingming.com/tv/第11集.png" group-title="新白娘子传奇",第11集
-https://vip1.lz-cdn6.com/20220823/23787_c20709be/index.m3u8
-#EXTINF:-1 tvg-name="第12集" tvg-logo="https://live.fanmingming.com/tv/第12集.png" group-title="新白娘子传奇",第12集
-https://vip1.lz-cdn6.com/20220823/23788_8119a500/index.m3u8
-#EXTINF:-1 tvg-name="第13集" tvg-logo="https://live.fanmingming.com/tv/第13集.png" group-title="新白娘子传奇",第13集
-https://vip1.lz-cdn6.com/20220823/23789_96516093/index.m3u8
-#EXTINF:-1 tvg-name="第14集" tvg-logo="https://live.fanmingming.com/tv/第14集.png" group-title="新白娘子传奇",第14集
-https://vip1.lz-cdn6.com/20220823/23790_01d2397b/index.m3u8
-#EXTINF:-1 tvg-name="第15集" tvg-logo="https://live.fanmingming.com/tv/第15集.png" group-title="新白娘子传奇",第15集
-https://vip1.lz-cdn6.com/20220823/23791_811c8f1e/index.m3u8
-#EXTINF:-1 tvg-name="第16集" tvg-logo="https://live.fanmingming.com/tv/第16集.png" group-title="新白娘子传奇",第16集
-https://vip1.lz-cdn6.com/20220823/23792_041c2a62/index.m3u8
-#EXTINF:-1 tvg-name="第17集" tvg-logo="https://live.fanmingming.com/tv/第17集.png" group-title="新白娘子传奇",第17集
-https://vip1.lz-cdn6.com/20220823/23793_d35d35a2/index.m3u8
-#EXTINF:-1 tvg-name="第18集" tvg-logo="https://live.fanmingming.com/tv/第18集.png" group-title="新白娘子传奇",第18集
-https://vip1.lz-cdn6.com/20220823/23794_ba629d37/index.m3u8
-#EXTINF:-1 tvg-name="第19集" tvg-logo="https://live.fanmingming.com/tv/第19集.png" group-title="新白娘子传奇",第19集
-https://vip1.lz-cdn6.com/20220823/23795_e6a590c2/index.m3u8
-#EXTINF:-1 tvg-name="第20集" tvg-logo="https://live.fanmingming.com/tv/第20集.png" group-title="新白娘子传奇",第20集
-https://vip1.lz-cdn6.com/20220823/23796_59712704/index.m3u8
-#EXTINF:-1 tvg-name="第21集" tvg-logo="https://live.fanmingming.com/tv/第21集.png" group-title="新白娘子传奇",第21集
-https://vip1.lz-cdn6.com/20220823/23797_47a745bc/index.m3u8
-#EXTINF:-1 tvg-name="第22集" tvg-logo="https://live.fanmingming.com/tv/第22集.png" group-title="新白娘子传奇",第22集
-https://vip1.lz-cdn6.com/20220823/23798_b710c9b5/index.m3u8
-#EXTINF:-1 tvg-name="第23集" tvg-logo="https://live.fanmingming.com/tv/第23集.png" group-title="新白娘子传奇",第23集
-https://vip1.lz-cdn6.com/20220823/23799_a514e60e/index.m3u8
-#EXTINF:-1 tvg-name="第24集" tvg-logo="https://live.fanmingming.com/tv/第24集.png" group-title="新白娘子传奇",第24集
-https://vip1.lz-cdn6.com/20220823/23800_86cf5b67/index.m3u8
-#EXTINF:-1 tvg-name="第25集" tvg-logo="https://live.fanmingming.com/tv/第25集.png" group-title="新白娘子传奇",第25集
-https://vip1.lz-cdn6.com/20220824/23801_f6b3b88a/index.m3u8
-#EXTINF:-1 tvg-name="第26集" tvg-logo="https://live.fanmingming.com/tv/第26集.png" group-title="新白娘子传奇",第26集
-https://vip1.lz-cdn6.com/20220824/23802_1ad0de4e/index.m3u8
-#EXTINF:-1 tvg-name="第27集" tvg-logo="https://live.fanmingming.com/tv/第27集.png" group-title="新白娘子传奇",第27集
-https://vip1.lz-cdn6.com/20220824/23803_0881c9e1/index.m3u8
-#EXTINF:-1 tvg-name="第28集" tvg-logo="https://live.fanmingming.com/tv/第28集.png" group-title="新白娘子传奇",第28集
-https://vip1.lz-cdn6.com/20220824/23804_f453b1e8/index.m3u8
-#EXTINF:-1 tvg-name="第29集" tvg-logo="https://live.fanmingming.com/tv/第29集.png" group-title="新白娘子传奇",第29集
-https://vip1.lz-cdn6.com/20220824/23805_3e38ff42/index.m3u8
-#EXTINF:-1 tvg-name="第30集" tvg-logo="https://live.fanmingming.com/tv/第30集.png" group-title="新白娘子传奇",第30集
-https://vip1.lz-cdn6.com/20220824/23806_4c784211/index.m3u8
-#EXTINF:-1 tvg-name="第31集" tvg-logo="https://live.fanmingming.com/tv/第31集.png" group-title="新白娘子传奇",第31集
-https://vip1.lz-cdn6.com/20220824/23807_a2af6242/index.m3u8
-#EXTINF:-1 tvg-name="第32集" tvg-logo="https://live.fanmingming.com/tv/第32集.png" group-title="新白娘子传奇",第32集
-https://vip1.lz-cdn6.com/20220824/23808_6e7683b3/index.m3u8
-#EXTINF:-1 tvg-name="第33集" tvg-logo="https://live.fanmingming.com/tv/第33集.png" group-title="新白娘子传奇",第33集
-https://vip1.lz-cdn6.com/20220824/23809_9f58c68a/index.m3u8
-#EXTINF:-1 tvg-name="第34集" tvg-logo="https://live.fanmingming.com/tv/第34集.png" group-title="新白娘子传奇",第34集
-https://vip1.lz-cdn6.com/20220824/23810_02e12b36/index.m3u8
-#EXTINF:-1 tvg-name="第35集" tvg-logo="https://live.fanmingming.com/tv/第35集.png" group-title="新白娘子传奇",第35集
-https://vip1.lz-cdn6.com/20220824/23811_dd8c6453/index.m3u8
-#EXTINF:-1 tvg-name="第36集" tvg-logo="https://live.fanmingming.com/tv/第36集.png" group-title="新白娘子传奇",第36集
-https://vip1.lz-cdn6.com/20220824/23812_f2d16a6b/index.m3u8
-#EXTINF:-1 tvg-name="第37集" tvg-logo="https://live.fanmingming.com/tv/第37集.png" group-title="新白娘子传奇",第37集
-https://vip1.lz-cdn6.com/20220824/23813_0ab9a4e4/index.m3u8
-#EXTINF:-1 tvg-name="第38集" tvg-logo="https://live.fanmingming.com/tv/第38集.png" group-title="新白娘子传奇",第38集
-https://vip1.lz-cdn6.com/20220824/23814_f832ee7e/index.m3u8
-#EXTINF:-1 tvg-name="第39集" tvg-logo="https://live.fanmingming.com/tv/第39集.png" group-title="新白娘子传奇",第39集
-https://vip1.lz-cdn6.com/20220824/23815_2f361f0c/index.m3u8
-#EXTINF:-1 tvg-name="第40集" tvg-logo="https://live.fanmingming.com/tv/第40集.png" group-title="新白娘子传奇",第40集
-https://vip1.lz-cdn6.com/20220824/23816_2c0c69e6/index.m3u8
-#EXTINF:-1 tvg-name="第41集" tvg-logo="https://live.fanmingming.com/tv/第41集.png" group-title="新白娘子传奇",第41集
-https://vip1.lz-cdn6.com/20220824/23817_1fe5b413/index.m3u8
-#EXTINF:-1 tvg-name="第42集" tvg-logo="https://live.fanmingming.com/tv/第42集.png" group-title="新白娘子传奇",第42集
-https://vip1.lz-cdn6.com/20220824/23818_ca3a7a3e/index.m3u8
-#EXTINF:-1 tvg-name="第43集" tvg-logo="https://live.fanmingming.com/tv/第43集.png" group-title="新白娘子传奇",第43集
-https://vip1.lz-cdn6.com/20220824/23819_861e0466/index.m3u8
-#EXTINF:-1 tvg-name="第44集" tvg-logo="https://live.fanmingming.com/tv/第44集.png" group-title="新白娘子传奇",第44集
-https://vip1.lz-cdn6.com/20220824/23820_01f81e9a/index.m3u8
-#EXTINF:-1 tvg-name="第45集" tvg-logo="https://live.fanmingming.com/tv/第45集.png" group-title="新白娘子传奇",第45集
-https://vip1.lz-cdn6.com/20220824/23821_6b5bda4a/index.m3u8
-#EXTINF:-1 tvg-name="第46集" tvg-logo="https://live.fanmingming.com/tv/第46集.png" group-title="新白娘子传奇",第46集
-https://vip1.lz-cdn6.com/20220824/23822_b1a40258/index.m3u8
-#EXTINF:-1 tvg-name="第47集" tvg-logo="https://live.fanmingming.com/tv/第47集.png" group-title="新白娘子传奇",第47集
-https://vip1.lz-cdn6.com/20220824/23823_332eb925/index.m3u8
-#EXTINF:-1 tvg-name="第48集" tvg-logo="https://live.fanmingming.com/tv/第48集.png" group-title="新白娘子传奇",第48集
-https://vip1.lz-cdn6.com/20220824/23824_98c4a7a6/index.m3u8
-#EXTINF:-1 tvg-name="第49集" tvg-logo="https://live.fanmingming.com/tv/第49集.png" group-title="新白娘子传奇",第49集
-https://vip1.lz-cdn6.com/20220824/23825_32eb4260/index.m3u8
-#EXTINF:-1 tvg-name="第50集" tvg-logo="https://live.fanmingming.com/tv/第50集.png" group-title="新白娘子传奇",第50集
-https://vip1.lz-cdn6.com/20220824/23826_bd2d2798/index.m3u8
 #EXTINF:-1 tvg-name="堕-戴羽彤" tvg-logo="https://live.fanmingming.com/tv/堕-戴羽彤.png" group-title="MTV现代",堕-戴羽彤
 https://vd3.bdstatic.com/mda-pe8yinxx1y1dpsxk/720p/h264/1683673132967321820/mda-pe8yinxx1y1dpsxk.mp4
 #EXTINF:-1 tvg-name="海市蜃楼 - 一颗狼星" tvg-logo="https://live.fanmingming.com/tv/海市蜃楼 - 一颗狼星.png" group-title="MTV现代",海市蜃楼 - 一颗狼星
