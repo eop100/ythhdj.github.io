@@ -142,42 +142,6 @@ CCTV17,http://home.918518.xyz:12121/ysptp/cctv17.m3u8
 
 
 
-央卫咪咕,#genre#
-CCTV-01咪咕,http://dd.ddzb.fun:80/php/migu.php?id=cctv1$订阅源
-CCTV-02咪咕,http://dd.ddzb.fun:80/php/migu.php?id=cctv2$订阅源
-CCTV-03咪咕,http://dd.ddzb.fun:80/php/migu.php?id=cctv3$订阅源
-CCTV-04咪咕,http://dd.ddzb.fun:80/php/migu.php?id=cctv4$订阅源
-CCTV-05咪咕,http://dd.ddzb.fun:80/php/migu.php?id=cctv5$订阅源
-CCTV-5+咪咕,http://dd.ddzb.fun:80/php/migu.php?id=cctv5p$订阅源
-CCTV-06咪咕,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0&cdn=5202$订阅源
-CCTV-06咪咕,http://dd.ddzb.fun:80/php/migu.php?id=cctv6$订阅源
-CCTV-07咪咕,http://dd.ddzb.fun:80/php/migu.php?id=cctv7$订阅源
-CCTV-08咪咕,http://dd.ddzb.fun:80/php/migu.php?id=cctv8$订阅源
-CCTV-09咪咕,http://dd.ddzb.fun:80/php/migu.php?id=cctv9$订阅源
-CCTV-10咪咕,http://dd.ddzb.fun:80/php/migu.php?id=cctv10$订阅源
-CCTV-11咪咕,http://dd.ddzb.fun:80/php/migu.php?id=cctv11$订阅源
-CCTV-12咪咕,http://dd.ddzb.fun:80/php/migu.php?id=cctv12$订阅源
-CCTV-13咪咕,http://dd.ddzb.fun:80/php/migu.php?id=cctv13$订阅源
-CCTV-14咪咕,http://dd.ddzb.fun:80/php/migu.php?id=cctv14$订阅源
-CCTV-15咪咕,http://dd.ddzb.fun:80/php/migu.php?id=cctv15$订阅源
-CCTV-17咪咕,http://dd.ddzb.fun:80/php/migu.php?id=cctv17$订阅源
-CGT纪录咪咕,http://dd.ddzb.fun:80/php/migu.php?id=cgtnjl$订阅源
-东方卫视咪咕,http://dd.ddzb.fun:80/php/migu.php?id=dfws$订阅源
-吉林卫视咪咕,http://dd.ddzb.fun:80/php/migu.php?id=jlws$订阅源
-青海卫视咪咕,http://dd.ddzb.fun:80/php/migu.php?id=qhws$订阅源
-陕西卫视咪咕,http://dd.ddzb.fun:80/php/migu.php?id=sxws$订阅源
-湖北卫视咪咕,http://dd.ddzb.fun:80/php/migu.php?id=hubws$订阅源
-江西卫视咪咕,http://dd.ddzb.fun:80/php/migu.php?id=jxws$订阅源
-江苏卫视咪咕,http://dd.ddzb.fun:80/php/migu.php?id=jsws$订阅源
-湾区卫视咪咕,http://dd.ddzb.fun:80/php/migu.php?id=dwqws$订阅源
-海南卫视咪咕,http://dd.ddzb.fun:80/php/migu.php?id=hinws$订阅源
-兵团卫视咪咕,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022606701/timeshift.m3u8?delay=0&cdn=5202$订阅源
-中国教育咪咕,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022823801/timeshift.m3u8?delay=0&cdn=5202$订阅源
-四海钓鱼咪咕,http://dd.ddzb.fun:80/php/migu.php?id=shdy$订阅源
-军事大片咪咕,http://dd.ddzb.fun:80/php/migu.php?id=jsdp$订阅源
-
-
-
 
 
 测试频道ᵛ𝟰,#genre#
