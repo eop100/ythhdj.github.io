@@ -1325,15 +1325,13 @@ CCTV5+体育赛事,http://218.76.32.193:9901/tsfile/live/0128_1.m3u8?key=txiptv
 
 
 河北频道ᵛ𝟰,#genre#
-河北农民,https://tv.pull.hebtv.com/jishi/nongminpindao.m3u8?t=1732336167&k=34f234fcbb72743410473ba10aecdcdc#https://tv.pull.hebtv.com/jishi/nongminpindao.m3u8?t=1732336205&k=4622f59a4e28af2f5b0c0aad4339ba2d
+河北农民,https://tv.pull.hebtv.com/jishi/nongminpindao.m3u8?t=1732360510&k=c611ea2da555d4df8ceb86dfeb70c650
 河北都市,https://tv.pull.hebtv.com/jishi/dushipindao.m3u8?t=1732336495&k=bff5bb172964a0b851e2c85a5bda05a2
 河北影视,https://tv.pull.hebtv.com/zhibo/yingshijupindao.m3u8?t=1732336615&k=14315dc637716090f99a738769767c7a
-河北少儿,https://tv.pull.hebtv.com/jishi/shaoerkejiao.m3u8?t=1732336655&k=caace39679fae36f646456ac5ec12408
-河北公共,https://tv.pull.hebtv.com/jishi/gonggongpindao.m3u8?t=1732336677&k=2e245d5546ae3bebc1b4905b0512d2f2
-河北生活,https://tv.pull.hebtv.com/jishi/jingjishenghuo.m3u8?t=1732336705&k=8bb7c696a3696bb8c4e887926523aa82
-河北卫视,https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1732336726&k=16c86b65d70ffdd30a9315a58b7adc2a
-
-
+河北少儿,https://tv.pull.hebtv.com/jishi/shaoerkejiao.m3u8?t=1732360436&k=c110863dbd7d827176c4d0a66136c8a0
+河北公共,https://tv.pull.hebtv.com/jishi/gonggongpindao.m3u8?t=1732360463&k=c432acdeed5c0f0de83474c078e34014
+经济生活,https://tv.pull.hebtv.com/jishi/jingjishenghuo.m3u8?t=1732360387&k=d2288509f4645156082ca24c05d5f930
+河北卫视,https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1732360349&k=a699d3ff6e8997689fa589e9a31da2b0
 
 
 
