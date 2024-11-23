@@ -1569,7 +1569,6 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 
 
 四川频道ᵛ𝟰,#genre#
-重庆新闻,https://sjlivecdn.cbg.cn/202411231835/99423b214a768491528d4481c3f2e4dc/app_2/_definst_/ls_3.stream/chunklist.m3u8
 
 凉山新闻综合,http://file.yizu.tv/nmip-media/channellive/channel106606/playlist.m3u8?zsicd
 凉山语,http://file.yizu.tv/nmip-media/channellive/channel107323/playlist.m3u8
