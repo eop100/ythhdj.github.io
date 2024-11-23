@@ -681,6 +681,8 @@ CCTV16,http://123.166.61.70:8003/hls/16/index.m3u8
 澳门卫视,http://61.244.22.5/ch3/ch3.live/chunklist_w1228316132.m3u8
 NHTV,http://nonghyup.flive.skcdn.com/nonghyup/_definst_/nhlive/playlist.m3u8
 重温经典频道,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
+KBC韩国,http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
+韩国郊外,http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
 NHK新闻频英,http://61.221.215.25:8800/hls/51/index.m3u8
 tvbs闽南频特,http://61.221.215.25:8800/hls/9/index.m3u8
 三立戏剧频特,http://61.221.215.25:8800/hls/41/index.m3u8
