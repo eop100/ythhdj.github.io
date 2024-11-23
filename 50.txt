@@ -1221,13 +1221,13 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 
 
 福建频道ᵛ𝟰,#genre#
-综合频道,https://live2.fjtv.net/zhpd/hd/live.m3u8?_upt=f3eba6631732366762
-公共频道,https://live6.fjtv.net/ggxcpd/hd/live.m3u8?_upt=d7f0d6f31732367209
-新闻频道,https://live2.fjtv.net/xwpd/playlist.m3u8?_upt=2fb2a2191732366386
-经济频道,https://live3.fjtv.net/jjpd/playlist.m3u8?_upt=afcb36761732366439
-文体频道,https://live3.fjtv.net/typd/playlist.m3u8?_upt=f478c62f1732366464
-少儿频道,https://live3.fjtv.net/child/playlist.m3u8?_upt=4634ab571732366492
-海峡卫视,https://live6.fjtv.net/haixiapd/playlist.m3u8?_upt=3d19b0271732366510
+综合频道,https://live2.fjtv.net/zhpd/hd/live.m3u8?_upt=21a024d71732377916
+公共频道,https://live6.fjtv.net/ggxcpd/hd/live.m3u8?_upt=8b42ba771732377979
+新闻频道,https://live2.fjtv.net/xwpd/hd/live.m3u8?_upt=4b345ca71732377989
+经济频道,https://live3.fjtv.net/jjpd/hd/live.m3u8?_upt=f97fd09b1732378042
+文体频道,https://live3.fjtv.net/typd/hd/live.m3u8?_upt=4363f1d31732378049
+少儿频道,https://live3.fjtv.net/child/hd/live.m3u8?_upt=bb998b011732378063
+海峡卫视,https://live6.fjtv.net/haixiapd/hd/live.m3u8?_upt=d75acfb71732378075
 
 
 河南频道ᵛ𝟰,#genre#
