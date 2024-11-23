@@ -1013,8 +1013,8 @@ CCTV5+体育赛事,http://218.76.32.193:9901/tsfile/live/0128_1.m3u8?key=txiptv
 
 河北频道ᵛ𝟰,#genre#
 河北农民,https://tv.pull.hebtv.com/jishi/nongminpindao.m3u8?t=1732360510&k=c611ea2da555d4df8ceb86dfeb70c650
-河北都市,https://tv.pull.hebtv.com/jishi/dushipindao.m3u8?t=1732336495&k=bff5bb172964a0b851e2c85a5bda05a2
-河北影视,https://tv.pull.hebtv.com/zhibo/yingshijupindao.m3u8?t=1732336615&k=14315dc637716090f99a738769767c7a
+河北都市,https://tv.pull.hebtv.com/jishi/dushipindao.m3u8?t=1732366573&k=1369c4c1757be26c523b1d9cc1fd4ff8
+河北影视,https://tv.pull.hebtv.com/zhibo/yingshijupindao.m3u8?t=1732366676&k=ba6e1adab5c8279d73d4d843a1f510f4
 河北少儿,https://tv.pull.hebtv.com/jishi/shaoerkejiao.m3u8?t=1732360436&k=c110863dbd7d827176c4d0a66136c8a0
 河北公共,https://tv.pull.hebtv.com/jishi/gonggongpindao.m3u8?t=1732360463&k=c432acdeed5c0f0de83474c078e34014
 经济生活,https://tv.pull.hebtv.com/jishi/jingjishenghuo.m3u8?t=1732360387&k=d2288509f4645156082ca24c05d5f930
@@ -1244,6 +1244,7 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 
 
 四川频道ᵛ𝟰,#genre#
+重庆新闻,https://sjlivecdn.cbg.cn/202411231835/99423b214a768491528d4481c3f2e4dc/app_2/_definst_/ls_3.stream/chunklist.m3u8
 凉山新闻综合,http://file.yizu.tv/nmip-media/channellive/channel106606/playlist.m3u8?zsicd
 凉山语,http://file.yizu.tv/nmip-media/channellive/channel107323/playlist.m3u8
 双流综合,http://171.221.250.130:18888/27e684978eb642eeb90ab815f6cc51bf/c41893de5e8645b3b43aef1640859b0d.m3u8?zsicd
