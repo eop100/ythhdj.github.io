@@ -2792,19 +2792,19 @@ http://111.13.111.242/000000001000/3000000010000031669/index.m3u8?channel-id=Fif
 #EXTINF:-1 tvg-name="咪咕直播-1-4K" tvg-logo="https://live.fanmingming.com/tv/咪咕直播-1-4K.png" group-title="咪咕体育ᵛ𝟰",咪咕直播-1-4K
 http://111.13.111.242/000000001000/3000000010000005180/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
 #EXTINF:-1 tvg-name="综合频道" tvg-logo="https://live.fanmingming.com/tv/综合频道.png" group-title="福建频道ᵛ𝟰",综合频道
-https://live2.fjtv.net/zhpd/hd/live.m3u8?_upt=f3eba6631732366762
+https://live2.fjtv.net/zhpd/hd/live.m3u8?_upt=21a024d71732377916
 #EXTINF:-1 tvg-name="公共频道" tvg-logo="https://live.fanmingming.com/tv/公共频道.png" group-title="福建频道ᵛ𝟰",公共频道
-https://live6.fjtv.net/ggxcpd/hd/live.m3u8?_upt=d7f0d6f31732367209
+https://live6.fjtv.net/ggxcpd/hd/live.m3u8?_upt=8b42ba771732377979
 #EXTINF:-1 tvg-name="新闻频道" tvg-logo="https://live.fanmingming.com/tv/新闻频道.png" group-title="福建频道ᵛ𝟰",新闻频道
-https://live2.fjtv.net/xwpd/playlist.m3u8?_upt=2fb2a2191732366386
+https://live2.fjtv.net/xwpd/hd/live.m3u8?_upt=4b345ca71732377989
 #EXTINF:-1 tvg-name="经济频道" tvg-logo="https://live.fanmingming.com/tv/经济频道.png" group-title="福建频道ᵛ𝟰",经济频道
-https://live3.fjtv.net/jjpd/playlist.m3u8?_upt=afcb36761732366439
+https://live3.fjtv.net/jjpd/hd/live.m3u8?_upt=f97fd09b1732378042
 #EXTINF:-1 tvg-name="文体频道" tvg-logo="https://live.fanmingming.com/tv/文体频道.png" group-title="福建频道ᵛ𝟰",文体频道
-https://live3.fjtv.net/typd/playlist.m3u8?_upt=f478c62f1732366464
+https://live3.fjtv.net/typd/hd/live.m3u8?_upt=4363f1d31732378049
 #EXTINF:-1 tvg-name="少儿频道" tvg-logo="https://live.fanmingming.com/tv/少儿频道.png" group-title="福建频道ᵛ𝟰",少儿频道
-https://live3.fjtv.net/child/playlist.m3u8?_upt=4634ab571732366492
+https://live3.fjtv.net/child/hd/live.m3u8?_upt=bb998b011732378063
 #EXTINF:-1 tvg-name="海峡卫视" tvg-logo="https://live.fanmingming.com/tv/海峡卫视.png" group-title="福建频道ᵛ𝟰",海峡卫视
-https://live6.fjtv.net/haixiapd/playlist.m3u8?_upt=3d19b0271732366510
+https://live6.fjtv.net/haixiapd/hd/live.m3u8?_upt=d75acfb71732378075
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://live.fanmingming.com/tv/河南卫视.png" group-title="河南频道ᵛ𝟰",河南卫视
 https://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=20bd247cfc51376540a3c6d92f868025&wsTime=1732381221#https://240ex950x1x2009x0x0x0x1a-tvcdnstream3hndtcom.wslivehls.com/tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=20bd247cfc51376540a3c6d92f868025&wsTime=1732381221&wsSession=bb7ddb2263b57e79206ea5f4-173236684846289&wsIPSercert=af0297d7967ac3a1c5197ec2a5950031&wsiphost=local&wsBindIP=1
 #EXTINF:-1 tvg-name="新闻频道" tvg-logo="https://live.fanmingming.com/tv/新闻频道.png" group-title="河南频道ᵛ𝟰",新闻频道
