@@ -875,6 +875,30 @@ http://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
 #EXTINF:-1 tvg-name="神州新聞台" tvg-logo="https://live.fanmingming.com/tv/神州新聞台.png" group-title="𝔸𝕂𝕋𝕍频道",神州新聞台
 http://aktv.top/AKTV/live/aktv3/null-1/AKTV.m3u8
+#EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="广东体育ᵛ𝟰",广东珠江
+http://218.13.170.98:9901/tsfile/live/1000_1.m3u8$LR•IPV4『线路7』
+#EXTINF:-1 tvg-name="广东体育1" tvg-logo="https://live.fanmingming.com/tv/广东体育1.png" group-title="广东体育ᵛ𝟰",广东体育1
+http://183.3.134.56:9901/tsfile/live/0142_1.m3u8$LR•IPV4『线路2』
+#EXTINF:-1 tvg-name="广东体育2" tvg-logo="https://live.fanmingming.com/tv/广东体育2.png" group-title="广东体育ᵛ𝟰",广东体育2
+http://218.13.170.98:9901/tsfile/live/0019_1.m3u8$LR•IPV4『线路3』
+#EXTINF:-1 tvg-name="广东体育3" tvg-logo="https://live.fanmingming.com/tv/广东体育3.png" group-title="广东体育ᵛ𝟰",广东体育3
+http://113.102.83.24:4022/udp/239.77.0.112:5146$LR•IPV4『线路4』
+#EXTINF:-1 tvg-name="广东体育4" tvg-logo="https://live.fanmingming.com/tv/广东体育4.png" group-title="广东体育ᵛ𝟰",广东体育4
+http://222.218.158.99:8181/tsfile/live/1001_1.m3u8$LR•IPV4『线路6』
+#EXTINF:-1 tvg-name="广东体育5" tvg-logo="https://live.fanmingming.com/tv/广东体育5.png" group-title="广东体育ᵛ𝟰",广东体育5
+http://219.159.194.131:8181/tsfile/live/1001_1.m3u8$LR•IPV4『线路7』
+#EXTINF:-1 tvg-name="广东体育6" tvg-logo="https://live.fanmingming.com/tv/广东体育6.png" group-title="广东体育ᵛ𝟰",广东体育6
+http://219.159.194.85:8181/tsfile/live/1001_1.m3u8$LR•IPV4『线路8』
+#EXTINF:-1 tvg-name="广东体育7" tvg-logo="https://live.fanmingming.com/tv/广东体育7.png" group-title="广东体育ᵛ𝟰",广东体育7
+http://61.145.208.64:9003//hls/59/index.m3u8$LR•IPV4『线路9』
+#EXTINF:-1 tvg-name="广东体育8" tvg-logo="https://live.fanmingming.com/tv/广东体育8.png" group-title="广东体育ᵛ𝟰",广东体育8
+http://222.218.158.12:8181/tsfile/live/1001_1.m3u8$LR•IPV4『线路22』
+#EXTINF:-1 tvg-name="广东体育9" tvg-logo="https://live.fanmingming.com/tv/广东体育9.png" group-title="广东体育ᵛ𝟰",广东体育9
+http://183.53.109.145:9003//hls/59/index.m3u8$LR•IPV4『线路39』
+#EXTINF:-1 tvg-name="广东体育10" tvg-logo="https://live.fanmingming.com/tv/广东体育10.png" group-title="广东体育ᵛ𝟰",广东体育10
+http://183.3.134.56:9901/tsfile/live/0142_1.m3u8$LR•IPV4『线路59』
+#EXTINF:-1 tvg-name="广东体育11" tvg-logo="https://live.fanmingming.com/tv/广东体育11.png" group-title="广东体育ᵛ𝟰",广东体育11
+http://218.13.170.98:9901/tsfile/live/0019_1.m3u8$LR•IPV4『线路61』
 #EXTINF:-1 tvg-name="浙江钱江" tvg-logo="https://live.fanmingming.com/tv/浙江钱江.png" group-title="浙江频道ᵛ𝟰",浙江钱江
 http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 #EXTINF:-1 tvg-name="浙江新闻" tvg-logo="https://live.fanmingming.com/tv/浙江新闻.png" group-title="浙江频道ᵛ𝟰",浙江新闻
