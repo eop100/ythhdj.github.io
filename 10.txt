@@ -771,12 +771,27 @@ ZooMoo,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
 
 
 
+广东体育ᵛ𝟰,#genre#
+广东珠江,http://218.13.170.98:9901/tsfile/live/1000_1.m3u8$LR•IPV4『线路7』
+广东体育1,http://183.3.134.56:9901/tsfile/live/0142_1.m3u8$LR•IPV4『线路2』
+广东体育2,http://218.13.170.98:9901/tsfile/live/0019_1.m3u8$LR•IPV4『线路3』
+广东体育3,http://113.102.83.24:4022/udp/239.77.0.112:5146$LR•IPV4『线路4』
+广东体育4,http://222.218.158.99:8181/tsfile/live/1001_1.m3u8$LR•IPV4『线路6』
+广东体育5,http://219.159.194.131:8181/tsfile/live/1001_1.m3u8$LR•IPV4『线路7』
+广东体育6,http://219.159.194.85:8181/tsfile/live/1001_1.m3u8$LR•IPV4『线路8』
+广东体育7,http://61.145.208.64:9003//hls/59/index.m3u8$LR•IPV4『线路9』
+广东体育8,http://222.218.158.12:8181/tsfile/live/1001_1.m3u8$LR•IPV4『线路22』
+广东体育9,http://183.53.109.145:9003//hls/59/index.m3u8$LR•IPV4『线路39』
+广东体育10,http://183.3.134.56:9901/tsfile/live/0142_1.m3u8$LR•IPV4『线路59』
+广东体育11,http://218.13.170.98:9901/tsfile/live/0019_1.m3u8$LR•IPV4『线路61』
+
+
+
+
+
 
 
 浙江频道ᵛ𝟰,#genre#
-
-
-
 浙江钱江,http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 浙江新闻,http://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
