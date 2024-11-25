@@ -1104,7 +1104,7 @@ http://ly123.fun:10000/udp/235.254.198.183:7980
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="全网通ᵛ𝟰",CCTV5
 http://ly123.fun:10000/udp/235.254.198.54:1492
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="全网通ᵛ𝟰",CCTV5+
-http://182.32.160.8:9997/udp/239.21.1.142:5002
+http://ly123.fun:10000/udp/235.254.198.122:1764
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="全网通ᵛ𝟰",CCTV6
 http://182.32.160.8:9997/udp/239.21.2.47:5002
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="全网通ᵛ𝟰",CCTV7
@@ -1116,7 +1116,7 @@ http://14.135.72.70:8888/udp/239.121.4.157:8926
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="全网通ᵛ𝟰",CCTV10
 http://ly123.fun:10000/udp/235.254.198.59:1512
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="全网通ᵛ𝟰",CCTV11
-http://14.135.72.70:8888/udp/239.121.4.150:9202
+http://119.100.148.10:8888/udp/239.69.1.154:10560
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="全网通ᵛ𝟰",CCTV12
 http://ly123.fun:10000/udp/235.254.198.60:1516
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="全网通ᵛ𝟰",CCTV13
@@ -1124,7 +1124,7 @@ http://14.135.72.70:8888/udp/239.121.4.13:8028
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="全网通ᵛ𝟰",CCTV14
 http://182.32.160.8:9997/udp/239.21.1.157:5002
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="全网通ᵛ𝟰",CCTV15
-http://14.135.72.70:8888/udp/239.121.4.202:9208
+http://119.100.148.10:8888/udp/239.69.1.155:10566
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="全网通ᵛ𝟰",CCTV16
 http://14.135.72.70:8888/udp/239.121.4.122:8008
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="全网通ᵛ𝟰",CCTV17
