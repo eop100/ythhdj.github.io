@@ -1188,12 +1188,6 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 
 
 河南频道ᵛ𝟰,#genre#
-河南卫视,http://106.46.145.108:10443/tsfile/live/1041_1.m3u8?key=txiptv
-河南都市频道,http://106.46.145.108:10443/tsfile/live/1042_1.m3u8?key=txiptv
-河南民生频道,http://106.46.145.108:10443/tsfile/live/1043_1.m3u8?key=txiptv
-河南法制频道,http://106.46.145.108:10443/tsfile/live/1044_1.m3u8?key=txiptv
-河南电视剧频道,http://106.46.145.108:10443/tsfile/live/1045_1.m3u8?key=txiptv
-
 CCTV-1综合,http://171.14.92.189:808/hls/1/index.m3u8
 CCTV-2财经,http://171.14.92.189:808/hls/2/index.m3u8
 CCTV-3综艺,http://171.14.92.189:808/hls/3/index.m3u8
