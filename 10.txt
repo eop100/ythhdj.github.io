@@ -789,9 +789,8 @@ ZooMoo,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
 广东珠江,http://218.13.170.98:9901/tsfile/live/1000_1.m3u8$LR•IPV4『线路7』
 广东体育1,http://183.3.134.56:9901/tsfile/live/0142_1.m3u8$LR•IPV4『线路2』
 广东体育2,http://218.13.170.98:9901/tsfile/live/0019_1.m3u8$LR•IPV4『线路3』
-广东体育3,http://183.53.109.145:9003//hls/59/index.m3u8$LR•IPV4『线路39』
-广东体育4,http://183.3.134.56:9901/tsfile/live/0142_1.m3u8$LR•IPV4『线路59』
-广东体育5,http://218.13.170.98:9901/tsfile/live/0019_1.m3u8$LR•IPV4『线路61』
+广东体育3,http://183.3.134.56:9901/tsfile/live/0142_1.m3u8$LR•IPV4『线路59』
+广东体育4,http://218.13.170.98:9901/tsfile/live/0019_1.m3u8$LR•IPV4『线路61』
 
 
 
